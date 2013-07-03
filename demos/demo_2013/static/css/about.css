@@ -1,0 +1,33 @@
+body p {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+body div#members p {
+    text-align: center;
+}
+
+
+h1#project {
+    margin-top: 80px;
+    margin-bottom: 10px;
+}
+
+h1#team {
+    margin-top: 80px;
+    margin-bottom: 10px;
+}
+
+dl {
+  margin-bottom: 20px;
+}
+
+.dl-horizontal dt {
+  float: left;
+  width: 140px;
+}
+
+.dl-horizontal dd {
+  margin-left: 160px;
+  width: 50%;
+}

@@ -1,0 +1,578 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+    <title>Directed Example</title>
+    <script type="text/javascript" src="http://mbostock.github.com/d3/d3.js?1.29.1"></script>
+    <script type="text/javascript" src="http://mbostock.github.com/d3/d3.geom.js?1.29.1"></script>
+    <script type="text/javascript" src="http://mbostock.github.com/d3/d3.layout.js?1.29.1"></script>
+    <style type="text/css">
+
+path.link {
+  fill: none;
+  stroke: #666;
+  stroke-width: 1.5px;
+}
+
+marker#defaultMarker {
+  fill: green;
+}
+
+path.link.default {
+	stroke:#f3f3f3;
+}
+
+circle {
+  fill: #fff;
+  stroke: #aaa;
+  stroke-width: 3.5px;
+}
+
+text {
+  font: 14px sans-serif;
+  pointer-events: none;
+}
+
+text.shadow {
+  stroke: #fff;
+  stroke-width: 3px;
+  stroke-opacity: .8;
+}
+
+    </style>
+  </head>
+    <script type="text/javascript">
+    
+	
+    //Example Code taken from Mike Bostock
+        
+	function createVisualization(data, langData, langGroups, sponsorData) {
+		//var colors = ["#B0171F", "#4B0082", "#483D8B", "#0000CD", "#CAE1FF", "#40E0D0", "#00C78C", "#008B45", "#00FF00", "#006400", "#FFD700", "#FFA500", "#C76114", "#FF4500", "#C67171", "#800000", "#FF00FF", "#104E8B","#BBFFFF"];
+		
+		//-------------------------------------------------------------
+		//variables
+		var links=[];
+		var w = 1720; //width of svg
+        var h = 900; //height of svg
+        var defaultStrokeWidth = "3.5px";
+        var expandedStrokeWidth = "16.5px";
+
+
+
+		//binary threshold for language cutoff
+		var threshold=.015;
+        var colorScale = d3.scale.ordinal().range(d3.scale.category20().range());
+        var colorTemp=[];
+        for(var i=0;i<20;i++) {
+            colorTemp.push(colorScale(i));
+        }
+        var colorArrangement = [0,2,3,1,5,4,10,11,9,7,14,19,16,6,12,13,17,18,8,15];
+        var colors=[];
+        for(var i=0;i<20;i++) {
+            colors.push(colorTemp[colorArrangement[i]]);
+        }
+
+        //global boolean variables
+        var aNodeIsSelected=false;
+
+        function compare(a,b) {
+            if(a.dateString<b.dateString) {
+                return -1;
+            }
+            if(a.dateString>b.dateString) {
+                return 1;
+            }
+            return 0;
+        }
+        
+        //ghetto solution, hashing links
+		//var linkDict={};
+		data.forEach( function( element ) {
+		//doesn't include english and links with strength below threshold
+			if(element.influence>threshold) {
+				//var val=element.target+" "+element.source;
+				//if(element.source<element.target) {
+				//	val=element.source+" "+element.target;
+				//}
+				//if(!linkDict[val]) {
+					links.push({source: element.source , target: element.target , influence: element.influence, selected:"off"});
+					//linkDict[val]=true;
+				//}
+			}
+		});
+		var nodes = {};
+
+		languageData=[]
+		langData.forEach( function( lang ) {
+				languageData[lang.Lang_Code] = {fullname:lang.Lang_Name, numSpeakers:lang.Num_Speakers_M};
+		});
+
+		// Compute the distinct nodes from the links.
+		links.forEach(function(link) {
+			link.source = nodes[link.source] || (nodes[link.source] = {name: link.source, option:0, color:"#000000"});
+			link.target = nodes[link.target] || (nodes[link.target] = {name: link.target, option:0, color:"#000000"});
+		});
+
+
+        //computing meme data
+        var memeDict={};
+        sponsorData.forEach( function( meme ) {
+            if(nodes[meme.ISO6393Lang]) {    
+                if(memeDict[meme.EnglishName]) {
+                    var dateArray = meme.FirstDate.split("-");
+                    var dateStr=meme.FirstDate;
+                    if(dateArray[0].length!=4)
+                        dateStr = dateArray[2]+"-"+dateArray[0]+"-"+dateArray[1];
+                   
+                        
+                    memeDict[meme.EnglishName].push({lang: meme.ISO6393Lang, dateString:dateStr,
+                        memeNameEng: meme.EnglishName, memeNameInd: meme.IndigName}); 
+                }
+                else {
+                    memeDict[meme.EnglishName] = [{lang: meme.ISO6393Lang, dateString: meme.FirstDate,
+                        memeNameEng: meme.EnglishName, memeNameInd: meme.IndigName}];
+                }
+            }
+        });
+        
+        var memeDelayDict = {};//This object encodes delays for languages for a meme
+        Object.keys(memeDict).forEach( function( key ) {
+            memeDict[key] = memeDict[key].sort(compare);
+            memeDelayDict[key]={};
+            for(var i=0;i<memeDict[key].length;i++) {
+                memeDelayDict[key][memeDict[key][i].lang]=i;
+            }
+        });
+
+
+        //setup meme menu
+        //callback function for meme button press
+        memeAnimation =  function() {
+            var memeSelectElement = document.getElementById("memeSelect");
+            var memeName = memeSelectElement.options[memeSelectElement.selectedIndex].text;
+            unselectMeme();
+            selectMeme(memeName);
+        };
+ 
+        //setup meme menu and and button
+        
+        function setupMenu() {
+            var form = document.createElement("FORM");
+            var select = document.createElement("SELECT");
+            select.id = "memeSelect";
+            var memeNameArray = Object.keys(memeDict);
+            for(var i = 0; i < memeNameArray.length; i++) {
+                var option = document.createElement("OPTION");
+                option.appendChild(document.createTextNode(memeNameArray[i]));
+                select.appendChild(option);
+            }
+            form.appendChild(select);
+            var button = document.createElement("BUTTON");
+            button.onclick = memeAnimation;
+            button.appendChild(document.createTextNode("Start Animation!"));
+            
+            var reset = document.createElement("BUTTON");
+            reset.onclick = unselectMeme;
+            reset.appendChild(document.createTextNode("Reset!"));
+            
+            document.body.appendChild(form);
+            document.body.appendChild(button);
+            document.body.appendChild(reset);
+        };
+        
+        //create menu for meme selection
+        setupMenu();
+
+        //process language data
+		var countGroups=0;
+		groupIds = {};
+		langToGroup={};
+		langGroups.forEach( function( lang ) {
+			langToGroup[lang.Lang_Code] = lang.Viz_Family_Name;
+			if((groupIds[lang.Viz_Family_Name]!=0 && !groupIds[lang.Viz_Family_Name]) && nodes[lang.Lang_Code]) {
+				groupIds[lang.Viz_Family_Name] = countGroups++;
+			}	
+		});
+		groupDict={};
+		langGroups.forEach( function( lang ) {
+			if(nodes[lang.Lang_Code]) {
+				groupDict[lang.Lang_Code]=groupIds[lang.Viz_Family_Name];
+			}
+		});
+		
+        //create node list 
+		nodeList = d3.values(nodes)
+        nodeList.forEach(function( node ) {
+            if(!colors[groupDict[node.name]]) {
+                nodes[node.name].color="#d3d3d3";
+            }
+            else {
+                nodes[node.name].color=colors[groupDict[node.name]];
+            }
+		});
+		
+        //manual positioning for clustering
+		for(var i=0;i<nodeList.length;i++) {
+			if(nodeList[i].name=="eng") {
+				nodeList[i].fixed = true;
+				nodeList[i].x=700;
+				nodeList[i].y=450;
+			}
+			if(nodeList[i].name=="zho") {
+				nodeList[i].x=250;
+				nodeList[i].y=250;
+				nodeList[i].fixed = true;
+			}
+			if(nodeList[i].name=="spa") {
+				nodeList[i].x=1000;
+				nodeList[i].y=750;
+				nodeList[i].fixed = true;
+			}
+			if(nodeList[i].name=="rus") {
+				nodeList[i].x=1000;
+				nodeList[i].y=250;
+				nodeList[i].fixed = true;
+			}
+			if(nodeList[i].name=="deu") {
+				nodeList[i].x=300;
+				nodeList[i].y=700;
+				nodeList[i].fixed = true;
+			}
+			if(nodeList[i].name=="ara") {
+				nodeList[i].x=300;
+				nodeList[i].y=500;
+				nodeList[i].fixed = true;
+			}
+		}
+
+        //create force layout
+		var force = d3.layout.force()
+			.nodes(nodeList)
+			.links(links)
+			.size([w, h])
+			.linkStrength( function (d) { 
+				if(d.source.name=="eng" || d.target.name=="eng") {
+					return 0.03;
+				}
+				if(groupDict[languageData[d.source.name].fullname]==groupDict[languageData[d.target.name].fullname]) {
+					return Math.pow(d.influence,.4);
+				}
+				return Math.pow(d.influence,.7);
+			})
+			.gravity(.25)
+			.charge( function(d,ind) { 
+				if(d.name=="eng") {
+					return -1200;
+				}
+				return -1000;
+			})
+			//.charge(-800)
+			.on("tick", tick)
+			.start();
+
+		var svg = d3.select("body").append("svg:svg")
+			.attr("width", w)
+			.attr("height", h);
+
+		// Per-type markers, as they don't inherit styles.
+		svg.append("svg:defs").selectAll("marker")
+		  .data(["suit", "licensing", "resolved"])
+		  .enter().append("svg:marker")
+			.attr("id", String)
+			.attr("viewBox", "0 -5 10 10")
+			.attr("refX", 15)
+			.attr("refY", -1.5)
+			.attr("markerWidth", 0)
+			.attr("markerHeight", 0)
+			.attr("orient", "auto")
+		  .append("svg:path")
+			.attr("d", "M0,-5L10,0L0,5");
+
+		var path = svg.append("svg:g").selectAll("path")
+			.data(force.links())
+		  .enter().append("svg:path")
+			.style("stroke-width", function(d) { return Math.log(d.influence*170)})
+            .attr("class","link default")
+            .on("mouseover", selectLink)
+            .on("mouseout", unselectLink);
+
+            path.append("svg:title")
+            .text( function(d) {
+                return "Influence: " + parseFloat(d.influence).toFixed(5);
+            });
+			//.attr("marker-end", "url(#defaultMarker)");
+
+		var circle = svg.append("svg:g").selectAll("circle")
+			.data(force.nodes())
+		  .enter().append("svg:circle")
+			.attr("r", function(d) { return Math.pow(languageData[d.name].numSpeakers,.2)*6;})
+            .style("stroke", function(d) {return d.color})
+            .on("mouseover",selectNode)
+            .on("mouseout", unselectAll)
+			.call(force.drag);
+
+        circle.append("svg:title")
+			.text(function(d) {
+				return "Language Group: "+langToGroup[d.name]+"\n"+"Number of Speakers (Millions): "+languageData[d.name].numSpeakers;
+            });
+			
+		var text = svg.append("svg:g").selectAll("g")
+			.data(force.nodes())
+			.enter().append("svg:g");
+
+		// A copy of the text with a thick white stroke for legibility.
+		text.append("svg:text")
+			.attr("x", 8)
+			.attr("y", ".31em")
+			.attr("class", "shadow")
+			.text(function(d) { return languageData[d.name].fullname; });
+        
+		text.append("svg:text")
+			.attr("x", 8)
+			.attr("y", ".31em")
+			.text(function(d) { return languageData[d.name].fullname; });
+        
+        memeDict["Intuit"].forEach(function (elem) { alert(languageData[nodes[elem.lang].name].fullname)});
+        alert(memeDelayDict["Intuit"]["eng"]);
+        function selectMeme(meme) {
+            var setupDelay = 200;       //time before animation starts
+            var animationTiming = 500;  //how long the animation for each node takes (ms)
+            var delayBetween = 1000;    //delay between consecutive languages receiving memes
+            
+
+            circle.transition()
+            .style("stroke-width", function(d) {
+                    if(memeDelayDict[meme][d.name]>=0)
+                    return expandedStrokeWidth;
+                return defaultStrokeWidth;
+            })
+            .delay( function(d, i) { return setupDelay + memeDelayDict[meme][d.name]*(delayBetween+1);})
+            .duration(200)
+            .each("end", function() {
+                d3.select(this).transition().style("stroke-width",defaultStrokeWidth)
+                .each("end", function() {
+                    d3.select(this).transition().style("fill", function(d) {
+                        if(memeDelayDict[meme][d.name]>=0)
+                                return d.color;
+                            return "#fff";
+                        })
+                        .duration(animationTiming);
+                    });
+            });
+        }
+
+        //reset all nodes
+        function unselectMeme() {
+            circle.transition()
+            .style("fill", "#fff")
+            .duration(100)
+            .each("end", function() {
+                d3.select(this).transition().style("stroke-width",defaultStrokeWidth);
+            });
+        }
+		
+        function selectNode() {
+
+            aNodeIsSelected=true;
+
+			var point = d3.svg.mouse(this);
+			var miniInd=-1;
+			for(var i=0;i<nodeList.length;i++) {
+				nodeList[i].option=0;
+				if(nodeList[i].name==this.__data__.name) {
+					miniInd=i;
+				}
+			}
+		    nodeList[miniInd].option=1;
+		    links.forEach( function( link ) {
+				link.selected="off";
+			if(link.source == nodeList[miniInd]) {
+				link.selected="outgoing";
+			}
+				if(link.target == nodeList[miniInd]) {
+				link.selected="incoming";	
+			}
+		    });
+		    //restarts animation timer
+		    force.resume();
+        }
+
+        function unselectAll() {
+
+            aNodeIsSelected=false;
+
+            for(var i=0;i<nodeList.length;i++) {
+                nodeList[i].option=0;   
+            }
+            links.forEach( function(link) { link.selected="off";});
+            force.resume();
+        
+        }
+
+        function selectLink() {
+            this.__data__.selected="outgoing";
+            force.resume();
+        }
+
+        function unselectLink() {
+            links.forEach( function(link) {link.selected="off";});
+            force.resume();
+        }
+		// Use elliptical arc path segments to doubly-encode directionality.
+        function tick() {
+            
+            var darkFactor = .4;
+            var lightFactor = .4;  
+		    path.attr("d", function(d) {
+			    var dx = d.target.x - d.source.x,
+				    dy = d.target.y - d.source.y,
+                    dr = Math.sqrt(dx * dx + dy * dy);
+
+                    dr*=5;
+    			return "M" + d.source.x + "," + d.source.y + "A" + dr + "," + dr + " 0 0,1 " + d.target.x + "," + d.target.y;
+	    	})
+		    .style("stroke", function(d) { 
+		    	if(d.selected=="outgoing") {
+			    	return "orange";
+	    		}
+				if(d.selected=="incoming") {
+	    			return "black";
+		    	}
+	    		return "#ddd";
+            });
+
+
+
+	        circle.attr("transform", function(d) {
+			    return "translate(" + d.x + "," + d.y + ")";
+            })
+            .style("stroke", function(d) {
+                if(d.option==0) {
+                    return d.color; 
+                }
+                //return d.color;
+                return "black";
+            })
+            /* 
+            .style("stroke-width", function(d) {
+                if(d.option==0)
+                    return "3.5px";
+                return "3.5px";
+            })
+            */
+            .attr("r", function(d) {
+                var val =  Math.pow(languageData[d.name].numSpeakers,.2)*6;
+                if(d.option==0)
+                    return val;
+                return val + 50/val;
+                    
+            })
+                
+
+		    text.attr("transform", function(d) {
+			    return "translate(" + d.x + "," + d.y + ")";
+		    });
+        }
+	    
+       
+        //setupMenu();
+
+		//Legend ------------------------------------------------
+        /*		
+		groupNames = d3.keys(groupIds);
+		
+		var startx=1400;
+		var starty=100;
+		svg.append("svg:text")
+		.attr("x",startx-60)
+		.attr("y",70)
+		.text("Legend: ")
+		for(var i=0;i<countGroups;i++) {
+			svg.append("svg:circle")
+			.style("fill",colors[i])
+			.attr("cx",startx-40)
+			.attr("cy",starty+30*i-4)
+			.attr("r",9);
+
+			
+			svg.append("svg:text")
+			.attr("x",startx)
+			.attr("y",starty+30*i)
+			.text(groupNames[i]);
+		}
+		svg.append("svg:line")
+		.attr("x1",startx+100)
+		.attr("y1",starty-5)
+		.attr("x2",startx+150)
+		.attr("y2",starty-5)
+		.style("stroke","orange")
+		.style("stroke-width",3);
+		
+		svg.append("svg:text")
+		.attr("x",startx+175)
+		.attr("y",starty)
+		.text("Outgoing Edge")
+		
+		svg.append("svg:line")
+		.attr("x1",startx+100)
+		.attr("y1",starty+25)
+		.attr("x2",startx+150)
+		.attr("y2",starty+25)
+		.style("stroke","black")
+		.style("stroke-width",3);
+		
+		svg.append("svg:text")
+		.attr("x",startx+175)
+		.attr("y",starty+30)
+        .text("Incoming Edge")
+        */
+	}
+	
+	// Influence files to load for each different source
+	var data_files = {"twitter": "/static/data/lang_connections/twitter_langlang.tsv",
+	"wikipedia": "/static/data/lang_connections/wikipedia_langlang.tsv",
+	"books": "/static/data/lang_connections/books_langlang.tsv",
+	"merged": "/static/data/lang_connections/merged_langlang.tsv"}
+
+	var meme_files = {"sponsors": "/static/data/diffusion/sponsors_data_2012-10-19.tsv",
+	"nobel": "/static/data/diffusion/laureates_final_2012-10-19.tsv"}
+
+	/*
+	d3.tsv(data_files[data_src], function(langs) {
+	//d3.tsv("/static/data/final_langlang.tsv", function(langs) {
+	    d3.tsv("/static/data/speakers_iso639-3_all.tsv", function(data) {
+		d3.tsv("/static/data/speakers_iso639-3_all_families.tsv", function(langGroups) {
+		    createVisualization(langs,data,langGroups);
+		});
+	    });
+	});
+	*/
+
+	d3.tsv(data_files[data_src], function(langs) {
+		d3.tsv("speakers_iso639-3_all.tsv", function( data ) {
+               		d3.tsv("speakers_iso639-3_all_families.tsv", function( langGroups) {
+                 		d3.tsv("sponsors_data_2012-10-19.tsv", function( sponsorData) {
+                            		createVisualization(langs,data,langGroups, sponsorData);
+                        	});
+			});	
+		});
+	});
+
+
+
+    /*
+    //callback function for meme button press
+    createVisualization.memeAnimation =  function() {
+        alert("HI");
+        alert(circle);
+        var memeSelectElement = document.getElementById("memeSelect");
+        var memeName = memeSelectElement.options[memeSelectElement.selectedIndex].text;
+        unselectMeme();
+        selectMeme(memeName);
+    }
+    */
+</script>
+<body>
+
+</body>
+</html>

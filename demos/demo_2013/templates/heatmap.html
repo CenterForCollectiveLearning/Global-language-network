@@ -1,0 +1,30 @@
+{% extends "core.html" %}
+
+{% block title %}Heatmap{% endblock %}
+
+{% block content %}
+  {{ super() }}
+  <link href="/static/css/heatmap.css" rel="stylesheet">
+  <script src="/static/js/d3.v2.js" type="text/javascript"></script>
+  <script src="/static/js/jquery.ba-bbq.js" type="text/javascript"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
+
+  <div class="navbar navbar-fixed-bottom" id="bottom_navbar">
+    <h1></h1>
+  </div>
+
+  <!-- Default Button States -->
+  <script>
+    $('#bottom_navbar').hide();
+    $('#dataset_options').hide();
+    $('#heatmap_btn').addClass('active');
+    $('#diffusion_btn').addClass('active');
+    $('#name_btn').addClass('active');
+    $('#c_name_btn').addClass('active');
+    $('#company_btn').addClass('active');
+  </script>
+
+  <div id="heatmap">
+    <script src="/static/js/heatmap.js" type="text/javascript"></script>
+  </div>
+{% endblock %}

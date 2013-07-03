@@ -1,0 +1,63 @@
+#heatmap {
+    padding-top: 100px; /* 75 px */
+    padding-left: 15%;  /* 30%  */
+    /* padding-left: 340px; */
+    font-size: 8.5pt;
+}
+
+.background {
+  fill: #eee;
+}
+
+line {
+  stroke: #fff;
+}
+
+text.active {
+  fill: red;
+}
+
+.btn {
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.btn:active {
+    background-color: rgba(0, 0, 0, 0.88);
+}
+
+body {
+    left: 20px;
+}
+
+aside {
+    float: right;
+}
+
+select {
+    width: 140px;
+    float: right;
+}
+
+#loader {
+    margin-top: 70px;
+    text-align: center;
+}
+
+.row-fluid > .span-fixed-sidebar {
+    margin-left: 20px;
+}
+
+#bottom_navbar {
+    box-sizing:border-box;
+    -moz-box-sizing:border-box; /* Firefox */
+    -webkit-box-sizing:border-box;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.88);
+    /* height: 60px; */
+    font-family: "Flamenco", cursive;
+    color: white;
+    float: left;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 21pt;
+}
