@@ -3,3 +3,13 @@
 
 # Example code in package build process
 *-Ex.R
+
+# Mac
+*.DS_Store
+
+# Python
+*.pyc
+
+# Temp files
+~*
+
