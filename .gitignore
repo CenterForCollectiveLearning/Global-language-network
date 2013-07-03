@@ -1,15 +1,29 @@
-# History files
+# R History files
 .Rhistory
 
-# Example code in package build process
+# R Example code in package build process
 *-Ex.R
-
-# Mac
-*.DS_Store
 
 # Python
 *.pyc
+*.pyo
+*.tmp*
+
+# Java
+*.class
 
 # Temp files
 ~*
 
+# Emacs specific
+[#]*[#] 
+*~
+
+# Generic files
+*.DS_Store
+*.lock
+*.lck
+#.LCK
+*.DS_Store
+*.swp
+*.out
