@@ -1,0 +1,56 @@
+apply + (infile, chunk)
+20 MB chunks
+poolsize = 4
+no mmap
+no concat
+time: 119.398
+
+"
+poolsize = 8
+
+
+
+
+WITH cProfile------------------
+"
+poolsize = 8
+time: 58.536
+
+chunking before going in with mmap
+110 --- NO
+
+mmap inside process_chunk
+61.665
+
+again without mmap (same as second)
+54.604 (actually faster!)
+
+
+50 MB CHUNKS
+without mmap, 8 proc
+44 sec!!!
+
+
+60 MB CHUNKS
+without mmap, 8 proc
+53
+
+50 MB
+47
+
+60 MB chunks
+without mmap, 16 proc
+
+50 MB chunks
+12 proc
+47
+
+"
+
+50 MB
+8 proc
+46
+44
+
+all on one outfile
+

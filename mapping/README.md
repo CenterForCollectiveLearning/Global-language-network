@@ -1,0 +1,2 @@
+- Set desired settings in settings.py
+- To run, python mapping/
