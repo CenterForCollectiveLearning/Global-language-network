@@ -32,7 +32,7 @@ def check_previously_loaded(paths):
     current_pre_filter_settings = SETTINGS['pre-filtering']
     current_lang_settings = LANG_SETTINGS
 
-    lgn_results = os.path.join(paths['lgn'])
+    lgn_results = os.path.join(paths['results'])
 
     print "\tChecking previously loaded datasets"
 

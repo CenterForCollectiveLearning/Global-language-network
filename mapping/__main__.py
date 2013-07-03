@@ -8,7 +8,7 @@ Run using 'python mapping' in directory containing root mapping directory
 
 Configuration is specified in mapping/settings.py.
 
-Output is stored in results/{date} directory
+Output is stored in mapping_results/{date} directory
 """
 
 import re
@@ -59,14 +59,9 @@ def get_paths():
     # ../gln/settings.py
     paths['settings'] = os.path.join(paths['mapping'], 'settings.py')
 
-    # ../gln/results/
-    top_results_root = os.path.join(paths['gln'], 'results')
+    # ../gln/mapping_results/
+    paths['results'] = top_results_root = os.path.join(paths['gln'], 'mapping_results')
 
-    # ../gln/results/LGN
-    lgn_results_root = paths['lgn'] = os.path.join(top_results_root, 'LGN')
-
-    # ../gln/results/PDN
-    paths['pdn'] = os.path.join(top_results_root, 'PDN')
 
     # ../gln/mapping/{load || process || visualize}
     for mapping_child in ['load', 'process', 'visualize']:
@@ -74,11 +69,11 @@ def get_paths():
 
     # Add subfolder in results directory with date, suffix (for multiple \
     #    analyses on the same day)
-    # ../gln/results/LGN/{date}_{suffix}
+    # ../gln/mapping_results/{date}_{suffix}
     suffix = 1
     while True:
-         # ../gln/results/LGN/{date}
-        temp = os.path.join(lgn_results_root, today) # "_" + str(SETTINGS['extraction']['probability_cutoff']) + "_" + str(SETTINGS['extraction']['weight_cutoff']))
+         # ../gln/results/{date}
+        temp = os.path.join(paths['results'], today) # "_" + str(SETTINGS['extraction']['probability_cutoff']) + "_" + str(SETTINGS['extraction']['weight_cutoff']))
         if not os.path.exists(temp + '_{}/'.format(suffix)) and \
         not os.path.exists(temp + '_{}-incomplete/'.format(suffix)):
             os.makedirs(temp + '_{}/'.format(suffix))
@@ -86,16 +81,16 @@ def get_paths():
         else:
             suffix += 1
 
-    # ../gln/results/LGN/{date}_{suffix}, i.e the
+    # ../gln/mapping_results/{date}_{suffix}, i.e the
     # closest parent directory to where the results are actually stored
     paths['results'] = temp + '_{}/'.format(suffix)
 
-    # ../gln/results/LGN/{date}_{suffix}/{all || twitter || wikipedia || books}
+    # ../gln/mapping_results/{date}_{suffix}/{all || twitter || wikipedia || books}
     for subfolder in ['all', 'twitter', 'wikipedia', 'books']:
         paths[subfolder] = os.path.join(paths['results'], subfolder)
         os.makedirs(paths[subfolder])
 
-    # ../gln/LGN/results/all/{preprocessed || processed || final || visualizations}
+    # ../gln/results/all/{preprocessed || processed || final || visualizations}
     for result_child in ['preprocessed', 'processed', 'normalized', 'final', 'visualizations']:
         paths[result_child] = os.path.join(paths['all'], result_child)
         os.makedirs(paths[result_child])
@@ -107,7 +102,7 @@ def get_paths():
     # Final statistics of network
     paths['stats'] = os.path.join(paths['final'], 'stats.txt')
 
-    # ../gln/results/LGN/all/{merged || extracted}
+    # ../gln/mapping_results/all/{merged || extracted}
     if SETTINGS['general']['merge_first']:
         merge_or_extract = 'merged'
     else:
