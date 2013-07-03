@@ -1,0 +1,283 @@
+language	langcode	number of speakers	Macrogroup	Source	Comments															
+Abkhazian	ab	0.12		Wikipedia source											
+Acehnese	ace	3.50		Same as Aceh in Ethonologue											
+Afar	aa	1.50		Wikipedia source											
+Afrikaans	af	4.90		Ethnologue											
+Akan	ak	8.30		Ethnologue											
+Albanian	sq	7.60		Wikipedia?	Wikipedia quotes Ethnolgue from 2005 and being the largest growing nation in Europe their number should not decline. Also in the current Ethonologue numbers add up to 7.2 and not 5.8.										
+Alemannic	als	10.00	German	Wikipedia	German dialect not listed on Ethnologue. Total number of German speakers most likely already includes this number.										
+Amharic	am	17.50		Ethnologue											
+Anglo-Saxon	ang	Unknown													
+Arabic	ar	221.00	Arabic	Ethnologue	Wikipedia source has much bigger number but the source doesn't seem that credible so will stick to Ethnologue										
+Aragonese	an	0.01	Spanish	Wikipedia	Spoken in a region of Spain										
+Armenian	hy	6.40		Ethnologue											
+Aromanian	roa-rup	0.25		Council of Europe Parliamentary Recommendation 1333(1997)	"Same as Vlash language, Spoken by a minority in Balkans"										
+Assamese	as	16.80	India	Ethnologue											
+Assyrian Neo-Aramaic	arc	0.22		"Ethnologue report for language code:aii ""30,000 in Iraq (1994). Population total all countries: 219,330 ... 30,000 in Syria (1995) ... 15,000 in Iran (1994"											
+Asturian	ast	0.35	Spanish	linguamón	spoken in region of Spain										
+Avar	av	0.79		Wikipedia source											
+Aymara	ay	1.80		Wikipedia source											
+Azerbaijani	az	19.10		Ethnologue	A bit of data discrepancy with source from Wikipedia but not drastic.										
+Bambara	bm	2.80		Wikipedia source	Old data										
+Banjar	bjn	3.50	Indonesian-Malay	Ethnologue											
+Banyumasan	map-bms	13.00	Indonesian-Malay	Wikipedia source	Javanese dialect- so probably included in that number also										
+Bashkir	ba	1.45	Turkish	Spoken in region of Russia	Wikipedia source										
+Basque	eu	0.66		Ethnologue											
+Bavarian	bar	13.30	German	Ethnologue											
+Belarusian	be	8.60	Belarusian	?	A bit of data discrepancy with source from Wikipedia but not drastic.										
+Belarusian	be-x-old	8.60	Belarusian	?	"There are two different gramatical structures used, this one was before 1933 so I am not sure that people still use it bcause there is a newer one"										
+Bengali	bn	230.00	India	Bengali language in Asiatic Society of Bangladesh 2003	Quite bigger number than in Ethnologue but this source seems credible	Should be similar to Indian languages									
+Bihari	bh	Unknown			language group										
+Bishnupriya Manipuri	bpy	0.12	India	"Wikipedia, no reference"	Spoken in a region of India										
+Bislama	bi	0.01		Wikipedia source											
+Bosnian	bs	2.20	Serbo-Croatian	"Ethnologue, Bosnian (16th ed., 2009)"	Is a form of Serbian dialect.										
+Breton	br	0.20	French	" Fañch Broudic, 2009. Parler breton au XXIe siècle – Le nouveau sondage de TMO-Régions. (including data from 2007: 172,000 speakers in Lower Brittany; slightly under 200,000 in whole Brittany; 206,000 including students in bilingual education)"											
+Buginese	bug	3.50	Indonesian-Malay	Wikipedia	Spoken in a region of Indonesia										
+Bulgarian	bg	9.10		Ethnologue	Good but very old data. From CIA would be somewhat smaller data										
+Burmese	my	32.30		Ethnologue											
+Buryat	bxr	0.50	Mongolian	Wikipedia source	Old data										
+Cantonese	zh-yue	Unknown	Chinese	Ethnologue?	"Spoken in south of China, mainly Hong-Kong and Macau"										
+Catalan	ca	11.50		Ethnologue											
+Cebuano	ceb	15.80	Philipino	Ethnologue	One of the Philipino languages but not Filipino										
+Central_Bicolano	bcl	4.60	Philipino	Ethnologue											
+Chamorro	ch	0.06		Wikipedia source											
+Chechen	ce	1.34		Wikipedia source											
+Cherokee	chr	0.02		" Lewis, M. Paul (2009). ""Cherokee: Language of United States"". Ethnologue (on-line). Ethnologue: Languages of the World (sixteenth edition). Retrieved 3 May 2012"											
+Cheyenne	chy	0.00		Indigenous Languages Spoken in the United States											
+Chichewa	ny	8.70		Wikipedia source											
+Chinese	zh	1213.00	Chinese	Ethnologue											
+Choctaw	cho	0.02		Wikipedia source											
+Chuvash	cv	1.64	Turkish	Wikipedia source	Turkish language spoken in central Russia										
+Classical Chinese	zh-classical	Unknown		Replaced by other type of Chinese											
+Cornish	kw	Unknown		Wikipedia source	very few native speakers										
+Corsican	co	0.40	Italian	Wikipedia source											
+Cree	cr	0.12		Statistics Canada: 2006 Census											
+Crimean Tatar	crh	0.48		"Crimean Tatar at Ethnologue (16th ed., 2009)"											
+Croatian	hr	5.50	Serbo-Croatian	Ethnologue											
+Czech	cs	9.50		"Ethnologue, CIA"											
+Danish	da	5.60		Ethnologue											
+Divehi	dv	0.37		Wikipedia source	Maldivian language										
+Dutch	nl	23.50		" ""Nederlands, wereldtaal"". Nederlandse Taalunie. 2010. Retrieved 2011-04-07."											
+Dutch Low Saxon	nds-nl	Unknown	Dutch		group of languages already included										
+Dzongkha	dz	0.17		Wikipedia source											
+Egyptian Arabic	arz	54.00	Arabic	Ethnologue											
+Emilian-Romagnol	eml	Unknown	Italian?	language group											
+English	en	328.00		Ethnologue											
+Erzya	myv	0.70		Wikipedia source											
+Esperanto	eo	0.00		Wikipedia old data from 1996	Probably more speakers; very few native speakers as an artificial language										
+Estonian	et	1.10		Ethnologue											
+Ewe	ee	3.10		Ethnologue											
+Extremaduran	ext	0.20	Spanish	Ethnologue											
+Faroese	fo	0.48	Icelandic	Wikipedia source	In writing mutually inteligible with Icelandic										
+Fiji Hindi	hif	0.46	India	Wikipedia source											
+Fijian	fj	0.34		Wikipedia source	Old data										
+Finnish	fi	5.00		Ethnologue	"Good but old data, cross referenced with CIA, seems like it is still close to reality"										
+Franco-ProvenÃ§al/Arpitan	frp	0.15	French	Ethnologue											
+French	fr	67.50	French	Ethnologue	There were two data on Wikipedia but second sources seems not credible enough-might count together with L2										
+Friulian	fur	0.79	Italian	Wikipedia source											
+Fula	ff	12.30		Ethnologue											
+Gagauz	gag	0.16		Wikipedia source											
+Galician	gl	3.20	Spanish	Ethnologue	Might be a bit old data but precise enough										
+Gan	gan	20.60	Chinese	Ethnologue											
+Georgian	ka	4.30		Ethnologue	on wikipedia there are around 6-8M but quite old data so this is probably more correct										
+German	de	96.80	German	Ethnologue	German+Swiss German. Includes several dialects that will be also listed as separate languages below so there is some double count										
+Gilaki	glk	3.30	Persian	Wikipedia source											
+Gothic	got	Unknown													
+Greek	el	13.10		Ethnologue											
+Greenlandic	kl	0.06		Wikipedia source											
+Guarani	gn	4.90		Ethnologue											
+Gujarati	gu	60.00	India	?	From census in India fom 2011 there are about 60M people in Gujarat. This number is larger than Ethnologue's but since the Wikipedia data from 1997 is the same as  Ethnologue I assume they have old data and that this is more close to the reality.										
+Haitian	ht	7.70		Ethnologue	12M on Wikipedia but no reference										
+Hakka	hak	30.00	Chinese	Ethnologue											
+Hausa	ha	25.00		Ethnologue											
+Hawaiian	haw	0.02		U.S. Census (2010)											
+Hebrew	he	5.30		Ethnologue	Might be a bit bigger number because 2012 estimate of population of Israel is more than 7M										
+Hill Mari	mrj	0.36		Wikipedia source											
+Hindi	hi	182.00		Ethnologue?	"good but old data, so probably the number is much higher"										
+Hiri Motu	ho	0.12		Wikipedia source	mostly second language										
+Hungarian	hu	12.50		Ethnologue	A bit of data discrepancy with source from Wikipedia but not drastic.										
+Icelandic	is	0.30		"CIA, https://www.cia.gov/library/publications/the-world-factbook/geos/ic.html"											
+Ido	io	0.00		Artificial language	" Blanke (2000), cited in Sabine Fiedler ""Phraseology in planned languages"",Phraseology / Phraseologie, Walter de Gruyter 2007. pp. 779."										
+Igbo	ig	18.00		Ethnologue											
+Ilokano	ilo	7.00	Philipino	Ethnologue											
+Indonesian	id	51.60	Indonesian	Ethonologue	Includes several Indonesian languages that are not included in Wikipedia languages but exist on Ethonologue										
+Interlingua	ia	0.00		?	Artificial language										
+Interlingue	ie	Unknown			Artificial language										
+Inuktitut	iu	0.01		Wikipedia source	Old data										
+Inupiak	ik	Unknown													
+Irish	ga	0.09		"Keith Brown, ed. (2005). Encyclopedia of Language and Linguistics (2 ed.). Elsevier."											
+Italian	it	61.70	Italian	Ethnologue											
+Japanese	ja	122.00		Ethnologue											
+Javanese	jv	84.60	Indonesian-Malay	Ethnologue											
+Kabardian Circassian	kbd	1.50		Wikipedia source											
+Kabyle	kab	3.10		Ethnologue											
+Kalmyk	xal	0.17		Wikipedia source	In Russia										
+Kannada	kn	35.30	India	Ethnologue	"From the source given I calculated that the Ethnologue number was quite correct, so the person calculating might have made a mistake"										
+Kanuri	kr	4.00		Ethnologue											
+Kapampangan	pam	1.90	Philipino	Wikipedia source	aka Pampagan										
+Karachay-Balkar	krc	0.31	Turkish	"""_________ __________ _________ __ ________ _______ [Population of the Russian Federation by languages used]"" (in Russian) (XLS)."	In Russia										
+Karakalpak	kaa	0.41	Turkish	Wikipedia source	Old data										
+Kashmiri	ks	5.60		Ethnologue											
+Kashubian	csb	0.05	Slavic	Wikipedia source											
+Kazakh	kk	10.00		"The Agency of Statistics of the Republic of Kazakhstan Population structure by ethnicity, religion and language, p.251"	Ethnologue has somewhat smaller number										
+Khmer	km	13.60		Ethnologue											
+Kikuyu	ki	7.20		Ethnologue											
+Kinyarwanda	rw	7.50		Ethnologue											
+Kirghiz	ky	2.90		Ethnologue											
+Kirundi	rn	8.70		Wikipedia source											
+Komi	kv	0.39		Wikipedia source	In Russia										
+Komi-Permyak	koi	0.09		Wikipedia source	In Russia										
+Kongo	kg	6.00		Ethnologue											
+Korean	ko	66.00		Ethnologue	"Wikipedia states a different number, but their source doesn't seem reliable enough"										
+Kuanyama	kj	unknown													
+Kurdish	ku	16.00		Ethnologue											
+Ladino	lad	0.10	Spanish	Wikipedia source											
+Lak	lbe	0.16		Wikipedia source	In Russia										
+Lao	lo	20.00		Wikipedia	Wikipedia states 20M including Isan speakers (no separate Wikipedia Edition for Isan)										
+Latgalian	ltg	0.12		Wikipedia source											
+Latin	la	Unknown			Official in Vatican but probably not native										
+Latvian	lv	1.50		Ethnologue											
+Lezgian	lez	0.80		Wikipedia source											
+Ligurian	lij	1.95	Italian	"ethnologue (2009). ""Ligurian"". Ethnologue: Languages of the World. Ethnoloug"											
+Limburgian	li	1.30	German	Wikipedia source											
+Lingala	ln	2.10		Wikipedia source	7M as second language										
+Lithuanian	lt	3.20	Lithuanian	Ethnologue											
+Lojban	jbo	Unknown		Artificial language											
+Lombard	lmo	9.10	Italian	Ethnologue	"Listed as a separate language in Ethnologue but is one of the languages spoken in Italy, but probably wasn't included in the total count for Italy"										
+Low Saxon	nds	4.00	German	Wikipedia source	One of the German dialects spoken in the North of Germany										
+Lower Sorbian	dsb	0.01	Slavic	Wikipedia source											
+Luganda	lg	4.10		Ethnologue											
+Luxembourgish	lb	0.32	German	"Wikipedia, CIA"	No data on Ethnologue and Wikipedia data has no reference. Cross referenced with CIA and this data makes sense										
+Macedonian	mk	1.50		CIA plus calculation of percentage											
+Malagasy	mg	14.70		Ethnologue	Spoken in Madagascar										
+Malay	ms	10.30	Indonesian	Ethnologue	We listed it as one language with Indonesian previously										
+Malayalam	ml	35.90	India	Ethnologue											
+Maltese	mt	0.40		Wikipedia source											
+Manx	gv	"Unknown, very few"			Almost none 										
+Maori	mi	0.06		Wikipedia source	One of the official languages in New Zealand										
+Marathi	mr	68.10	India	Ethnologue											
+Marshallese	mh	0.04		Wikipedia source	very old data										
+Mazandarani	mzn	3.30	Persian	Wikipedia source											
+Meadow Mari	mhr	0.46		Wikipedia source	In Russia										
+Min Dong	cdo	9.10		Ethnologue											
+Min Nan	zh-min-nan	47.30	Chinese	Ethnologue	One of the Chinese dialects that went into the total number of speakers of Chinese										
+Mingrelian	xmf	0.50		Wikipedia source	Spoken in region of Georgia										
+Mirandese	mwl	0.01	Portuguese	" ""Asturian"". 10.gencat.net. Retrieved 12 December 2010."											
+Moksha	mdf	0.61		Wikipedia source	In Russia										
+Moldovan	mo				dialect of Romanian										
+Mongolian	mn	5.70		Ethnologue											
+Muscogee	mus	0.01		Wikipedia source											
+Nahuatl	nah	1.45	Uto-Aztecan	Wikipedia source	One of the Uto-Aztecan languages										
+Nauruan	na	0.01		Wikipedia source											
+Navajo	nv	0.17		census.gov 2007 American Community Survey. Accessed 2010-07-13.											
+Ndonga	ng	1.00		Wikipedia source											
+Neapolitan	nap	7.50	Italian	Wikipedia source	group of Italian dialects from the south										
+Nepali	ne	13.90	Nepali	Ethnologue											
+Newar / Nepal Bhasa	new	0.84	Nepali	"Wikipedia, no reference"	"Spoken by 3% of Nepali people, mostly indigenous. No good reference but this is the best I could find."										
+Norfolk	pih	almost none		Wikipedia source											
+Norman	nrm	Unknown													
+North Frisian	frr	0.01	Dutch?/German	Wikipedia source											
+Northern Sami	se	0.02		Wikipedia source	Spoken by people in north Scandinavia										
+Northern Sotho	nso	4.10		Wikipedia source											
+Norwegian	nn	5.00	Norwegian	Ethnologue	Turns out that Norwegian has two official written languages and everyone knows both.										
+Norwegian	no	4.60	Norwegian	Ethnologue											
+Novial	nov	Unknown			Artificial language										
+Occitan	oc	2.00	Spanish	http://www.dglf.culture.gouv.fr/Langues_et_cite/langues_cite10.pdf											
+Old Church Slavonic	cu	Unknown			liturgical language										
+Oriya	or	31.70	India	Ethnologue											
+Oromo	om	17.30		Ethnologue											
+Ossetian	os	0.64	Persian	Wikipedia?	East Iranian language										
+Palatinate German	pfl	Unknown	German												
+Pali	pi	Unknown	India	Only used as a liturgical language											
+Pangasinan	pag	1.16	Philipino	Wikipedia source											
+Papiamentu	pap	0.33		Wikipedia source											
+Pashto	ps	20.30		Ethnologue											
+Pennsylvania German	pdc	0.25	Dutch	Wikipedia source											
+Persian	fa	80.00	Persian	Wikipedia	According to Wikipedia but includes Tajik which is a separate language on Wikipedia so I choose the lower bound of the estimate because Tajik is spoken by few M										
+Picard	pcd	0.70	French	"Julie Auger, Indiana University, “Issues of authenticity, purity, and autonomy in minority languages: What is “real” Picard, and who is an “authentic” speaker?”, Congress Minority and Diasporic Languages of Europe , 14-17 Feb. 2003 , Berkeley, USA, in Pawel Nowak & Corey Yoquelet (eds.), Berkeley Linguistics Society (BLS 29)."											
+Piedmontese	pms	3.10	Italian	Ethnologue?	"Often considered an Italian dialect and not a separate language, so probably is also included in Italian"										
+Polish	pl	44.00		"Ethnologue, Polish (16th ed., 2009)"											
+Pontic	pnt	Unknown													
+Portuguese	pt	253.00		CIA: https://www.cia.gov/library/publications/the-world-factbook/geos/br.html											
+Punjabi	pa	104.00		http://en.wikipedia.org/wiki/Punjabi_language	Two different scripts: Western Panjabi uses a Persian script. Wikipedia has two different articles with different values for this language.										
+Quechua	qu	10.10		Ethnologue											
+Ripuarian	ksh	0.90	German	Wikipedia source											
+Romani	rmy	2.50		Wikipedia source											
+Romanian	ro	23.40		Ethnologue											
+Romansh	rm	0.04	French	Wikipedia source	One of the official languages in Switzerland										
+Russian	ru	144.00		Ethnologue											
+Rusyn	rue	0.60	Slavic	Wikipedia source											
+Sakha	sah	0.36	Turkish	Wikipedia source	One of the languages in Russia										
+Samoan	sm	0.37		Wikipedia source											
+Samogitian	bat-smg	0.50	Lithuanian	Wikipedia source	Lithuanian dialect spoken in western Lithuania										
+Sango	sg	0.40		Wikipedia source	Old data										
+Sanskrit	sa	0.01	India	Wikipedia source	Mostly liturgic language of Hinduism										
+Sardinian	sc	1.35	Italian	Wikipedia source											
+Saterland Frisian	stq	0.00	Dutch?/German	"Saterland Frisian language at Ethnologue (16th ed., 2009)"											
+Scots	sco	0.10		"Scots language at Ethnologue (16th ed., 2009) (The figure of 200,000 is an error, from the total being listed in two countries.)"											
+Scottish Gaelic	gd	0.58		 Census 2001 Scotland: Gaelic speakers by council area from Comunn na Gaidhlig (cnag.org.uk).											
+Serbian	sr	9.00	Serbo-Croatian	"Encyclopedia of Language and Linguistics, 2nd ed."	"In Ethnologue listed as one language but from 2008 Serbo-Croatian is  separated into Serbian and Croatian;  Including, as of 2006, 6.62 million in Serbia sans Kosovo (88% of the population), 1.49 million in Bosnia (37.1%), 400,000 in Montenegro (60%), 133,000 in Kosovo and 45,000 in Croatia (not counting refugees), and perhaps a million in the diaspora."										
+Serbo-Croatian	sh	16.40	Serbo-Croatian	Ethnologue	Also exist as separate languages on Wikipedia										
+Sesotho	st	6.00		Ethnologue											
+Shona	sn	10.80		Ethnologue											
+Sichuan Yi	ii	2.00		Wikipedia source											
+Sicilian	scn	4.80	Italian	Ethnologue											
+Silesian	szl	0.06	Slavic	Wikipedia source											
+Simple English	simple	Unknown	English		"Basic English, also known as Simple English, is an English-based controlled language created (in essence as a simplified subset of English) by linguist and philosopherCharles Kay Ogden as an international auxiliary language, and as an aid for teaching English as a Second Language."										
+Sindhi	sd	21.40		Ethnologue											
+Sinhalese	si	15.60		Ethnologue											
+Slovak	sk	5.00		Ethnologue	Good but old data										
+Slovenian	sl	2.50		" ""International Mother Language Day 2010"". Statistical Office of the Republic of Slovenia. 19 February 2010. Retrieved 29 January 2011."											
+Somali	so	13.90		Ethnologue											
+Sorani	ckb	5.00	Kurdish	Wikipedia source	Kurdish spoken in Iran and Iraq										
+Spanish	es	400.00		"Wikipedia, http://eprints.ucm.es/8936/1/DT03-06.pdf"	Seems more realistic than Ethonologue										
+Sranan	srn	0.30		Wikipedia source											
+Sundanese	su	34.00	Indonesian-Malay	Ethnologue											
+Swahili	sw	40.00		"Swahili at Ethnologue (16th ed., 2009)"	This is the second language for most people and only .8M speak it as a native language										
+Swati	ss	2.00		Wikipedia source	Old data										
+Swedish	sv	8.30		Ethnologue	A bit of data discrepancy with source from Wikipedia but not drastic.										
+Tagalog	tl	23.90	Philipino	Philipino is the standardized form of this language- but basically the same thing											
+Tahitian	ty	0.12		Wikipedia source	Old data										
+Tajik	tg	4.50	Persian	Ethnologue											
+Tamil	ta	65.70	India	Ethnologue	Probably old data because Wikipedia has a source from 1997 that is the same number.										
+Tarantino	roa-tara	0.30	Italian	Wikipedia source	One of the dialects from Italy										
+Tatar	tt	6.50	Turkish	Ethnologue											
+Telugu	te	84.00	India	"Abstract of speakers' strength of languages and mother tongues – 2000, Census of India, 2001"											
+Tetum	tet	0.50		"Tetun at Ethnologue (16th ed., 2009)"											
+Thai	th	45.90		Ethnologue	Sum of several dialects										
+Tibetan	bo	1.30		Wikipedia source	Standard Tibetan 										
+Tigrinya	ti	5.80		Ethnologue											
+Tok Pisin	tpi	4.00		Wikipedia source	"Official language in Papua New Guinea, mostly L2 speakers"										
+Tongan	to	0.13		Wikipedia source											
+Tsonga	ts	3.70		Ethnologue											
+Tswana	tn	4.50		Ethnologue											
+Tumbuka	tum	1.00		Wikipedia source											
+Turkish	tr	53.00	Turkish	"European Commission (2006). ""Special Eurobarometer 243: Europeans and their Languages (Survey)"" (PDF). Europa. Retrieved 2010-02-14."											
+Turkmen	tk	6.60		Ethnologue											
+Udmurt	udm	0.48		Wikipedia source	in Russia										
+Ukrainian	uk	37.00		Ethnologue											
+Upper Sorbian	hsb	0.02	Slavic	Wikipedia source											
+Urdu	ur	60.60	India	good but very old data from 1993-1997											
+Uyghur	ug	8.80	Turkish	Ethnologue											
+Uzbek	uz	20.30		Ethnologue											
+Venda	ve	1.60		Wikipedia source											
+Venetian	vec	2.20	Italian	"Frawley, William (2003). International encyclopedia of linguistics: Vol.1. Oxford University Press"	Mostly spoken in region around Venice- one of the Italian dialects										
+Vepsian	vep	0.01		Wikipedia source	Old data										
+Vietnamese	vi	76.50		CIA	Wikipedia states an even higher number										
+Volapuk	vo	0.00		"""Pük, Memory: Why I Learned a Universal Language No One Speaks"" by Paul LaFarge. The Village Voice, August 2000."	Artificial language										
+VÃµro	fiu-vro	0.07	Estonian	Wikipedia source											
+Walloon	wa	0.60	French	Wikipedia	spoken in region of Belgium and France										
+Waray-Waray	war	2.60	Philipino	Ethnologue	One of the Philipino languages so might have been a part of the Filipino we had in other list. Actually a separate language and should not have been included but I am not sure whether it was										
+Welsh	cy	0.48		" ""2004 Welsh Language Use Survey: the report"""	Official website for Wales										
+West Flemish	vls	1.16	Dutch	Wikipedia source											
+West Frisian	fy	0.47	Dutch	"Wikipedia, no reference"	Language spoken in the North of the Netherlands										
+Wolof	wo	4.00		Ethnologue											
+Wu	wuu	77.20	Chinese	Ethnologue											
+Xhosa	xh	7.80		Ethnologue											
+Yiddish	yi	1.80		" Yiddish, Eastern, on Ethnologue. Retrieved 11 March 2010."											
+Yoruba	yo	19.40		Ethnologue											
+Zamboanga Chavacano	cbk-zam	0.60	Spanish based philipino creole	Wikipedia source											
+Zazaki	diq	2.00	Kurdish	http://www.ethnologue.com/show_language.asp?code=diq	Mainly spoken in Turkey										
+Zeelandic	zea	0.22	Dutch	Wikipedia source											
+Zhuang	za	13.90	Thai	Wikipedia source											
+Zulu	zu	10.30		Ethnologue	26M in total										

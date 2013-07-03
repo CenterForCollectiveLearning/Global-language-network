@@ -1,0 +1,257 @@
+Lang_Code	Lang_Name	Num_Speakers_M
+aar	Afar	1.5
+abk	Abkhazian	0.12
+ace	Achinese	3.5
+afr	Afrikaans	4.9
+aka	Akan	8.3
+amh	Amharic	17.5
+ang	Old English (ca. 450-1100)	0.0
+ara	Arabic	275.0
+arc	Official Aramaic (700-300 BCE)	0.22
+arg	Aragonese	0.01
+asm	Assamese	16.8
+ast	Asturian	0.35
+ava	Avaric	0.79
+aym	Aymara	1.8
+aze	Azerbaijani	19.1
+bak	Bashkir	1.45
+bam	Bambara	2.8
+bar	Bavarian	13.3
+bel	Belarusian	8.6
+ben	Bengali	230.0
+bik	Bikol	4.6
+bis	Bislama	0.01
+bod	Tibetan	1.3
+bpy	Bishnupriya	0.12
+bre	Breton	0.2
+bua	Buriat	0.5
+bug	Buginese	3.5
+bul	Bulgarian	9.1
+cat	Catalan	11.5
+ceb	Cebuano	15.8
+ces	Czech	9.5
+cha	Chamorro	0.06
+che	Chechen	1.34
+chm	Mari (Russia)	0.82
+cho	Choctaw	0.02
+chr	Cherokee	0.02
+chu	Church Slavic	0.0
+chv	Chuvash	1.64
+chy	Cheyenne	0.0
+cor	Cornish	0.0
+cos	Corsican	0.4
+cre	Cree	0.12
+crh	Crimean Tatar	0.48
+csb	Kashubian	0.05
+cym	Welsh	0.48
+dan	Danish	5.6
+deu	German	96.8
+div	Dhivehi	0.37
+dsb	Lower Sorbian	0.01
+dzo	Dzongkha	0.17
+ell	Modern Greek (1453-)	13.1
+eml	Emiliano-Romagnolo	0.0
+eng	English	328.0
+epo	Esperanto	0.0
+est	Estonian	1.17
+eus	Basque	0.66
+ewe	Ewe	3.1
+ext	Extremaduran	0.2
+fao	Faroese	0.48
+fas	Persian	80.0
+fij	Fijian	0.34
+fil	Filipino (macrolanguage)	23.9
+fin	Finnish	5.0
+fra	French	67.5
+frp	Arpitan	0.15
+frr	Northern Frisian	0.01
+fry	Western Frisian	0.47
+ful	Fulah	12.3
+fur	Friulian	0.79
+gag	Gagauz	0.16
+gla	Scottish Gaelic	0.58
+gle	Irish	0.09
+glg	Galician	3.2
+glk	Gilaki	3.3
+glv	Manx	0.0
+got	Gothic	0.0
+grn	Guarani	4.9
+guj	Gujarati	60.0
+hat	Haitian	7.7
+hau	Hausa	25.0
+haw	Hawaiian	0.02
+hbs	Serbo-Croatian	33.1
+heb	Hebrew	5.3
+hif	Fiji Hindi	0.46
+hin	Hindi	182.0
+hmo	Hiri Motu	0.12
+hsb	Upper Sorbian	0.02
+hun	Hungarian	12.5
+hye	Armenian	6.4
+ibo	Igbo	18.0
+ido	Ido	0.0
+iii	Sichuan Yi	2.0
+iku	Inuktitut	0.01
+ile	Interlingue	0.0
+ilo	Iloko	7.0
+ina	Interlingua (International Auxiliary Language Association)	0.0
+ipk	Inupiaq	0.0
+isl	Icelandic	0.3
+ita	Italian	61.7
+jav	Javanese	84.6
+jbo	Lojban	0.0
+jpn	Japanese	122.0
+kaa	Kara-Kalpak	0.41
+kab	Kabyle	3.1
+kal	Kalaallisut	0.06
+kan	Kannada	35.3
+kas	Kashmiri	5.6
+kat	Georgian	4.3
+kau	Kanuri	4.0
+kaz	Kazakh	10.0
+kbd	Kabardian	1.5
+khm	Central Khmer	13.6
+kik	Kikuyu	7.2
+kin	Kinyarwanda	7.5
+kir	Kirghiz	2.9
+kom	Komi	0.48
+kon	Kongo	6.0
+kor	Korean	66.0
+krc	Karachay-Balkar	0.31
+ksh	Kölsch	0.9
+kua	Kuanyama	0.7
+kur	Kurdish	21.0
+lad	Ladino	0.1
+lah	Lahnda	60.0
+lao	Lao	20.0
+lat	Latin	0.0
+lav	Latvian	1.62
+lbe	Lak	0.16
+lez	Lezghian	0.8
+lij	Ligurian	1.95
+lim	Limburgan	1.3
+lin	Lingala	2.1
+lit	Lithuanian	3.2
+lmo	Lombard	9.1
+ltz	Luxembourgish	0.32
+lug	Ganda	4.1
+mah	Marshallese	0.04
+mal	Malayalam	35.9
+mar	Marathi	68.1
+mdf	Moksha	0.61
+mkd	Macedonian	1.5
+mlg	Malagasy	14.7
+mlt	Maltese	0.4
+mol	Moldavian	0.0
+mon	Mongolian	5.7
+mri	Maori	0.06
+msa	Malay (macrolanguage)	65.4
+mus	Creek	0.01
+mwl	Mirandese	0.01
+mya	Burmese	32.3
+myv	Erzya	0.7
+mzn	Mazanderani	3.3
+nap	Neapolitan	7.5
+nau	Nauru	0.01
+nav	Navajo	0.17
+ndo	Ndonga	1.0
+nds	Low German	4.0
+nep	Nepali macrolanguage	13.9
+new	Newari	0.84
+nld	Dutch	23.5
+nor	Norwegian	9.6
+nov	Novial	0.0
+nrm	Narom	0.0
+nso	Pedi	4.1
+nya	Nyanja	8.7
+oci	Occitan (post 1500)	2.0
+ori	Oriya macrolanguage	31.7
+orm	Oromo	17.3
+oss	Ossetian	0.64
+pag	Pangasinan	1.16
+pam	Pampanga	1.9
+pan	Panjabi	104.0
+pap	Papiamento	0.33
+pcd	Picard	0.7
+pdc	Pennsylvania German	0.25
+pfl	Pfaelzisch	0.0
+pih	Pitcairn-Norfolk	0.0
+pli	Pali	0.0
+pms	Piemontese	3.1
+pnt	Pontic	0.0
+pol	Polish	44.0
+por	Portuguese	253.0
+pus	Pushto	20.3
+que	Quechua	10.1
+roh	Romansh	0.04
+rom	Romany	2.5
+ron	Romanian	23.4
+rue	Rusyn	0.6
+run	Rundi	8.7
+rup	Macedo-Romanian	0.25
+rus	Russian	144.0
+sag	Sango	0.4
+sah	Yakut	0.36
+san	Sanskrit	0.01
+scn	Sicilian	4.8
+sco	Scots	0.1
+sgs	Samogitian	0.5
+sin	Sinhala	15.6
+slk	Slovak	5.0
+slv	Slovenian	2.5
+sme	Northern Sami	0.02
+smo	Samoan	0.37
+sna	Shona	10.8
+snd	Sindhi	21.4
+som	Somali	13.9
+sot	Southern Sotho	6.0
+spa	Spanish	400.0
+sqi	Albanian	17.6
+srd	Sardinian	1.35
+srn	Sranan Tongo	0.3
+ssw	Swati	2.0
+stq	Saterfriesisch	0.0
+sun	Sundanese	34.0
+swa	Swahili (macrolanguage)	40.0
+swe	Swedish	8.3
+syr	Syriac	0.0
+szl	Silesian	0.06
+tah	Tahitian	0.12
+tam	Tamil	65.7
+tat	Tatar	6.5
+tel	Telugu	84.0
+tet	Tetum	0.5
+tgk	Tajik	4.5
+tha	Thai	45.9
+tir	Tigrinya	5.8
+ton	Tonga (Tonga Islands)	0.13
+tpi	Tok Pisin	4.0
+tsn	Tswana	4.5
+tso	Tsonga	3.7
+tuk	Turkmen	6.6
+tum	Tumbuka	1.0
+tur	Turkish	53.0
+udm	Udmurt	0.48
+uig	Uighur	8.8
+ukr	Ukrainian	37.0
+urd	Urdu	60.6
+uzb	Uzbek	20.3
+vec	Venetian	2.2
+ven	Venda	1.6
+vep	Veps	0.01
+vie	Vietnamese	76.5
+vls	Vlaams	1.16
+vol	Volapük	0.0
+war	Waray (Philippines)	2.6
+wln	Walloon	0.6
+wol	Wolof	4.0
+xal	Kalmyk	0.17
+xho	Xhosa	7.8
+xmf	Mingrelian	0.5
+yid	Yiddish	1.8
+yor	Yoruba	19.4
+zea	Zeeuws	0.22
+zha	Zhuang	13.9
+zho	Chinese	1397.2
+zul	Zulu	10.3
+zza	Zaza	2.0

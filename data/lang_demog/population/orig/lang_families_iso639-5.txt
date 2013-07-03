@@ -1,0 +1,115 @@
+Identifier/Indicatif	English name/Nom anglais	French name/Nom français	639-2	Hierarchy/Hiérarchie
+aav	Austro-Asiatic languages	austro-asiatiques, langues		aav	
+afa	Afro-Asiatic languages	afro-asiatiques, langues	r	afa	
+alg	Algonquian languages	algonquines, langues	g	nai : aql : alg	
+alv	Atlantic-Congo languages	atlantique-congo, langues		nic : alv	
+apa	Apache languages	apaches, langues	g	nai : xnd : ath : apa	
+aqa	Alacalufan languages	alacalufanes, langues		sai : aqa	
+aql	Algic languages	algiques, langues		nai : aql	
+art	Artificial languages	artificielles, langues	r	art	
+ath	Athapascan languages	athapascanes, langues	g	nai : xnd : ath	
+auf	Arauan languages	arauanes, langues		sai : awd : auf	
+aus	Australian languages	australiennes, langues	g	aus	
+awd	Arawakan languages	arawak, langues		sai : awd	
+azc	Uto-Aztecan languages	uto-aztèques, langues		nai : azc	
+bad	Banda languages	banda, langues	g	nic : alv : bad	
+bai	Bamileke languages	bamiléké, langues	g	nic : alv : bai	
+bat	Baltic languages	baltes, langues	r	ine : bat	
+ber	Berber languages	berbères, langues	r	afa : ber	
+bnt	Bantu languages	bantou, langues	r	nic : alv : bnt	
+btk	Batak languages	batak, langues	g	map : poz : pqw : btk	
+cai	Central American Indian languages	amérindiennes de l'Amérique centrale, langues	r	cai	
+cau	Caucasian languages	caucasiennes, langues	r	cau	
+cba	Chibchan languages	chibcha, langues		sai : cba	
+ccn	North Caucasian languages	caucasiennes du Nord, langues		cau : ccn	
+ccs	South Caucasian languages	caucasiennes du Sud, langues		cau : ccs	
+cdc	Chadic languages	tchadiques, langues		afa : cdc	
+cdd	Caddoan languages	caddoanes, langues		nai : cdd	
+cel	Celtic languages	celtiques, langues; celtes, langues	r	ine : cel	
+cmc	Chamic languages	chames, langues	g	map : poz : pqw : cmc	
+cpe	Creoles and pidgins, English‑based	créoles et pidgins basés sur l'anglais	r	crp : cpe	
+cpf	Creoles and pidgins, French‑based	créoles et pidgins basés sur le français	r	crp : cpf	
+cpp	Creoles and pidgins, Portuguese-based	créoles et pidgins basés sur le portugais	r	crp : cpp	
+crp	Creoles and pidgins	créoles et pidgins	r	crp	
+csu	Central Sudanic languages	soudaniques centrales, langues		ssa : csu	
+cus	Cushitic languages	couchitiques, langues	r	afa : cus	
+day	Land Dayak languages	dayak, langues	g	day	
+dmn	Mande languages	mandé, langues		nic : dmn	
+dra	Dravidian languages	dravidiennes, langues	r	dra	
+egx	Egyptian languages	égyptiennes, langues		afa : egx	
+esx	Eskimo-Aleut languages	esquimaudes-aléoutiennes, langues		esx	
+euq	Basque (family)	basque (famille)		euq	
+fiu	Finno-Ugrian languages	finno-ougriennes, langues	r	urj : fiu	
+fox	Formosan languages	formosanes, langues		map : fox	
+gem	Germanic languages	germaniques, langues	r	ine : gem	
+gme	East Germanic languages	germaniques orientales, langues		ine : gem : gme	
+gmq	North Germanic languages	germaniques septentrionales, langues		ine : gem : gmq	
+gmw	West Germanic languages	germaniques occidentales, langues		ine : gem : gmw	
+grk	Greek languages	grecques, langues		ine : grk	
+hmx	Hmong-Mien languages	hmong-mien, langues		hmx	
+hok	Hokan languages	hoka, langues		nai : hok	
+hyx	Armenian (family)	arménien (famille)		ine : hyx	
+iir	Indo-Iranian languages	indo-iraniennes, langues		ine : iir	
+ijo	Ijo languages	ijo, langues	g	nic : alv : ijo	
+inc	Indic languages	indo-aryennes, langues	r	ine : iir : inc	
+ine	Indo-European languages	indo-européennes, langues	r	ine	
+ira	Iranian languages	iraniennes, langues	r	ine : iir : ira	
+iro	Iroquoian languages	iroquoises, langues	g	nai : iro	
+itc	Italic languages	italiques, langues		ine : itc	
+jpx	Japanese (family)	japonais (famille)		jpx	
+kar	Karen languages	karen, langues	g	sit : tbq : kar	
+kdo	Kordofanian languages	kordofaniennes, langues		nic : kdo	
+khi	Khoisan languages	khoïsan, langues	r	khi	
+kro	Kru languages	krou, langues	g	nic : alv : kro	
+map	Austronesian languages	austronésiennes, langues	r	map	
+mkh	Mon-Khmer languages	môn-khmer, langues	r	aav : mkh	
+mno	Manobo languages	manobo, langues	g	map : poz : pqw : phi : mno	
+mun	Munda languages	mounda, langues	g	aav : mun	
+myn	Mayan languages	maya, langues	g	cai : myn	
+nah	Nahuatl languages	nahuatl, langues	g	nai : azc : nah	
+nai	North American Indian languages	nord-amérindiennes, langues	r	nai	
+ngf	Trans-New Guinea languages	trans-nouvelle-guinée, langues		paa : ngf	
+nic	Niger-Kordofanian languages	nigéro-kordofaniennes, langues	r	nic	
+nub	Nubian languages	nubiennes, langues	g	ssa : sdv : nub	
+omq	Oto-Manguean languages	otomangue, langues		cai : omq	
+omv	Omotic languages	omotiques, langues		afa : omv	
+oto	Otomian languages	otomi, langues	g	cai : omq : oto	
+paa	Papuan languages	papoues, langues	r	paa	
+phi	Philippine languages	philippines, langues	r	map : poz : pqw : phi	
+plf	Central Malayo-Polynesian languages	malayo-polynésiennes centrales, langues		map : poz : plf	
+poz	Malayo-Polynesian languages	malayo-polynésiennes, langues		map : poz	
+pqe	Eastern Malayo-Polynesian languages	malayo-polynésiennes orientales, langues		map : poz : pqe	
+pqw	Western Malayo-Polynesian languages	malayo-polynésiennes occidentales, langues		map : poz : pqw	
+pra	Prakrit languages	prâkrit, langues	g	ine : iir : inc : pra	
+qwe	Quechuan (family)	quechua (famille)		sai : qwe	
+roa	Romance languages	romanes, langues	r	ine : itc : roa	
+sai	South American Indian languages	sud-amérindiennes, langues	r	sai	
+sal	Salishan languages	salishennes, langues	g	nai : sal	
+sdv	Eastern Sudanic languages	soudaniques orientales, langues		ssa : sdv	
+sem	Semitic languages	sémitiques, langues	r	afa : sem	
+sgn	sign languages	langues des signes	g	sgn	
+sio	Siouan languages	sioux, langues	g	nai : sio	
+sit	Sino-Tibetan languages	sino-tibétaines, langues	r	sit	
+sla	Slavic languages	slaves, langues	r	ine : sla	
+smi	Sami languages	sames, langues	r	urj : fiu : smi	
+son	Songhai languages	songhai, langues	g	ssa : son	
+sqj	Albanian languages	albanaises, langues		ine : sqj	
+ssa	Nilo-Saharan languages	nilo-sahariennes, langues	r	ssa	
+syd	Samoyedic languages	samoyèdes, langues		urj : syd	
+tai	Tai languages	tai, langues	r	tai	
+tbq	Tibeto-Burman languages	tibéto-birmanes, langues		sit : tbq	
+trk	Turkic languages	turques, langues		tut : trk	
+tup	Tupi languages	tupi, langues	g	sai : tup	
+tut	Altaic languages	altaïques, langues	r	tut	
+tuw	Tungus languages	toungouses, langues		tut : tuw	
+urj	Uralic languages	ouraliennes, langues		urj	
+wak	Wakashan languages	wakashanes, langues	g	nai : wak	
+wen	Sorbian languages	sorabes, langues	g	ine : sla : zlw : wen	
+xgn	Mongolian languages	mongoles, langues		tut : xgn	
+xnd	Na-Dene languages	na-déné, langues		nai : xnd	
+ypk	Yupik languages	yupik, langues	g	esx : ypk	
+zhx	Chinese (family)	chinois (famille)		sit : zhx	
+zle	East Slavic languages	slaves orientales, langues		ine : sla : zle	
+zls	South Slavic languages	slaves méridionales, langues		ine : sla : zls	
+zlw	West Slavic languages	slaves occidentales, langues		ine : sla : zlw	
+znd	Zande languages	zandé, langues	g	nic : alv : znd
