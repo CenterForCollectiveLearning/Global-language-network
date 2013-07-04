@@ -1,0 +1,3806 @@
+! ! ! ! ! ! ! ! ! ! ! ! ! ! !	zho,7
+! ! ! ! ! ! ! ! ! ! ! ! ! !	zho,8
+! ! ! ! ! ! ! ! ! ! ! ! !	zho,30
+! ! ! ! ! ! ! ! ! ! ! !	zho,7
+! ! ! ! ! ! ! ! ! ! !	zho,5
+! 0lm	deu,252
+! aağa !	tur,31
+! ari-ari-ari !	jpn,7
+! biswas amitava !	eng,11
+! danskammelsrod !	spa,9
+! kaiser	sqi,5
+!! db	eng,6
+!!!!! lesen !!!!!!	deu,5
+!!!!!!!!!!!!!!!!!!!cammellobello	ita,10
+!!!!!adeen!!!!!	fin,365
+!!!!akamcia	pol,111
+!!!alert!!!	ces,13
+!!!desperados!!!	deu,5
+!!!dr.gaio!!!	ita,10
+!!!lolersk8!!!	eng,7
+!!!whus!!!	ita,60
+!!!	jpn,82
+!!!להלהלה!!!	heb,6
+!!2011worldprotests!!	eng,49
+!!8uyvasdaw	eng,8
+!!archie!!	eng,89
+!!gnikmra	eng,10
+!!house down!!	eng,70
+!!lokastory	fra,9
+!!mese!!	fin,9
+!!onpu	jpn,11
+!!sgott	eng,28
+!!suzzy!!	tur,602
+!!viewcountfun1	eng,145
+!!wawawiwa!!	eng,37
+!!weed!!	jpn,12
+!!wrewe	jpn,5
+!!yeahman!!	deu,6
+!!	jpn,3	eng,1448
+!&quot;£$	eng,8
+!*!jodie-2007!*!	eng,5
+!-!z3ta!-!	spa,11
+!---slappdash---!	eng,128
+!--mk--!	fra,8
+!-artmaster	rus,2	ukr,216
+!.!.1	heb,14
+!157	jpn,6
+!1bhansen	eng,15
+!1qqaazz	eng,6
+!51hans	deu,98
+!? $prain me!	eng,6
+!abacus	ita,6
+!achtung!	hbs,42
+!adrianzen25	spa,7
+!alfredo	fra,7
+!arrizog	eng,23
+!astep	ita,18
+!aunbos	eng,7
+!bamitsolly!	eng,5
+!barmaid	fra,13
+!bfvinfo	deu,15
+!blardi	eng,5
+!bob+2!07	eng,7
+!c to the m!	eng,9
+!computeralert!	eng,151
+!culturauniversal™	spa,12
+!darkfire!6'28'14	eng,364
+!do'worix	rus,7
+!dragon	eng,28
+!eddo0!	spa,8
+!eebdfg	jpn,7
+!exp	ita,22
+!fedk	por,6
+!flame! br	rus,5
+!frbzh	fra,5
+!gangsta g home dogg	eng,12
+!general4death!	deu,8
+!hazel!	eng,10
+!hoax	fin,7
+!ilgotah	jpn,6
+!jamieimaj!	eng,26
+!jim	eng,208
+!jrb	eng,9
+!k!r!u!x!	deu,80
+!lee!	lav,11	eng,3
+!llu$ion^	por,12	eng,18
+!mcbloobyenstein!!	eng,19
+!melquiades	eng,168
+!mm0	rus,41
+!mnc99	eng,71
+!monkey!	eng,5
+!musiclova!	eng,9
+!my password is vand!	jpn,8
+!ndream	eng,8
+!normsl1ku	fra,38
+!notrub!	eng,34
+!paradigm!	eng,256
+!penz¡	ita,150
+!php!	msa,74
+!powa	ita,10
+!pso	fra,87
+!qwerty789	jpn,6
+!rick	deu,33
+!ronstone	eng,71
+!r¡€	spa,187
+!saturdaynightwrist	eng,8
+!sayhello	hun,60
+!seakingdood	eng,7
+!seakingman	eng,18
+!sergejmaksimovfromlatvia	eng,5
+!sethgash!	eng,7
+!silent old	fra,8
+!silent	fra,10	ita,14	por,23932	deu,9	eng,85
+!sln-btsts!	tur,28
+!spencer!new	eng,5
+!spoodem	eng,9
+!tch!	rus,7
+!the!bear!max!	eng,7
+!vezzo! ll10	ita,4	eng,6
+!wake up aryans	fas,24
+!waraz!	fin,8
+!ww	jpn,6
+!x0bile	eng,9
+!xo derek	eng,22
+!xoshizzle	eng,25
+!xxnemethxx!	eng,5
+!yantit!	deu,15
+!yesmelissa!	eng,5
+!zero!	deu,5
+!	slv,15	deu,7	heb,4	eng,97
+!糊涂	zho,56
+!センマ	jpn,8
+$ joão $ rico $	por,7
+$ london apartments	eng,54
+$!ara	eng,19
+$!lv3r	deu,5
+$!m9191	fra,16
+$$$ fierce d $$$	eng,6
+$$$- bce -$$$	deu,14
+$$$makemore$$$	eng,32
+$$$t-t-h$$$	eng,6
+$$$	deu,117
+$$drichinsnukka14$$	eng,7
+$$pervoietasch$$	deu,33
+$-vrt	eng,139
+$.a.m.u.e.l.$	deu,60
+$01734071290912$	eng,57
+$1000000000ten0one1	eng,294
+$13dg3	eng,13
+$1lence d00600d	deu,3	eng,12243
+$1lence d0600d	eng,15
+$1ng3rb0y93	ita,5	eng,3
+$200inaire	eng,89
+$250923854abc	zho,39
+$293,021.57!! dayam(!), lookadit climb!	eng,11
+$301,179.46!!! wowie! zowie! kapowie!!	eng,8
+$350	zho,5
+$3th1998	eng,6
+$5 gas will urth kids!	eng,5
+$5 gas	eng,12
+$5forme	eng,10
+$6milliondollarman	eng,24
+$766,642.76..!..!...!...holy !!! caniusethisname,please?	eng,5
+$8.40&amp;me	eng,10
+$?	eng,10
+$@r@h	eng,8
+$ahin	deu,11
+$alome	deu,7
+$alu	swe,63
+$am0var	ita,545
+$andaker	nor,7
+$andokan	deu,5
+$antander	eng,903
+$ari$41	eng,14
+$arou	fra,11
+$array	deu,9
+$atan's$pawn	eng,91
+$ayce	fra,7
+$brollin	eng,8
+$cammer	eng,143
+$carlos=y	spa,25	eng,4
+$ceridian1	eng,8
+$cieno $itter	eng,5
+$cirisme	eng,9
+$cj	eng,7
+$cyberwiz$	eng,29
+$dollarz$	eng,9
+$erg29	rus,15
+$ergio 0923	eng,5
+$eti	eng,115
+$g0ld l34d3r$	eng,6
+$giuseppe$	ita,23
+$h!fty	eng,12
+$had0w	deu,45
+$hadow grinch	eng,8
+$hadow-x	eng,12
+$hady j	eng,5
+$hady$hystergeithner	eng,15
+$hakesbeer	rus,51
+$hanice-16	eng,11
+$harath	kan,8
+$hrine	eng,17
+$iam676	ceb,5
+$id	eng,120
+$ifan1912	eng,31
+$ilencer	eng,5
+$imo 95	ita,9
+$imøÇøÑti	ita,11
+$indbad	eng,11
+$jaison$	deu,5
+$johne89	eng,5
+$laurent	fra,16
+$laveryworldwideinc	eng,9
+$lick9109	eng,7
+$look$likeans	eng,5
+$m1th rus	rus,17
+$magnetic$	rus,6
+$mokey	nld,6
+$n0w0n3	spa,17
+$nake420	eng,9
+$nake887	eng,5
+$nevesso$	eng,16
+$olanum	eng,113
+$olemnolive	eng,6
+$olid $nake	pol,12
+$on of thug$	ara,8
+$onny	deu,41
+$orienome$	zho,11
+$otk2	fin,16
+$p0ng3b0b	eng,5
+$p1tf1r3	eng,7
+$peak cinema	pol,7
+$pecialuser	deu,34
+$peedfreak	deu,7
+$pider	eng,5
+$pr1te	rus,223
+$sesty	fra,7
+$t!13tt0	rus,30
+$tatic	rus,309	eng,8
+$ter!:ng	eng,6
+$teven	nor,98	eng,15
+$teve	eng,12
+$thedollarsign$	eng,74
+$tink0man	eng,40
+$tinu$	deu,31
+$toic	rus,684	eng,8
+$too$h	ita,696
+$traight-$hoota	spa,2	deu,4979	eng,68
+$udhir	eng,7
+$ultan bl	eng,7
+$up3rg1rl	eng,9
+$uper-7	deu,8	nld,2
+$uperman 5	eng,10
+$uppe	deu,11
+$uricate	eng,14
+$weetdude69	eng,9
+$wguser	eng,156
+$yd!	eng,2420
+$ydney	fra,12
+$yenalb$	eng,7
+$yeti	eng,7
+$ëfo!!	fra,13
+%%%%	kor,17
+%=)	eng,7
+%man of%s	eng,6
+%pier%	ita,15677
+%	slv,23	afr,3	eng,2
+&amp;*iskeyed	eng,8
+&amp;aqwézsx	fra,7
+&amp;delta	eng,51
+&amp;ghདดवि书習「天***	heb,7
+&amp;micate&amp;	fra,24
+&amp;orz-lololol	eng,5
+&amp;sigmaf;:-&amp;zeta;)&amp;xi;	fra,33
+&amp;é&quot;'(-è çà)=	fra,13
+&lt;dvanw&gt;	fra,6
+&quot;&quot;	eng,20
+&quot;7ï&amp;Ç!-!ôū&quot;	fra,5
+&quot;alyosha&quot;	eng,587
+&quot;anyone&quot; can edit?...well, alright!!	eng,10
+&quot;cethegus&quot;	deu,31
+&quot;country&quot; bushrod washington	eng,1629
+&quot;d&quot;	eng,615
+&quot;dance magic show1&quot;	eng,6
+&quot;download from a parkbench&quot;	eng,7
+&quot;dr.&quot; kernwein	eng,13
+&quot;emily-xd&quot;	fin,9
+&quot;gothic jj&quot;	fra,10
+&quot;honest&quot; kid	eng,5
+&quot;in avos' we trust&quot;	rus,3	eng,3
+&quot;inkhaw&quot;	tha,44
+&quot;jamy&quot; jen &amp; amy	eng,15
+&quot;jans322	eng,22
+&quot;jerk, beefy!&quot;	eng,90
+&quot;john&quot; 7hjg8	eng,7
+&quot;kp&quot;	eng,15
+&quot;lenrenberg&quot;	fin,21
+&quot;magic in the moonlight&quot;	eng,6
+&quot;moo&quot; he thought	eng,6
+&quot;napulitano&quot; per forza	nap,15
+&quot;nos dessins animés 70-80&quot;	fra,9
+&quot;pana-da beast&quot;	eng,5
+&quot;primitive revolutionaries of china	eng,71
+&quot;r dub 54&quot;	eng,6
+&quot;ramu&quot; ramakrishna reddy	eng,18
+&quot;runter vom gas!&quot;	deu,6
+&quot;slim&quot; jim swenson	eng,5
+&quot;song (reprise)&quot;	eng,6
+&quot;sonntag&quot;	dan,5
+&quot;stone cold&quot; steve austin	por,15
+&quot;the eagle&quot; dynamite	fra,66
+&quot;the game&quot;tripleh	rus,23
+&quot;the insane&quot; mikeal ranes	eng,6
+&quot;the&quot; trev	eng,10
+&quot;tuna75&quot;	fin,5
+&quot;weird al&quot; yankovic	eng,9
+&quot;wrong is right&quot; band	rus,8	ukr,2
+&quot;yes&quot;rhyme-dentity	jpn,15
+&quot;	zho,17	eng,27
+&quot;Відлуння віків&quot;	ukr,38
+' rtnjkk()	eng,8
+'' soul explorer&quot;	eng,5
+''ak'' (the rapper)	eng,12
+''christoper jones''	eng,8
+''latino heat'' eddie guerrero	eng,16
+''rapunzel''	zho,5
+''Кенгуру''	ukr,56
+'); drop table en user	eng,14
+'63 chesapeake	eng,19
+'73 rally sport camaro	eng,5
+'74 jailbreak	eng,15
+'91 hermit	pol,17
+'95twincam	eng,11
+'a kiskiralylány'	hun,8
+'abd al qayyum	fra,37
+'agger	sag,42
+'akwprejv	eng,22
+'althoof knock out'	eng,5
+'alucard!	fra,23
+'angel'	eng,17
+'aq-n-itn	spa,170
+'arry boy	eng,881
+'av some of that	eng,7
+'blaze'	eng,7
+'cause it's no good	eng,13
+'cien	fra,37
+'ey gringo!	eng,21
+'felipe uchiha'	spa,19
+'ff'lo	eng,27
+'flow	eng,23
+'fritz'	deu,82
+'horns06	eng,10
+'ilmulhaq	eng,10
+'inyan	fra,39332	heb,33	eng,56
+'ivan	eng,277
+'iw 'ip ghomey	eng,10
+'jn its hi 4	eng,6
+'katcookie'	eng,9
+'kill-kount' ollie	eng,7
+'king steez' one	eng,5
+'matt'hieu phar'matt'ien	fra,8
+'merikan	eng,45
+'meyers01	nld,6
+'ncilu	scn,7
+'ndrangheta	eng,20
+'niloticus	fin,54
+'o salentino	ita,7
+'o'	eng,5
+'o. la zagna	lat,3	ita,2	bul,11	eng,2
+'orghenya'	eng,10
+'ow do?	eng,12
+'oy'dasiqjaj	eng,5
+'rogis	rus,5
+'s jörgl	deu,9
+'s-gravenhage	eng,31
+'sed	eng,48
+'splodey star	swe,36	eng,22
+'sup, bud	eng,7
+'sweat'inge	eng,8
+'the jps	eng,14
+'til i see some nakedbitċhesdancin'arounddrunktouchin'eachother	spa,15	rus,4	jpn,4
+'tis of thee	eng,7
+'titotor	fra,11
+'uggoth	eng,18
+'ville.09	spa,2147	eng,42
+'zakath	eng,19
+'zaubererauaachen	deu,7
+'Āpiki	swa,2	haw,86	eng,5
+'לודז	deu,7
+( (( sepoo ()	spa,23
+( == : mybigfatjewishnose	eng,7
+( ^ω^)	jpn,14
+( b.althubaiti ( ksu - 21354 - 91	ara,13
+( o o )	fra,45
+( ô ô )	fra,12
+($string)freund	deu,6
+((((( radar )))))	deu,8
+((00six00))	eng,5
+((149470r	eng,8
+((er elias))	spa,5
+((pagename)), get the fuck out before i blast you, motherfucker!	deu,7
+((المحيني))	ara,11
+()	fin,9
+(*'-')ノゆうか	jpn,24
+(*'д'*)	jpn,38
+(*)gfnewton(*)	eng,10
+(*)idontknow(*)	eng,7
+(- -;	jpn,6
+(-:12bob21:-)	eng,12
+(-bcm-)	glg,29
+(. j) a r g o n e l l e	eng,82
+(.y.)	eng,10
+(127.0.0.1)	deu,673
+(14$h	heb,4	eng,24
+(15demoman)	eng,12
+(1989) Братья Стояловы	rus,16	epo,2
+(3) livonia ave. local	eng,86
+(3ucky(3all	eng,152
+(50cent)	ara,1373
+(7x7)-2	eng,5
+(:killroyt	eng,8
+(:pro:)	rus,7
+(;d- hymyilevä takapiru	eng,25
+(= =)	eng,26
+(= ben hamid =)	eng,6
+(=flowissen=)	deu,68
+(=s=)	spa,23	fra,373
+(^0 0^)	jpn,6
+(^∀^)	jpn,6
+(`ヽ´まか)	jpn,8
+(`･ω･´)	jpn,22
+(a) döme (a)	deu,6
+(a)	jpn,282	eng,2
+(aeropagitica)	eng,23876
+(alfishstick)	eng,6
+(anonyme)	fra,468
+(anonyme1)	fra,62
+(anonyme2)	fra,131
+(az)xeus	eng,29
+(ba) molnár dániel	hun,8
+(babylon)	deu,30
+(background)	deu,130
+(bbk)blade	rus,30
+(bidwell) 96	eng,6
+(borttagen användare1)	swe,9
+(boxed)	fin,1645	eng,37
+(boy+girl123)	eng,6
+(c(	jpn,10
+(c) winter-olympic-memories	jpn,51
+(c4) su1c1de b0mber	eng,5
+(ch) rafael	deu,10	eng,5
+(chubbstar)	eng,1519
+(ck)lakeshade	eng,9803
+(cypsy)	dan,2	deu,32
+(cz)genius	ces,6
+(dammi).irque.uoc	sin,101
+(dch)grandragon	eng,11
+(de):athanasian	deu,3	eng,12
+(default)	slk,10
+(didie)	eng,170
+(dilrukshi).irque.uoc	sin,51
+(domo 96)	deu,26
+(e = mc²)	ita,45
+(eemia)	fas,14
+(ej)	hun,17
+(et)t	fra,740	eng,9
+(flagga)	swe,10
+(galaxymaster)	rus,8
+(garbage mad fan)	ita,9
+(gd)	pol,271	deu,6	eng,30
+(harry)	pol,9
+(hun)villy	eng,333
+(ice)king	eng,7
+(ilm)d y	fra,16
+(in)c0d3r	eng,17
+(infinite)	eng,5
+(insert name here)	eng,28
+(insert username here)	eng,5
+(jarbarf)	eng,5161
+(jubi-net)	deu,7
+(just can't get) enough	ita,6
+(k)omafalke	deu,64
+(killers are quiet)	eng,21
+(l)fabiana(l)	spa,5
+(leet) terrorist	eng,7
+(lk)	ces,5
+(mainzer)	eng,9
+(malysh) mmjeschjerjakoff	rus,8
+(mnpnilu).irque.uoc	sin,100
+(mob)deadmeat	eng,24
+(mockingbirds-x)	eng,29
+(monica journey)	eng,8
+(ms)	deu,11	eng,5
+(nazi) adolf hitler	dan,10
+(needs) sir help-a-lot	eng,8
+(nepumuck)	deu,9
+(nie)wszystko wiedzący	pol,9
+(nor)drop	por,14
+(npcserver)	eng,49
+(o o)eh...username?	est,19
+(o)	deu,5
+(o*δ ゛δ)o ・・	jpn,17
+(o.o)eh...username	est,2	eng,3
+(o.o)	slk,12
+(order.) chaos	eng,18
+(pavlovschii andrei)	ron,16
+(prk) awesome	eng,18
+(prk) beast	eng,7
+(prk) ontherun	eng,58
+(ps)	deu,95
+(r)	slk,5
+(removed)	eng,14
+(rinominato)	ita,7
+(roteirista) dedo	por,109
+(références nécessaires)	fra,61
+(s)aint	dan,33
+(sami al-abdgdr(sgp2010	ara,72
+(sic)98	eng,15
+(sic)maggot	rus,25
+(sic)	eng,8
+(sk)	hun,371
+(slyr)bleach	eng,11
+(sock) doc	eng,5
+(t t) lonelygirl09	eng,7
+(tera) michael balogun	eng,6
+(thai)q123	tha,2	eng,4
+(the real) caswell berry	eng,6
+(the real)recreate	eng,16
+(to)	ita,2	eng,25
+(turnip)	eng,26
+(tyrone)	eng,48
+(v+9)(v+14)	jpn,52
+(void*)	eng,25
+(wik)	eng,12
+(worship me)	eng,8
+(www itshixun com)gaoxiaozu	zho,13
+(zod) ph34r3d	eng,10
+(	nld,4	eng,2697
+(¯`·. ·phoenix·. .·¯)	fra,406
+(°u°)	deu,7
+(ô ô)	fra,6
+(み)	jpn,13
+(榮)	jpn,528
+(株)ぶられ。裏会長	jpn,5
+(株)チェリーブロッサム	jpn,6
+(사)캐릭터디자이너협회	kor,9
+(せ^ω^ )	jpn,6
+(゜o゜)	jpn,387
+(ملك عالم الغرام) ريان	ara,31
+(지금은) 소년시대	kor,1941	eng,191	slk,9
+(・肉・)	jpn,18
+(שיחה תרומות)	heb,5
+(関西地方)	jpn,34
+(∑□Δ□	jpn,7
+)(cyberj)(	rus,24
+)(cö!dfirê)(	spa,10
+))ecb((	eng,43
+)-(yphen	deu,7
+)3uthead	eng,8
+)avova(	eng,17
+)ft(tkix%d((z(iosddti%%	fin,2241
+)hussein(10	fra,314
+)pit(	pol,12
+)	epo,2085
+)хокер(	rus,482
+* *	heb,11	eng,2
+* and obelisk	deu,11	msa,4	eng,64
+* choke	por,5
+* jessica***17	eng,5
+* robiert *	pol,10
+* Настурция *	rus,6
+*$marie*night*fox$*	eng,135
+** hµgö cöstä **	spa,4	por,85	ita,5
+** علي العُمَري **	ara,54
+************************************	jpn,7
+******hamsterzilla	fra,5
+*****	jpn,7
+***latour***	deu,11
+***lionboy***	tur,10
+***maxi005***	spa,17
+***ria777***	eng,181
+***ria777	eng,3833
+***sparklin***	eng,5
+***sth***	deu,39
+***thegothic***	pol,7
+***	fra,11
+**amy&amp;lyn&amp;lee**	tur,19
+**au**	deu,5
+**christa	nld,5
+**d**pontifex**s**	deu,5
+**dani**	ita,5	eng,10
+**dave**	eng,373
+**dnzbrk**	tur,5
+**dreamraper**	eng,10
+**ellie**	ita,5
+**fdas	eng,5
+**jdp**	spa,24
+**jmeljefe**	eng,12
+**klantopia**	spa,54
+**macph***	eng,25
+**mech**	eng,141
+**nymphadora**	spa,6
+**rs**2009	rus,8	deu,2	eng,41
+**ultrawikiwizard**	eng,5
+**yvonne**	por,11
+**§(ªrzetª)§**	spa,8
+**Роши**	rus,15
+*+*chickennoodlesoup*+*	eng,10
+*-martin	deu,7
+*-來歌-*	jpn,11
+*0ookubo*	jpn,34
+*1900g76bdy*	spa,3	eng,45
+*62	eng,7
+*70-103-110-1224j	eng,19
+*8*8*	eng,15
+*::3coco::kitty3::*	eng,5
+*=*=*	deu,23
+*a2*	ara,6
+*abc*	deu,241	eng,68
+*abcd*	eng,37
+*aceman 2500	eng,12
+*adam*	eng,8
+*adrifermusic	spa,6
+*aeternicus*	eng,6
+*alby*	ita,985
+*alex-carpediem*	spa,5
+*andzel*	pol,17
+*annie	spa,330
+*athanasia*	ita,7
+*aurora	deu,106
+*aussie*	mkd,19
+*bigman*	rus,48
+*biker*	deu,6
+*bj*	eng,110
+*bloodspiller*	eng,48
+*bow*ner*	eng,13
+*bow-ner*	eng,8
+*boyru*	rus,3	eng,2
+*brew	msa,49	eng,10
+*bsportlerb*	deu,48
+*bungo*	pol,8
+*buscando latas***	spa,5
+*bytewurm	deu,98
+*c*micha*f*	ara,7
+*camisado*	eng,19
+*captain jack sparrow*	eng,8
+*carlos*	spa,9
+*charlotte*	nld,29	eng,2
+*cherique*	nld,5
+*chosen one*	eng,384
+*chris*	spa,82
+*cookie*	ita,160
+*cristian vida*	spa,17
+*cryst4l^dr4g0n*	ita,207
+*csivava*	hun,5
+*cute neo bunnyese*	eng,12
+*d-maseinho*	ita,623
+*daijinryuu*	eng,87
+*dame*	jpn,6
+*darukku*	spa,4	eng,5
+*debo-chan*	spa,8
+*decore*	deu,9
+*delasin	fra,17
+*dominicans*rock*	eng,16
+*draven*	eng,7
+*drem*	eng,32
+*drews	msa,9
+*drillzor*	eng,16
+*drowned*	eng,134
+*duckundweg*	deu,109	eng,5
+*dulce*anahi*	slv,6
+*dy-fuse	eng,285
+*d	eng,8
+*egeria	jpn,13
+*elegirl*	ita,5
+*emi*	ita,11
+*emokids123*	eng,13
+*eva*	deu,5	nld,6
+*evy*splash	ita,103
+*f*	ita,54
+*fairyeyeliner*	eng,10
+*figuristochka*	rus,6
+*finley pedrina*	eng,18
+*flossie*	eng,5
+*fmmh.myir*	jpn,30
+*frasier*	deu,64
+*galad*	spa,28
+*gilabola	msa,6
+*glasgow grin*	eng,8
+*head$ple$$*	deu,7
+*hi cool*u	eng,5
+*hinata*1029	jpn,15
+*hobbs*	eng,6
+*i'm lost!*	hun,296
+*igorchornukha	rus,22
+*jamila1*	eng,5
+*jb	eng,143
+*jd	eng,6
+*johanna*1992	deu,19
+*johanna*d	deu,7
+*johnny*1234567890	eng,5
+*jonas*	nld,12
+*josephine85*	ita,2	eng,307
+*jules*	ita,5
+*justus1648	deu,7
+*kat*	deu,3	eng,4779
+*kay	deu,5	eng,11
+*khi người ta trẻ*	jpn,10	eng,15	hbs,3	vie,3
+*kikof*	fra,22
+*kutaka(-lu)	eng,64
+*ladyd*	rus,5
+*legion*	eng,12
+*lfr*	deu,12
+*lightmax*	deu,5
+*little john*	eng,5
+*liverguts*	eng,8
+*lizzy16	eng,7
+*lolita haze*	eng,18
+*lonewolf*89	ita,11
+*lordhelmchen*	deu,21
+*luna*	ita,898	eng,37
+*m-andi*	deu,414
+*madziusss* xd	pol,5
+*mae*	eng,5
+*mandrax	ita,50
+*marco1511*	deu,9
+*mariangela* 007	spa,6
+*marvoloe*rised*	deu,15
+*max*	eng,182
+*mebeu14*	eng,27
+*medha*	eng,7
+*miamika*	pol,16
+*miciell*	jpn,37
+*miellyn*	deu,18
+*miss miller*	slv,12
+*misscharmedone*	eng,27
+*mizuki*	jpn,62
+*msc.yoset*	spa,141
+*my*boots*	eng,5
+*myl2000*	eng,32
+*mystic*	eng,1184
+*nadi*	bar,12
+*nausikaa*	eng,6
+*newkidontheblock*	deu,8
+*nicepiccolo*	deu,15
+*nick lachey*	nld,148
+*niel*-*dieter*	spa,10
+*nondescript	eng,43
+*normalgamer*	eng,103
+*nto	ita,20
+*o* *o* *o* *o* q-q	zho,5
+*one*piece*	eng,7
+*osmeh...	hbs,10
+*p*n*c*r	eng,5
+*p-marc	deu,169
+*pamity	eng,14
+*paranoya*	deu,18
+*patricia*	nld,833
+*paul*	eng,3574
+*pazmal*	spa,46	eng,27
+*pettra*	slv,6
+*piccolaliceale*	ita,5
+*pilot*	eng,6
+*rammstein*	eng,15
+*raphael*	ita,4325
+*rebekahnoulton*	eng,7
+*redrubyrock*	eng,24
+*reoc*	eng,37
+*ria777*	eng,463
+*robert*	dan,6
+*rolleseyes*	nld,38
+*rolleyes*	deu,145	eng,4
+*rv*	fra,6
+*s*	eng,9
+*s-t-e-p-h-e-n*	eng,6
+*s.p.f.c. fabio*	por,36
+*sailor sky*	eng,13
+*sam*	eng,68
+*sammy*	fra,198
+*samus aran*	fra,104
+*sannethy*	eng,8
+*sans-papiers*	fra,6
+*seuf(t)z*	deu,5
+*sgr*	deu,252	eng,14
+*shary-p.i.n.k.*	spa,49
+*siberian*	eng,13
+*silver eagle*	fra,7
+*skevins*	deu,36
+*slits*	fra,5
+*smb	eng,95
+*smile*	deu,80
+*smurky	eng,5
+*smy*simay	tur,12
+*someone42*	eng,98
+*spatz*	deu,33
+*star*	eng,7
+*star^river*	eng,40
+*star	eng,23
+*stéphanie rannou	fra,11
+*sugarr*	eng,7
+*superlight*	swe,5
+*surak*	lat,8	epo,51	deu,458	eng,37
+*susan popplewell*	eng,8
+*thainá*	por,10
+*thanatos1981*	deu,6
+*theres*	deu,6
+*theserpentine*	eng,24
+*tischkante*	deu,293
+*tpc* clan	eng,12
+*truzzo delta*	ita,29
+*turquoise moon*	eng,13
+*tutti x una*	ita,5
+*ulla*	deu,6	eng,554
+*unforgivable*	ita,15	eng,149
+*uur*	tur,60
+*vaidya*tilak*	eng,7
+*vas*dave	eng,8
+*volbeat*	deu,12
+*waldheinz*	deu,12
+*wert-	eng,6
+*white sheep*	deu,14
+*whitherose*	ita,74
+*wiki gs*	deu,6
+*wilfred*	eng,59
+*wpausa'	eng,15
+*wx*shion de Áries	por,8
+*xcl*	eng,20
+*xerxes135*	eng,5
+*yukio okumura*	eng,22
+*zerog*	ita,76
+*zonda	rus,8
+*zso*	nld,6
+*	rus,118	eng,5
+*口*...	zho,10
+*光*	kor,5
+*興*	kor,5
+*乾*	kor,6
+*光隆*	kor,11
+*光明*	kor,5
+*혜성*	kor,5
+*淸明*	kor,6
+*하늘*	kor,6
+*محبة العلم*	ara,11
+*よかよき*	jpn,337
+*キャラメル*	jpn,14
+*الغامض*	ara,13
+*Αλέξανδρος	deu,4	ell,6602	eng,33
++ + mythman or mothman? + +	eng,10
++ ixtapa6 +	eng,64
++ metalmetalmetal +	ita,6
++*+שיר+*+	heb,5
++++atdt123	eng,7
++++muva+++	deu,6
+++archbishopbooney	eng,23
+++galileo2005++	deu,29
+++gardenfriend++	deu,3594
+++martin++	eng,51
+++octavedupont++	deu,7
+++ungood	eng,107
+++	deu,22
++0-lje	eng,28
++1baka	eng,12
++20 exp	eng,36
++2as	eng,16
++9m m9+	eng,21
++::jessica::+	eng,5
++ak74+	ita,5	eng,3
++aledse+	deu,6
++aramis+	spa,51
++ecoice	eng,8
++forgetmenot+	jpn,8
++fredi+	deu,36
++freegift	eng,20
++gdkd`ty	jpn,9
++gujhin+	spa,5
++j.j.c+ok	eng,17
++johnny723	hun,12	eng,5
++la	deu,110
++listo del word	spa,8
++misanthrop+	deu,65
++op dokey	eng,14
++random nws+	eng,17
++rebecke+	deu,7
++shipilov	rus,27
++sorano+	rus,5
++spqr	eng,33
++stevenikaido+	eng,23
++u3)u!^ 7!3n	eng,132
++victorinox	zho,6
++virtue+	eng,8
++	fra,9	swe,70	nor,2
++星霜+	jpn,9
++可愛+天使	msa,8	zho,252	eng,46
+,,,	fra,13
+,,me,,	fin,9
+,,n	eng,457
+,.hjkyhuikrtdh	eng,10
+,abvjk	spa,5
+,esocsorr flaoner	deu,5
+,folwar'	ces,5
+,j,ubho	heb,14
+,k,;hk,hjjhyl;j,	eng,5
+,mjkldwj	jpn,5
+,thtujdcrbq	rus,15
+- )	eng,1079
+- - - -	fra,42
+- - -	por,30	eng,62
+- -rock n roll-	eng,12
+- -	eng,19
+- -凸	zho,7	eng,6
+- 36	eng,6
+- 37	eng,12
+- 38	eng,10
+- 40	eng,33
+- 41	eng,16
+- 42	eng,58
+- 44	eng,7
+- 45	eng,7
+- 49	eng,69
+- b a l l s i g n -	eng,154
+- barbapapa -	fra,19
+- bom -	ita,8
+- carl l. thunberg, red. -	swe,108
+- chocolateicecreamhotcocoa	eng,10
+- damnnië	por,57
+- fantomas -dm	fra,57
+- filice	ita,5
+- frost -	eng,6
+- frédéric -	fra,56
+- guipastana -	por,77
+- kamino -	fra,68
+- lelo -	por,33	eng,35
+- m -	spa,57
+- martin -	deu,15
+- martin	eng,98
+- masher -	pol,5
+- mizzim.	jpn,10
+- nugopac e6y4uu' -	ukr,7
+- nutellina	ita,6
+- paaah	por,7
+- quentin -	fra,10
+- rocknskate -	por,19
+- silvia -	ita,8
+- slash -	ita,12
+- slc -	fra,36
+- tarja	por,11
+- tsr - nth man	eng,3951
+- uck -	deu,5
+- vioviolaine -	fra,83
+- wikigirl	por,8
+- zx -	por,256
+-! Ü vaffanculo Ü !-	ita,27
+-(@)=(@)-	jpn,5
+-) 2006	eng,5
+-)sa(-menthro	eng,8
+-)	rus,797	heb,3	eng,2
+-*-steph-*-	eng,6
+-,rolle	deu,6
+-- -- --	eng,1630
+-- april	eng,3183
+-- thilo --	deu,77
+-----dash-----	nld,30
+-----	jpn,8	eng,5
+----	fin,31	jpn,10
+---adam---	eng,5
+---esh24	eng,7
+---imaen---	eng,12
+---moksha---	eng,12
+---ncux---	rus,6
+---ridge 256---	kor,11
+---sol---	eng,19
+---teddy---teddy---	fra,10
+---	deu,12
+---終了---	jpn,26
+--;	eng,33
+--=the doctor=--	eng,62
+--=titanus=--	deu,196
+--=wurdy=--	ita,7
+--advisor	rus,587
+--alina - oav--	rus,60
+--archon--	deu,52
+--bernd	deu,19
+--bmcsithu--	eng,7
+--bouron	rus,8
+--chugun	rus,14
+--colibri--	eng,96
+--destroy1948--my-	deu,80
+--dodo	deu,13
+--dr jorgen	rus,8
+--erlendc--	nor,12
+--exxxxxcel	rus,37
+--fmd--	spa,641
+--gekkie--	nld,6
+--greenday--	deu,16
+--hawk--	eng,12
+--hin	rus,7
+--huji	rus,5
+--hyphen	eng,7
+--ilia yasny	rus,12
+--j--	eng,13
+--k--	eng,45
+--last man--	deu,95
+--little--sis--	est,34
+--luckas--	por,23
+--marcela--95	por,147
+--mato	rus,18
+--maxxx--	ara,33
+--mrs.vince.noir	eng,6
+--mx	ces,14
+--nata--	deu,7
+--orionus	rus,22
+--phips	rus,7
+--ril--	eng,5
+--salsero	rus,7
+--sam--	deu,5
+--samepaul	rus,5
+--sentinel r	rus,22
+--shmexii-emo--	eng,7
+--stefanosteo--	eng,27
+--strattus--	eng,59
+--tarik--06	tur,17
+--tauraloke	rus,46
+--tbas	eng,22
+--tyler durden--	deu,7
+--vladimir ivanov	rus,12
+--voodoo3dfx--	ita,10
+--w--	fin,795
+--wikinoob--	nld,30
+--xenadance--	eng,6
+--	ita,3	jpn,12	deu,1050
+--~~~~	deu,7
+--Зигфрид	rus,13
+-. ----. ··---	fin,22
+-.-.-ends-.-.-	spa,15
+-.barbie.killah.-	deu,17
+-.sldhsk.-	eng,10
+-.zack.-	deu,9
+-0-	eng,9
+-000	eng,152
+-001abandon	ben,11	eng,19
+-0zxyzxy-	ita,20
+-11abe11-	jpn,6
+-12ronald12-	spa,78	eng,11
+-1348-	eng,104
+-17-	deu,23
+-19s.137.93.171	eng,96
+-1jkr2-	eng,6
+-2oc outside-alex latham	eng,86
+-40c	eng,132
+-5-	eng,72316
+-7r33sspi73-	eng,5
+-80+95	spa,35
+-:ksa:-twinturboskyline	eng,14
+-=(tim)=-	eng,55
+-=-=dark=-=-	eng,22
+-=5a5=- tom	rus,8
+-=alesska=-	rus,16
+-=aviator16=-	rus,6
+-=bmv=-	rus,18
+-=caos zeta=-	ita,116
+-=cerßerus=-	nld,15	eng,3
+-=chainsaw gringo=-	eng,9
+-=che=-	eng,14
+-=crunky=-	deu,5
+-=draven=-	deu,6
+-=driver=-	rus,14
+-=el pingu=-	fra,985
+-=eminem=-fan-=	rus,10
+-=fearless1945=-	rus,647
+-=gnoom=-	rus,7
+-=hobbit=-lr	eng,10
+-=hyperzond=-	eng,277
+-=italian advisory=-	eng,5
+-=mufta=-	cat,11
+-=nexis=-	deu,203
+-=noha-nour=-	eng,5
+-=photon=-	eng,32
+-=r3n3gad3=-	deu,8
+-=reytbson=-	spa,24
+-=ripvanw=-	deu,19
+-=rizzo=-	eng,20
+-=robby=-reloaded	deu,6
+-=sergame=-	rus,8
+-=sergio=-	deu,11
+-=skynet=-	eng,24
+-=starbuck=-	deu,32
+-=swed=-	rus,75
+-=tim=-	eng,9
+-=toprider=-	deu,9
+-=tropov=-	rus,7
+-=twist of fate=-	rus,5
+-=v!ru$=-	pol,65
+-^glorfindel^-1	eng,11
+-`lüis´-	deu,435
+-a-d-lynch-	eng,7
+-aanti-	deu,5
+-abdullah-	eng,27
+-abe	spa,148
+-accl-	msa,17
+-acl-	eng,180
+-aco-	deu,5
+-adjective noun adjective-	eng,5
+-adrian-	spa,6
+-ak-	slk,184
+-aldi-	deu,19	eng,12
+-ale-	eng,6
+-alex-xardas-	rus,20	eng,5
+-alex-	spa,55	eng,32
+-alpha-	eng,6
+-alx	eng,7
+-al	eng,43
+-amortentia-	tur,12
+-amylee-	deu,15
+-andrea-	ita,64
+-andrÉs nieto-	spa,1087
+-angela-jong-	zho,9
+-ani-	deu,78
+-anne-	nld,561
+-anthony-	eng,1749
+-antonius-	eng,24
+-ark-	spa,5
+-armin-	deu,31
+-arondoran	nor,22
+-arsenic-	eng,5
+-asdf404-	fin,9
+-asx-	eng,546
+-av3ng3r8-	eng,6
+-avp-	fra,26
+-aw-	deu,24
+-aware-proud-	rus,27
+-axl-	tha,10
+-az19	rus,12
+-azj-	fin,5
+-a	eng,75
+-baceto-	bul,18
+-backtobasics	deu,13
+-bak+trak-	eng,10
+-barry-	eng,1368
+-bartek-	pol,8
+-basilisk-	deu,134
+-bast-	fra,10
+-bc-kakashi	eng,15
+-bc109c-	eng,30
+-beautiful dirt-	deu,7
+-becckyy	eng,5
+-benni-	deu,230
+-berqvist-	nor,13
+-bhoebe	fin,8
+-bilal190399-	fra,39
+-bilal92-	eng,17
+-black mage-	eng,13
+-black60-	ita,6
+-blackbird91-	ita,22
+-blackhole-2012-	tha,6
+-blackknight-	eng,10
+-bobby	eng,691
+-boris-	deu,67
+-boyetier93-	eng,7
+-brandirawr	eng,5
+-bsv-	rus,11	ukr,22
+-buddhist-	eng,50
+-byj-	eng,5
+-b	eng,654
+-cal-	eng,7
+-calum-r-	eng,14
+-card-	fin,23
+-carinchen-	deu,7	eng,5
+-carlo.z-	ita,227	eng,2
+-carton-	fra,27
+-castellano2008-	spa,497
+-casualty-	eng,31
+-cbones-	deu,15
+-centraspike-	eng,9
+-cerberus	eng,32
+-cerise-	fra,5
+-cfh	swe,23
+-chippy-	eng,13
+-chiyo-mihama-	eng,34
+-chris-	eng,5
+-christopher-	est,22
+-cid	rus,14
+-cirrus-	fin,7
+-cman-	eng,25
+-cmpunk-	tur,682
+-colt-	deu,153
+-cometa-	ita,107
+-crowyan-	fra,11
+-cuber-	deu,192	ita,7
+-cute-	deu,8
+-cx	fra,19
+-d-e-r-t-e-s-t-e-r-	deu,38	eng,2
+-dam-	spa,1246
+-dan-	ita,5
+-daniel-	deu,150	eng,13
+-dansun-	eng,6
+-darkfire-	deu,17
+-darkphoenix-	eng,10
+-dave-	eng,7
+-daxter500-	spa,8
+-dead'scream-	deu,51
+-decending-december-	eng,7
+-delt t	deu,8
+-demosthenes-	eng,197
+-dennis-	nld,167	eng,63
+-dense-	eng,20
+-df-	spa,8	ces,1578	nor,3	eng,27
+-diane-	deu,5
+-dif-1891	swe,52
+-discóbolo-	spa,10
+-dist-	eng,21
+-djd-	eng,147
+-djsiniestros	eng,23
+-djsinietro	eng,20
+-donald-	deu,315	hbs,4
+-dono-	eng,8
+-doãn hiến-	vie,13
+-dragonmaster-	fin,8231
+-dreamincolor2	nld,12	eng,10
+-drits	eng,6
+-drumhead-:	rus,147
+-duffy-hi	deu,7
+-dun	por,9
+-durandal-	eng,19
+-dw-	deu,61
+-d	deu,9
+-dávid19980926-	hun,5
+-edwin-	eng,135
+-ego-	bul,43	eng,3
+-elo-	ita,194
+-emanuele-	ita,77	eng,6
+-emi-	spa,13
+-emiel-pokemon-	nld,21
+-emil1990-	deu,6
+-eminado-	deu,10
+-enzyklop-	deu,1160
+-erdal	eng,55
+-erick- (usurped)	eng,5
+-erick-	spa,10729	eng,55
+-erik-	nld,10
+-eta-the outsider	eng,5
+-eugene-	rus,22
+-eve-	deu,21
+-evzeppelin-	spa,12
+-eyesgreen	rus,15
+-eyma-	deu,47
+-fabio92-	ita,5
+-fan-of-trance-	pol,9
+-fangorn-	tur,238
+-fawkes-	cat,121
+-fcsarrebruck-	deu,20
+-feniksguillaume-	nld,5
+-fg-	deu,622
+-fidito-	spa,6
+-finx-	fra,48
+-fin	deu,24	eng,56
+-fire-	eng,35
+-firebird-	deu,42
+-flare-	eng,7
+-flo-	deu,15
+-flo	deu,40
+-fool-	eng,6
+-frank-	nld,10	eng,254
+-fred-	fra,13
+-freebird-	eng,37
+-freezing moon-	ita,13
+-frenzy-	eng,60
+-friedrich-	deu,29
+-frosty-	eng,72
+-garret-	eng,10
+-ginkgobiloba-	fra,9	eng,73
+-graystripe	nld,6
+-grd-	ces,18
+-grg-	ita,22
+-grom-	fra,36
+-grover	eng,22
+-gt-zero	deu,6
+-h5n1-	deu,50
+-hawkeye-	ron,34
+-hegar-	deu,6
+-hellscream-	swe,5
+-hh	eng,129
+-hk-snow	eng,5
+-human	deu,13
+-hyde-	ita,563	eng,4
+-ida-	nor,3	eng,33
+-idda-	fin,12
+-idenisi-	rus,36
+-ig0r	eng,9
+-ilhador-	por,52	eng,544
+-inanna-	eng,1249
+-indigo-	deu,6
+-ingriiid	spa,29
+-interw	deu,32
+-iraqieagle-	ara,41
+-italo-	ita,9
+-j-k-h-	nor,18
+-jacquie-	ltz,7
+-jake-	eng,18
+-jalomax-203-	fra,32
+-janus-	eng,7
+-janv34-	deu,7
+-javier-	spa,48
+-javiercielosur-	spa,8
+-jb	deu,5
+-jeppe-	fin,13
+-jeqz!-	fin,32
+-jha-	deu,15960	eng,2
+-jiřík-	ces,15
+-jkbx-	deu,19
+-jmac-	eng,344
+-johan-	eng,5
+-johnny-	eng,7
+-jonatinhas-	por,569	eng,46
+-jonni h-	deu,10
+-jon	eng,5
+-jp-	swe,5	eng,985
+-js-	pol,293	eng,2370
+-juju-x3	deu,25	eng,6
+-juniot-	pol,5
+-juno-	eng,9
+-justin-	deu,7	eng,2
+-jän van göth-	spa,5
+-k -j - il	eng,6
+-k-	eng,19
+-k18t-	eng,11
+-k19-	ita,5
+-kacken-	deu,13
+-kajimaru-	por,4	eng,2
+-kaktus-	slv,45
+-karsten-	deu,34
+-kayac-	fra,47	ita,12138	eng,8
+-kazaku-	eng,9
+-keeleykins-	eng,5
+-keith-wigdor-	eng,10
+-kemisti-	fin,5
+-kerplunk-	eng,359
+-khing-	tha,102
+-kiesel-	deu,404
+-kikyo-	eng,5
+-kinsella-90-	eng,8
+-kitsune	deu,244
+-kjb-	slk,6
+-kj	eng,30
+-kkm	rus,6	eng,4
+-kobilca-	slv,31
+-kokid-	nor,19
+-kripta-	eng,10
+-kris-	nor,152
+-krol-	ita,2923
+-ktośik-	pol,53
+-kuerbis	deu,28
+-kukuruzas-	lit,10
+-kylej	eng,50
+-kyo-	deu,13
+-lalo-	spa,16
+-lars-	nld,1000
+-lawless-is-one	eng,11
+-lcarl-	spa,9
+-le gaillard chauve-	fra,24
+-leinad-	eng,5
+-lemmy-	spa,377	eng,4880	deu,4158	cat,523
+-ler	deu,634
+-liam-	eng,5
+-liery-	rus,44
+-lightweight-	deu,5
+-lilà	por,11
+-linc da legend-	eng,6
+-lion-	eng,6
+-livedeath-	tur,54
+-llchaosll-	eng,14
+-loarrat-	rus,11
+-lolo666-	fra,5
+-lord	deu,106	eng,27
+-lorena-	ita,9
+-losqualo-	ita,5
+-lostboy-	eng,107
+-lothario-	eng,21
+-lrz-	ita,6
+-lt.frag-	eng,7
+-lukejohnson-	eng,14
+-luke	deu,20
+-lulu-	eng,51
+-lumière	eng,403
+-lurifax-	eng,12
+-lx-	deu,6
+-m-i-k-e-y-	eng,435
+-m-	afr,6
+-maarten-	nld,56
+-mac-	deu,5
+-magicgirl	por,26
+-maik-	deu,28
+-majestic-	fin,5144	deu,8	eng,10947
+-makaveli-	nor,36
+-mantis-	ita,82
+-mar$-	deu,44
+-marcela'95pe.	por,19
+-marcus-	fin,7	deu,32	eng,6941
+-mark-	deu,2681
+-martin-	spa,11
+-mastermind-	eng,10
+-mathias-	swe,6
+-mathias	eng,21
+-matm-	eng,27
+-matteo37-	ita,8	eng,2
+-matthäus-	deu,36
+-mazda-	ita,6
+-me-	eng,70
+-mea	fin,7
+-memo-	deu,278
+-memo44-	tur,408
+-merlin	deu,5
+-metaxu-	pol,31
+-mf-	ita,47
+-mib-	ces,10
+-michaela-	eng,52
+-midorihana-	eng,4917
+-mikey07	deu,13
+-miksa-	deu,5
+-miwi	deu,8
+-mj	eng,37
+-moment-	ita,7
+-morgenstern-	deu,198
+-mosez	deu,23
+-mph-	ces,7
+-mr.bangbasher-	eng,12
+-mr.dodge-	fin,51
+-mszmp-	hun,10	eng,14
+-mushroom	eng,104
+-n!xon-	eng,7
+-n2o-	fra,5
+-nando-	spa,10
+-nekel-	eng,64
+-nemanjans-	eng,5
+-nemo-87	ita,29
+-neo.	eng,7
+-nepomuk-	deu,44
+-nerd-1-2	spa,5
+-nerd-	deu,14
+-nerdi	deu,10
+-ni-ni-s-	eng,47
+-nicky-	deu,12
+-nicoc	por,18
+-nicolas-	fra,10
+-nighthawk-	swe,166
+-nightwarrior91-	spa,13
+-nik3-	ces,55
+-nikolo-2	ces,1126
+-niobe-	deu,16
+-nmd77950	eng,39
+-nmd	fra,8113	eng,16
+-noname112-	deu,42
+-nothingman-	swe,31293	deu,13	nor,3	eng,167
+-nyk-	ces,6
+-nylih-	fin,16
+-o-o-	deu,146
+-o-p-	fin,45
+-oleg-xxl-	rus,6
+-ondri-	eng,2	ces,47	slk,15
+-oo-	deu,51	eng,17
+-oo0(goldtrader)0oo-	eng,1225
+-oopsie-	eng,512
+-ost-kure	msa,10
+-oush	por,24
+-ozone-	eng,278
+-p-	eng,20
+-pac-	deu,7	eng,5
+-pacemak0r-	deu,22
+-painkiller-	fin,13
+-papinian-	deu,430
+-paradox-	eng,10
+-pat46-	nld,12
+-patrick92-	deu,19
+-paul-	ron,287	eng,238
+-paul™	nld,7
+-pdp-	deu,6
+-philipp	deu,16	eng,5
+-phoenix-	rus,3088	ukr,24	deu,4	eng,27
+-photochopper-	eng,5
+-piojoso-	spa,118
+-planetarian-	eng,14
+-pop-korn-	rus,7
+-prabab	pol,71
+-proxy-	deu,7
+-prpm-	eng,6
+-q-	fra,10
+-qq?pp-3	kor,5
+-qq?pp-	kor,75
+-questor-	nld,5
+-quincey.v-	eng,13
+-r-	heb,34
+-rafa-	eng,13
+-rain-	eng,6
+-raito95-	ita,15
+-ramz-	swe,144	eng,258
+-ray-	eng,5
+-rayer-	spa,5
+-reaper-	eng,47
+-reikäpallo-	fin,12
+-respresent---72	eng,33
+-rest- anarko	spa,7
+-rf-	deu,732	eng,2
+-ril-	eng,10158
+-ritaeerie-	fra,12
+-robert-	nld,7
+-robin37	deu,5
+-rob	deu,36
+-rocoz-	nld,6
+-rodrigues-	fra,633
+-ronny-	eng,8
+-rontaril-	eng,15
+-roope-	fin,16
+-ross616-	eng,178
+-roxas-	fra,210
+-roxas26-	fra,25
+-rudi-	deu,9
+-rusa	por,12
+-sa-	eng,203
+-saint-	heb,9	eng,16
+-salih-sbs-oks-	tur,5	kur,2
+-sampku-	fin,5
+-sasa.vac-	ces,9
+-saxon-	deu,98
+-sche	deu,6	eng,20
+-schuetti-	deu,6
+-sd-	eng,30
+-seb-	spa,1485	nld,9	nor,7
+-sebi-	deu,21	eng,2
+-selena-gomez-	ron,7
+-septimus-	eng,17
+-sexbox360	eng,6
+-sf-	rus,2	ukr,25
+-sgd-fan-	deu,6
+-shade-	fin,123
+-shaitan-	eng,101
+-sheidow-	fra,5
+-shill-	eng,5
+-sil-	eng,27
+-silvynx	deu,2	eng,20
+-sinn-	jpn,14
+-sinthesis-	eng,8
+-skulls-	fin,5
+-sky-	ita,14
+-slovenec-	slv,308
+-smileymiley-	est,28
+-snyder-	por,9	eng,10
+-son of mrlob-	eng,8
+-sonygamer	eng,7
+-spectra-mv	jpn,77
+-spidersencer-	nld,451	eng,2
+-st-	eng,13
+-stamps95	eng,277
+-starter-	eng,34
+-stefan	deu,51
+-steve-	deu,7
+-stewey-	eng,7
+-stk	deu,134
+-strawberry-fields-	eng,15
+-stunner-	eng,16
+-superman-	eng,65
+-sweenyy-	eng,7
+-swi-	deu,7
+-szepiet-	pol,10
+-tabib	eng,7
+-takt-	rus,14
+-tayjeew-	zho,52
+-tehz-	eng,10
+-teo-	tur,27
+-test-aaaa	jpn,29
+-tharikifa-	eng,60
+-the bold guy-	eng,1291
+-the great one-	eng,286
+-the mole-	eng,13
+-the warden-	ita,68
+-the-muffin-man-	eng,86
+-the-rocket-147-	eng,972
+-thed-	dan,6
+-thekasbah-	eng,13
+-thomas-	deu,43
+-tikay-	deu,74
+-tiktak-	pol,19
+-timmtim-	nld,6
+-tinde-	eng,11
+-tk-	deu,50
+-tn-	ces,8
+-toby-	ces,11
+-tom-	deu,78	eng,4
+-tommyboy2-	nld,7
+-tomo-	jpn,67
+-trebor-	nld,12	eng,4
+-trickter-.	spa,56
+-ts-	eng,40
+-tsugaru-	eng,30
+-tt-	deu,14
+-ttebayo	eng,30
+-ttg splice-	eng,5
+-turbopanda.123	eng,23
+-typh0n 666-	tur,14
+-ugly-	fin,17
+-vagrant-	eng,18
+-vega	hbs,109
+-vem-	ces,9
+-vesikaivo-	fin,276
+-viikate	eng,25
+-vl-	eng,16
+-vladserg-	rus,40
+-vonurb	eng,14
+-vovka-	rus,20
+-vraneth-	spa,19
+-vvv-jeroen-	eng,8
+-wa-	eng,28
+-walrus1234-	eng,77
+-walter453	spa,6
+-werewolfy-	spa,2	eng,5	cat,12
+-westmount-	fra,21
+-wiki-	fin,21
+-wikiphile-	eng,5
+-williamandresr	spa,15	eng,2
+-wintermute-	eng,16
+-wolliwolli-	eng,26	por,2	deu,4347
+-woot-	eng,5
+-wr-	fin,8
+-wrathofconn	eng,7
+-wsm-	rus,16	ukr,92
+-wvu-dohfast	eng,5
+-wyst-	deu,10
+-x-annie-x-	spa,5
+-x-kiarna-x-	eng,6
+-x-way-	fin,9	eng,89
+-xcamrockx-	eng,9
+-xenus-	swe,15
+-xerman-	spa,6
+-xgossipgirl	eng,7
+-xiii-	deu,87
+-xjuliax-	deu,20
+-xox-goodey-xox-	eng,5
+-xwingsx-	eng,82
+-yeti-	fra,8
+-yunn mello-	spa,5
+-zayumi-	deu,11	eng,6
+-zeitouny-	eng,6
+-zhz-	eng,8
+-zvegr-	rus,6
+-zymeth-	fil,5
+-	slv,24
+-Ãrýn-	deu,71
+-Ådne-	nor,491
+-Ðêåth-™	eng,7
+-渺-	zho,14
+-まあ-	jpn,22
+-蒼神-	jpn,39
+-תום-	heb,225
+-ДКА-	rus,11
+-רביד לשירותך-	heb,9
+-Владимир-Лит	rus,9
+. . sebastian . .	deu,48
+. jamiehughes	eng,22
+. magdysalh	ara,13
+.*wikiholic*.	eng,5
+.*	eng,45
+.,rot	eng,6
+.-lewza-.	fin,16
+.-smrock-.	spa,9
+.-tux	deu,14
+..-. ..- -.-. -.- ..-	eng,34
+... but a war broke out	eng,12
+... for estonia (ee)!	eng,19
+... to a summersday?	deu,37
+...*bad copy*...	hbs,6
+...---...sos	msa,160	eng,132
+..................	fra,130
+..........	jpn,5	eng,2
+......	pol,3	jpn,67	eng,2
+.....v.....	eng,11
+.....	fra,7	jpn,73
+....crunk&amp;b....artist....	eng,10
+....thomas7.,....	deu,5
+....	zho,4	eng,3
+...678	eng,8
+...adam...	eng,1111
+...ale...	ita,5
+...and beyond!	eng,151
+...and the circus leaves town	eng,9
+...angelita...	ita,779
+...ce	jpn,6
+...ds	kor,16
+...et le truand	fra,15
+...flex...	eng,6
+...gerrit...ku...	deu,15
+...gotier...	fra,11
+...hank...	cat,8
+...kaledoscope...	eng,8
+...kanocode...	eng,14
+...laine12...	eng,6
+...lord zarcon	ita,44
+...lov me...	ara,12
+...malluco...	por,1720
+...qhrguscjf99...	kor,205
+...speedtook...	deu,14
+...the point is to change it	eng,56
+...xupalo wiki qlia:...	spa,8
+...zzz...	spa,31
+...	pol,7	eng,16	slk,32
+..99elena99..	fin,7
+..::jaypollock::..	eng,10
+..::lonely-girl::..	hun,29
+..::shadowing::..	deu,7
+..altin Çocuk..	tur,6
+..angel.girl..	spa,16
+..avril..	deu,8
+..bz17	jpn,731
+..elena..	spa,24
+..gator..king..	eng,7
+..james..	eng,5
+..l dqb l..	tha,7
+..marimc..	spa,2	eng,8
+..phenom..	spa,3150
+..playa187..	eng,22
+..sevii..	eng,72
+..t.k.	nor,9
+..ttt..	eng,39	kor,5484	jpn,6	cat,2
+..zammechat	eng,40
+..đĕvĩŧŧa..	nld,12
+.0	eng,86
+.132.205.256.256	eng,45
+.1337.	eng,6
+.17kanuru.walker.stu	eng,6
+.22addict	eng,5
+.45colt	eng,121
+.50bmg germany	deu,5
+.511 mev	eng,8
+.7g.	eng,5
+.84.150.203.194	deu,131
+.: dh. hassan :.	ara,5
+.: fix you :.	ita,35
+.:.critical.:.	eng,9
+.:.sugnim.:.	eng,10
+.:.	eng,33
+.::.	eng,15
+.::::ramses676:.....41	spa,8
+.::alex::.	spa,8
+.::arbitrary::.	zho,3	eng,162
+.::buildanarmy::.	eng,5
+.::coyeller::.	spa,5
+.::icy fire lord::.	eng,8
+.::jjb::.	eng,63
+.:a+0m:.	rus,12
+.:adam:.	pol,24
+.:alex:.	eng,4274
+.:andrea:.	ita,19
+.:bÄr	deu,24
+.:charmed butterflie:.	eng,29
+.:corehack:.	eng,8
+.:dan!x:.	spa,8
+.:debil:.	eng,78
+.:elspeth:.	pol,5
+.:evanescence:.67	spa,11
+.:evilescense:.	spa,18
+.:forever harry potter:.	eng,5
+.:frida:.	nor,19
+.:glg:.	tur,7
+.:habbo-007:.	spa,9
+.:happy pills:.	ita,66
+.:jenni:.	eng,87
+.:juan:.	spa,5
+.:k4o$:.	ita,9
+.:kenn:.	deu,62
+.:lyndsay:.	spa,10
+.:mcep:.	spa,15
+.:meryl:.	ita,18
+.:mmsagent:.	eng,26
+.:neo.x.winfreak:.	deu,6
+.:nicky:.	eng,59
+.:pan wiedźmin:.	pol,26
+.:pvillage:.	deu,12
+.:rocio:.	spa,6
+.:romanticrevenge:.	ita,7
+.:ryuk:.	ita,13
+.:sde:.	heb,8
+.:spino:.	spa,18
+.:thisismewheni'mbored:.	eng,6
+.:valeentin:.	spa,17
+.:wooter:.	slk,5
+.:София А:.	rus,36
+.^.	eng,8
+.absolution.	eng,128
+.admiss.	hun,76
+.agentia	spa,6
+.aidez-moi	fra,8
+.aiko	deu,274	ita,9
+.al-kimiya	fin,52
+.alberto.90™	ita,8
+.alcedo.	ita,59
+.alchin007	eng,11
+.alexus.	rus,12
+.allyson.	ita,5
+.alternative	eng,19
+.alyn.post. (usurped)	eng,8
+.alyn.post.	jbo,10	eng,130
+.archbishop kelly	eng,6
+.auc colombia.	spa,13
+.b(heat)m.	eng,9
+.bulldog	eng,14
+.c h i c k e n	ita,24
+.calle.	deu,45
+.calvinus.magister.	ita,18
+.charles21	spa,5
+.cosme.	eng,255
+.cruzaperea.2012	eng,15
+.cybee	rus,5
+.c	eng,6
+.d.	deu,7
+.d0t	deu,12
+.david	eng,6
+.de'boss	ara,1138	eng,4
+.derf	eng,41
+.deshindand	eng,86
+.digamma	eng,244
+.emuminjis.	jbo,31
+.emuzest.	jbo,126
+.erax	rus,8
+.exe	deu,42
+.exotech	deu,339
+.facs	eng,24
+.fatimuccia1	ita,5
+.fla	deu,67
+.fry	rus,32
+.geesharma	eng,15
+.gimeee.	spa,24
+.gio	ita,15
+.gologorski a	heb,6
+.gremlin.alex	eng,23
+.gs8	deu,47
+.hack linux	jpn,6
+.hack ryoske	jpn,19
+.hack wiki	jpn,27
+.hacker	jpn,14
+.hackmaster	eng,20
+.hathen	eng,7
+.hd	deu,725
+.hephaestos.	eng,7
+.hnk	jpn,7
+.holger	deu,56	eng,6
+.hoplite	nld,15
+.isika	eng,53
+.it	eng,75
+.ivan the awesome.	eng,12
+.j 1. .1.gm1t	eng,5
+.jarbasnetoo	por,21
+.jbi	ita,12
+.jeff.spectre.	eng,26
+.joserra.el.mas.vakitas.	spa,7
+.josé	roh,7	spa,32938	fra,4	eng,45
+.jsber	eng,11
+.jsk.	kom,30
+.kin	rus,38
+.kit0x	jpn,16	eng,2
+.kkursor	rus,168
+.k	eng,532
+.la 99e endive.	fra,12
+.lacika1204.	hun,126
+.lauriob.	fin,43
+.learned.fool.	eng,15
+.lil-boi14::	eng,6
+.lil.	eng,303
+.lo.	deu,1014
+.love.is.war.	sah,3	deu,58	eng,4
+.m...	jpn,1099
+.mag	deu,15450
+.marc.	eng,745	nld,8143
+.marfil.	spa,112
+.marlin85.	ita,81
+.matt	eng,9
+.mdk.	eng,7880
+.melodiousnocturne.1	eng,7
+.melo	spa,32
+.melusin	fra,4814	eng,9
+.meredith.	eng,6
+.mike.	deu,12
+.momo.	ita,273
+.mylu	spa,14
+.mysterious.girŁ.	slv,7
+.m	swe,36	eng,8
+.n.synopsys	spa,168
+.nase	spa,29
+.nergal	eng,232
+.net	zho,271
+.niamh.	hbs,19
+.nick2011.	rus,22
+.nix	eng,70
+.noob	deu,10
+.o.	eng,35
+.oisyn	eng,29
+.onda.	ces,27	eng,2
+.onion	eng,92
+.ootraceyoo.	eng,58
+.oowolkeoo.	deu,11
+.org	por,15	eng,8
+.page.	hun,21
+.person.	eng,17
+.phil.	eng,251
+.psycho	deu,5
+.pwnii	deu,66
+.qwrx	dan,2	deu,148
+.rafael	por,7
+.renommé 17	fra,5
+.renommé 33	fra,10
+.renommé 44	fra,5
+.renommé 47	fra,5
+.renommé 70	fra,8
+.renommé 7	fra,6
+.renommé59	fra,15
+.rex, regis	fra,15
+.rhavin	deu,578	eng,2
+.richmond.:	eng,29
+.roflmao.	fra,5
+.rov3r	eng,20
+.rt0x	jpn,57
+.rukia fujioka.	eng,6
+.sailor.moon.rules.	eng,80
+.saper	pol,47
+.schkling.	fra,23
+.schwrz	eng,58
+.scott.	eng,7
+.screen	ita,138	eng,19
+.scu	rus,5
+.sergio	spa,22453	deu,8
+.sever!ty^-	eng,224
+.shimonsha	heb,5
+.shironeko+	jpn,160
+.silent	rus,20
+.simo.	ita,10
+.sinnsuke	jpn,10
+.skye.	eng,28
+.skylight. .flyna,	fra,5
+.sn.whrt	jpn,46
+.starr cole.:	eng,60
+.s	eng,8
+.tatti.	por,15
+.tekrox	eng,25
+.telus.	eng,9
+.thegameismine	eng,10
+.ti.mi.do.	por,6
+.tiger	deu,27
+.tkqj	eng,11
+.tom.	eng,44
+.tomasio	deu,34
+.toms.	eng,5
+.tom	deu,399	eng,5
+.untitled.	deu,18
+.v.	eng,1677
+.ven	ita,120
+.vwbug1.	eng,10
+.weisswurstfressender bayer	deu,15
+.wiki.pedian.	eng,7
+.wiki	bul,17
+.x3x.	eng,6
+.xel.	eng,8
+.xew	jpn,29
+.xigallardoix.	eng,6
+.xjjbx.	eng,8
+.xtopheer	spa,65
+.xxx.to mega therion.xxx.	eng,27
+.x	deu,663	eng,6
+.yoba33	eng,11
+.yume.	ita,12	eng,3
+.zao.	eng,48
+.zerkin	deu,24
+.zsusko.	hun,14
+.ztech	jpn,21
+.~.	deu,36
+.●๋•¤→ rhappyyy ←¤•๋●.	por,12
+.研究舎プロジェクト	jpn,16
+0 8 15 *g*!	deu,5
+0 alan 0	eng,5
+0 bear gryllz 0	eng,9
+0 derece	tur,5
+0 noctis 0	ita,62
+0 o : lols because the underscore fails	eng,5
+0 patatero.	spa,20	por,11	cat,21
+0 sabaku no gaara 0	eng,12
+0 stare	pol,17
+0 tellurium	eng,29
+0 ̲ o	eng,10
+0'.12.1.0.n	eng,8
+0'brain	rus,4	eng,2
+0+48t7	fin,99
+0--spanglish--0	eng,7
+0-0-0-destruct-0	eng,219
+0-0-7	rus,33
+0-0t	jpn,5
+0-172	eng,253
+0-8	eng,45
+0-bob-0	eng,23
+0-hutchy-0	eng,14
+0-jay-parmar-0	eng,45
+0-jenny-0	eng,222
+0-marko-0	fin,34	eng,5
+0-orbit	eng,14
+0-supanova-0	eng,5
+0-verstaste	fra,95
+0-xy	jpn,13
+0.39	eng,823
+0.3sibe	deu,9
+0.9346271awsomekid	eng,5
+0.o.lxl.o.0	eng,7
+00 buckshot	eng,8
+00 diver ice	eng,25
+00 e	fin,15
+00 riot 00	eng,7
+00-an'naï$-00	fra,6
+00-cwarren	eng,129
+00-rattle	eng,7
+00.03 rumor	eng,20
+00.marcel	deu,5
+000-000-000	eng,12
+000.nico	fra,6
+0000000000h 6	eng,9
+00000000r	spa,5
+0000000	jpn,7
+0000001	eng,84
+000000aaaaaaa	por,5
+00000crnl00000	deu,14
+000010110	swe,4	eng,2
+000012	eng,165
+000023	eng,44
+000029t	eng,7
+0000a	eng,5
+0000dcb	fra,13
+0000dd	eng,10
+0000ff	deu,322	eng,12	nld,3	ita,2
+0000ruhe0000	deu,152
+0000snake	eng,18
+0000taanstaafl0000	eng,29
+0000zero	eng,22
+00011122a	zho,2	eng,27
+0001ande	eng,12
+0001jackal	eng,10
+0001	jpn,3	hbs,89	eng,97
+0002228ppp	jpn,11
+0006083調	jpn,8
+0007 rty	eng,23
+0007sascha	deu,6
+00098	jpn,10
+000ace000	eng,66
+000bluesky000	eng,8
+000cranleigh000sauce000	eng,5
+000dani000	deu,17
+000fd00022	swe,7
+000francesca000	eng,22
+000jaw	eng,38
+000ken	jpn,126
+000luca000	eng,6
+000lynx	eng,14
+000mag	spa,7
+000malt000	eng,6
+000masa000	deu,6	eng,119
+000nemo000	eng,5
+000n	eng,5
+000person000	eng,6
+000sergio000	por,7
+000spencer	eng,8
+000vortex	rus,3	pol,2	ukr,2
+000w000	fra,5
+000w	jpn,21
+000zero	eng,5
+000	por,5	eng,5
+001.anand	eng,32
+0010011	eng,11
+00101010	deu,14
+001012a	eng,139
+00110001	eng,52
+00112233	eng,13
+00114455pp	jpn,11
+00129	eng,7
+0014 kuma	jpn,15
+001am013	zho,8
+001asoer	eng,7
+001comic	zho,19
+001gberg	eng,8
+001iruleu100	eng,5
+001merp	eng,6
+001on003	jpn,11
+001timmins	eng,13
+001	por,31	deu,2	ell,7
+001－Ｍ	jpn,129
+0025paperboy	eng,8
+002ambrosia	eng,5
+002houston	eng,16
+002kflash052	eng,35
+0030520dv	eng,320
+0033fm	jpn,63
+00340	jpn,13
+0037	eng,27
+004307ec	zho,5	eng,2
+0047ab	jpn,6	eng,3
+004kako004	fas,5
+004satcho	ben,134	eng,12
+00504sevel	eng,9
+00527	eng,53
+0053040	deu,6
+0055kimmie	eng,6
+006 janus	spa,5
+006036ab	tur,7
+00666	eng,312
+006796a	zho,5
+0067hiski	fin,14
+006	jpn,56	nld,11	zho,39	eng,4
+007 arab	swe,5
+007 argentina	eng,9
+007 buick century	eng,7
+007 dürnkrut	deu,111
+007 hunter13	eng,6
+007 jah	eng,5
+007 jb	tur,5
+007 roadrunner	nld,11
+007 the james	eng,14
+007-goldeneye	eng,26
+007-iaim	deu,9
+007-wppk	jpn,7
+007003s	eng,33
+007007wiki	eng,45
+007177yanni	eng,12
+0073	jpn,49
+007a83	eng,9
+007agentka	slk,27
+007agent	deu,13	eng,2
+007anibal007	spa,6
+007antoine	fra,25
+007applepie	eng,7
+007ay	eng,5
+007bandit	nor,145
+007bistromath	eng,15
+007blue	eng,6
+007blur007	eng,188
+007bondfan1992	eng,14
+007bond	eng,355
+007ceycey007	tur,5
+007chicao	por,12
+007copperfield	spa,51
+007craft	eng,62
+007croc	eng,6
+007david	eng,30
+007den	eng,21
+007dj25	eng,5
+007dna	eng,9
+007double	deu,45
+007e0007e	eng,19
+007exterminator	eng,8
+007fan28	eng,44
+007flavien	fra,21
+007fonda	hun,8
+007go	jpn,5
+007gregor	pol,6
+007holywolf	rus,4	est,6	fin,5	eng,105
+007hsh	spa,8
+007india	eng,9
+007intraining	eng,38
+007ixen	deu,67
+007jackpot	fra,20
+007jami	tur,18
+007jc	eng,27
+007jj	eng,7
+007joshjosh	eng,38
+007ketan	eng,63
+007kis	eng,35
+007kz	eng,104
+007marcin007	pol,38
+007master	rus,2501
+007meetswhitby	eng,6
+007montenegro	hbs,5
+007márkünynö	hun,10
+007nathan	eng,25
+007nico	deu,10
+007nites	eng,60
+007nl.com	nld,5
+007oguz	tur,31
+007pablo	pol,10
+007pankaj	eng,6
+007patrice	fra,27
+007patrick	eng,14
+007phantom	eng,6
+007pig	zho,5
+007pranoy	eng,85
+007predator12	eng,5
+007redbond	eng,11
+007ricsi	hun,23
+007rocks	eng,9
+007said	spa,6
+007salmon007	eng,8
+007sam	fra,51
+007sarodim	eng,12
+007seaany	eng,9
+007spyguy7	eng,16
+007steve3	eng,6
+007sweden	swe,7
+007s	jpn,21
+007vegito	eng,21
+007xxx	eng,114
+007zoo	fin,1269	eng,6
+00870077	eng,12
+008bartender	ita,25	eng,7
+008xtreme	eng,101
+008	eng,135
+00908	eng,19
+00974type	kor,8
+009852	zho,5
+0098huh	eng,9
+009b	rus,9
+009earth	tha,19
+009f	eng,12
+009maverick	eng,5
+009mike	eng,42
+009rcker	eng,9
+009x	eng,6
+009zzz	jpn,43
+009	pol,384
+00a00a0aa	eng,67
+00a7mad00	ara,447	eng,2
+00aaro	eng,6
+00ace	eng,6
+00adrian2	nor,10
+00alesmi	eng,15
+00amnesiac00	eng,5
+00andrea00	ita,284
+00anton	deu,19
+00augustus00	slk,21
+00awebb	eng,5
+00ber error	eng,6
+00berry00	eng,17
+00bigboy	eng,6
+00bob11	eng,5
+00brien	eng,12
+00brycey	eng,7
+00cakebrea	eng,18
+00chips	eng,18
+00christian00	eng,5
+00dahc	eng,26
+00danny1212	eng,17
+00das00	eng,5
+00dave	eng,6
+00delorean00	eng,8
+00disword00	jpn,17
+00dl's	eng,27
+00dl	deu,5
+00duver00	spa,5
+00echeng00	eng,27
+00emy00	ita,34
+00eregos00	eng,12
+00erisi	nor,8
+00fakir00	fra,5
+00fever	eng,28
+00fjohns	eng,5
+00frodo3	eng,5
+00frodo69	eng,5
+00frodov2	eng,6
+00frodo	eng,39
+00g3l3ym00g3l3y	eng,24
+00gazvanim	eng,57
+00ghost27	fin,9
+00ghz	ron,15
+00goldeneye	eng,62
+00gym00	spa,59
+00h45	fra,6
+00hail13	eng,8
+00hara	eng,6
+00haste	eng,9
+00hub00	rus,5
+00iddy	eng,69
+00iq	hun,7
+00jack	jpn,77
+00jamie00	eng,30
+00jaws00	eng,10
+00jayhind	eng,33
+00jdaley	eng,6
+00jdg00	eng,105
+00jejus	jpn,7
+00jennifer00	nld,6
+00johnny	eng,9
+00jonnyk	eng,11
+00joseph00	eng,5
+00jo	deu,43
+00jq	eng,9
+00juanpy00	spa,363
+00kallen00	spa,45
+00kar000lcia00	pol,6
+00karloz00	spa,9
+00kille00	deu,5
+00kysp00ky	eng,5
+00ky	pol,37	ukr,27	eng,9
+00k	jpn,12
+00ladyluck00	eng,15
+00levib	eng,18
+00liadon	eng,7
+00link1785	eng,26
+00lone3	eng,15
+00mag00	eng,64
+00martinez	spa,94
+00marvam	eng,5
+00matrixphoenix00	ita,7
+00matt00	spa,1678	nor,3
+00matthi	deu,5
+00meliebraune7249	jpn,18
+00merv00	eng,5
+00miro00	slv,12	eng,7
+00mn1ck	rus,32
+00negativ	deu,23	eng,2
+00newen	eng,24
+00nono00	ara,94
+00oo00xxxx	spa,5
+00ookkmm	pol,9
+00oo	jpn,10
+00p2115	eng,9
+00penguin00	eng,13
+00pj	eng,11
+00psyche00	eng,7
+00ragora00	deu,2	eng,26
+00robinsonn	eng,5
+00romanl	eng,5
+00rundevilrun00	eng,4	vie,3
+00s00	rus,16
+00saints66	eng,7
+00schneider	deu,3	eng,5
+00se7en00	eng,110
+00sin01	hif,265	eng,15
+00small	eng,24
+00smitty00	eng,14
+00sora00	eng,5
+00soul	eng,5
+00squirrel	eng,20
+00stick	eng,5
+00svo	eng,10
+00thetruth	eng,95
+00thurstonj	eng,6
+00timcheng	eng,13
+00tony	eng,40
+00torsion00	eng,8
+00totti00	eng,6
+00tristan00	fra,5
+00tu	eng,46
+00u2024	jpn,459
+00user001	eng,12
+00uzytkownik00	pol,6
+00vicky00	eng,14
+00vis	eng,120
+00vivienchiu	eng,21
+00wagon	eng,11
+00warlord00	eng,29
+00welt00	por,7
+00wwe	jpn,6
+00x00	eng,7
+00ykj00	jpn,436
+00yumi	spa,11
+00zero	spa,7
+00zion00	eng,21
+00zk	eng,7
+00zocker00	deu,94
+00	spa,2	deu,3
+00نگار	fas,19
+01 !	eng,13
+01 chrism	eng,27
+01 data 10	eng,24
+01 nio	ita,7
+01!w3r	swe,6
+01-05-2551	tha,6
+01-judge	eng,18
+01000001a	eng,9
+01000100 w 01000010	eng,21
+01001	eng,294
+01006556tomoya200	jpn,9
+0100ful	spa,21
+0100	jpn,26
+0101 grace06	eng,33
+0101 waie	eng,15
+0101000	jpn,5
+0101010101010101010101guy	eng,13
+01010101010101aaa	eng,83
+010101011	eng,12
+01011000	eng,1160
+010114692a	eng,6
+0101ahyuyu06	eng,8
+0101alison06	eng,49
+0101alisonlam06	eng,91
+0101amber06	eng,202
+0101andyho06	eng,40
+0101angel06	eng,61
+0101angelatky06	eng,135
+0101anita06	eng,45
+0101anson06	eng,43
+0101antonie06	eng,126
+0101ariel06	eng,64
+0101arlei06	eng,5
+0101aru06	eng,10
+0101ausy	eng,23
+0101ba07	eng,27
+0101bessie06	eng,127
+0101betty06	eng,39
+0101carinaleung06	eng,20
+0101carmen06	eng,35
+0101carol06	eng,70
+0101ccty06	eng,24
+0101chanfuk	eng,7
+0101chanhk. 0101	eng,296
+0101chanhm	eng,13
+0101chankay	eng,7
+0101chankh	eng,29
+0101chankk	eng,32
+0101chankyh	eng,21
+0101chanky	eng,12
+0101chanlc	eng,24
+0101chanlf	eng,54
+0101chanmm	eng,8
+0101chanmwlydia	eng,12
+0101chanmw	eng,42
+0101chanps	eng,17
+0101chansc	eng,13
+0101chansh	eng,25
+0101chansk	eng,96
+0101chansy	eng,12
+0101chantk	eng,16
+0101chanwh	eng,21
+0101chanwy	eng,19
+0101chanyc	eng,35
+0101chanyk	eng,17
+0101chanyw	eng,22
+0101chauwy	eng,18
+0101chengcw	eng,21
+0101chenghn	eng,6
+0101chengkm	eng,23
+0101chengkwc	eng,5
+0101chengky	eng,22
+0101chengsk	eng,30
+0101chengsw	eng,35
+0101chengty	eng,6
+0101chengwy	eng,36
+0101chengyk	eng,5
+0101chengyp	eng,35
+0101chengytf	eng,19
+0101cherlee	eng,29
+0101cherrylui06	eng,42
+0101cher	eng,14
+0101cheunght	eng,31
+0101cheunghy	eng,16
+0101cheungkh	eng,82
+0101cheungkyj	eng,11
+0101cheungwc	eng,20
+0101cheungwl	eng,10
+0101cheungwsj	eng,32
+0101cheungws	eng,16
+0101cheungyy	eng,20
+0101chingkwan06	eng,65
+0101chinsy	eng,22
+0101chisum06	eng,47
+0101chiuhy	eng,12
+0101chiunc	eng,22
+0101chiutl	eng,15
+0101chiuwy	eng,26
+0101choct	eng,7
+0101choiyyj	eng,49
+0101chongmt	eng,62
+0101chongys	eng,14
+0101chowmy	eng,34
+0101chows.	eng,35
+0101chowyw	eng,111
+0101choywk	eng,18
+0101choyws	eng,38
+0101christina06	eng,75
+0101christineng06	eng,94
+0101chuky	eng,17
+0101chungdaeun	eng,15
+0101chungjhk	eng,15
+0101cindy06	eng,38
+0101cmesh07	eng,13
+0101colin06	eng,124
+0101conrad06	eng,18
+0101crepe06	eng,94
+0101crystal06	eng,34
+0101david06	eng,84
+0101eileen06	eng,30
+0101ellalee06	eng,29
+0101emilie06	eng,45
+0101fancy	eng,52
+0101fanhk	eng,60
+0101fungchy	eng,10
+0101funghy	eng,30
+0101ghadir06	eng,15
+0101gina06	eng,34
+0101gudjonssoni	eng,32
+0101hannah06	eng,50
+0101hannahfa	eng,65
+0101hazel06	eng,14
+0101hku07	eng,8
+0101hocc	eng,117
+0101hohl	eng,28
+0101hohy	eng,48
+0101holm	eng,31
+0101hotammy06	eng,16
+0101howardlo06	eng,46
+0101huangx	eng,91
+0101huikk	eng,6
+0101huiml	eng,54
+0101huioym	eng,12
+0101huly	eng,50
+0101hungch	eng,51
+0101hungmm	eng,57
+0101hungtbannie	eng,30
+0101iamivypoon06	eng,25
+0101ian06	eng,104
+0101inmedia07	eng,5
+0101isabella06	eng,99
+0101jackiechan06	eng,6
+0101jade06	eng,53
+0101jan06	eng,38
+0101janet06	eng,57
+0101jania06	eng,28
+0101jaygon06	eng,12
+0101jaymee06	eng,39
+0101jen06	eng,58
+0101joeyleung06	eng,35
+0101journal07	eng,11
+0101kamhy	eng,29
+0101kami06	zho,8	eng,52
+0101kamkk	eng,45
+0101kamt	eng,21
+0101kd007906	eng,6
+0101kelvin.ng06	eng,18
+0101kenneth06	eng,47
+0101kennis06	eng,55
+0101kikz06	eng,104
+0101kissssty06	eng,92
+0101kk06	eng,41
+0101kongkh	eng,74
+0101kongwlw	eng,24
+0101kristi06	eng,25
+0101kungsf	eng,66
+0101kwanps	eng,47
+0101kwokcy	eng,54
+0101kwoksk	eng,33
+0101kywinnie06	eng,26
+0101laikay	eng,19
+0101laiky	eng,19
+0101laioy	eng,11
+0101laism	eng,145
+0101laisy	eng,92
+0101laiyl	eng,45
+0101lamcy	eng,57
+0101lamkp	eng,78
+0101lammt	eng,12
+0101lamsy	eng,45
+0101lamyk	eng,11
+0101laumh	eng,21
+0101lausk	eng,16
+0101lausm	eng,23
+0101lauws	eng,27
+0101lauwywa	eng,30
+0101lawsy	eng,28
+0101lawyte	eng,9
+0101laylasue06	eng,25
+0101leegj	eng,29
+0101leelm	eng,13
+0101leeny	eng,5
+0101leesc	eng,9
+0101leesk	eng,34
+0101leewif	eng,18
+0101leews	eng,33
+0101leewy	eng,67
+0101leeyy	eng,85
+0101leslie06	eng,10
+0101leungcarol	eng,10
+0101leungcy	eng,123
+0101leungkl	eng,20
+0101leungkm	eng,11
+0101leungky	eng,39
+0101leungsf	eng,13
+0101leungws	eng,31
+0101leungykk	eng,26
+0101lidy	eng,18
+0101lihm	eng,47
+0101lij	eng,42
+0101lindy	eng,8
+0101lipy	eng,19
+0101lisk	eng,19
+0101litc	eng,16
+0101liuch	eng,16
+0101liuyf	eng,16
+0101liuyi冥国公主	eng,33
+0101liyl	eng,45
+0101liy	eng,28
+0101liz06	eng,35
+0101lo-peach	eng,24
+0101locw	eng,90
+0101lokaman	eng,17
+0101lokp	eng,6
+0101lorettaho06	eng,74
+0101luciawang06	eng,154
+0101luihl	eng,10
+0101luikc	eng,11
+0101luikw marco	eng,69
+0101luiml	eng,61
+0101luiyg	eng,12
+0101lungkm	eng,30
+0101maggie06	eng,55
+0101maggiema06	eng,26
+0101makht	eng,16
+0101mankm	eng,10
+0101margaretren06	eng,73
+0101mary06	eng,28
+0101mediapower07	eng,18
+0101melo06	eng,55
+0101michael06	eng,13
+0101midterm07	eng,15
+0101mimi06	eng,12
+0101miniho06	eng,88
+0101miuct	eng,11
+0101momo06	eng,20
+0101morris06	eng,29
+0101ngco	eng,8
+0101nghk	eng,22
+0101nghm	eng,33
+0101nghoisin	eng,14
+0101ngks	eng,9
+0101ngmk	eng,64
+0101ngms	eng,14
+0101ngpcn	eng,27
+0101ngtn	eng,54
+0101ngyh	eng,25
+0101nialeung06	eng,31
+0101novus06	eng,42
+0101nungnsc	eng,34
+0101pangky	eng,14
+0101pangth	eng,13
+0101pera06	eng,95
+0101piaojw	eng,38
+0101puny	eng,52
+0101qianqian06	eng,68
+0101queenz06	eng,19
+0101quistie06	eng,15
+0101rachel 07	eng,12
+0101sandraho06	eng,89
+0101sarahwk06	eng,55
+0101sherry06	eng,109
+0101sheungyng06	eng,79
+0101shiehkc	eng,10
+0101shirley06	eng,245
+0101simon06	eng,70
+0101sinhs	eng,7
+0101soht	eng,84
+0101songky	eng,9
+0101sowk	eng,96
+0101soym	eng,8
+0101ss06	eng,62
+0101stella06	eng,69
+0101sukitian06	eng,80
+0101sunny06	eng,37
+0101susanne06	zho,2	eng,59
+0101syshum06	eng,36
+0101szepwe	eng,28
+0101taitcdc	eng,17
+0101takka06	eng,28
+0101tamcy	eng,17
+0101tanghk	eng,17
+0101tangkl	eng,11
+0101tangkm	eng,22
+0101tangmc	eng,7
+0101tangsf	eng,42
+0101tangst	eng,17
+0101tangwl	eng,15
+0101tangws	eng,25
+0101tangwy	eng,16
+0101ta	eng,54
+0101tiffin06	eng,50
+0101tifflam06	eng,13
+0101tina06	eng,152
+0101tinang06	eng,25
+0101tingsf	eng,6
+0101tongck	eng,43
+0101tonykung06	eng,19
+0101tox	eng,11
+0101tranc	eng,42
+0101tsanglm	eng,21
+0101tsangmk	eng,16
+0101tsangyk	eng,19
+0101tsefh	eng,27
+0101tsemandy06	eng,19
+0101tseps	eng,28
+0101tsoiyy	eng,22
+0101tsuiyy	eng,23
+0101vien06	eng,35
+0101vivian06	eng,131
+0101waiys	eng,78
+0101wangrr	eng,19
+0101wanty	eng,38
+0101wanwy	eng,19
+0101watkatz06	eng,15
+0101weiyi06	eng,43
+0101winky06	eng,7
+0101winnieho06	eng,16
+0101wongcyj	eng,12
+0101wongcy	eng,8
+0101wongfm	eng,8
+0101wonghy	eng,7
+0101wongkm	eng,13
+0101wongkp	eng,26
+0101wongky	eng,11
+0101wonglh	eng,138
+0101wongol	eng,25
+0101wongoy	eng,117
+0101wongpl	eng,21
+0101wongsh	eng,20
+0101wongsk	eng,9
+0101wongsy	eng,25
+0101wongv	eng,41
+0101wongwsc	eng,8
+0101wongws	eng,19
+0101wongyh	eng,27
+0101wongy	eng,10
+0101wuhy	eng,21
+0101wukaman06	eng,74
+0101wuky	eng,9
+0101wuws	eng,26
+0101xuecanfly06	eng,52
+0101yangl	eng,31
+0101yansed06	eng,67
+0101yautc	eng,24
+0101yauwsf	eng,7
+0101yen06	eng,100
+0101yeunghy	eng,14
+0101yeungyl	eng,20
+0101yipch	eng,7
+0101yipd	eng,9
+0101yipkw	eng,7
+0101yipnw	eng,33
+0101yipwy	eng,57
+0101yolandatai06	eng,62
+0101younghy	eng,28
+0101yuenkm	eng,17
+0101yuenyp	eng,11
+0101yuewm	eng,15
+0101yuh	eng,8
+0101yuka06	eng,100
+0101yukw	eng,9
+0101yungyy	eng,14
+0101yuyw	eng,17
+0101zehrag	eng,47
+0101zhangy	eng,39
+0101zhaoh	eng,52
+0101zia06	eng,55
+0101zoeng06	eng,16
+0102ad	eng,7
+0102afifpucdlroweht	eng,27
+0102afifpucdlrow	eng,5
+0104832	eng,5
+010509ily	eng,6
+010579stubbs	eng,5
+01101001	eng,24
+0110idff	eng,8
+01110111zeroone	eng,18
+01112669cocorouta	jpn,14
+0111you	jpn,11
+0111	eng,77
+0114-suraimu	jpn,48
+011assasin	eng,5
+011mbarnes	eng,24
+011nicholasnick09	vie,9
+012-enfance	fra,20
+012-site	fra,13
+0120s07	jpn,5
+0121448	eng,7
+0123456789nik	eng,5
+01234567ab	eng,8
+0123xabbu	deu,5
+01243billyc	eng,19
+01253	eng,8
+01254740a	eng,7
+01255c	eng,14
+0127	hun,166	eng,24
+0128312345	eng,5
+01293847565647389201abc	eng,9
+012bond	eng,25
+012marvic	eng,6
+012maximus345	deu,928
+012noobnoob012	eng,6
+01375 sabk	eng,7
+01375aks	jpn,5
+013tm	eng,5
+0142ksh	kor,5
+0147	jpn,37
+0149784rr	eng,96
+014	jpn,5
+0150114	deu,6
+0154aichi	jpn,6
+01560 es diego	eng,23
+01574871	eng,35
+0157webmaster	eng,10
+015graves	eng,6
+0164boz	nld,14
+016iman	eng,463
+0171reg	rus,53
+019045dc	eng,6
+0196nick	eng,24
+019893kennic	eng,18
+019lr	jpn,5
+01:36, 21 june 2006	eng,39
+01abd	deu,22
+01adam	eng,7
+01adanli	deu,5
+01alex01	eng,7
+01andr1d	eng,15
+01az	jpn,9
+01bambern77	eng,5
+01bemounce	eng,184
+01bw02	eng,22
+01casas	eng,5
+01casey	eng,51
+01charger	eng,5
+01chris02	eng,5
+01crusea	eng,5
+01dadshj	eng,9
+01devil13	eng,8
+01didier	fra,8
+01e5ca2a	deu,16
+01elena	rus,5
+01fieldo	eng,19
+01firestarter2	eng,11
+01firestarter	nld,23	eng,2
+01gricer	eng,57
+01griste	eng,32
+01halliwel	eng,18
+01haydndavies	eng,7
+01hmonggirl	eng,21
+01holsm01	eng,5
+01ic18362	nld,6
+01ic21317	nld,15
+01jacknielsen	dan,7
+01jnorth	eng,16
+01jsmyth	eng,113
+01jteo	eng,11
+01jtiong	eng,7
+01kjcarr	eng,6
+01kkk	eng,413
+01ktw	jpn,18
+01lander	eng,150
+01liny	eng,6
+01livesp	eng,6
+01magical02	eng,10
+01matpez	swe,10
+01maycancellationlist	eng,6
+01md5	eng,6
+01melanieeditor	eng,8
+01mf02	deu,11
+01nerdman01	eng,8
+01ohnidlanoronaldinho10	eng,12
+01or0710	eng,5
+01p88o	eng,17
+01pradeepreddy	eng,6
+01pxl	eng,6
+01raina	msa,498	eng,32
+01rayws	eng,52
+01rl	eng,25
+01satkins	eng,10
+01sbrightwell	eng,276
+01seaman	jpn,8
+01seashell	eng,6
+01sebastian	eng,6
+01shante	eng,5
+01sharpj	eng,86
+01silverbullet	eng,6
+01smicha	eng,5
+01steven	eng,6
+01sturner	eng,17
+01tedip	eng,12
+01timtsc01	deu,81
+01twincam	eng,22
+01wake	jpn,5
+01website	fra,8
+01x445	deu,21
+01xcolour	eng,17
+01yusu	eng,16
+01zaporozhets	eng,23
+01	fra,5	deu,27
+020102	deu,5
+0202gogo	eng,46
+0204sm	jpn,11
+02071988	eng,7
+0207848m	eng,10
+020796rs	eng,5
+020808	eng,103
+020alexbrown	eng,7
+020browncat	eng,6
+020informatie	nld,32
+021-adilk	eng,14
+02106ywy	eng,9
+021089	deu,7
+021198p	zho,6
+0211	deu,6
+02132user	eng,31
+02138abc	eng,54
+0219631	eng,18
+0219jjm	kor,5
+021kasra	fas,13
+0222	eng,37
+022bwdbe	deu,12
+022helpek	swe,5
+023badboy023	nld,7
+023yangbo	zho,53
+024512i8i5i	jpn,63
+024	jpn,25
+02500	eng,12
+0258ajfja082fja08aj	eng,7
+0261bax	fas,10
+0261mza	spa,6
+026fatih	tur,7
+027370xx	eng,6
+027441205ha	eng,18
+027826	eng,5
+027huds	eng,52
+027mal3007	dan,6
+027renato	spa,10
+027wh	eng,10
+028pbf	eng,5
+0292	eng,7
+029747shiro	jpn,6
+029cleanser	jpn,10
+02abraro	eng,15
+02ad01	eng,5
+02anneho	eng,13
+02ashfords	eng,18
+02auyeungtinchun	eng,73
+02barryc	eng,177
+02beber	eng,9
+02bhar	eng,5
+02bjahed	eng,45
+02blythed	eng,3119
+02bucs	eng,5
+02chcle	eng,16
+02colla1	eng,6
+02cooletrickle1977	deu,8
+02coulsona	eng,100
+02crozierp	eng,5
+02deweyd	eng,11
+02firth	eng,175
+02ggriff	eng,5
+02ghorner	eng,19
+02gipigi12	ita,27
+02goodwinhar	eng,8
+02here69	eng,5
+02hormks	eng,6
+02hurnella	eng,12
+02jbn	eng,18
+02jefferyng	eng,21
+02jgraham	eng,16
+02jhayes	eng,11
+02jk0328	swe,5
+02jleach	eng,12
+02jtayl	eng,15
+02knight	eng,16
+02lover	nor,9
+02lukedonnelly	eng,17
+02lukedoonnelly	eng,25
+02martina	deu,10
+02mcgarell	eng,6
+02miguelsanchez	eng,8
+02millers	eng,15
+02moat32	eng,7
+02moridin	eng,6
+02ndbest	eng,30
+02nowtho	eng,8
+02np8892	eng,9
+02nwood	eng,7
+02pestana	eng,13
+02pollajo	eng,24
+02pollaj	eng,14
+02ponygt	eng,9
+02qwerty	eng,5
+02rocker	eng,25
+02rosee	eng,10
+02ryantou	eng,56
+02saint seiya	spa,7
+02saladi	eng,11
+02shin	eng,10
+02small,j	eng,9
+02southeranc	eng,7
+02steph	deu,5	eng,2
+02thoeva	eng,7
+02timmo	eng,16
+02turkm	eng,5
+02tyu	eng,13
+02vallancel	eng,117
+02vero	spa,24
+02walshe	eng,37
+02woodr	eng,44
+02	eng,5
+030 doktor	deu,26
+0300738	eng,10
+03018	eng,18
+030197pp	eng,8
+0303653	fin,6
+0304tobias	deu,28
+03054	eng,5
+0307556	nld,10
+0307irene	zho,1990
+0308989m	eng,6
+0309209209	jpn,11
+030990	spa,8
+031158	eng,10
+03125	eng,75
+0312mv	mkd,8
+03141119	eng,60
+031586	eng,222
+0315joseph	zho,9
+0320yabu	eng,5
+0321recon	eng,15
+03242	eng,27
+032gavmal	eng,11
+033176	eng,5
+0331marine	nor,8	eng,37
+0350737	deu,7
+0351456t	eng,103
+035173jim	spa,16
+035jasper	nld,17
+035matisyahu	nld,6
+036apz1502	dan,25
+036ludde	swe,47
+038dbatc	eng,19
+038ksk	jpn,24
+03927apaul	eng,5
+03anthonys	eng,16
+03asmith	eng,9
+03august1971	bul,9
+03august	jpn,23
+03bgsingh	eng,7
+03bjcox	eng,6
+03breshi	eng,5
+03brookw	eng,5
+03bthompson	eng,48
+03carmat	eng,7
+03carsonp	eng,10
+03ce	eng,12
+03chriscastle	eng,6
+03close	eng,11
+03cookea	eng,5
+03cowit	eng,5
+03crichardson	eng,52
+03ctodd	eng,22
+03debauss12	eng,10
+03dec1989	fra,56
+03dennis	eng,23
+03dyerj	eng,8
+03eckersleys	eng,18
+03fieldj	eng,12
+03froshar	eng,6
+03gallagherj	eng,6
+03grievm	eng,6
+03hawnee	eng,12
+03haya	eng,147
+03hcfairc	eng,7
+03hernamand	eng,10
+03imicshe	eng,8
+03indira	jpn,4	msa,455	eng,16
+03iskand	eng,5
+03jamesshi	eng,6
+03jkeeley	eng,128
+03jmason1	eng,11
+03jmgibbens	eng,135
+03joe03	eng,19
+03kc536	jpn,30
+03ksdi	eng,5
+03landerson	eng,6
+03ltreen9011	eng,8
+03man	eng,5
+03matchamdan	eng,9
+03md	eng,12226
+03mj2808	eng,7
+03myersd	eng,7
+03nidnerb	eng,12
+03nstephenson	eng,7
+03ogmsmith	eng,18
+03petrim	deu,7
+03pjh	kor,13
+03powerranger	eng,6
+03prilaz	msa,5
+03pseehra	eng,6
+03rol99	eng,7
+03rotpar	eng,17
+03rp110	eng,32
+03sheepdog	eng,73
+03shirleyleung	eng,13
+03springfield	eng,6
+03swalker	eng,44
+03s	eng,15
+03taie	eng,21
+03taylorc	eng,5
+03thomas	eng,7
+03thomck	eng,7
+03t	deu,58
+03vaseyj	eng,113
+03webberg	eng,13
+03wgreen	eng,315
+03whitd	eng,16
+03x072	eng,363
+03	jpn,97
+040072	eng,5
+040404memehello	eng,6
+04042010a	eng,6
+0404343m	eng,58
+040687kikoy	eng,9
+0408 sh	kor,9
+0411	jpn,20
+0413heath	jpn,8
+0414locos	spa,6
+0415101lee	zho,7
+0416bristol	jpn,6
+041744	eng,5626
+0417mac	eng,22
+04211015ju	fra,12	eng,16
+04211015ka	fra,8
+0424mae	eng,42
+0426jsg	eng,7
+0429axxess	eng,9
+042austin	eng,11
+042bwssa	deu,15
+042bwtba	deu,5
+0435163989dan	eng,9
+043602s	eng,16
+043eagle	eng,7
+044053	eng,10
+045liner	jpn,9
+0475930	eng,6
+047l5j	eng,5
+0495gf87``5j56790923784	spa,16
+04aeverington	eng,54
+04ag7948z	eng,5
+04alex2141	eng,35
+04alexpeac	eng,9
+04anichols	eng,9
+04arnols	eng,19
+04asmdg	eng,13
+04awalker	eng,9
+04blood2line06	eng,18
+04blue	eng,10
+04brennanr	eng,9
+04cah	eng,21
+04carrolld	eng,5
+04clarkr	eng,6
+04clover	jpn,7
+04conleyt	eng,6
+04coxp	eng,5
+04croberts	eng,13
+04ctay	eng,6
+04davhar	eng,7
+04december	eng,10
+04dejand	eng,20
+04ebell	eng,8
+04esij	eng,7
+04fryw	eng,12
+04gillr	eng,5
+04holbrooktho	eng,6
+04ht1505	eng,6
+04jacksonc	eng,14
+04jay	zho,8
+04jessops	eng,72
+04jg006f	jpn,7
+04jhowarth	eng,6
+04jtb	eng,6
+04kerba	eng,14
+04kingj	eng,13
+04liamj	eng,8
+04lindsayc	eng,9
+04lwilson	eng,8
+04madhoc	eng,8
+04mandar	eng,20
+04marjess	eng,43
+04marjes	eng,86
+04mattstep	eng,50
+04mckennaaa1	eng,9
+04merisonw	eng,14
+04mukti	msa,65
+04mustang	eng,7
+04nbod	eng,7
+04nsmalleyb	eng,6
+04pafras	eng,5
+04palmertonalex	eng,10
+04parrw	eng,123
+04passatdub	eng,7
+04peppers	eng,7
+04pmehta	eng,9
+04pricedl	eng,8
+04redsox07	eng,33
+04regan	deu,26
+04riversj	eng,7
+04rolfs	eng,7
+04rossca	eng,9
+04roysjo	eng,5
+04sandra	spa,64
+04sape01	eng,6
+04satvinderbi	eng,5
+04smav	eng,17
+04spicerc	eng,26
+04tayh	eng,5
+04taylorrs	eng,6
+04vharfieldchris	eng,5
+04walkc	eng,20
+04wayne	eng,15
+04willr	eng,21
+04wilsonm	eng,27
+04wyjbaines	eng,8
+05.02125.spg	ara,11
+0500118s	eng,9
+0500	jpn,23
+050101 manly24	eng,28
+0501company	jpn,41
+0501pabi1975	spa,17	glg,8
+0502marius	fra,5
+0506davida	kat,13
+0508kya	kor,36
+05090331njnu	eng,5
+050930236676sc	eng,7
+050hide	jpn,6
+051011	ita,12
+051039s	eng,201
+0512theking	eng,6
+0513d	lit,8
+052bladies	eng,14
+052bwaot	deu,97
+052bwcsk	deu,27
+052bwpme	deu,126
+052bwrpe	deu,46
+0532tyke	eng,13
+053bss	eng,45
+05410-nn-	jpn,24
+055203	eng,16
+0555	eng,1319
+0564401	fra,106	eng,78
+057sash	eng,16
+0586239147	eng,5
+059041m	eng,10
+059aegis	jpn,36
+059pco	fra,10
+05:02 utc	eng,7
+05a27	eng,9
+05acole	eng,8
+05ahmedaf	eng,19
+05anta	eng,6
+05ath	dan,5
+05b16e30	jpn,33
+05barbs	eng,19
+05barrob	eng,5
+05benros	eng,7
+05bndd	eng,6
+05boltonr	eng,7
+05borehama	eng,8
+05browha	eng,15
+05bysstern	eng,15
+05cfell	eng,6
+05chabra	eng,7
+05clareb	eng,9
+05cnhh	eng,7
+05cthurman	eng,35
+05dalesteyn	eng,6
+05dempc	sco,72	eng,202
+05dmccra	eng,15
+05dsims	eng,14
+05ericy	eng,8
+05er	deu,5
+05etheringtonwilly	eng,11
+05etheringtonw	eng,9
+05fallont	eng,6
+05fan	deu,7
+05fcrane	eng,5
+05gkerr	eng,13
+05gnowell	eng,10
+05goochc	eng,15
+05goochn	eng,5
+05grahar	eng,5
+05gölge	tur,11
+05hander	eng,11
+05hepburn2	eng,70
+05hepburn3	eng,41
+05hepburn	eng,46
+05heppers	eng,29
+05hkale	zho,18
+05howardj	eng,5
+05huangwai	eng,14
+05jasm01	eng,7
+05jfoley	eng,7
+05johnsonn	eng,76
+05karimah	msa,67	eng,2
+05kayeya	eng,20
+05kinjac	eng,270
+05ksenior	eng,5
+05lakemanj	eng,11
+05matthewsr	eng,5
+05mayho	eng,15
+05mchughb	eng,7
+05mosi01	eng,8
+05nhadden	eng,6
+05nitram	eng,39
+05ntheo	eng,68
+05oditam	eng,8
+05patela2	eng,15
+05pittsd	eng,7
+05poli	heb,6
+05runner	eng,63
+05singhk	eng,12
+05sivane	eng,19
+05skychau	eng,26
+05smithm	eng,9
+05theben	eng,18
+05thomasr	eng,5
+05th	jpn,9
+05u16hep	eng,6
+05voyageurs	fra,5
+05wiki	eng,7
+05wilkamy	eng,6
+05winsjp	eng,51
+05wrightc	eng,7
+05ymetcalfe	eng,7
+05	eng,258
+06-123456	nld,78
+0600661160	eng,7
+0604214g	eng,11
+0605053h	eng,24
+060667	eng,6
+0607crp	jpn,262	eng,93
+0608barmsx	fra,61
+0608jessg	eng,5
+06109599	eng,11
+0610k	jpn,36
+0610wikitrans	hin,20
+06126has	eng,5
+0612everton1878	eng,10
+0612	eng,628
+0614f16m	jpn,21
+0617angel	zho,18
+06210o	jpn,9
+062236lukrus	eng,8
+0623pattom	fra,19
+062615	eng,7
+062bwjtr	deu,8
+063006	eng,26
+064678147	eng,19
+065211105iscool	eng,12
+066214andrew	zho,5
+067012732s	eng,22
+067pansaol	eng,10
+068152	eng,90
+0683	eng,7
+0685twc	eng,19
+068701341	eng,5
+0693alexander	spa,7
+069897614plus	tha,5
+0699phenom0699	ita,9
+069josephr	eng,16
+06abarnard	eng,46
+06adesinad	eng,48
+06alifar	eng,62
+06alin	eng,10
+06arriva	rus,17
+06b14	dan,12
+06baraxs	eng,10
+06bluntc	eng,9
+06bmaste	eng,6
+06boycej	eng,16
+06campbell-whiteh	eng,7
+06capetown	eng,6
+06cat	eng,13
+06chambersa	eng,8
+06clarkc	eng,17
+06danbed	eng,14
+06dave06	eng,11
+06desilvag	eng,5
+06dhewett	eng,30
+06dkusunoki	eng,18
+06dsouza	eng,66
+06duffy	eng,8
+06e-hill	eng,5
+06esteban74	spa,5
+06fong	jpn,26
+06gkwalt	eng,10
+06gormma	eng,6
+06hadawayj	eng,5
+06hendersonm	eng,6
+06hookerj	eng,18
+06hussong	eng,18
+06ibrahim	tur,11
+06ict318	eng,6
+06ivonne	msa,1294	eng,5
+06jcoxon	eng,18
+06jef	por,11
+06jgrabowski	eng,7
+06joeywong	eng,7
+06jsahl	nor,8
+06kitkat	eng,6
+06krana	eng,12
+06leachr	eng,5
+06ligeti	eng,73
+06londra	tur,8
+06lwebb	eng,8
+06marksr	eng,16
+06mascha	eng,33
+06mayo	eng,5
+06mdm	eng,8
+06mes	eng,11
+06metzp	eng,9
+06michaelh	eng,14
+06milk	zho,9
+06mkittle	eng,5
+06monkey	eng,5
+06multan	eng,7
+06nasmit	eng,7
+06naylonterlik	tur,11
+06njack	eng,8
+06oliver	eng,5
+06owense	eng,9
+06quipitp	eng,98
+06raym	eng,58
+06rbambe	eng,17
+06readc	eng,379
+06reekel	eng,9
+06reenyt	eng,7
+06renell	eng,11
+06rwest	eng,13
+06s091	eng,117
+06simmj	eng,14
+06singhk	eng,87
+06slam	eng,6
+06smithg	eng,230
+06soho	dan,7
+06spiewak	eng,5
+06stiege	eng,12
+06tarnold	eng,6
+06tate	eng,5
+06tb06	eng,9
+06thambr	eng,18
+06tlaing	eng,8
+06twalke	eng,11
+06vijhk	eng,6
+06wcurwen	eng,9
+06wheawella	eng,6
+06whitec	eng,63
+06whitesided	eng,6
+06wutang06	eng,9
+06yako	eng,8
+06yalexander	eng,6
+07 gorki 07	tur,62
+07 matthew	msa,4	eng,1159
+07-jtwyman	eng,5
+07000	deu,8
+0700fan	deu,6
+0701paddo	jpn,14
+0702034	eng,51
+0704monochrome	zho,74	eng,1695
+0704sam	eng,13
+0705student	eng,24
+070jenny070	fra,5
+070miracle	eng,20
+070time070	eng,26
+0711uu	jpn,5
+0713x40453	jpn,24
+0718e57dc0b102179ec2d8b342	fra,5
+0718kamu	jpn,12
+071d30	zho,1431
+071刘璐	zho,8
+072654a	eng,14
+072747	ita,15
+072bw030	deu,28
+072bw035	deu,35
+072bw036	deu,14
+072bw053	deu,21
+072bw059	deu,50
+072bw076	deu,29
+072bw078	deu,94
+072bw082	deu,40
+072bw085	deu,30
+072bw090	deu,81
+072bw094	deu,66
+072bw101	deu,10
+072bw107	deu,40
+072bw112	deu,37
+072bw120	deu,38
+072bw138	deu,18
+072bw146	deu,36
+072bw159	deu,55
+072bw205	deu,10
+072bw313	deu,26
+072bw314	deu,30
+074	spa,3	jpn,7
+076dd	nld,6
+077744whee	eng,20
+077928m	eng,6
+078136m	eng,7
+078	jpn,111
+07agwatts	eng,50
+07ahughes	eng,10
+07alain	fra,146
+07alanj	eng,8
+07amossam	eng,5
+07andrew	pol,7	eng,8
+07andy07	eng,5
+07bargem	eng,1389
+07begr0	eng,8
+07blues08	eng,134
+07cedm	ita,5
+07chill07	eng,13
+07dcreaser	eng,5
+07demeter07	eng,137
+07dennp	eng,6
+07dhokiad	eng,15
+07dogukan	eng,5
+07ed01	eng,87
+07egwyn1	eng,34
+07eljebb	fra,5
+07ellent	eng,10
+07elliog	eng,6
+07emr91	tur,7
+07fan	eng,746
+07franzl16	deu,8
+07g1981	deu,3	eng,6
+07genclik	eng,6
+07goodyero	eng,7
+07grinners	eng,7
+07hawk	eng,19
+07hdwideglide	eng,10
+07hheath	deu,2	eng,23
+07hoehne s	eng,8
+07holsombd	eng,60
+07hussaini	eng,8
+07h	por,54
+07jasevs	eng,7
+07jharker	eng,7
+07jhone	eng,526
+07joe2k7	eng,13
+07jonesj	eng,10
+07jor	eng,70
+07julian17	spa,5
+07kanesh	eng,41
+07kinjac	eng,18
+07kulks	eng,6
+07longc	eng,8
+07luiz	por,14
+07lwcayce	eng,8
+07matmoo	eng,37
+07mctas	eng,9
+07michaelg	eng,20
+07mirhel	eng,6
+07murphyj	eng,7
+07mustanggt	eng,17
+07neworleans	eng,49
+07njicft	jpn,218
+07nolj	eng,12
+07p71	eng,12
+07pablat	eng,9
+07pagesdinfo	fra,77
+07parsonse	eng,15
+07patty	eng,7
+07rena07	jpn,5
+07reyes07ja	eng,8
+07s76	eng,11
+07sanjk	eng,5
+07scheurleerg	eng,13
+07sekor	rus,9
+07shadowv	eng,207
+07smithle	eng,6
+07soulpower07	spa,6
+07stowc	eng,5
+07sutherlanda	eng,19
+07swettr	eng,9
+07ta9345	jpn,15
+07tal.eusticek	eng,13
+07teemu	eng,6
+07tghard	eng,27
+07tgibson	eng,6
+07thomas	fra,5
+07toope	eng,5
+07verbande	deu,2	eng,7
+07walkerj	eng,16
+07williamsl	eng,6
+07wilsk1	eng,8
+07wm94	eng,7
+07wrigley	eng,14
+07yali	eng,16
+07yohanes	msa,44	eng,2
+07	fra,7
+07özlem arlı	tur,5
+08 voter	eng,6
+08-16	deu,38
+08004karen	eng,16
+0800abc123	eng,641
+0800freecall	deu,6
+0800peter	deu,5
+0800qeeseyo	spa,7
+0800urs	deu,19
+0800	zho,532
+080286c	sin,7
+0803157g	eng,5
+08032010wk	jpn,28
+0807127c	eng,46
+0807733m	eng,13
+08094002a	eng,24
+080adrian080	spa,12
+080donandre080	jpn,2	ita,4
+080paul	nld,5
+0810opal	eng,9
+0811gv	eng,83
+0812bonobono	jpn,111
+08131428	eng,20
+0815 bkkount	deu,6
+0815 boy	deu,6
+0815artdirector	deu,823
+0815bert	deu,6
+0815buerger	deu,12
+0815jack	deu,15
+0815jan	deu,116
+0815pascal	deu,79
+0815theater	deu,8
+0818ハバ海苔	jpn,9
+0819boss	jpn,8
+0819cnod	eng,11
+0829tkk	fin,8
+082bw001	deu,61
+082bw016	deu,65
+082bw021	deu,24
+082bw032fh	deu,29
+082bw032	deu,67
+082bw046	deu,519
+082bw052	deu,207
+082bw053	deu,102
+082bw089	deu,236
+082bw102	deu,81
+082bw111	deu,33
+082bw158	deu,12
+082bwahc	deu,81
+0833h	jpn,21
+0836whimper	eng,128
+083776g	eng,6
+0840kenji	jpn,29
+0840suki	jpn,11
+0841d	eng,5
+0842nico	fra,14
+0850	deu,5
+0851431754	eng,15
+0861247208lc	eng,20
+08902757r	eng,6
+0893	jpn,22
+0894leanne	eng,5
+08961	eng,5
+089fh	nor,81
+08:00:69:02:01:fc	fra,10
+08:a	swe,38
+08aewers	eng,8
+08ainhoa	spa,6	eng,3
+08albatross	eng,23
+08ashepa	eng,7
+08ashlee	eng,11
+08aviee	eng,64
+08bballwood	eng,27
+08benrung	eng,7
+08braithwaitej	eng,13
+08cam08	eng,8
+08cladom	eng,9
+08clark	eng,72
+08danben	eng,7
+08dashipway	eng,6
+08dbs	eng,21
+08deborah	msa,127	eng,2
+08e3128	jpn,5
+08ellisd	eng,37
+08ewingr	eng,6
+08froshar	eng,11
+08fuffzehn	deu,51
+08gallor	eng,7
+08geina	eng,9
+08glasgow08	zho,12	eng,646
+08greenc	eng,6
+08greenhornet	eng,10
+08gullij	eng,8
+08hayesa	eng,10
+08jadcul	eng,5
+08jclulow	eng,8
+08jh	eng,6
+08jojones	eng,5
+08jpotter	eng,5
+08jriche	eng,19
+08jsj-15-hr	zho,7
+08kinjac	eng,11
+08ktp	eng,9
+08kyoung	eng,7
+08liverpool	eng,11
+08longr	eng,14
+08maccap	eng,9
+08milluz	eng,59
+08murtaghkc	eng,209
+08o4	deu,9
+08october	eng,230
+08pb80	fra,10729	eng,23
+08posturepro11	eng,6
+08prl	eng,7
+08raanlar	nor,10
+08rbilto	eng,9
+08riot	eng,9
+08sackzement15	deu,14
+08sakuramasu21	jpn,22
+08scullya	eng,35
+08shaohua	zho,8
+08ssmith2	eng,7
+08stones a	eng,44
+08tdlese	eng,5
+08toi	eng,11
+08uk	eng,13
+08v1clarks	eng,12
+08vintagelove	eng,16
+08vo'dwyers	eng,7
+08w0003	jpn,24
+08whatsup	eng,7
+08wwe	eng,5
+08yuillj	eng,16
+09 gheussler	eng,9
+09 mac	kor,2	msa,579	eng,19
+09-00 to 17-30	eng,7
+09-03-i0	deu,26
+09.arif	eng,6
+09013232323a	eng,5
+090167	deu,46
+09022442244mmm	jpn,5
+090401new	jpn,8
+0904678369nguyenngocthien	vie,7
+09048872om	eng,6
+090583600	spa,30
+090845n	fra,126
+09090909090	eng,10
+0909dio	kor,10
+090dad	jpn,40
+090ww67	eng,8
+091125superbanana	jpn,253
+0912018jjm440le	eng,8
+0913065833	zho,5
+0921ysh	jpn,143
+092platinum	fas,8	eng,7
+0933klatm	dan,5
+0935li	tur,17
+0942hiro	jpn,888
+094peace	eng,6
+095228004zach	eng,5
+0955adlc	eng,18
+0956	eng,8
+0967532r	deu,13
+096q	jpn,6
+097ihuhoj8998	eng,11
+098753801897f	eng,7
+0987654321z	eng,17
+09876	nld,14	eng,158
+09879z	eng,7
+0987poiu	eng,5
+0987	eng,18
+09888	eng,5
+0989bv	eng,22
+098av	eng,54
+098today	eng,10
+09911061ap	pol,10
+0991zayram	eng,6
+0999tazz9990	eng,22
+09achan	eng,54
+09aidepikiw	eng,4801
+09akka	hun,7
+09amethystlai	eng,10
+09aog	eng,23
+09arvincent	eng,18
+09beemali	eng,12
+09bennyboy13	eng,32
+09bil98z24	eng,17
+09blonegan	eng,21
+09bmarcu	eng,42
+09bwhite	eng,30
+09cali	eng,5
+09ccc	eng,26
+09cmine	eng,12
+09colga	eng,8
+09curranm	eng,64
+09dartnellalexander	eng,13
+09dazza	eng,9
+09dill	eng,7
+09dju	eng,6
+09dorffd	eng,7
+09dphelps	eng,5
+09dspatel01	eng,5
+09er	eng,5411
+09etheringtonj	eng,11
+09fregman	eng,6
+09gabriel	por,6
+09gebejo	eng,99
+09gibbn	eng,34
+09gksoc	eng,29
+09grahas	eng,34
+09hannah09	eng,5
+09hiss	eng,5
+09i70o7nj0h	eng,6
+09islamm	eng,5
+09jacks	swe,8
+09jack	eng,6
+09jamieboro	eng,19
+09jamsutherland	eng,119
+09jeljoh	eng,7
+09jgentile	eng,6
+09jhowarth	eng,5
+09johnsa	eng,12
+09jtaylo	eng,5
+09kendrickjames	eng,10
