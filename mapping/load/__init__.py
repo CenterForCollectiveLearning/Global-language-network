@@ -43,7 +43,7 @@ def check_previously_loaded(paths):
                 result_dir.endswith('-incomplete') or
                  result_dir == paths['results']):
             try:
-                prev_loaded = os.listdir(os.path.join(result_dir, 'all', 'preprocessed'))
+                prev_loaded = os.listdir(os.path.join(result_dir, 'preprocessed'))
                 if '.DS_Store' in prev_loaded: prev_loaded.remove('.DS_Store')
                 if len(prev_loaded) == 10:  # Check that there are eight files
                     init_file = os.path.join(result_dir, '__init__.py')
@@ -58,8 +58,8 @@ def check_previously_loaded(paths):
                         print "\tSame loading and processings settings as the analysis in directory", result_dir
                         print "\t\tCopying over userlang and langlang tables and serialized networks."
                         dir_util.copy_tree(
-                            os.path.join(result_dir, 'all', 'preprocessed'),
-                            os.path.join(paths['all'], 'preprocessed')
+                            os.path.join(result_dir, 'preprocessed'),
+                            os.path.join(paths['gln'], 'preprocessed')
                             )
                         os.remove(init_file)
                         return True
@@ -86,7 +86,7 @@ def load(args, paths):
         if not os.path.isfile(paths[dataset]):
             print "ERROR: {} dataset not found, terminating.\n Please check the following path, fix, and re-run:\n {}\n".format(dataset, paths[dataset])
             exit()
-
+    
     # Copy over userlang files if relevant settings are the same as those in a past analysis
     if not check_previously_loaded(paths):
         print "\t\tDatasets haven't been loaded before"

@@ -60,7 +60,7 @@ def get_paths():
     paths['settings'] = os.path.join(paths['mapping'], 'settings.py')
 
     # ../gln/mapping_results/
-    paths['results'] = top_results_root = os.path.join(paths['gln'], 'mapping_results')
+    paths['results'] = os.path.join(paths['gln'], 'mapping_results')
 
 
     # ../gln/mapping/{load || process || visualize}
@@ -86,13 +86,14 @@ def get_paths():
     paths['results'] = temp + '_{}/'.format(suffix)
 
     # ../gln/mapping_results/{date}_{suffix}/{all || twitter || wikipedia || books}
-    for subfolder in ['all', 'twitter', 'wikipedia', 'books']:
-        paths[subfolder] = os.path.join(paths['results'], subfolder)
-        os.makedirs(paths[subfolder])
+    #for subfolder in ['all', 'twitter', 'wikipedia', 'books']:
+    #    paths[subfolder] = os.path.join(paths['results'], subfolder)
+    #    os.makedirs(paths[subfolder])
+
 
     # ../gln/results/all/{preprocessed || processed || final || visualizations}
     for result_child in ['preprocessed', 'processed', 'normalized', 'final', 'visualizations']:
-        paths[result_child] = os.path.join(paths['all'], result_child)
+        paths[result_child] = os.path.join(paths['results'], result_child)
         os.makedirs(paths[result_child])
 
     # Serialized versions of results of load
@@ -107,7 +108,7 @@ def get_paths():
         merge_or_extract = 'merged'
     else:
         merge_or_extract = 'extracted'
-    paths[merge_or_extract] = os.path.join(paths['all'], merge_or_extract)
+    paths[merge_or_extract] = os.path.join(paths['results'], merge_or_extract)
     os.makedirs(paths[merge_or_extract])
 
     # Number of speakers per language file
