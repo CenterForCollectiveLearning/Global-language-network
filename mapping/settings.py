@@ -5,15 +5,14 @@ Automated Analysis Settings
 SETTINGS = {
 
     'general': {
-        #'datasets_to_use': ['twitter', 'wikipedia', 'books'],
-        'datasets_to_use': [],
+        'datasets_to_use': ['twitter', 'wikipedia', 'books'],
         'merge_first': False  # Merge first or extract first.
         },
 
     # Location of datasets relative to net-langs directory
     'dataset_locations': {
-        'twitter': 'data/gln_sources/twitter/gold/twitter_20120505_90_userlang_stripped_full_iso639-3.dat',
-        'wikipedia': 'data/gln_sources/wikipedia_edits/gold/wikipedia_20120612_userlang_full_nosuffix_iso639-3.dat',
+        'twitter': 'data/gln_sources/twitter/gold/twitter_20120505_90_userlang_stripped_full_iso639-3_sample.dat',
+        'wikipedia': 'data/gln_sources/wikipedia_edits/gold/wikipedia_20120612_userlang_full_nosuffix_iso639-3_sample.dat',
         'books': 'data/gln_sources/books_UNESCO/gold/unesco_langlang_20120722_iso639-3.txt',
         },
 
