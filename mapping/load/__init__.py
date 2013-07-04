@@ -32,12 +32,13 @@ def check_previously_loaded(paths):
     current_pre_filter_settings = SETTINGS['pre-filtering']
     current_lang_settings = LANG_SETTINGS
 
-    lgn_results = os.path.join(paths['results'])
+    lgn_results = os.path.join(paths['results_root'])
 
     print "\tChecking previously loaded datasets"
 
     for result_dir in os.listdir(lgn_results):
         result_dir = os.path.join(lgn_results, result_dir)
+
         if os.path.isdir(result_dir) and not \
                 (result_dir.startswith('.') or \
                 result_dir.endswith('-incomplete') or
@@ -57,9 +58,10 @@ def check_previously_loaded(paths):
                         # Copy all files over
                         print "\tSame loading and processings settings as the analysis in directory", result_dir
                         print "\t\tCopying over userlang and langlang tables and serialized networks."
+
                         dir_util.copy_tree(
                             os.path.join(result_dir, 'preprocessed'),
-                            os.path.join(paths['gln'], 'preprocessed')
+                            os.path.join(paths['results'], 'preprocessed')
                             )
                         os.remove(init_file)
                         return True
@@ -145,7 +147,7 @@ def load(args, paths):
 
     else:
         print "\t\tDatasets have been loaded previously"
-        print "\t\tLloading langlang and langinfo files from serialized versions"
+        print "\t\tLoading langlang and langinfo files from serialized versions"
 
         populations = pickle.load(open(paths['populations_pkl']))
         networks = pickle.load(open(paths['networks_pkl']))

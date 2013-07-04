@@ -60,7 +60,7 @@ def get_paths():
     paths['settings'] = os.path.join(paths['mapping'], 'settings.py')
 
     # ../gln/mapping_results/
-    paths['results'] = os.path.join(paths['gln'], 'mapping_results')
+    paths['results_root'] = os.path.join(paths['gln'], 'mapping_results')
 
 
     # ../gln/mapping/{load || process || visualize}
@@ -73,7 +73,7 @@ def get_paths():
     suffix = 1
     while True:
          # ../gln/results/{date}
-        temp = os.path.join(paths['results'], today) # "_" + str(SETTINGS['extraction']['probability_cutoff']) + "_" + str(SETTINGS['extraction']['weight_cutoff']))
+        temp = os.path.join(paths['results_root'], today) # "_" + str(SETTINGS['extraction']['probability_cutoff']) + "_" + str(SETTINGS['extraction']['weight_cutoff']))
         if not os.path.exists(temp + '_{}/'.format(suffix)) and \
         not os.path.exists(temp + '_{}-incomplete/'.format(suffix)):
             os.makedirs(temp + '_{}/'.format(suffix))
@@ -84,12 +84,6 @@ def get_paths():
     # ../gln/mapping_results/{date}_{suffix}, i.e the
     # closest parent directory to where the results are actually stored
     paths['results'] = temp + '_{}/'.format(suffix)
-
-    # ../gln/mapping_results/{date}_{suffix}/{all || twitter || wikipedia || books}
-    #for subfolder in ['all', 'twitter', 'wikipedia', 'books']:
-    #    paths[subfolder] = os.path.join(paths['results'], subfolder)
-    #    os.makedirs(paths[subfolder])
-
 
     # ../gln/results/all/{preprocessed || processed || final || visualizations}
     for result_child in ['preprocessed', 'processed', 'normalized', 'final', 'visualizations']:
