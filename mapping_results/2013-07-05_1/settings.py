@@ -5,7 +5,7 @@ Automated Analysis Settings
 SETTINGS = {
 
     'general': {
-        'datasets_to_use': ['twitter', 'wikipedia', 'books'],
+        'datasets_to_use': ['twitter', 'wikipedia', 'facebook', 'books'],
         'merge_first': False  # Merge first or extract first.
         },
 
@@ -13,6 +13,7 @@ SETTINGS = {
     'dataset_locations': {
         'twitter': 'data/gln_sources/twitter/gold/twitter_20120505_90_userlang_stripped_full_iso639-3_sample.dat',
         'wikipedia': 'data/gln_sources/wikipedia_edits/gold/wikipedia_20120612_userlang_full_nosuffix_iso639-3_sample.dat',
+        'facebook': 'data/gln_sources/facebook/gold/fb_iso639-3_sample.dat',
         'books': 'data/gln_sources/books_UNESCO/gold/unesco_langlang_20120722_iso639-3.txt',
         },
 
@@ -21,17 +22,20 @@ SETTINGS = {
         'userlang_major_delim': {
             'twitter': '\t',
             'wikipedia': '\t',
+            'facebook': '\t',
             'books': '\t'
             },
 
         'userlang_minor_delim': {
             'twitter': ",",
-            'wikipedia': ","
+            'wikipedia': ",",
+            'facebook': ',',
             },
 
         'langlang_delim': {
             'twitter': '\t',
             'wikipedia': '\t',
+            'facebook': '\t',
             'books': '\t'
             },
         },
@@ -43,20 +47,24 @@ SETTINGS = {
         # Maximum languages per user
         'twitter_max_langs_per_user': 5,
         'wikipedia_max_langs_per_user': 5,
+        'facebook_max_langs_per_user': 5,
 
         # Minimum tweets/edits per user
         'twitter_min_per_user': 5,
         'wikipedia_min_per_user': 5,
+        'facebook_min_per_user': 5,
 
         # Minimum expressions per language per user
         'twitter_min_degree': 2,
         'wikipedia_min_degree': 2, # was 20 becasue of hypermultilingualism; max_langs_per_user hopefully handles it better
+        'facebook_min_degree': 2,
         #'books_min_degree': 0, # N/A for books
 
         # Minimum weight per link
         # TODO: not used? -- check
         'twitter_min_weight': 0,
         'wikipedia_min_weight': 0,
+        'facebook_min_weight': 0,
         'books_min_weight': 0,
         },
 
@@ -65,6 +73,7 @@ SETTINGS = {
         # NOTE: settings apply to "extracted" file; "pre-processed" aren't affected. 
         'twitter': 0, # was 100
         'wikipedia': 0, # was 100
+        'facebook': 0, # was 100
         'books': 0, # was 25
         },
 
@@ -170,9 +179,12 @@ LANG_SETTINGS = {
 
     'LANG_DEGREE_HEADER': ['Language', 'NumOfConnectedLanguages'],
 
+    # Languages are merged through the conversion file --
+    # leave the settings below blank.
     'LANGS_TO_REMOVE': {
             'twitter' : [],
             'wikipedia' : [],
+            'facebook' : [],
             'twitter_old': ['xxx', 'am', 'bo', 'dv', 'iu', 'km', 'mn', 'or', 'syr', 'xx-Copt', 'xx-Dsrt', 'xx-Glag', 'xx-Nkoo', 'xx-Ogam', 'xx-Phnx', 'xx-Runr', 'xx-Tale', 'xx-Tfng', 'xx-Yiii', 'yi', 'lo', 'kn', 'chr', 'my', 'gu', 'te'],
             'wikipedia_old': ['tokipona', 'kj', 'mus', 'ho', 'ii', 'kr', 'hz', 'cho', 'mh', 'mo', 'aa', 'ng', 'srn', 'ny', 'pnt', 'pi', 'ts', 'tum', 'sg', 'rn', 've', 'ks', 'lg', 'ti', 'sn', 'ss', 'pag', 'tw', 'ki', 'ik', 'xh', 'chy', 'mdf', 'om', 'ff', 'kaa', 'ty', 'dz', 'kg', 'fj', 'st', 'lbe', 'za', 'myv', 'ha', 'bxr', 'tn', 'rw', 'cdo', 'mhr', 'sm', 'tet', 'to', 'pih', 'mzn', 'ch', 'bug', 'ig', 'got', 'kab', 'sd', 'xal', 'nov', 'av', 'rmy', 'bh', 'bm', 'bi', 'iu', 'cr', 'roa_tara', 'ee', 'zu', 'or', 'na', 'ak', 'haw', 'ln', 'stq', 'wo', 'zea', 'chr', 'glk', 'hak', 'udm', 'pap', 'kv', 'pa', 'ie', 'jbo', 'nrm', 'ce', 'as', 'kl', 'lo', 'arc', 'fiu_vro', 'cbk_zam', 'bcl', 'gn', 'tpi', 'ab', 'roa_rup', 'nv', 'ilo', 'frp', 'mi', 'ug', 'gan', 'crh', 'ay', 'cu', 'ext', 'diq', 'eml', 'lij', 'dsb', 'map_bms', 'ps', 'dv', 'mg', 'new', 'ba', 'kw', 'tk', 'pdc', 'sah', 'gv', 'pam', 'hif', 'bo', 'se', 'fur', 'rm', 'sc', 'csb', 'bpy', 'ky', 'yo', 'szl', 'my', 'so', 'co', 'sa', 'wa', 'nah', 'ksh', 'am', 'bat_smg', 'os', 'nds_nl', 'mt'],
             'books': []
@@ -181,6 +193,7 @@ LANG_SETTINGS = {
     'LANGS_TO_MERGE': {
         'twitter': [],
         'wikipedia': [],
+        'facebook' : [],
         'books': []
         },
     }

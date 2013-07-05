@@ -1,2 +1,2 @@
 Number of nodes:48
-Number of edges:270
+Number of edges:272

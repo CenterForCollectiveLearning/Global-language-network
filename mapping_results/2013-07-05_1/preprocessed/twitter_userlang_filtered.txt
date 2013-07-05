@@ -1,0 +1,3969 @@
+.	jpn,3	eng,11
+0	eng,7
+00000000	eng,17
+000000000000037	jpn,15
+000000000000038	jpn,8	eng,6
+000000000000087	jpn,24
+0000000000000hy	jpn,15
+0000000000000tm	jpn,5
+00000000000024	jpn,9
+000000000000326	jpn,10
+000000000000402	jpn,5
+00000000000056	jpn,69
+000000000000728	jpn,9
+000000000000818	jpn,7
+000000000005	jpn,13
+0000000000x	jpn,124
+00000000078	jpn,5
+00000000721	jpn,51
+0000000099999	eng,13
+00000001000000	jpn,9
+000000019511252	jpn,15
+0000000hhh	jpn,8
+0000000risa	jpn,50
+00000013	jpn,16
+000000130	jpn,5
+000000422	jpn,8
+000000828_8	kor,78
+000000_bot	jpn,14
+000000ali000000	ara,10
+000000ike000000	jpn,5
+000000va	jpn,7
+00000128	jpn,6
+00000148	jpn,14
+00000498	jpn,14
+00000510	jpn,12
+00000526	jpn,5
+00000528	jpn,7
+0000055555	jpn,27	eng,3
+000005555522255	jpn,31
+00000731	jpn,22
+00000753	jpn,7
+00000827	jpn,19
+000009999988888	ara,41
+00000_91	jpn,19
+00000amy00000	eng,38
+00000ari00000	jpn,32
+00000cm	jpn,12
+00000eri	jpn,34
+00000ichii00000	jpn,8
+00000kiki00000	jpn,72
+00000kotoe00000	jpn,33
+00000mai00000	jpn,10
+00000maki000000	jpn,39
+00000maruo00000	jpn,13
+00000pink000000	jpn,5
+00000san	jpn,5
+00000sasa00000	jpn,16
+00000sodai00000	jpn,40
+00000tan1	jpn,34
+00000tsu	jpn,33
+00000u	jpn,5
+00000yuya000000	jpn,7
+00000zero00000	jpn,127
+00000zuch00000	jpn,17
+0000100383	jpn,9
+00001024	jpn,11
+0000105	rus,12
+000010sg	eng,5
+0000111223	kor,15
+0000124244949	jpn,6
+0000137	rus,5
+0000139	jpn,57
+0000166fumi	jpn,37
+00001_	kor,1062	eng,2
+0000201	jpn,26
+0000212	jpn,6
+00002163maria	spa,4	eng,3
+00002220000	jpn,13
+0000252525	jpn,8
+0000318	kor,21
+0000328	jpn,23
+0000333	tha,26
+00004000	jpn,10
+000040702	jpn,9
+00004564	jpn,35
+0000463	jpn,29
+00004690	jpn,22
+000064	jpn,5
+00006410	jpn,7
+00006699	jpn,10
+000070000	jpn,10
+0000833	jpn,8
+00008st	jpn,302
+00009696	jpn,6
+0000987654321	fil,7	eng,3
+0000_22_	jpn,7
+0000_lisa	jpn,10
+0000_o_k_sec1	jpn,34
+0000_x	jpn,6
+0000a000	jpn,15
+0000aaaaaaaaaaa	jpn,39
+0000ak	jpn,59
+0000ak00	deu,13	eng,9
+0000aki	jpn,18
+0000amina	jpn,50
+0000ask0000	jpn,5
+0000bea0000	spa,14
+0000berry0000	jpn,13
+0000boss0000	jpn,17
+0000brenda0000	eng,7
+0000bsh	rus,2	eng,3
+0000caroline	eng,10
+0000cell0000	jpn,31
+0000cherrytrees	jpn,13
+0000chie0000	jpn,6
+0000chokko	jpn,142
+0000day	jpn,40
+0000disco	jpn,8
+0000dolmat	rus,218
+0000drot	rus,23
+0000erica0000	jpn,7
+0000f0f	kor,8
+0000ffw745	jpn,24
+0000fuziko0000	jpn,166
+0000goth	jpn,10
+0000gracy	por,27
+0000gumi0000	jpn,5
+0000gy_94	jpn,15
+0000hana0000	jpn,8
+0000haru	jpn,6
+0000hashi	jpn,6
+0000hhsskk00000	jpn,77	eng,2
+0000huda0000	ara,14
+0000ikegik	jpn,11
+0000jean	por,10
+0000jhy	kor,6
+0000jim0000	eng,14
+0000joe0000	jpn,9
+0000jojoo	ara,5
+0000juli0000	jpn,33
+0000kai	jpn,6
+0000kairi0000	jpn,6
+0000kii	kor,25
+0000kz	fil,2	eng,8
+0000lucky0000	jpn,5
+0000m75	kor,5
+0000mai	jpn,20
+0000mail	rus,2	tur,19
+0000mami0000	jpn,8
+0000mashael	ara,18
+0000may0000	jpn,16
+0000mico0000	jpn,10
+0000naoko	jpn,5
+0000nasi	jpn,53
+0000nooney	eng,14
+0000o00	jpn,12
+0000oshima0000	jpn,7
+0000polaris0000	spa,3	fra,2	eng,2
+0000prince0000	jpn,109
+0000rei0000	jpn,161
+0000riku0000	jpn,7
+0000roja0000	spa,3	eng,2
+0000rs0000	jpn,5
+0000rss	jpn,127
+0000sae0000	jpn,18
+0000shig	jpn,134	eng,2
+0000sie	jpn,51
+0000taka1	jpn,7
+0000takumi0000	jpn,12
+0000tamama	jpn,10
+0000tik0000	jpn,16
+0000tomore	jpn,8
+0000ueccchi0000	jpn,7
+0000up	kor,163
+0000x0x	jpn,26
+0000xiahtic	jpn,155
+0000ya	jpn,27
+0000ykn0000	jpn,6
+0000yoshimi0000	jpn,5
+0000yu0000	jpn,14
+0000yuukana0000	jpn,6
+0000zy	jpn,501	eng,4
+0001003	jpn,16
+000106029910000	jpn,7
+00010784	jpn,10
+000111alqhatany	ara,84
+000117912	jpn,14
+00011_10011	eng,14
+000135m	jpn,5
+0001525_km	jpn,14
+0001623	jpn,8
+00017199400	eng,24
+00017771000	ara,8
+0001_neko	jpn,16
+0001_xml	nld,11	eng,88
+0001ai0002	jpn,9
+0001am_	por,44
+0001beliebers	eng,49	por,44
+0001r	ell,22
+0001rei	jpn,5
+0001retheendest	jpn,42
+0001tom	jpn,6
+000201019910912	jpn,20	eng,2
+0002012	ara,5
+000201s	jpn,11
+000203	jpn,5
+00020fathi	ara,9
+000214	jpn,51
+00021sara	tha,11
+00023cc	jpn,26
+00024976	jpn,19
+00025112	jpn,22
+00029000	jpn,40
+0002aki200	jpn,6
+0002sevol	jpn,5
+0002yumika00000	jpn,18
+00030003000f	ara,7
+0003329	eng,21
+00036pablo	spa,32
+0003901	jpn,5
+0003_m	jpn,25
+0003_t	jpn,131
+00040	rus,15
+00040428	jpn,5
+00042004	jpn,9
+000421	jpn,23
+00042394	eng,40
+0004_cinthya	spa,7
+0004jmp	eng,23
+0004nas	eng,25
+0004sama	jpn,33
+000502	kor,127
+0005092	jpn,14
+000511	jpn,6
+000515	jpn,19
+0005336	jpn,16
+000563563	jpn,16
+0005gen	jpn,9
+0005ikarus	ara,3	eng,5
+0005miu	jpn,67
+000612	jpn,13
+000622	kor,7
+00064101874187	jpn,16
+00065_eins	jpn,28
+00068	jpn,210
+0006maru	jpn,36
+0006mp	jpn,10
+00070008	jpn,9
+00070227	jpn,5
+000703	jpn,5
+00071000	jpn,28
+000755	eng,6
+000774	jpn,43
+0007770077	jpn,7
+00077reina77000	jpn,6
+000793	jpn,111
+0007acid	jpn,5
+0007amilife	jpn,6
+0007cent	tur,5
+0007foz	eng,8
+0007mikity	jpn,387
+0007min	jpn,25
+0007paola	spa,56	eng,2
+0007reona	jpn,16
+0007tw	jpn,28
+0007yk	jpn,5
+0008	jpn,113
+000801060904_	eng,19
+000802	jpn,17
+000812	jpn,7
+000873	jpn,5
+00087joel	spa,5
+000888333000	jpn,5
+0008889	ara,5
+0008_k	jpn,22
+000900213302223	jpn,18
+0009009000	jpn,96
+00090202	jpn,11
+00090814	jpn,6
+0009ahmad	ara,5
+0009am_sv650s	jpn,60
+000_000_	jpn,10
+000_1105	jpn,13
+000_965	jpn,93
+000___000	eng,258
+000__o	por,7
+000_al	jpn,62
+000_arthur_000	eng,12
+000_buckshot	eng,5
+000_crown	jpn,12
+000_destruct_0	jpn,7
+000_e	jpn,73
+000_g	eng,12
+000_kamilia	ara,7
+000_m	jpn,34
+000_masaki	jpn,52
+000_mykael	por,5
+000_nat	jpn,18
+000_nk	jpn,6
+000_oo	jpn,14
+000_ryo	jpn,5
+000_su	msa,3	eng,4
+000_sugi	jpn,5
+000_vinicius	por,22	eng,9
+000a000y000a000	jpn,5
+000a1plle	jpn,119
+000abcab	jpn,17
+000aboali	ara,18
+000abu000	jpn,30
+000adam	jpn,17
+000again	jpn,13
+000ageha000	jpn,7
+000aji000	jpn,29
+000akina000	jpn,17
+000akio000	jpn,17
+000akira	jpn,9
+000akky000	jpn,7
+000amal	ara,11
+000anmi000	jpn,7
+000annaitou000	jpn,17
+000anne000	jpn,40
+000anonimo000	spa,5
+000ark000	jpn,6
+000ask	jpn,7
+000asuka000	jpn,29
+000ayane000	jpn,5
+000ayapan000	jpn,5
+000aym000	jpn,13
+000az000	jpn,21
+000ba	jpn,12
+000bit	jpn,5
+000bluesky000_	kor,5
+000book000	jpn,27
+000bridget000	eng,40
+000buzz000	jpn,10
+000ccs	jpn,9
+000cherry000	jpn,7
+000chie000	jpn,26
+000christina000	eng,61
+000cl_	jpn,22
+000dark2525	jpn,6
+000davidoff	spa,25	eng,4
+000dragon	jpn,71
+000eca000	jpn,185
+000egg000	jpn,6
+000eiki	jpn,16
+000eryumo000	jpn,8
+000esperanza000	jpn,10
+000etsu000	jpn,8
+000falcon000	jpn,16
+000frida	eng,17
+000gee	eng,10
+000gi	jpn,38
+000girl	jpn,6	eng,3
+000goemon000	jpn,6
+000h_s0_d0pe	eng,18
+000halohalo	jpn,15
+000hellish	jpn,40
+000hide	jpn,13
+000hiromi	jpn,7
+000hiropy000	jpn,5
+000hlaladotcom	eng,13
+000hm000	jpn,5
+000hydecoltd000	jpn,13
+000i0	jpn,7
+000i000	jpn,20
+000i_s2_ayu000	jpn,7
+000icm000	jpn,20
+000ikasoumen000	jpn,48
+000ikato0123	jpn,315
+000ikopiko000	jpn,13
+000ikumi000	jpn,9
+000ina	jpn,6
+000iruk	jpn,11
+000isa000	ara,11
+000ivy	jpn,12
+000jayy	eng,8
+000jhou	por,26
+000jieun000	kor,6
+000jyun000	jpn,74
+000ka2ak1	jpn,5
+000kanarin000	jpn,31
+000kanata000	jpn,81
+000katie000	jpn,17
+000katu000	jpn,6
+000kayakman	eng,35
+000kc000	jpn,7
+000kenji000	jpn,16
+000keyonce000	jpn,30
+000khz	jpn,8
+000ki	jpn,10
+000kinoko000	jpn,5
+000kne	jpn,6
+000korisu000	jpn,22
+000ktkr000	jpn,60
+000kuragemodoki	jpn,17
+000kuuron000	jpn,73
+000kv2	eng,9
+000lalomario	spa,16	eng,8
+000lee000	jpn,21
+000leoreo000	jpn,8
+000li	eng,16
+000lisarisa000	jpn,6
+000los000	eng,20
+000lua	spa,26
+000m00p00	jpn,34
+000m3m	kor,73
+000maa000	jpn,45
+000maaa000	jpn,361	eng,2
+000mae000	jpn,53
+000maiko000	jpn,9
+000maimai000	jpn,14
+000makoto777	jpn,10
+000mame	jpn,13
+000manatee000	jpn,6
+000maou	jpn,13
+000maple000	jpn,29
+000mappy000	jpn,17
+000marimo	jpn,5
+000masataka0000	jpn,5
+000masu	jpn,24
+000matsukaze000	jpn,132
+000mayday000	jpn,16
+000mejo000	ara,14	eng,2
+000mek000	jpn,13
+000mellow	jpn,21
+000meso000	jpn,15
+000mg	jpn,15
+000mich	spa,31
+000mikka	fil,21	eng,10
+000mikkumiku000	jpn,10
+000mila000	jpn,7
+000milk000	tha,36
+000minnie000	jpn,51
+000miya	jpn,54
+000miyuki000	jpn,39
+000mn000	jpn,10
+000modaeneko000	jpn,42
+000momo	ara,21
+000moon00	ara,8
+000mrm	ara,8
+000msm000	jpn,11
+000mussolini	jpn,47
+000muu000	jpn,53
+000nachumi	jpn,7
+000nandox	spa,17	cat,6
+000nasya111	eng,8
+000natsuki	jpn,5
+000nattsu000	jpn,12
+000niko000	jpn,8
+000nnii0ccoo000	jpn,48
+000nnn	eng,58
+000nobu000	jpn,18
+000nooo	jpn,13
+000noozisan	jpn,44
+000noritama000	jpn,5
+000nyaha000	jpn,7
+000nyanco000	jpn,5
+000nyu	jpn,40
+000o000	eng,23
+000oliveira	eng,5	por,47
+000omaru	jpn,10
+000onpu00	jpn,11
+000ooyoso000	jpn,68
+000orz	jpn,48
+000pablo	por,11
+000page	jpn,39
+000peta000	jpn,7
+000pink	jpn,23
+000pon000	jpn,55
+000poppy000	jpn,15
+000ps	jpn,6
+000pvq000	jpn,19
+000pyo	jpn,35	tha,238	eng,6
+000q	jpn,5
+000qipiqipi000	jpn,29
+000randomlyblue	eng,34
+000ray	jpn,7
+000ray000	jpn,139
+000reader000	jpn,9
+000rebekah	eng,10
+000reiko	jpn,11
+000remco000	nld,36	eng,2
+000renyamama000	jpn,10
+000rina001	rus,16
+000rinrinrin000	jpn,58	eng,4
+000rise_mkr	jpn,6
+000ritukina	jpn,11
+000rm000	jpn,50
+000romihi000	jpn,9
+000ronta	jpn,57
+000rosarium000	rus,2	jpn,169	eng,18
+000rui000	jpn,73
+000ruicosta516	jpn,40
+000s0u000	jpn,86	eng,2
+000saki	jpn,13
+000sakuya000	jpn,13
+000sam	ara,2	eng,3
+000sami	fas,5	ara,2
+000sari000	jpn,18
+000sasha	jpn,11
+000saya000	jpn,12
+000sayaka	jpn,7
+000secret000	jpn,19
+000sena	jpn,31
+000seza	jpn,14
+000shellyire_1d	eng,41
+000shimakura000	jpn,15
+000shina000	jpn,14
+000shiningtree	jpn,14
+000shizuki00033	jpn,110
+000shizuku000	jpn,10
+000shu000	jpn,9
+000sophie	nld,39	eng,6
+000sora00	jpn,8
+000sora000	jpn,26
+000spear000	jpn,8
+000ssskkk	jpn,14
+000su000	jpn,30
+000sugar	jpn,44
+000sugar000	jpn,20
+000sunflower000	eng,44
+000ta	jpn,122
+000taaajks000	jpn,23
+000taba	jpn,29
+000tabo000	jpn,17
+000take000	jpn,16
+000taki	jpn,7
+000taku	jpn,21
+000tc000	jpn,28
+000teru	jpn,86	eng,2
+000tik	jpn,18
+000tkd	jpn,5
+000tokarazen000	jpn,13
+000toki000	jpn,8
+000tomoke000	jpn,9
+000tori000	jpn,35	eng,2
+000touru000	jpn,20
+000tsuki000	msa,6	jpn,19
+000tsumu000	jpn,19
+000tsumuchan000	jpn,6
+000ttb	jpn,103
+000tuite	por,5
+000twist	eng,9
+000ubird	jpn,16
+000uu000	jpn,16
+000uu_aa	jpn,5
+000vicente000	spa,41
+000vocal0aya000	jpn,18
+000wa	jpn,10
+000warr	jpn,6
+000wasabi000	jpn,7
+000watty000	jpn,12
+000wendy000	nld,9
+000wing	jpn,285	eng,2
+000wnezmj	jpn,6
+000x0	jpn,74
+000xlove	jpn,5
+000xmx000	jpn,36
+000xnx	jpn,23
+000xoxo	jpn,13
+000yasu	jpn,6
+000yasuhiro0000	jpn,8
+000yopipi	jpn,13
+000yousef000	ara,15
+000youth_k	jpn,11
+000yt	jpn,9
+000ytk000	jpn,8
+000yucha000	jpn,6
+000yukapon000	jpn,15
+000yulmu	kor,130
+000yun000	jpn,6
+000yuuu	jpn,29
+000zekem	deu,4	eng,2
+000zilch	jpn,55
+000zr	jpn,305	eng,3
+000zuka	jpn,6
+000zuwa000	jpn,13
+0010010012	eng,5
+001001101011100	nld,7	eng,9
+00100203	kor,7
+00100446	tha,57
+001010110	eng,15
+00101060102	eng,9
+001011010	rus,12
+0010201000	eng,5
+0010210	jpn,31
+0010431	kor,9
+0010610	jpn,13
+001063	eng,5
+00106991	jpn,14
+00107311	jpn,52
+00107tempofm	eng,6
+001080tomo	jpn,15	eng,3
+001083	jpn,102
+0010haruka	jpn,17
+0010nico	jpn,15
+001101101100	kor,6
+001108	jpn,13
+001111100010111	spa,6
+00111500	jpn,19
+0011223341	jpn,67
+00112258	jpn,6
+001130	jpn,7
+001134387	jpn,10
+001149	jpn,18
+0011kidz	jpn,14
+0011marunosuke	jpn,41
+0011maruo	jpn,31
+0011shoji	jpn,19
+0011yutaka	jpn,22
+0012131	jpn,5
+001219	jpn,168
+00123698745	jpn,8
+00123takako_no6	jpn,19
+0012506	eng,53
+001287	jpn,5
+0012_lu_t_2100	jpn,11
+0012coco	jpn,5
+0012cosmos	jpn,8
+0012stk	jpn,5
+0012toy	jpn,10
+0012yuka0600	jpn,41
+0012z	eng,10
+001327	jpn,29
+0013banmenoneko	jpn,13
+0013coco	jpn,8
+0013hitomi	jpn,14
+00140430	jpn,32
+00141	jpn,5
+0014846	jpn,9
+0014_0014	jpn,136
+0014_julia	por,8
+0014angel	spa,6
+0014ayumi	jpn,8
+0014coyote	jpn,6
+0014dai56	jpn,6
+0014jckl	jpn,23
+0014qunqun	jpn,113
+0014sho	jpn,5
+0014tamago	jpn,17
+0014ug	jpn,5
+0014xxx	jpn,9
+0015825	kor,5
+0015_	jpn,57
+0015sweet_cup	por,76
+0016ggg	jpn,42
+0016ria	jpn,150
+00172049	jpn,21
+001743	jpn,11
+001746	kor,10
+0017pm	jpn,5
+0017the_eune	kor,18	eng,8
+001819950910	jpn,17
+00196	jpn,39
+001992_ag	eng,8
+001997jr	por,32	eng,2
+0019chi__	jpn,14
+0019theeri	jpn,10
+001___	jpn,100
+001_aliii	tur,7
+001_cassandra	eng,15
+001_cocktail	eng,114
+001_dane	jpn,91
+001_eric	spa,5
+001_eric_g	eng,7
+001_gagan	eng,5
+001_genki	msa,8
+001_jojo	ara,13
+001_jordan	eng,130
+001_kaique	por,7
+001_katerina	rus,9
+001_luckas	por,6	eng,2
+001_malena	spa,28	eng,5
+001_mehmet	tur,5
+001_naomi	jpn,192
+001_okabe	jpn,106
+001_sachiko	jpn,6
+001_sasuka	jpn,8
+001_shin	jpn,11
+001_stefano	spa,7
+001_string	jpn,21
+001_sugar	jpn,87
+001_tasha	eng,5
+001_thembey	eng,40
+001_tracy	eng,8
+001_tsutarja	jpn,22
+001_wal	ara,14
+001_ym	jpn,8
+001abandon	eng,5
+001akietty	jpn,8
+001akotih_en1	jpn,89
+001allievan	eng,7
+001aram001	rus,12
+001architect	jpn,14
+001ataid	jpn,14
+001beijo	por,6
+001belieber	eng,77
+001berkay	tur,6	eng,2
+001bongbong	kor,170
+001brenda	por,5
+001brooklynbaby	eng,7
+001brunaa	por,18
+001burak	tur,7
+001candice001	eng,7
+001cary	jpn,19
+001cat	jpn,7
+001cher	eng,22
+001ciumenta	por,7	eng,4
+001crazy	por,31	msa,2
+001creation	jpn,6
+001dantheman100	eng,15
+001dolly	eng,27
+001edizioni	ita,7
+001ellingmann	nld,82	afr,2	eng,2
+001ercan	tur,18
+001fallenangel	eng,8
+001fashionista	eng,8
+001feio	spa,2	eng,2	por,41
+001filipe	por,8
+001gemma001	eng,5
+001giggles001	eng,6
+001girl_smile	por,6
+001hanny	kor,123
+001henrique	por,6
+001henriquel	por,8
+001issra	spa,15
+001jbl	eng,16
+001jisa	spa,5
+001jojo	eng,19
+001karolina	spa,6
+001kbk	jpn,5
+001kirara	jpn,13
+001kouchan	jpn,94	eng,4
+001kowdee	eng,43
+001ksk	jpn,22
+001manamana	jpn,14
+001mani	spa,5
+001mayu	jpn,6
+001menorzitto	por,15
+001merp	eng,30
+001mg	jpn,17
+001miketia	eng,88
+001mine	tur,7
+001mohammed	ara,56
+001naho	jpn,29
+001naoyuki	jpn,6
+001narutake	jpn,15
+001nasser	ara,22
+001natty	jpn,12	fil,31	eng,50
+001ncis	eng,6
+001noona	kor,2	eng,19
+001nugraha	msa,7
+001nylon	eng,27
+001ocp	jpn,6
+001ofakind00	eng,5
+001oox	ara,7
+001paolitax	spa,59	eng,2
+001rak	ara,18
+001rasec	spa,9
+001reman	ara,127	eng,44
+001ronta	jpn,22
+001ryo	jpn,41
+001ryuji	jpn,10
+001sakura009	jpn,74
+001sanjubaba001	eng,7
+001shikamaru	jpn,5
+001shyboi	eng,23
+001sindy	tha,143	eng,4
+001sparrow	eng,7
+001stas	rus,14
+001swtu	jpn,18
+001taro	jpn,7
+001theanimal	eng,12
+001timmy	jpn,21
+001tinkerbell	fil,9	eng,6
+001tks	jpn,6
+001umar	rus,61
+001ver	jpn,8
+001whd	eng,6
+001x21xx	jpn,22
+001xxx_iti	jpn,131
+001yes	kor,54	tha,67	eng,17
+001yesungbot	jpn,8
+001yuka	jpn,9
+001yukiko	jpn,8
+0020117297652	eng,6
+002011duda	por,10
+00210408	jpn,33
+00211120	jpn,15
+0021nk	jpn,26
+00220702	jpn,15
+002248	jpn,5
+0022_	jpn,6
+0022yu	kor,9
+00230mauritius	eng,5
+00237279	jpn,5
+0023_mina	jpn,5
+0023cc	jpn,26
+0023kelly	por,13
+0024002400240	jpn,10
+002400240024dz	jpn,9
+00242casa	jpn,15
+002434jenkin	eng,6
+00243n	jpn,14
+0024504	jpn,10
+0024708	jpn,21
+002487	jpn,14
+0024_2010	jpn,5
+0024aaa	jpn,72
+0024arachan	jpn,30
+0024atsuko	jpn,29
+0024hoken	jpn,5
+0024kohtaroh	jpn,17
+0024konishi	jpn,16
+0024maimi	jpn,20
+0024masuo	jpn,5
+0024mk	jpn,50
+0024non	jpn,7
+0024rip	jpn,20
+0024ryo	jpn,69
+0024seiji	jpn,11
+0024t	jpn,60
+0024to	jpn,51
+0024x3	jpn,7
+0024yuuya	jpn,33
+002601	jpn,5
+0026eita	jpn,5
+0026hide	jpn,5
+0026rubinho	jpn,14	eng,2
+002700	msa,2	eng,278
+002700k	kor,28
+002756	jpn,9
+0027hyerin	kor,12
+0027takotomi	jpn,27
+0027ww	jpn,73
+0028oni	jpn,5
+0028rl	jpn,29
+002917	jpn,7
+0029272	kor,11
+002_caroline	por,10
+002_hibiki	jpn,164
+002_holdmyheart	eng,30
+002_jet	jpn,37
+002_jet_link	jpn,127	eng,18
+002_juan_carlos	spa,5
+002_kathie	spa,5
+002_mercy	eng,8
+002_sh	jpn,5
+002_shosho	ara,7
+002_yoneko	jpn,15
+002akimaru	jpn,26
+002ask	jpn,15
+002azan	jpn,7
+002c	jpn,11
+002carolina	spa,5
+002co	jpn,23
+002cold	eng,5
+002cricket	eng,8
+002cukeofficial	jpn,5
+002er	jpn,10
+002esp	jpn,6
+002feio	eng,17	por,70
+002fuka	jpn,15
+002gorgeous95	eng,39
+002illya	jpn,25
+002j	tha,4	eng,2
+002jac	spa,8
+002linda	nld,12
+002quantum	jpn,6
+002real_004you	eng,10
+002sim	kor,7
+002t	jpn,57
+002yk_tic	kor,15
+002yuki	jpn,10
+002yyo	jpn,13
+00300	jpn,18
+003018011	eng,48
+0030301022	jpn,14
+00305000	ara,6
+00305_hisa	jpn,99
+0030roba33	jpn,16
+00312378	jpn,21
+00314	jpn,15
+0031jay	nld,6	eng,2
+0031ucari	jpn,5
+0031yd	nld,3	eng,3
+00324d	jpn,96
+003252569	jpn,7
+0032_	kor,50
+0032ftb	jpn,8
+0032mitsu	jpn,24
+0032ru	jpn,63
+0032vanusa	por,5
+00330anly10040	jpn,5
+003390	jpn,21
+0033iw08721	jpn,5
+0033xpx	jpn,6
+0034gallery	spa,5
+00365days	jpn,9
+0036_suki	jpn,31
+003740	jpn,144
+003790	jpn,63
+00381192_unco	jpn,14
+003855	jpn,55
+0038_0309	jpn,30
+0038_mya	jpn,15
+0038ayanyan	jpn,21
+0038inuco0038	jpn,22
+0038lovarashick	jpn,16
+0038meets	jpn,9
+0038nori	jpn,54
+0038noribot	jpn,23	eng,8
+0038seiya1224	jpn,7
+0038stardust	jpn,74
+0038tarou	jpn,11
+0038u	jpn,30
+003983	jpn,256
+0039p	jpn,75
+003_0	jpn,20
+003_alteisen	jpn,38
+003_inoino	jpn,5
+003_matheus	por,10	msa,2	eng,2
+003_nm	jpn,40
+003_thais	por,11
+003_toninho	por,8
+003basedbitchh_	eng,7
+003biplab	eng,55
+003cak	jpn,11
+003fc	eng,15
+003feio	por,53	eng,4
+003gabriel	por,12
+003ileen	nld,8
+003jake	eng,21
+003kazu	jpn,10
+003keiko	jpn,9
+003kry	tha,22
+003kubota	jpn,10
+003labs	nld,14	eng,9
+003lili	eng,33
+003lindsay	eng,6
+003lions	jpn,5
+003mansanas	fil,4	eng,9
+003mb	eng,51
+003me	jpn,11
+003mitsuba	jpn,28
+003mm	jpn,17
+003mo	eng,7
+003msm	jpn,8
+003nma0bopoha00	jpn,27
+003oo3	jpn,11
+003orroo	jpn,10
+003pabloj	spa,32
+003rex	eng,5
+003san	jpn,9
+003sunshine_nag	jpn,39
+003taich	jpn,13
+003tii	jpn,24
+003wa	jpn,7
+003xd	kor,15
+003yami	jpn,5
+0040002	jpn,8
+004001shunsai	jpn,15
+004011	jpn,5
+00409033	jpn,42
+0040_yzk	jpn,38	eng,2
+0040db	jpn,6
+0040sammy	eng,11
+0040zead	ara,134
+00412062	jpn,21
+004140_s	rus,7
+00426	jpn,7
+0042600	jpn,18
+0042601300	jpn,7
+004273140	jpn,5
+00428	jpn,5
+0043m	jpn,6
+004444	jpn,21
+0044726	ara,28
+004493	ara,14
+0045___	jpn,15
+0045mame	jpn,7
+004673	jpn,7
+0046kenshiro	jpn,8
+00470825	jpn,8
+0047taka	jpn,12
+004800	jpn,17
+0048b3	jpn,9
+0049ssby	kor,54
+004_	jpn,41
+004_gata	por,5
+004_kp	jpn,11
+004_louis	eng,5
+004_lucas	por,11
+004annie	spa,12
+004c	jpn,24
+004connec	eng,7
+004d80	jpn,11
+004issa	spa,5
+004k105	jpn,47
+004maki	jpn,262	eng,2
+004oko	jpn,26
+004onik	jpn,19
+004realthing	eng,33
+004santi	spa,5
+004tuite	por,30
+005009	jpn,13
+005023	jpn,17
+00507	kor,5
+0050_01	jpn,16
+0051600	jpn,69
+00519a	jpn,41
+00519xcanax0606	jpn,5
+0051pm	kor,9
+005236	jpn,27
+0052772500	jpn,34
+0052yuni	jpn,19
+005310	jpn,9
+005355	jpn,5
+0053_fp	jpn,15
+00540054	jpn,20
+005405	jpn,46
+0054404	kor,49
+0054_110_98	jpn,61
+00550045	jpn,15
+0055_88	ara,14
+005609	jpn,20
+005621	rus,2	ell,2	jpn,91
+005656423001453	eng,10
+005665	jpn,5
+005682	tha,5
+005797	jpn,5
+0059081	jpn,5
+005_ebi	jpn,7
+005cobudy_bubby	kor,5	tha,42	eng,2
+005em1	jpn,18
+005goldeneye	eng,16
+005harry	jpn,55
+005km	jpn,148	eng,3
+005laser	jpn,47
+005leticia	por,20
+005lilia	spa,9
+005pihyarara017	jpn,5
+005rocket	rus,9
+005sabrina006	spa,6
+005uzume	jpn,10
+005waito	jpn,52
+006034132	jpn,11
+0060992	jpn,5
+006111998	eng,7	nld,7
+0061219	jpn,18
+00617erika	jpn,6
+0061989	eng,36
+0062010_	eng,14
+00631113	jpn,7
+00632445	eng,7
+00632745cha	jpn,34
+00632745pm	jpn,13
+0064026	jpn,55
+0064__r	jpn,8
+00653318	kor,10
+006644y	jpn,20
+00666kkk66600	ell,2	jpn,149
+006699669900	jpn,12
+006800	deu,5
+00682762	jpn,9
+0069not007	eng,98
+0069plus	jpn,39
+006_biwa	jpn,5
+006_h	ara,24
+006_happy	jpn,10
+006_zerozerosix	jpn,10
+006agenz	eng,5
+006aya	jpn,5
+006captainnissy	jpn,6
+006celibond	tur,18
+006gabo	spa,198
+006jyunichi	jpn,5
+006mar	por,5
+006rulura	jpn,22
+006spiceandwolf	jpn,16
+006t	jpn,18
+006toe	eng,35
+006tongthesuju	tha,46	eng,2
+007000054	ara,6
+0070010	jpn,5
+00700150095	eng,215
+0070070	kor,21
+007007007007000	jpn,40
+00700gkdl	kor,132
+00701010100	fra,7
+00703un_yasiro	jpn,168
+0070700z	jpn,5
+0070723	jpn,33
+007077777	jpn,12
+00708_1	jpn,11
+0071031	jpn,11
+00711_	eng,67
+007121	jpn,6
+007137	kor,5
+0071800	jpn,5
+0071naoki0467	jpn,16
+00720520301009	jpn,9
+0072mac	kor,3	jpn,35
+0072woo	eng,6
+00730_baxter	eng,92
+0073735963	jpn,125
+0074157	jpn,7
+0075555	tha,186	eng,7
+0075963	jpn,46
+0075soso	ara,6
+007622	kor,61
+0076923	jpn,16
+00773125	jpn,5
+0077712	jpn,55
+00777777777777	jpn,23
+0077blondie	eng,5
+0077reicha	jpn,7
+0078hongjjang	kor,10
+007900	jpn,14
+007980	jpn,52
+007993	jpn,102
+0079_0083_0084	jpn,178
+0079amedeo	jpn,6
+0079k	jpn,5
+0079uc	jpn,112
+007_55th	jpn,8
+007_________	spa,17
+007__girl	eng,83
+007_aid	eng,19
+007_alicia	eng,76
+007_amr	ara,40
+007_annex	nld,4	eng,4
+007_bitches	eng,5
+007_boys	eng,14
+007_brad	eng,7
+007_bs	eng,7
+007_buza	eng,35
+007_camilo	spa,15
+007_charzz	msa,30	eng,7
+007_ck	tur,28
+007_codfather	eng,8
+007_div	jpn,267
+007_dm	rus,5
+007_eduardo	spa,9
+007_edwin	spa,5
+007_glamour	eng,5
+007_gossipgirl	tur,5
+007_gunzz	eng,27
+007_hikaru	jpn,8
+007_j_b	eng,22
+007_jbond	eng,16
+007_jt	eng,5
+007_juju	por,3	eng,3
+007_kay	eng,7
+007_kd	eng,12
+007_luh	por,6
+007_mikey	eng,9
+007_mrohio54	eng,6
+007_mumu	jpn,11
+007_mystery	eng,8
+007_na	jpn,39
+007_nan	eng,11
+007_naomi_007	jpn,6
+007_nicholas	eng,13
+007_phil	eng,8
+007_pino	jpn,11
+007_rebooted	eng,60
+007_ricard	por,7
+007_samantha	eng,19
+007_secretagent	eng,29
+007_shay	eng,34
+007_shit	eng,187
+007_smooth	eng,11
+007_sosa	eng,5
+007_suspect	eng,70
+007_thaskoolkid	eng,137
+007_tim_az	eng,6	nld,79	msa,2	afr,2
+007_tt	eng,13
+007_tufan	rus,14
+007_twatchers	eng,172
+007_win	msa,5
+007_yochan	jpn,44
+007_zico	nld,24
+007a83	eng,5
+007aaadddd00700	jpn,8
+007aaj	eng,10
+007aaron	ces,2	eng,74
+007abdulla	ara,9
+007ahmed007	ara,31
+007ajsmith	eng,6
+007akazawa	jpn,8
+007alexkp	eng,11
+007alexlee	eng,5
+007amber007	eng,13
+007amc	eng,5
+007amper	eng,6
+007annikamoller	eng,8
+007arisa	jpn,12
+007arizali	tur,12
+007atulkumar	eng,6
+007ava	spa,7
+007ayiek	msa,9	fil,3
+007babyface	eng,5
+007bad_kingj	eng,5
+007barber	eng,51
+007bark	kor,72
+007bdk	eng,30
+007beatriz	spa,3	por,194	msa,3	eng,16
+007bergie	fra,10
+007bigd	eng,8
+007biggirl18	spa,2	eng,4
+007bishop	eng,10
+007blake	eng,11
+007blueray	eng,19
+007bondtreybond	eng,20
+007boygenius	eng,18
+007brenosilva	por,8
+007bubu	eng,6
+007bucuk	tur,12
+007byankah	por,5	eng,2
+007cacao	jpn,10
+007cadaver	por,17
+007camper	eng,8
+007cams	fil,49	eng,22
+007casagrande	msa,7
+007chancelucas	eng,20
+007charlee	eng,29
+007cheese	eng,14
+007chester	eng,7
+007chez	eng,7
+007chuchu	jpn,12
+007cno513	eng,11
+007code	jpn,8
+007conord	eng,15
+007cooljay	eng,108
+007dante	eng,43
+007dax	spa,13
+007dexter_tub	eng,16
+007dossier	eng,11
+007dwthomas	eng,53
+007even	eng,27
+007fabinho	por,5
+007fadi	eng,12
+007fak	eng,5
+007famous	eng,14
+007fi	eng,7
+007fish	eng,12
+007flavien	fra,14
+007fm	jpn,7
+007fujimoto	jpn,7	eng,2
+007gabygabs	spa,4	eng,9
+007gekkou	jpn,45	eng,2
+007gendaishakai	jpn,54
+007georgiapeach	eng,9
+007giovanni	spa,7	eng,3
+007girl4u	eng,31
+007girldream	jpn,12
+007gomer	eng,6
+007graviett	eng,63
+007greenswagg	eng,8
+007grem	eng,7
+007gtasanandrea	eng,8
+007hachi	jpn,35
+007hambil	eng,8
+007hammer	eng,5
+007han	kor,6
+007harii	eng,48
+007hd	spa,15
+007headbashin	eng,19
+007henry2	spa,8
+007hi1ro6	jpn,6
+007hil	eng,9
+007himajin	jpn,17
+007hoessie007	eng,7	nld,92	afr,2
+007hoffa	eng,5
+007honeybadger	eng,7
+007iker007	eng,53
+007intrepid	eng,14
+007isbond	eng,8
+007itx	spa,12
+007jaap	nld,10
+007jahmal007	nld,15	eng,23
+007james_b0nd	eng,10
+007jamesbond_	por,66
+007jamesnews	eng,6
+007jaquez	spa,5
+007jbc	spa,6	eng,2
+007jemas	eng,5
+007jigs	eng,18
+007jonnymorales	eng,14
+007kanegon009	jpn,16
+007katerine	eng,5
+007kcz	eng,5
+007keichan	jpn,50
+007kell	eng,9
+007kelz	eng,45
+007ken007	jpn,207
+007kiimmy	spa,9
+007killinem	eng,7
+007kitaro	jpn,10
+007koji	jpn,89	eng,3
+007kopite	eng,42
+007kris050	rus,5
+007ksu	rus,22
+007kumamoto007	jpn,6
+007laa	eng,5
+007legendary_	eng,53
+007lemontea	jpn,30	eng,2
+007leva	spa,15
+007lic	fra,7	eng,3
+007lilly	kor,5
+007lockandkey	eng,6
+007louiseob	eng,13
+007luansantana	por,9	eng,3
+007lynn	eng,32
+007m34	eng,11
+007maaami	jpn,28
+007madridista	ara,9	eng,48
+007mafiawars	eng,5
+007magpie	eng,14
+007maingi	swa,5	eng,21
+007mako	eng,17
+007mamu	jpn,5
+007mari	jpn,24
+007marmar007	eng,9
+007matin	tha,84
+007mayowa	eng,123
+007meisie	afr,9	eng,8
+007melyxkool	spa,5
+007mercury	jpn,78	eng,4
+007mhad007	rus,6
+007miestro	eng,5
+007miikaabieber	spa,4	eng,3
+007mirc	spa,28
+007miso	kor,26
+007mjo	eng,58
+007mona	eng,39
+007mpu	eng,5
+007mrabbey	eng,5
+007mrbondza	afr,2	eng,14
+007msk	rus,7
+007msw89	eng,16
+007murdock	eng,6
+007museum	eng,7
+007nai	eng,13
+007nanachan	jpn,16
+007nanq	jpn,9
+007napoleon	eng,5
+007nathalie	nld,21	eng,13
+007natty007	eng,6
+007nickos	nld,8
+007nicol	tur,7
+007nielsen	spa,5
+007nighthawk	nld,24	eng,3
+007niji	jpn,16
+007nobo	jpn,10
+007oficial	spa,5
+007oguzhan007	tur,15	eng,4
+007onew	eng,5
+007ousuke	jpn,6
+007oyh	kor,121
+007p99	jpn,5
+007pamela	por,5
+007parkplace	eng,71
+007pelayo	spa,12
+007pink007	jpn,11
+007pod	eng,7
+007printer	eng,5
+007rashad	eng,18
+007raygun007	eng,6
+007reppy	jpn,23
+007richdaddy	eng,30
+007rissa	eng,92
+007rod007	spa,8
+007romeo999	tur,13	eng,2
+007romi	msa,12	eng,3
+007rr	eng,60
+007ruu04	jpn,7
+007ryry	eng,25
+007ryukarin	jpn,7
+007sachi	jpn,7
+007sammie007	eng,6
+007santoscoy	spa,45
+007sasha007	rus,15
+007se	jpn,50
+007sei	kor,77
+007selfmaded	eng,10
+007sho	jpn,36
+007shwagg	eng,60
+007singer	eng,60
+007smoothbond	eng,86
+007snowman	eng,33
+007soph	eng,5
+007sos007	jpn,7
+007soulofdareal	eng,8
+007soup	eng,11
+007souta	jpn,30
+007spacemonkey	eng,5
+007sponge	eng,16
+007stockchat	eng,7
+007swag	eng,98
+007swati	eng,6
+007taelewis	eng,16
+007takachu	jpn,16
+007takeoff	jpn,13
+007tankie	nld,14
+007tetsu	jpn,11
+007the_dutchess	eng,5
+007thesaint1	eng,30
+007tiffnixon	eng,7
+007tonycruz	eng,15
+007toshi	jpn,45
+007toshiki007	jpn,11
+007truth	eng,5
+007tshepi	eng,9
+007tsu	jpn,32
+007tumpa	eng,6
+007tutto	jpn,10
+007twindeluxe	deu,8
+007twinkles	eng,28
+007ueda	jpn,8
+007united07	spa,10
+007urrutiabond	spa,121
+007varennik	rus,14
+007ven	eng,5
+007vir	por,5
+007vogel	eng,6
+007vvv	jpn,7
+007watchman	eng,11
+007wellyn	spa,32
+007wenzel	por,10
+007wicky	tha,8
+007wiibrat	eng,10
+007wizzy	eng,12
+007wtk	kor,71
+007xmanrightup	eng,10
+007xoxo	jpn,16	fil,3	eng,6
+007yahc	jpn,5
+007yari	eng,6
+007yto	jpn,41
+007yukino	jpn,25
+007yukki	jpn,11
+007yuriyama	jpn,5
+007zp	jpn,33
+008049	jpn,8
+008088rd	jpn,8
+0080_ms_06fz	jpn,17
+0080kachu0800	jpn,5
+0080kosaku	jpn,31
+0081031www	jpn,12
+008196	jpn,6
+0081ray	jpn,9
+0081yk	jpn,6
+008230011290000	jpn,9
+0082566	jpn,16
+00831013	jpn,8
+008315	jpn,21
+008323	jpn,7
+0083672	jpn,74
+0083anaberugato	jpn,9
+0083anavel	jpn,51
+0083uraki	jpn,54
+00840084	jpn,29
+00840408	jpn,17
+00841103	jpn,10
+0084123	jpn,74	eng,3
+008435	jpn,19
+008444m	jpn,13
+008484	jpn,70
+0084me	jpn,5
+0084s	jpn,7
+0084takuma	jpn,7
+0084uz	jpn,5
+0084yuuuko	jpn,6
+00850069	jpn,11
+00852418	jpn,12
+00852dmw	jpn,55
+008553	jpn,5
+008611	jpn,15
+008653sweet	jpn,6
+0086naoshi0309	jpn,13
+0086smart	jpn,26
+00870811	kor,2	jpn,12
+008723	jpn,21
+008723x0823	jpn,5
+008742	jpn,14
+0087file	jpn,9
+0087mns	spa,20
+008800dic	jpn,136
+008808800	ara,18	eng,22
+0088111	jpn,9
+00884422	jpn,23
+008866442200886	ara,5
+0088ff	jpn,43
+008_alexandre	por,3	eng,2
+008_at	jpn,14
+008_betl	tur,64
+008_ericka	por,5	eng,2
+008_isabella	eng,6
+008_red	jpn,382	ell,2
+008_ryo	jpn,9
+008_sha	ara,20
+008adako	jpn,11
+008aki	jpn,17
+008alex	spa,8
+008cfoxc800	jpn,31
+008ch	jpn,79
+008cici	eng,9
+008fahad	ara,6
+008fumio	jpn,24
+008galaxy	jpn,9
+008gerard	spa,29	eng,2
+008la	jpn,16
+008lucasalves	por,87
+008m	jpn,24
+008roberta	por,29
+008sara	rus,10
+008shin	jpn,31
+008ta	jpn,8
+008ttete	ita,6
+00900000	rus,12
+009001	jpn,6
+009040	jpn,12
+0090dorcus	jpn,6
+009131	jpn,12
+00915h1	jpn,7
+00919100	jpn,13
+0091mii	jpn,8
+0091riochan	jpn,9
+0092311	eng,5
+009271203	jpn,18
+0092900	jpn,7
+009300	jpn,68
+009368	jpn,8
+0094592	jpn,18
+0094y	jpn,22
+00955168	jpn,15
+0095toko	jpn,25
+00960613	kor,100
+0096555229899	ara,9
+0096597931661	ara,28
+009661_hanan	ara,63
+009665544404123	ara,9
+00966558048085	ara,33
+00967735273326	ara,10
+0096carla	spa,21	eng,13
+0097ts_	jpn,15
+0098pezweb	spa,6
+0098s	jpn,58
+009900	jpn,48
+00996633	ara,13
+0099cute	ara,16
+0099faisal	ara,8
+0099fb	jpn,20
+009_aninha	por,34	eng,6
+009_jj	jpn,5
+009a9a	jpn,6
+009abc	jpn,8
+009aboazoz	ara,15
+009alexis	eng,8
+009belinha	por,7
+009black_angel	msa,21
+009bot	jpn,95
+009cd1	jpn,13
+009dolphin	jpn,21
+009fran	spa,13
+009iwaaaaa	jpn,63
+009july	msa,45	fil,2	eng,8
+009kazu	jpn,17
+009larissa	por,7
+009metal_bot	jpn,16
+009michael	msa,5	eng,6
+009michelleb	afr,19	eng,24
+009miyamiya	jpn,5
+009nabeel	msa,2	eng,131
+009pre	tha,10
+009sapphire	jpn,14
+009si	jpn,101
+009smiley	spa,5	eng,16
+009sp	jpn,41
+009ssklamm	jpn,5
+009thamer	ara,11
+009tokeitomiki	jpn,16
+009travis	eng,6
+009usaya	jpn,48
+009x003	jpn,9
+009xyz	jpn,12
+00_007080	kor,7
+00_0_	jpn,11
+00_11_22_33	eng,40
+00_21	jpn,26
+00_38	jpn,13
+00_4	jpn,9
+00_6011	jpn,237	eng,4
+00_777	jpn,5
+00_84	jpn,12
+00_8ahm	jpn,15
+00__24	jpn,6
+00___	ita,13	eng,6
+00_________	jpn,13
+00__ma__00	jpn,17
+00__oo	eng,24
+00__raquel__00	spa,14
+00_a	jpn,33
+00_abc	kor,11
+00_absolute_00	jpn,98
+00_akira	jpn,42
+00_al7ay_00	ara,11
+00_aldosry	ara,132	eng,2
+00_aljabr_00	ara,17
+00_alsharifa	ara,6
+00_amn	ara,13
+00_andressa	por,34	eng,2
+00_angelica_00	spa,35
+00_asai	jpn,67
+00_automaton	zho,10
+00_aya	jpn,6
+00_bee	eng,10
+00_bevan	eng,13
+00_buck	eng,11
+00_buena	spa,8
+00_bump_1977_00	jpn,5
+00_cds	eng,26
+00_chen	jpn,24
+00_chepa	spa,15
+00_cris	spa,11
+00_cristiane	por,8
+00_dayat	msa,24	eng,3
+00_deb	eng,10
+00_debo	eng,22
+00_devan	eng,7
+00_does_this	eng,86
+00_doll	jpn,93
+00_eman	ara,12
+00_ena_00	jpn,11
+00_giihmartins	por,14
+00_gorgeous	eng,30
+00_gram	eng,5
+00_gutta	eng,6
+00_haqa	jpn,76
+00_haru_00	jpn,9
+00_hibiki	jpn,8
+00_hidden	jpn,168	eng,3
+00_izumi	msa,7
+00_jackie	eng,260
+00_jeroen_00	nld,4	msa,2
+00_jessie_00	nld,8
+00_jettelife	eng,10
+00_jun_00	jpn,29
+00_kaeru_00	jpn,10
+00_kana_00	jpn,5
+00_kathy	fra,177	eng,14
+00_ki_no_2	jpn,70
+00_kim_mi	kor,222
+00_kino	jpn,135
+00_kisa	jpn,27
+00_kn	jpn,40
+00_kon	jpn,38
+00_ktg	eng,22
+00_ky1	jpn,105
+00_lana	rus,10
+00_lau_00	spa,5
+00_linea_00	jpn,15
+00_lorrayne	eng,4	por,63
+00_maaya	jpn,45
+00_mar	spa,16
+00_marcos	por,6	eng,2
+00_marina	fra,52	eng,9
+00_mariya	rus,8
+00_master	jpn,13
+00_michelle_00	jpn,63
+00_min	jpn,11
+00_mini_pp	jpn,13
+00_moon_00	ara,21
+00_naomi_00	nld,4	eng,2
+00_nayu	jpn,6
+00_near	jpn,6
+00_ng	spa,10
+00_nirvana	jpn,6
+00_pablo	spa,17
+00_r	jpn,120
+00_raaaayu_00	jpn,14
+00_rayanne	por,10	eng,3
+00_rei_00	jpn,26
+00_ryu_u	jpn,8
+00_ryuki_00	jpn,21
+00_savage	eng,13
+00_second	jpn,163	eng,2
+00_shadow_01	jpn,41
+00_shi_00	jpn,53
+00_shino_00	jpn,14
+00_showtime	eng,46
+00_snow	jpn,6
+00_softball	eng,7
+00_soso	ara,6
+00_tama	jpn,10
+00_theball_00	tha,18
+00_tomi	jpn,26
+00_toutetsu_00	jpn,145	eng,2
+00_ub102	eng,8
+00_xxx	jpn,5
+00_xyz_00	jpn,13
+00_y00	jpn,466	ell,2	eng,2
+00_y01	jpn,11
+00_yanagi	jpn,45
+00_yd00	kor,56
+00_yoshi_00	jpn,18
+00_yuu	jpn,7
+00_zakozako	jpn,46
+00a01	jpn,6
+00a381	jpn,5
+00a968	jpn,31
+00a_boouaiai	jpn,8
+00aaaaaa	jpn,138
+00abanks	eng,54
+00abbykay00	eng,5
+00abe00	jpn,30
+00abeer	ara,5
+00abenozo00	jpn,14
+00abner00	spa,6	eng,2
+00ac9a	jpn,6
+00accelerator00	jpn,6
+00achin	jpn,9
+00aco00	jpn,72
+00acron00	jpn,7
+00adore00	jpn,13
+00af	spa,6
+00ahi00	jpn,9
+00ai00	jpn,70
+00ai23	jpn,11
+00aiki00	jpn,32
+00aioo	jpn,12
+00aira00	jpn,79	eng,5
+00akai00	jpn,55
+00akane00	jpn,60
+00akichan00	jpn,20
+00akimama00	jpn,5
+00akiri	jpn,37
+00akp00	jpn,6
+00aku0tori	jpn,10
+00aky00	jpn,41
+00alanoud00	ara,10
+00albertoo	spa,5
+00aldo00	eng,12
+00alee	eng,13
+00alevale00	spa,7
+00alliesmeaton	eng,29
+00alqadri00	ara,35
+00amane00	jpn,5
+00amby	eng,21
+00amhk00	jpn,8
+00amj0p0gjmtwta	jpn,6
+00ammiel00	spa,4	eng,43
+00amnos5	jpn,14
+00an_roo	spa,14	eng,4
+00anahi00	spa,7
+00anchi00	jpn,8
+00andb	eng,20
+00andrew	jpn,169
+00andrewcirillo	eng,5
+00angi	spa,12
+00angy00	eng,5
+00anme00	spa,23
+00ann00	jpn,5
+00annz00	kor,76
+00ano	jpn,11
+00ant00	eng,10
+00aranza_esp00	spa,28	eng,4
+00arara00	jpn,8
+00arca	por,10
+00ari_meza20	spa,8
+00arika00	eng,9
+00arimura	jpn,5
+00ariyasu00	jpn,5
+00ariza00	spa,11
+00aroma00	ara,13	eng,2
+00asa	jpn,28
+00ashleymarie00	eng,693
+00ashleyrae00	eng,6
+00ashleyydani00	eng,12
+00asm	jpn,25
+00asuka23	jpn,23
+00atm00	jpn,12
+00avecmoi	eng,98
+00awesome	eng,14
+00awoush	ara,13
+00aya_m	jpn,17
+00ayamelon	jpn,10
+00ayanya00	jpn,5
+00ayaru003	jpn,35
+00ayaru03	jpn,202
+00ayaxmiku00	jpn,6
+00ayayaya00	jpn,10
+00ayman00	ara,18	eng,5
+00ayumoon00	jpn,11
+00b1319	jpn,11
+00b2uty00	kor,10
+00baba00	jpn,617	eng,2
+00baby_	ell,2	jpn,13
+00backcat00	jpn,16
+00badwolf00	kor,11
+00bagewbu	eng,33
+00bajan	eng,7
+00ballgame	eng,5
+00baruboa00	jpn,27
+00bas00	jpn,18
+00basil00	ara,5
+00basma00	ara,9
+00batoola	ara,6
+00baya	spa,46	fra,2	eng,5
+00bbbling	kor,10
+00becky00	eng,14
+00beffalscott	eng,13
+00belltree00	jpn,13
+00bernardo	por,12
+00bfff	jpn,15
+00bicho	spa,47
+00bida	por,16	eng,5
+00bigdogfunk	por,63	eng,7
+00biia	por,7
+00bike00	tha,44
+00binho	por,61	eng,3
+00bisuinu	jpn,153
+00bitch	eng,7
+00bito617	eng,8
+00black	spa,9
+00black_bird	jpn,63
+00blackwhite00	jpn,6
+00blaque	eng,5
+00blue	jpn,14
+00blueday	kor,5
+00bluegreenn00	jpn,10
+00bon00	jpn,37
+00bora00	kor,8
+00borsalino25	jpn,6
+00boy	jpn,8
+00br3	eng,19
+00brandy	eng,23
+00brannonje	eng,13
+00brighteyes	eng,5
+00brittbaby00	eng,5
+00brownie	jpn,5
+00brush	jpn,18
+00bunniedee00	eng,7
+00bunny_hil	eng,22
+00bus_sfc	jpn,15
+00butler	spa,40
+00byakko_bot	jpn,91
+00bykt00	spa,6
+00ca00	jpn,10
+00cac000	spa,44
+00cafetero	spa,29
+00candie00	eng,5
+00caprincess00	jpn,10
+00caressa	nld,29	eng,13
+00carla00	fil,4	eng,6
+00carolinecarr	eng,13
+00carpe_diem00	eng,7
+00caseface00	eng,125
+00cassio	por,10
+00cathy	por,6
+00ceballos	spa,15
+00cenation	eng,11
+00centipede00	jpn,7
+00cha	jpn,5
+00chai00	jpn,6
+00chann1315	jpn,56
+00charisma	kor,13
+00charly	nld,9	eng,3
+00chastity	eng,15
+00chawee00	tha,9
+00chelseahl00	eng,5
+00chelsealately	eng,84
+00chibitan00	jpn,75
+00chicchi00	jpn,13
+00chie00	jpn,21
+00chihorin00	jpn,15
+00chiita00	jpn,11
+00choco	jpn,59
+00chompoo00	tha,19
+00chopin	jpn,7
+00chouette	kor,5	eng,3
+00chriscook	eng,7
+00christien00	nld,26	eng,6
+00christine	eng,10
+00cj	eng,44
+00clementina00	spa,118	eng,11
+00co	jpn,10
+00cocainecrazy_	eng,34
+00coco52	jpn,20
+00core00	eng,8
+00cosmos	jpn,194
+00crazycassie00	eng,60
+00cross00	jpn,42	eng,5
+00crowzero00	jpn,102
+00ct	eng,29
+00curt	eng,16
+00cutegod00	jpn,37
+00cwest	eng,6
+00da	jpn,5
+00daihuku00	jpn,5
+00daizy00	jpn,5
+00danaa	ara,17
+00danbee00	jpn,6
+00dancingqueen	nld,44	eng,13
+00dandelion00	jpn,8
+00dani13	eng,17
+00dawn	eng,27
+00day_s	ell,2	jpn,18
+00deanjr0086	eng,5
+00deb_	nld,15	eng,6
+00debi00	jpn,55
+00delode	eng,23
+00delta88	kor,7
+00despo	eng,6
+00deuce5	eng,6
+00diana00	eng,6
+00die00	jpn,10
+00died	ara,17
+00diet013	jpn,106
+00discod	eng,5
+00djcm00	spa,15	eng,4
+00dl	jpn,11
+00dmitrieva	rus,11
+00dn_nb00	eng,43
+00do_ob00	eng,20
+00dogger	eng,25
+00doink	eng,5
+00doll	jpn,32
+00donguringo00	jpn,29
+00doo00	jpn,19
+00doppiozero	ita,21
+00dos	jpn,9
+00down	jpn,39
+00dran	eng,26
+00dre4d	eng,23
+00drop00	jpn,31
+00drydog	jpn,63
+00dub	eng,29
+00dubs	eng,20
+00dunya	tur,11
+00dutchess	eng,29
+00dyana00	spa,194	eng,2
+00eda	jpn,5
+00eden	eng,14
+00eek	eng,17
+00ei00	kor,17	jpn,22
+00eight	eng,13
+00elfo_luz	spa,5
+00elisangela00	por,6
+00ellieanne22	eng,6
+00elvis00	por,13	eng,2
+00emajaires00	spa,42
+00emelito	eng,9
+00emilyquijada	spa,11
+00emmers	eng,9
+00emoumou123	jpn,6
+00emr00	eng,10
+00emreee	tur,90
+00enemy	kor,13	eng,2
+00enter	eng,19
+00eri	jpn,9
+00eric00	spa,44
+00erica	eng,8
+00erikaj	eng,8
+00erinrogers00	eng,8
+00error	jpn,45
+00esperanza03	jpn,16
+00estefane	por,77	eng,3
+00estherr	nld,11	eng,5
+00eunyoung	fil,13	msa,2	eng,10
+00eva00	jpn,30
+00evita00	eng,6
+00exit00	jpn,14
+00f00z	jpn,38
+00f4	jpn,93
+00fahad00	ara,31
+00falcon00	jpn,10
+00fantasma	spa,6	eng,4
+00faria	eng,15
+00fer00	spa,7
+00ffff	jpn,13
+00ffrr	jpn,81
+00fieldsy	eng,15
+00fierro	spa,5
+00flare	jpn,39
+00flora00	jpn,18
+00fmfm00	jpn,8
+00fmss00	jpn,64
+00fon00	tha,5
+00forever	eng,19
+00franchise	eng,18
+00freakalicious	eng,9
+00freemdom	jpn,7
+00freshman	eng,7
+00freshprince00	eng,43
+00frinny00	eng,5
+00frost	eng,652
+00fukayuki00	jpn,83
+00fukumoto0	jpn,6
+00fullclip	eng,17
+00fuuka00	jpn,69
+00fuyuki	jpn,19
+00gabix00	spa,6	por,3
+00gachayuki	jpn,9
+00gaku00	jpn,5
+00galaxyblue	jpn,110
+00garlic00	jpn,7
+00gauliah	jpn,21
+00gc	nld,2	eng,22
+00gd	jpn,9
+00ggre00	jpn,21
+00gi	jpn,9
+00ginka	jpn,14
+00glass	eng,13
+00gno00g	jpn,6
+00goog	ara,16
+00gracee	eng,54
+00grant	eng,5
+00graze	jpn,190
+00grazicruz	por,17	eng,4
+00green27	rus,7
+00grit	jpn,5
+00guardian00	jpn,8
+00guruguru41	jpn,98
+00h00jb	por,19	eng,3
+00h00min	por,50	eng,11
+00h00vemk	por,83	eng,9
+00h01min	por,133	eng,6
+00h02	spa,3	eng,6	por,63
+00h0m0	eng,7
+00h18m	por,15
+00h24__	spa,2	por,58	eng,10
+00h6s2e00	jpn,183
+00h_em_gee	eng,20
+00h_my_g0d	fra,10	eng,3
+00h_official	jpn,40
+00h_soflawless	eng,88
+00h_thatsyogirl	eng,13
+00haaaaryu00	jpn,9
+00hachi10garnet	jpn,19
+00haduki00	jpn,7
+00hamu00	jpn,5
+00han_i	kor,9
+00handy00	msa,13
+00hao00	jpn,7
+00happystar00	jpn,6
+00hara314	jpn,17
+00haro_kbot	kor,188
+00harrm1	eng,8
+00haru001	jpn,7
+00haru_kaze00	jpn,5
+00haruchin24_gt	jpn,5
+00haruka00	jpn,42
+00haruto00	jpn,11
+00hayat00	jpn,5
+00hayu00	jpn,20
+00hayu_runamelo	jpn,74
+00hazuki00	jpn,5
+00hbaby_baby	eng,26
+00hee00	jpn,27
+00heey00	swe,6
+00hellena	eng,46
+00hero26	jpn,10
+00hilmy	msa,20	eng,3
+00hinaco00	jpn,8
+00hippu	jpn,111
+00hir0	jpn,13
+00hira00	eng,131
+00hiragi00	jpn,102
+00hitoshi00	jpn,12
+00hiwa00	jpn,14
+00hlala	eng,13
+00hma	jpn,19
+00hmybieber	msa,5	eng,88
+00ho_ho00	kor,1147	eng,2
+00honda	eng,5
+00honney	ara,8	eng,2
+00hormone	jpn,13
+00hrtmk	jpn,112
+00hs0s3xual	eng,21
+00humanlost0032	jpn,16
+00hussain	ara,176	eng,10
+00ibenez00	jpn,5
+00ibrahim02	ara,50
+00ichi00	jpn,12
+00ichigo00	jpn,8
+00ichiko	jpn,26
+00icicles	jpn,6
+00idavid	msa,2	eng,16
+00ides00	jpn,45
+00igggyyy000000	kor,11	jpn,75
+00iknm	jpn,13
+00ikuto00	jpn,10
+00il_matto	jpn,379	eng,4
+00il_matto_k	jpn,62
+00il_matto_qk	jpn,7
+00il_matto_tk	jpn,10
+00il_matto_wk	jpn,36
+00im00	tha,79
+00imari00	jpn,10
+00imint00	tha,6
+00innocent00	jpn,21
+00inotaka00	jpn,9
+00ire77	kor,45
+00ironskull	eng,43
+00irukachan	jpn,20
+00itiswhatitis	eng,7
+00iwataku00	jpn,12
+00iy00	jpn,33
+00izumi00	jpn,10
+00izz00	jpn,7
+00j0e00	ara,14
+00jae	kor,5
+00james_bong	eng,17
+00jamnst00	jpn,8
+00japa00	jpn,374
+00jasmine	fil,8
+00jasooom00	ara,150
+00javier23	spa,3	eng,10
+00jawad00	eng,9
+00jaystar00	eng,9
+00jazmiin00	spa,30	eng,2
+00jenn	eng,15
+00jescalante	eng,32
+00jess_marie00	eng,22
+00jester	eng,6
+00jho24	eng,5
+00jhonny	spa,9
+00jinri00	jpn,8
+00joey	eng,5
+00joker	jpn,6
+00joy	jpn,174
+00ju1ian00	jpn,6
+00judas00	eng,33
+00jun	jpn,125
+00justme00	eng,12
+00jwmd	jpn,121
+00jyj	kor,26	jpn,26
+00k	eng,8
+00k0e0n	jpn,17
+00k1m1	jpn,7
+00k3064	jpn,11
+00ka_i_ri00	jpn,127
+00kaasan00	jpn,38
+00kabuki00	jpn,10
+00kadash	jpn,5
+00kaekae	jpn,7
+00kajiri	jpn,79
+00kajyu00	kor,4	jpn,125
+00kakei	jpn,162
+00kana0aua0	jpn,24
+00kana88	jpn,23
+00kasima00	jpn,7
+00kasimu00	jpn,60
+00kat	eng,21
+00kate11	jpn,6
+00kate22	jpn,24
+00kawa00	jpn,22
+00kawaiiko	jpn,154
+00kawashim	jpn,5
+00kayahara00	jpn,48
+00kayla00	eng,22
+00kazu0121	jpn,10
+00kdheic	jpn,45
+00kedama00	jpn,59
+00keke02	por,5
+00kekette	fra,6
+00kenchan00	jpn,6
+00kendra	eng,9
+00kentan00	jpn,16
+00key	jpn,62	eng,2
+00kg1016	jpn,6
+00kgst00	jpn,80
+00ki0u0	jpn,5
+00kicchan00	jpn,14
+00kicyu00	jpn,38
+00kikumaro00	jpn,10
+00kikyou00	jpn,71
+00kimitoboku00	jpn,366
+00kimyuri00	jpn,19
+00kinaco00	jpn,15
+00kinakunino	jpn,10
+00kinasenaka	jpn,14
+00kini	jpn,24
+00kino_sa00	jpn,12
+00kiss0	jpn,9
+00kissshot00	jpn,22
+00kitakaze00	jpn,5
+00kiw00	jpn,94
+00kmayak0	jpn,13
+00knight100	eng,14
+00knkn	jpn,10
+00ko	jpn,20
+00koala00	jpn,12
+00koarikui3	jpn,47
+00koga00	jpn,7
+00koke00	jpn,10
+00kokuto	jpn,106	eng,6
+00kola	eng,24
+00komekome	jpn,23
+00kotomi00	jpn,7
+00kotori00	jpn,11
+00kotuyum	tur,5
+00kouchan009	jpn,162
+00kouhei00	jpn,15
+00kounjooo00	kor,9	eng,3
+00kouta00	jpn,8
+00kow	fil,2	zho,2	eng,7
+00kr26	jpn,53
+00kreeza	eng,5
+00krispina00	rus,8
+00krittiya00	tha,7
+00krsk	jpn,6
+00ks_ac2_qqg310	jpn,51
+00ksana	rus,6
+00ksm00	jpn,16
+00ksmiii00	jpn,6
+00kumasuke00	jpn,31
+00kumi00	jpn,6
+00kuni00	jpn,5
+00kurageyura00	jpn,10
+00kuro	jpn,161	ell,2	eng,2
+00kuro00	jpn,31
+00kurobosi00	jpn,12
+00kuromame	jpn,50
+00kurono00	jpn,8
+00kurosuke00	jpn,10
+00kyon00	jpn,9
+00kz00	jpn,7
+00lacho00	spa,9
+00lamia	ara,6
+00lanina	jpn,44
+00last00eden00	jpn,21
+00latrice00	eng,62
+00lau00	spa,5
+00lawliet	eng,94
+00leehdias00	por,16
+00leen	ara,27	fil,2
+00legend	eng,28
+00lethycia00	por,6
+00letylabella00	eng,11
+00lewis	eng,6
+00lewis22	eng,11
+00lie00	jpn,6
+00lililiaaa00	jpn,12
+00limao00	jpn,5
+00lisa00	eng,11
+00lito00	jpn,12
+00littlemonster	spa,2	eng,4
+00loczus00	pol,23	eng,13
+00loki00	jpn,39	eng,2
+00lolita00	jpn,15
+00louis	eng,20
+00louisewatts00	eng,5
+00love0000	eng,9
+00lu_na	jpn,248
+00lucky00	eng,5
+00lucky07	jpn,8
+00luckyycharm00	eng,13
+00lucy00	eng,5
+00luishenrique	por,9
+00lutzy	eng,23
+00lynchy00	eng,32
+00lyontamer	eng,14
+00m00	jpn,5	eng,2
+00m2d	eng,8
+00maaaaai00	jpn,10
+00maachan00	jpn,194
+00maaike	nld,11
+00maar	eng,146
+00maca	jpn,9
+00macaron00	jpn,10
+00macktastic	eng,11
+00madhatter00	jpn,12
+00madmuffin00	eng,54	nld,127
+00madon00	jpn,5
+00maichi	jpn,130
+00maichirou00	jpn,7
+00mailyn	spa,5
+00makikom	jpn,85
+00makiron	jpn,12
+00makyukyu00	jpn,12
+00mamim	jpn,37
+00manamin00	jpn,9
+00manon	nld,33	eng,2
+00manuel00	spa,79	eng,7
+00manuela	spa,9
+00maou	jpn,16
+00mar19	jpn,50
+00marcoce00	jpn,13
+00marcus	eng,6
+00marcysia	pol,10
+00mari00	jpn,8
+00marichi	jpn,7
+00marilu00	spa,5
+00marilyn00	jpn,11
+00marima	jpn,7
+00marimo00	jpn,14
+00markjames00	eng,9
+00marron00	jpn,14
+00martita	spa,8
+00marty	jpn,23
+00maruihako0185	jpn,10
+00marumin00	jpn,7
+00mary008d	spa,36
+00mary_jane20	eng,21
+00masa	jpn,170
+00masa5	jpn,23
+00massh00	jpn,16
+00mathias	swe,27	eng,6
+00matz	spa,61	eng,2
+00mayu00	jpn,59
+00mayupon00	jpn,12
+00mb	eng,15
+00mee00	jpn,6
+00meg00	jpn,80
+00megane0	jpn,5
+00mermaid00	eng,5
+00mermer	eng,7
+00mery00	spa,9
+00meshoo00	eng,9
+00mf	eng,9
+00mgmg	jpn,22
+00mgmm	jpn,11
+00mhm00	ara,5	eng,4
+00mhr	jpn,226
+00micb	eng,20
+00michaelcarson	eng,16
+00michan00	jpn,11
+00mico00	jpn,6
+00miimelo	jpn,8
+00mikan0	jpn,9
+00mikep00	eng,13
+00mikewilly00	eng,9
+00miki00me	jpn,56
+00mikinon00	jpn,47
+00mikoto00	jpn,8
+00milkchocolate	jpn,7
+00milo	eng,5
+00mimim00	jpn,9
+00minaduki00	jpn,7
+00minaricky00	jpn,77
+00mine00	jpn,12
+00minju	kor,5
+00mint00	jpn,5
+00mintia	jpn,7
+00minxxx00	eng,38
+00miss_white00	tur,9	eng,2
+00mitsuame00	jpn,19
+00miya_still	jpn,94
+00miyori00	jpn,106
+00miyu00	jpn,9
+00mizutama00	jpn,10
+00ml	kor,105
+00mo	jpn,7
+00mo0ka00	ara,26
+00mobbin516	eng,7
+00mocha00	jpn,13
+00mochico00	jpn,5
+00mogura	jpn,32
+00mon00	jpn,15
+00mona000	ara,11
+00monao00	jpn,51
+00moore	eng,6
+00mori1212	jpn,70
+00morimori2	jpn,5
+00morix2	jpn,21
+00morten00	eng,5
+00mpa_l00mpa	jpn,25
+00mrgiggs00	eng,52
+00mrmr	jpn,18
+00ms2b	jpn,352
+00msheep00	eng,103
+00mt00	jpn,5
+00mtk00	jpn,182
+00mucba00	jpn,29
+00murasaki00	jpn,80
+00musk00	ara,34
+00mutsumi00	jpn,40
+00mykw00	jpn,5
+00n9na_	eng,32
+00na00tu00ki00	jpn,10
+00na0na0	jpn,5
+00naaty	por,11	eng,4
+00nagarebosi00	jpn,8
+00nagata00	jpn,26
+00nagipakasso00	jpn,6
+00nai_ee_ma00	eng,10
+00naka_no	jpn,162
+00nakano00azusa	jpn,80
+00nako00	jpn,14
+00namarrgon00	jpn,5
+00namazu	jpn,91
+00nami	jpn,19
+00nananana	jpn,12
+00nanda00	eng,5
+00nanu00	jpn,69
+00naoki00	jpn,5
+00nardo	eng,6
+00natsuko00	jpn,20
+00natsumi00	jpn,6
+00nattynatty00	tha,12
+00natunatu00	jpn,18
+00nawaf	ara,18
+00nayutan	jpn,27
+00neji	eng,11
+00neko	por,7
+00nelll	eng,13
+00nerissa00	tur,18	eng,4
+00newtype	jpn,40
+00ney3	eng,5
+00neyo00	eng,35
+00nia	msa,22	eng,81
+00niboshi00	jpn,25
+00nicky	eng,25
+00nicolaforbes	eng,283
+00nicole_	eng,84
+00nikitina	rus,53
+00nikukiuu00	jpn,14
+00nim00	jpn,35
+00ninta00	jpn,85
+00nishinosono00	jpn,81
+00nishizawa	jpn,10
+00nissan01	jpn,8
+00nja	eng,5
+00no3a10shi	jpn,28
+00no79562	jpn,5
+00nobunaga05	jpn,149
+00noface00	eng,6
+00nomura00	jpn,73
+00norixx	jpn,69
+00nostromo	spa,40
+00nrh	eng,8
+00ns2atu3	jpn,28
+00nthex	eng,7
+00nu_nin00	tha,13
+00nuko00	jpn,34
+00nung00	tha,6
+00nuriaa00	spa,2	cat,6
+00nyaaaagorou00	jpn,12
+00nyamu200	jpn,16
+00o00o00o	jpn,59
+00o00o0o	jpn,33
+00o00oo00o0oi	jpn,35
+00o0o0ooo0o0o00	jpn,15
+00o__o00	fra,6
+00ohiroari	jpn,8
+00okamo00	jpn,9
+00omu00	jpn,13
+00onkey	jpn,26
+00oo0	jpn,52
+00oo001	ara,10
+00oo00oo00oo	jpn,37
+00oo8lll8oo00	ara,7
+00oo_fx_oo00	jpn,91
+00ooabcoo00	jpn,9
+00ooayumioo00	jpn,7
+00oobelenoo00	spa,6
+00oomikuoo00	jpn,16
+00oomimi	jpn,10
+00oosenaoo00	jpn,19
+00ooxx	jpn,38
+00ordoez	spa,7
+00orino00	jpn,11
+00osamu	jpn,87
+00osca	jpn,42
+00otavio00	por,5	eng,2
+00owoo_marijane	eng,24
+00ox	jpn,6
+00oxo00	jpn,84
+00oyasu160	jpn,5
+00oyuo00	jpn,32
+00pableras00	spa,7
+00pack00	jpn,6
+00pamdaman	jpn,24
+00papatyafali	tur,34
+00paper	jpn,160
+00paradise00	jpn,19
+00parkmarichun	jpn,9
+00parts	jpn,46
+00patrick1	por,73	eng,4
+00patteni	eng,5
+00peacemaker00	jpn,5
+00peaceofmind	eng,43
+00pegimin	jpn,6
+00pejun	jpn,10
+00pelican00	eng,5
+00pfade	jpn,59
+00pierrot00	jpn,77
+00piky00	spa,6
+00pink	eng,32
+00pinkk	eng,102
+00pipita00	spa,30
+00pk	jpn,30
+00pkpk00	jpn,18
+00pmoney	eng,18
+00pogodaeva	rus,17
+00pooh00	jpn,10
+00primal	eng,5
+00ps_itweeted	eng,11
+00psdaddy	eng,13
+00psi	eng,5
+00pumpkinlove00	jpn,97
+00punch	eng,51
+00pupu00	jpn,8
+00purpleladybug	eng,12
+00q827	jpn,5
+00q_smoto	jpn,20
+00qanor2	jpn,16
+00qantjustmasa4	jpn,6
+00qantuver	jpn,110
+00qels	jpn,12
+00quantameister	eng,13
+00quantasetsuna	jpn,7
+00quantayu	jpn,22
+00quantum1	jpn,5
+00r0ku	jpn,407	ell,2	eng,3
+00r2	jpn,41
+00raafael	por,8
+00raian	jpn,83	eng,3
+00rairai00	jpn,14
+00raiza	jpn,8
+00random	eng,27
+00ravenna	ara,25
+00ray34	jpn,13
+00ray_zi	jpn,8
+00raychel00	jpn,7
+00re	jpn,12
+00redbull00	tur,242	msa,2	eng,9
+00redo00	jpn,38
+00reembader	ara,8
+00rei_pokapoka	jpn,34	eng,6
+00reichel00	jpn,12
+00reload00	eng,7
+00remon00	jpn,32
+00ren_m	jpn,302
+00renaissance	kor,25
+00rettiwt	fra,15	eng,3
+00revi	jpn,48
+00rey00	jpn,5
+00rh	eng,14
+00richard	spa,8
+00riichi	jpn,13
+00rika1123	jpn,16
+00riko2	jpn,5
+00ringochan00	jpn,28
+00rino00o300722	jpn,5
+00ripper	eng,8
+00risac00	jpn,8
+00rix	jpn,50
+00riz	jpn,10
+00rloveu00	kor,33
+00robinlloyd	eng,5
+00rocker	spa,8
+00rocketgirl	eng,71
+00rodger	eng,9
+00roo00	spa,7
+00rora	jpn,6
+00rosa11	spa,19
+00rouge001	jpn,16
+00rr00	jpn,35
+00rrin00	jpn,5
+00rrm	ara,5
+00rueriarrow00	jpn,108
+00ry	jpn,10
+00ryntintin	eng,52
+00ryoku00	jpn,56
+00ryuan_t_	jpn,5
+00s7efen	eng,35
+00s_3128	jpn,39
+00s_usmovie	jpn,9
+00sa0ishiki	jpn,51	eng,2
+00saara00	ara,21
+00sagiri00	jpn,26
+00saka	jpn,8
+00saka2	jpn,6
+00sakamoto00	jpn,63
+00sakurachiru00	jpn,6
+00sakutaro00	jpn,6
+00salim00	tur,6
+00samson	eng,17
+00sanem	tur,13
+00sano	jpn,256
+00sano00	jpn,8
+00santana00	eng,5
+00santi00	spa,11
+00sap	eng,5
+00sapiosexual00	eng,29
+00saraa	ara,6
+00saratonin00	eng,9
+00sasame00	jpn,13
+00sasuke00_bot	jpn,265
+00satan	jpn,10
+00satellite09	jpn,5
+00satori00	jpn,223
+00satosh	jpn,5
+00sawatakan0ri	jpn,12
+00saywhat	eng,14
+00scar	eng,6
+00scatterbrain	eng,158
+00se7en	eng,10
+00seahorsee	eng,8
+00sekki00	jpn,135
+00seme	jpn,49
+00seve	eng,10
+00sevennu	jpn,9
+00sevn	eng,7
+00sexyjpark	eng,16
+00sf	jpn,7
+00sgswapsell	eng,6
+00shaden00	ara,7
+00shake00	jpn,59
+00shanhai00	jpn,6
+00shannen	eng,27
+00shanz	eng,7
+00shark	jpn,6
+00sheep00	jpn,280
+00shelf00	spa,9
+00sherlock	eng,7
+00shi	jpn,69
+00shi_shi00	jpn,5
+00shiki	jpn,54
+00shima00	jpn,27
+00shimizu00	jpn,8
+00shinkenger00	jpn,118
+00shinya00	jpn,11
+00shion00	jpn,42
+00shiori00	jpn,13
+00shiory00	jpn,7
+00shitaaaaaaaai	jpn,12
+00shizhi	jpn,9
+00shushu00	jpn,5
+00sigo_todos	por,113	eng,2
+00siki	jpn,6
+00sima13	jpn,9
+00sknnk00	jpn,98
+00skt21	jpn,105
+00skyhigh7	eng,6
+00sl6an00	ara,5
+00sleep00	jpn,14
+00sleepy	deu,13	eng,2
+00smile511	ara,13	eng,3
+00smitty7	eng,113
+00smyrna00	jpn,6	eng,2
+00sn	spa,24
+00snook	eng,14
+00soef00	nld,3	eng,2
+00something	heb,6	eng,2
+00sophipazos	spa,10	eng,8
+00sorausa00	jpn,89
+00sorayuki00	jpn,48
+00soufoda	por,9
+00sparrow	eng,32
+00spk00	jpn,179
+00spring00	jpn,14
+00stargazer00	jpn,11
+00start00	jpn,106
+00stickmane	eng,9
+00stixr	eng,5
+00stk	jpn,9
+00striker	jpn,13
+00subhan00	eng,7
+00sucar00	ara,10
+00suchan00	jpn,27
+00sui00	jpn,64
+00sunandrain	tur,30
+00sundaygirl	eng,83
+00svt	eng,8
+00swaggtime	eng,23
+00sweetlady	eng,9
+00sweets	eng,5
+00swift	eng,6
+00swimmy00	jpn,9
+00sy00	jpn,9
+00syakku00	rus,4	jpn,171
+00t_00	jpn,375
+00t_t	kor,354	eng,2
+00ta2a33	jpn,23
+00ta555	jpn,15
+00tabi00	jpn,6
+00taina00	jpn,6
+00taji	jpn,86
+00tak	jpn,59
+00taka800	jpn,5
+00takako00	jpn,84
+00takanori00	jpn,11
+00takayanagi	jpn,105
+00takepi00	jpn,13
+00takumi	jpn,28
+00takuyahagi00	jpn,10
+00tar	eng,8
+00tarou	jpn,16
+00tavira	spa,12
+00tax	jpn,10
+00tax00	jpn,46
+00technicolor00	spa,18	eng,3
+00tedd	eng,10
+00teketeke00	jpn,8
+00telmin	jpn,6
+00ten_natty	jpn,5
+00teruteru02	jpn,8
+00tetsu	jpn,5
+00teuchan00	jpn,6
+00thealliance00	eng,9
+00theface	jpn,5
+00thickness	eng,5
+00tikitiki00	jpn,16
+00tikuwabu00	jpn,8
+00timeover	jpn,23
+00tira00	jpn,32
+00tiyonosuke00	jpn,33
+00tjitske	nld,17
+00tkhs00	jpn,24
+00tkn00	jpn,68
+00tmk00	jpn,27
+00toa00	jpn,11
+00toby	eng,103
+00toki	jpn,42
+00tom00	eng,32
+00tomikatsu00	jpn,9
+00tomochi00	jpn,7
+00tool00	spa,18
+00toomas00	jpn,8
+00topgear00	jpn,7
+00toro	jpn,7
+00trash	jpn,32
+00traumerei00	jpn,38
+00trickster	jpn,10
+00triumph	jpn,5
+00troublz00	eng,5
+00tsr	jpn,8	eng,2
+00tsuka	jpn,7
+00tuberose	jpn,35
+00tuma00	jpn,20
+00tv5chisato	jpn,5
+00twity	tur,3	eng,2
+00tyar	jpn,14
+00tyt00	jpn,19
+00u1	jpn,39
+00u_u	kor,285
+00uda	jpn,11
+00ufo	por,12
+00ui11	kor,23
+00uminohane00	jpn,23
+00ungkapanhati	msa,5
+00unicorns	kor,235	jpn,2	eng,2
+00unit	jpn,199	eng,3
+00unk	jpn,6
+00unromantic00	ara,8
+00usausa00	jpn,8
+00user	spa,22
+00val00	jpn,54
+00val00bot	jpn,7
+00vi2eme00	jpn,9
+00victoriav00	eng,22
+00vikki	rus,7	eng,2
+00viviana	spa,122	eng,6	msa,2
+00voix00	jpn,271
+00w0_wing	jpn,12
+00w0heero	jpn,5
+00walpies	eng,7
+00wawa	eng,7
+00weave	eng,19
+00weez	eng,9
+00wendy012	nld,15	eng,2
+00white59	jpn,34
+00whyte	eng,5
+00wildtiger00	jpn,5
+00wilma00	spa,10
+00wilshire	eng,6
+00windlight00	jpn,14
+00wintermute00	deu,23	eng,2
+00wt	jpn,117
+00ww00	jpn,13
+00x00x	eng,32
+00xelvis	jpn,27
+00xhalx00	jpn,6
+00xmarilynx00	jpn,19
+00xreix00	jpn,6
+00xshalisamarie	eng,14
+00xx_yn	jpn,17
+00xxharuxx00	jpn,8
+00xxkxxsxxixx00	jpn,197
+00xxvv	jpn,41
+00xxx	jpn,490
+00xxxpq0dbxxx00	jpn,5
+00xyli	jpn,22
+00y0h00	jpn,6
+00yamyam00	jpn,5
+00yarko	eng,7
+00yasemini00	nld,70	eng,8
+00yass00	jpn,9
+00yastitch00	jpn,18
+00yayaya00	jpn,33
+00yennifer00	rus,7
+00yk	jpn,13
+00yk00	jpn,7
+00yona00	jpn,130
+00yoonas2	jpn,7
+00yoshi11	jpn,19
+00yoshiaki	jpn,8
+00you53	jpn,6
+00youme00	jpn,11
+00yr	jpn,28
+00yr1216	jpn,17
+00ys00	jpn,14
+00ysl00	jpn,14
+00yu_ka	jpn,99
+00yube00	jpn,22
+00yuina00	jpn,20
+00yuka00	jpn,78
+00yukari00	jpn,8
+00yukaring	jpn,22
+00yukichan00	jpn,22
+00yukici00	jpn,5
+00yukida00ruma0	jpn,90
+00yukiko	jpn,32
+00yukimikun00	jpn,6
+00yukirin00	jpn,31
+00yukke00	jpn,8
+00yumii00	jpn,14
+00yunjae00	tha,23	eng,2
+00yuno00	jpn,57
+00yunosuki00	jpn,52
+00yunyun00	jpn,10
+00yur00	jpn,13
+00yusagi00	jpn,21
+00yusuke	jpn,7
+00yuu_a00	jpn,114
+00yuuki1209	jpn,19
+00yuuuumi00	jpn,116
+00yuzu00	jpn,25
+00yyrayy00	jpn,15
+00yzk00	jpn,16
+00z0ne	eng,8
+00zawazawa	jpn,13
+00ze	rus,2	bel,6
+00zeeze00	ara,26	eng,3
+00zer0000zer0	jpn,41
+00zero_zero	jpn,11
+00zford	spa,10
+00zimmerman	eng,114
+00zu00	jpn,141
+0100	eng,39
+01000001_angga	msa,8
+0100001111	kor,10
+01000178	jpn,10
+0100062ken	jpn,6
+01000_bot	jpn,71
+01000kz	jpn,28
+01000tmdwp	kor,7
+01001010l	spa,7	eng,2
+0100101100	fil,4	eng,9
+01001011_010010	eng,14
+01001020	jpn,5
+0100110010	eng,103
+0100110010110	eng,85
+01001100l	por,15
+0100165	jpn,5
+010020	jpn,6
+01004753	ron,5	eng,2
+010050651	jpn,8
+010070101oa	jpn,12
+0100_19	jpn,48
+0100batter	jpn,34
+0100junior	por,5
+0100ro	ron,12
+0100take	jpn,17
+010100111001110	tur,6
+01010100101	rus,35
+0101010110	eng,48
+010101072	jpn,12
+010101101	jpn,9
+010101111	eng,54
+010101chel	jpn,10
+010102050501	jpn,7
+01010321ay	jpn,6
+0101047	jpn,15
+01010501	kor,57
+01010725	jpn,22
+01010903	kor,25
+01010cristina	spa,38
+01010i	jpn,36
+01010ototo	jpn,5
+0101100audi	jpn,19
+0101101010	spa,8
+010111010	kor,11
+01011127	jpn,15
+010111_	eng,38
+01011215maki	jpn,9
+01011217	kor,11
+0101122222	ara,19
+010112_lovee	eng,25
+0101203	tha,15
+01012345679	kor,43
+01012604	kor,17
+010126_jjs	kor,145
+010137	jpn,18
+01015945	jpn,5
+0101610v	jpn,178
+0101711_thatsht	eng,11
+01019891219	kor,74
+01019900105	kor,49
+01019910606	kor,24
+01019910923	kor,105
+01019930900	kor,40
+0101_chacha	jpn,88
+0101_ciahtic	jpn,53
+0101_kyoto	jpn,7
+0101_nana	por,17
+0101_rimm	kor,17
+0101_xiahtic_	kor,68
+0101_ynr	kor,46
+0101adrii	spa,7
+0101ai	jpn,20
+0101akari	jpn,5
+0101ayaka	kor,4	jpn,17
+0101ayami	jpn,16
+0101babachan	jpn,35
+0101baezzi	kor,11
+0101benzthong	tha,19	eng,3
+0101chancake	eng,8
+0101chehui	eng,6
+0101chelsu	kor,2	msa,20	eng,7
+0101chikatic	kor,6	msa,50	eng,32
+0101chos	jpn,18
+0101ciary	kor,7
+0101cici	zho,4	eng,2
+0101coto	jpn,25
+0101daydream	kor,22	eng,7
+0101declines	msa,18
+0101dexiahtic	msa,34	eng,16
+0101domi_domi	tha,43
+0101eunchong	kor,15
+0101first_one	tha,78	eng,9
+0101graham	eng,7
+0101hitomi	jpn,7
+0101hotaru	jpn,6
+0101hyaku	msa,3	eng,3
+0101imevie	msa,21	eng,9
+0101intoxiahtic	msa,36	eng,8
+0101ixooxxi	tha,45
+0101jemtic	eng,8
+0101jeogyeoktic	kor,15
+0101jinson	kor,45
+0101joanna	eng,7
+0101junchun6002	ara,9	eng,15
+0101junjjang	kor,24
+0101junotic	jpn,61
+0101junsu_tic	kor,12
+0101junsutime	kor,9
+0101karina	spa,32	eng,14
+0101kazu55	jpn,184	eng,2
+0101leon	kor,35
+0101leotic	kor,33
+0101lia	jpn,28
+0101made	spa,5	eng,2
+0101maram	ara,4	eng,5
+0101marimari	jpn,10
+0101meru	jpn,28
+0101miahtic	kor,2	jpn,11
+0101michelle	jpn,14
+0101mickytic	kor,23
+0101midotic	jpn,14
+0101min	kor,8	jpn,2
+0101minstic	fil,4	eng,86
+0101mitsu	jpn,5
+0101miyutic	jpn,9
+0101mizu25	jpn,211
+0101moopii	jpn,19
+0101nunna	spa,109	eng,4
+0101ove	jpn,19
+0101parn6002	tha,18
+0101ray	jpn,15
+0101rei	jpn,218	eng,2
+0101renge	jpn,134
+0101rikatic	jpn,24
+0101rosa	kor,188
+0101rr	jpn,13
+0101ruthxiah	tha,25	eng,3
+0101saakura	por,28
+0101seo	kor,5
+0101shinikyz	zho,4	eng,99
+0101siahtic	msa,176	fil,2	eng,17
+0101sky	kor,15
+0101sunhyetic	kor,11
+0101surfer	eng,7
+0101theaom_c5	tha,47
+0101theikumicky	jpn,12
+0101thejunsu	kor,75
+0101thiatic	kor,27
+0101titahtic	msa,25	eng,13
+0101tomo	jpn,6
+0101turandot	kor,7
+0101u	jpn,5
+0101wanmei	zho,2	eng,9
+0101woojihye	kor,8
+0101worldsend	jpn,29
+0101xiahdertod	tha,115
+0101xiahlic	msa,14	eng,13
+0101xiahnisme	kor,2	msa,38	eng,3
+0101xiahtic_92	kor,20
+0101xiahtic__	kor,9
+0101xiahtic_th	tha,831	eng,3
+0101xiahtic_wth	tha,39	eng,3
+0101xiahtice	msa,5	eng,7
+0101xiahwase	kor,5
+0101xicahtic	jpn,5
+0101xisariahtic	jpn,15
+0101xxrp	jpn,42
+0101yangmaltic	kor,12
+0101yocco	jpn,7
+0101yuko	kor,5	jpn,8	eng,4
+0101yuzu	jpn,20
+0101zaitsu	jpn,5
+01020108	jpn,5
+01020368171	kor,8
+01020402	jpn,15
+01020422503	kor,17
+01020473455	kor,6
+01020711057	kor,9
+01020711807	kor,9
+0102083824	jpn,67
+0102104	jpn,20
+01022264962	kor,5
+01022663644	kor,8
+010232357	ara,5
+01023311	jpn,17
+01023770755	kor,9
+01023900879	kor,11
+01024233674	kor,150
+01024640102	kor,7
+01024843154	kor,12
+01025049060	kor,6
+0102507xxxx	kor,13
+01025236269	kor,19
+01025510409	kor,18
+01025663756	kor,11
+01025728727	kor,54
+01026270762	kor,50
+01026274830	kor,18
+01026452637	kor,7
+01026730330	kor,183
+01027059211	kor,15
+01027506021	kor,58	eng,2
+01027515747	kor,10
+01027711553	kor,61
+01027852362	kor,35
+01027995852	kor,79	jpn,5
+01027goodnewspg	eng,7
+01028327280	kor,6
+01028428986	kor,5
+01029235117	kor,6
+01029720229	kor,5
+01029773924	kor,11
+01029870401	kor,7
+01029880559	kor,47
+01029942967	kor,17
+01029966502	kor,39
+0102_bot	jpn,40
+0102_kenken	jpn,379
+0102_micky	jpn,23
+0102_rina	jpn,16
+0102ai	jpn,82	eng,2
+0102ba2ko	jpn,5
+0102boram	kor,9
+0102hinano	jpn,14
+0102junnus_jyj	kor,3	tha,7	eng,3
+0102mgmg	jpn,40
+0102oxy	kor,26
+0102rivertic	kor,9
+0102shane	kor,20	jpn,2
+0102shin	kor,8
+0102sj	jpn,29
+0102taka	jpn,8
+0102takeyuryo	jpn,9
+0102tassy	jpn,10
+0102upside_down	kor,48
+0102wan	tha,7
+0102yuichi	jpn,5
+0102zury	msa,7
+01030049052	eng,6
+01030159697	kor,8
+01030180767	kor,8
+0103029	kor,301
+01030430	jpn,6
+01030501	jpn,7
+01030540526	kor,7
+010307161210w13	jpn,13
+01031211	kor,52
+01031370438	kor,75
+01031539696	kor,8
+0103164	kor,18	eng,2
+01031914238	kor,55
+01031zero	jpn,15
+01032084108	kor,9
+0103241484	jpn,7
+01033328816	kor,7
+01033398521	kor,61
+01033643407	kor,9
+01033820948	kor,6
+01033998665	kor,13
+01034873448	kor,65
+0103489	kor,27
+01034890109	kor,13
+01035915369	kor,5
+01036082618	kor,11
+01036668592	kor,9
+01037449402	kor,5
+01037736337	kor,10
+01037864381	kor,5
+01038	eng,13
+01038279630	kor,36
+01038627895	kor,24
+010386u	jpn,9
+01038856242	kor,33
+01039313487	kor,29
+010397	eng,104
+01039990001	kor,6
+0103_hrk	jpn,7
+0103_j_bm	kor,675
+0103_jh	kor,55
+0103_oto_san	jpn,15
+0103aft	jpn,28
+0103akane	jpn,16
+0103aktf	kor,8
+0103ekko	jpn,30
+0103emily	kor,6
+0103eringi	jpn,7
+0103geeehyun	kor,16
+0103hitomi	jpn,69
+0103jy	kor,6
+0103manatic	jpn,30
+0103min	kor,5
+0103roh	kor,22
+0103to	jpn,53
+0103tooooomo	jpn,14
+0103yuki	jpn,38
+0103yuki_sax	jpn,75
+0103yuuna	jpn,5	eng,2
+0104019	kor,14
+01040259679	kor,287
+01040405	kor,7
+01040425	kor,5
+01040515264	kor,686
+01040580912	kor,8
+01040768106	kor,10
+01040894404	kor,6
+01041000465	kor,5
+01041040113	kor,83
+01041115816	kor,7
+01041255307	kor,26
+01041314122	kor,7
+010415	jpn,8
+01041511226	kor,107
+0104155224	ara,6
+01041586563	kor,35
+01042134025	kor,23
+01042223441	kor,5
+01043223587	kor,22
+0104384	kor,148
+01044370708	kor,10
+01044436236	eng,17
+01044498625	kor,16
+01044640575	kor,16
+01044703070	kor,8
+01044747469	kor,13
+01044895739	kor,51
+01045015347	kor,41
+01045379710	kor,5
+01046554626	kor,12
+01047387621	kor,71
+0104857708	kor,12
+01048993517	kor,12
+01049001835	kor,1203	eng,2
+01049026740	kor,14
+0104943	kor,5
+0104_bdaygirl	eng,41
+0104_notangel	rus,5
+0104_su	kor,6
+0104aya	jpn,14
+0104eun	kor,60
+0104eun2	kor,36
+0104hiro0104	jpn,7
+0104hye	kor,18
+0104iamair	tha,46	eng,18
+0104jenny	kor,29
+0104nina	jpn,6
+0104pamela	spa,7
+0104s2	kor,6
+0104sakisaki	jpn,10
+0104sakurako	jpn,6
+0104yes	msa,14	eng,5
+0104yuko	jpn,32
+01050038722	kor,7
+01050151	jpn,11
+01050188769	kor,5
+010502	jpn,33
+01050227	kor,29
+01050252457	kor,24
+01050310	jpn,5
+01050325	jpn,41
+01050356115	kor,33
+01050412364	kor,50
+01050419	jpn,8
+01050421	kor,13
+01050552622	kor,6
+01050970831	kor,6
+01051165325	kor,10
+01051211chichan	jpn,6
+01051219	kor,14
+01051358678	kor,41
+01051501418	kor,9
+01051817219	kor,16
+01051891993	kor,13
+0105199	jpn,8
+01052142876	kor,9
+01052549449	kor,8
+01052828	jpn,11
+01053275423	kor,69
+01054129	jpn,23
+01054320762	kor,254
+0105468	kor,16
+01054871088	kor,7
+01055681464	kor,13
+01055831922	kor,41
+0105588	kor,141	eng,2
+01056201207	kor,15
+01056500018	kor,7
+01056530994	kor,95
+0105711s	kor,9
+01057141961	kor,60
+01057453531	kor,5
+01057665312	kor,5
+01058005251	kor,10
+01058931616	kor,11
+01058964	jpn,35
+010598lore	spa,8	eng,2
+0105_0313	kor,34
+0105_0617	kor,70
+0105_adriano	por,8
+0105_b2uty	kor,80
+0105_chs	kor,140
+0105_hj	kor,9
+0105_jayney	kor,52
+0105_mabel	kor,13
+0105_ryo	jpn,6
+0105_ys	kor,72
+0105ai0611	jpn,10
+0105ama0105	jpn,10
+0105aura	spa,30
+0105bsy	kor,12
+0105hiroto	jpn,38
+0105ihe	jpn,27
+0105imys	kor,6
+0105ing	kor,564	eng,2
+0105inq1	jpn,39
+0105kan	jpn,12
+0105la	spa,17	msa,2
+0105mari	jpn,8
+0105mieko	jpn,26
+0105natsumi	jpn,7
+0105orange	jpn,6
+0105plus1	kor,48
+0105rina	kor,10	jpn,6
+0105riu1008	jpn,12
+0105ryo	jpn,6
+0105siimim	jpn,5
+0105sss	jpn,7
+0105t_t	kor,8
+0105tn	jpn,11
+0105tu	jpn,7
+0105uuuu	jpn,6
+0105viva	jpn,6
+0105xiahtic	msa,5
+0105yeochin	kor,94
+0105yo_seop	kor,626
+0105yoshi	jpn,20
+0105yumi	jpn,6
+01060037	jpn,6
+0106081112amnos	jpn,7
+01061104	kor,5
+0106122	kor,5
+010615	jpn,9
+010618	jpn,5
+010619831	jpn,6
+01062625_suki	jpn,244
+01063153428	kor,115
+01063699065	kor,8
+01063738879	kor,13
+01063769366	kor,9
+01064150302	kor,21
+01064300595	kor,9
+01064353061	kor,5
+01064764676	kor,8
+0106502	kor,40
+01065255817	ara,6
+01065343390	kor,5
+0106664hj	kor,7
+0106848	kor,22
+01068669570	kor,543
+0106_1118	kor,68
+0106_1994	jpn,87
+0106_a	jpn,9
+0106_aproblem	eng,138
+0106_erin	eng,20
+0106_haru	jpn,11
+0106_ho	jpn,8
+0106_lily	jpn,55
+0106_yj	zho,6
+0106ayakatakeda	jpn,10
+0106az	jpn,20
+0106d	jpn,5
+0106jhawk	eng,6
+0106lim	kor,10
+0106masayo	jpn,5
+0106mttery	tha,86
+0106samo	jpn,16
+0106satoan	jpn,81
+0106saya33tdr	jpn,138
+0106shou	jpn,16
+0106tomoko	jpn,19
+0106toro	jpn,12
+01070107sk	jpn,9
+01070128	kor,9
+01070327	jpn,8
+01070425	jpn,6
+01070627	jpn,34
+01071394967	kor,20
+01071546475	kor,319
+01071613466	kor,7
+01071736303	kor,7
+01071745065	kor,100
+01071853368	kor,21
+01072500073	kor,5
+010727010404	jpn,6
+01072807119	kor,7
+0107281467_	kor,6
+01072951174	kor,67
+01073037416	kor,35
+01073226524	kor,83	eng,6
+01073372746	kor,20
+01073683442	kor,9
+01073702448	kor,5
+01073783360	kor,7
+01074220000	kor,8
+01074417555	kor,17
+01074993649	kor,9
+01074yuzuru	jpn,19
+01075216	jpn,12
+01075939305	kor,5
+01076275234	kor,10
+01076840797	kor,17
+01077031253	kor,9
+01077244804	kor,58
+01077735807	kor,7
+01079193202	kor,7
+01079380061	kor,5
+01079791005	kor,10
+0107_h	kor,9
+0107_nmhr	jpn,10
+0107aiiiiiii	jpn,24
+0107angelhs	kor,8
+0107arisa	jpn,12
+0107asa	jpn,8
+0107ek	jpn,33
+0107haneul	rus,5
+0107interior	jpn,52
+0107joy	kor,7
+0107kao	jpn,6
+0107nana0810	jpn,13
+0107naru	jpn,6
+0107pearl	kor,37
+0107seven	jpn,26
+0107tsu9u6	jpn,7
+0107tvxqaka	jpn,89
+0107xxx	jpn,9
+0107yu	jpn,23
+0107yun	jpn,20
+01080120	jpn,5
+01080606	jpn,5
+01080619	jpn,13
+01080822	jpn,11
+0108090	jpn,15
+01082	eng,6
+01082881636	kor,40	eng,2
+010831	jpn,71
+01083110	jpn,6
+01083328852	kor,8
+01083649532	kor,6
+01083731994	kor,21
+01083881733	kor,7
+0108416	jpn,5
+0108511	kor,7
+01085223252	kor,18
+01085255031	kor,6
+010852821	jpn,7
+01085387996	kor,7	eng,2
+01085443220	kor,38
+01085830067	kor,71
+01086078465	kor,17
+01086194987	kor,5
+01086326138	kor,41
+01086630330	kor,15
+01087665541	kor,65
+01087696824	kor,7
+0108773	kor,16
+01087942276	kor,10
+01088276801	kor,95
+01088392701	kor,8
+01088602025	kor,11
+01088705292	kor,12
+01088904562	kor,8
+010895	fil,16	eng,35
+01089557000	kor,31
+010896_	eng,30
+01089815323	kor,12
+01089907782	kor,236
+0108_1610	jpn,36
+0108_bot	jpn,142
+0108_mika	msa,5
+0108ab	nld,10
+0108ada	jpn,5
+0108aj	spa,4	eng,2
+0108azuki	jpn,5
+0108cin	kor,6
+0108e	jpn,6
+0108kami	jpn,32
+0108ken5	jpn,6
+0108kkk	jpn,14
+0108milia1102	jpn,19
+0108mj_	kor,20
+0108mm	jpn,6
+0108mw	jpn,11
+0108otoya0108	jpn,6
+0108p	jpn,57
+0108pooh	jpn,31
+0108saori	jpn,5
+0108shiman	jpn,9
+0108sky	jpn,96
+0108x6x32x3	kor,97
+0108yoshi	jpn,7
+0108yukikooo	jpn,13
+0108yusuke	jpn,12
+01090089487	kor,33
+01090268601	kor,15
+01090327	jpn,75
+01090611393	kor,34
+01090617766	kor,33
+01090628	jpn,11
+01090784247	kor,343
+010909020424	jpn,22
+01091006210	kor,89	eng,5
+010912yh	jpn,6
+0109130101	kor,6
+01091331095	kor,72
+010914	jpn,8
+01091928010	kor,6
+0109195991	ara,10
+01092500525	kor,8
+01092504	kor,3	jpn,4
+01092603025	kor,42
+01092682166	kor,12
+0109281	kor,63
+0109301093	jpn,5	eng,2
+0109304	kor,11
+01093626218	kor,237
+01093958042	kor,32
+01094245592	kor,7
+01095409128	kor,12
+01095683010	kor,10
+01095773595	kor,49
+010961214	kor,10
+01096147005	kor,5
+01096862346_	kor,36
+01096994897	kor,75
+01097245606	kor,34
+0109736	kor,8
+01097521219	kor,34
+01097542103	kor,6
+01097763490	kor,7
+0109844	kor,5
+01098969978	kor,7
+01099123546	kor,20
+01099262467	kor,132
+01099317884	kor,7
+0109946	kor,17
+01099535148	kor,34
+01099791032	kor,30
+0109988	kor,14
+0109_kaz	jpn,37
+0109_ringring	jpn,67
+0109_xxx	jpn,9
+0109alia	jpn,35
+0109hassyyossy	jpn,7
+0109hinano	jpn,23
+0109hiroesim	jpn,42
+0109janny	tha,88	eng,6
+0109miyu	jpn,8
+0109n	jpn,7
+0109nao	jpn,7
+0109panda	jpn,5
+0109risa	jpn,22
+0109samurai	jpn,258
+0109taro	jpn,16
+0109thekahee	kor,286
+0109tvxqluv	jpn,7
+0109yoko	jpn,7
+0109yy	kor,5
+010_2525	jpn,8
+010_2q	jpn,11
+010__	kor,5
+010_angie	spa,53	eng,2
+010_bb	kor,33
+010_chubby	nld,7
+010_danny	nld,7
+010_dot_k	jpn,14
+010_elgordoloco	nld,34	eng,6
+010_headlinez	nld,29
+010_leito	jpn,13
+010_luana	por,8
+010_pamplona	spa,24
+010_rick	nld,42	afr,2	eng,2
+010_rico	nld,54	eng,3
+010_sven	nld,8
+010_t00tiboy_	nld,21	eng,2
+010_yoram_010	nld,9
+010a_mi	jpn,14
+010adriane	por,9
+010akane	jpn,5
+010akko	eng,8	nld,62	afr,4
+010alexandre	por,8
+010alexandria	eng,5
+010alexbby	nld,19	eng,9
+010annie	spa,5
+010appie010	nld,23	eng,3
+010aseel	ara,11
+010awalejr	nld,10
+010badeendje	nld,10
+010boysam	nld,14	eng,10
+010brian	nld,27	eng,10
+010caterpie	jpn,205
+010cbboykii	nld,17	afr,2	eng,2
+010chef	nld,33
+010chris	nld,10	eng,2
+010chrissa	nld,14	eng,2
+010chrisy	nld,10	eng,5
+010coen010	nld,22	eng,4
+010damon1908	nld,9
+010daphne	nld,16	eng,2
+010dev	eng,8
+010dion	nld,32	eng,3
+010dominique	nld,21
+010ecoloog	nld,10
+010elaine	por,6
+010elena	jpn,77
+010em	eng,77
+010estefania	spa,10
+010events	nld,24	eng,5
+010floris	nld,6
+010gabriel4l	eng,18
+010giovanni010	nld,42	afr,2
+010gj	nld,9
+010handel	ita,2	nld,20
+010hhee	kor,11
+010ichi010	jpn,63
+010in2012	nld,5
+010insomnia010	jpn,39
+010jamjam	kor,7
+010jan	nld,43	eng,2
+010janine	nld,9
+010jeroen0181	nld,6
+010jessey	nld,10	eng,2
+010jim	nld,36	eng,5
+010joost	eng,2	nld,57
+010joost010	nld,29
+010jords	nld,28
+010joshua	nld,12
+010jovanovic	nld,25	eng,9
+010juliaaa	nld,8
+010julian	nld,43	eng,3
+010jurgen	nld,7
+010k8	jpn,207
+010kadeboy	nld,57	msa,2	eng,18
+010kana010	jpn,8
+010keith	nld,17	eng,3
+010kikker	nld,9	eng,4
+010kleinemeid	eng,7	nld,44	afr,2
+010korntjes	nld,3	eng,2
+010leroy010	nld,12	eng,4
+010lmc	nld,59	eng,27
+010locks	nld,104	afr,2	eng,17
+010luigi	eng,8	nld,81	fil,2
+010lxiahtic	kor,500	jpn,2
+010lynx2	jpn,5
+010maaa0watpipi	jpn,16
+010mandy	nld,27	eng,2
+010marathon	nld,6
+010mari	jpn,170
+010mark010	eng,12
+010marlon010	nld,8
+010mathijs010	nld,21
+010max010	nld,10	eng,3
+010melody010	nld,25
+010michellee	nld,27	eng,2
+010mick	nld,7
+010mikan	jpn,72
+010min	jpn,9
+010mitta010	nld,8	eng,2
+010mk	nld,90	eng,11
+010mmy	jpn,7
+010mo	jpn,5
+010myakekd	kor,7
+010nashi	jpn,166
+010nb035	nld,21	eng,3
+010nickx	eng,11	nld,67	msa,2	afr,3
+010nielsie010	nld,8	eng,2
+010nieuws	nld,43
+010no10	jpn,47
+010no8soundleaf	jpn,7
+010notaris	nld,6
+010nova	spa,10
+010nyan	jpn,5
+010nyg	nld,3	eng,2
+010oio	jpn,11
+010patoo	ces,2	nld,20	eng,8
+010q	kor,15
+010radic	nld,11
+010rakan	eng,7
+010ram010	jpn,136
+010ramon	nld,29
+010randall	eng,2	nld,60	afr,2
+010rasta010	nld,35	eng,3
+010rayshel	nld,16	eng,5
+010remon	nld,7	eng,2
+010ricardo010	eng,7	nld,82
+010ricardo_	nld,36	eng,3
+010rick010	nld,8
+010robertino	nld,20	eng,5
+010robin3	nld,8
+010robo	nld,7	eng,2
+010roma	eng,12	nld,56
+010ronaldo	nld,22	eng,3
+010roomsz	nld,84	afr,2	eng,13
+010rotjeknor	nld,71	eng,18
+010roy	nld,13	eng,2
+010rulez	nld,5
+010rv	nld,23	eng,7
+010rvb	nld,20	eng,2
+010ryan	nld,9	eng,3
+010s05	jpn,14
+010san	jpn,23
+010sander010	nld,6
+010sem	nld,19	eng,2
+010sher010	nld,8	eng,3
+010shirley	nld,10
+010smok3y	eng,13
+010sooof	nld,26	eng,3
+010stan	nld,5
+010stefan	nld,9
+010svenson_	nld,7
+010tattoo	nld,2	eng,3
+010terrassa	cat,9
+010timo	nld,33	eng,6
+010toine010	nld,12	eng,7
+010tomrisxx	nld,101	eng,13
+010trent	kor,5
+010uniq	nld,9	eng,4
+010vacatures	nld,87	eng,15
+010voetbal	nld,18
+010wdn	jpn,13
+010xxxxyyyy	kor,8
+010yanna	eng,8
+010yui	jpn,11
+010yumika	jpn,37
+010yvonne	nld,39	eng,5
+010zuid	nld,7	eng,6
+0110001111	jpn,9
+01100011percent	eng,26
+01100214	jpn,5
+01100521	kor,4	jpn,56
+011007b	eng,6
+01100xii	jpn,5
+01101001	eng,5
+0110100101	tur,11
+011010010110111	spa,6
+01101011010	eng,5
+011010111	jpn,31
+011011100110100	por,5
+0110296_	eng,17
+011031026	jpn,6
+01105927	jpn,14
+01107233	jpn,9
+011097al	spa,10
+0110_im18bitch	eng,27
+0110_je	kor,13
+0110_nana	jpn,5
+0110didi	jpn,10
+0110emi	jpn,8
+0110emitic	jpn,18
+0110itomi	jpn,37
+0110julie	kor,47
+0110kp3	jpn,8
+0110m	jpn,9
+0110nao	jpn,7
+0110og	jpn,5
+0110ryuu	jpn,474
+0110sahs	jpn,13
+0110take	jpn,24
+0110theemitic	jpn,19
+0110tomy	jpn,5
+011100110110010	eng,75
+011101011101011	jpn,5
+01110127	jpn,6
+01111119	jpn,97
+01111993_	eng,30	nld,86	afr,2
+0111629	deu,5	rus,177	eng,14
+01117661472	kor,5
+0111890	jpn,8
+0111_hee	kor,13
+0111_maki	jpn,23
+0111_meong	msa,13	eng,2
+0111_oxo	jpn,9
+0111_rin	kor,192
+0111aaakari	jpn,8
+0111ayke	jpn,7
+0111aym	jpn,13
+0111b_umbrella	kor,196
+0111duckyou0111	jpn,7
+0111green	jpn,5
+0111kuu	kor,18	jpn,144	eng,3
+0111makina	jpn,6
+0111mao	jpn,9
+0111misa	jpn,124
+0111nao	jpn,22
+0111o	jpn,11
+0111on	rus,4	jpn,108	ell,3
+0111shizuku	jpn,18
+0111takutaku	jpn,8
+01120412	jpn,5
+01120526	kor,21
+01120715	jpn,12
+01121221	jpn,19
+01121474	eng,17
+01123532110	jpn,115
+01124649	jpn,10
+011260	jpn,30
+0112_mo	tha,5
+0112_serian	kor,5
+0112blossom	jpn,5
+0112bun	jpn,13
+0112es	kor,5
+0112fana	jpn,7
+0112hy	kor,3	jpn,13
+0112kaeppp	jpn,56
+0112kaoru	jpn,9
+0112mau	jpn,15
+0112michiko	jpn,21
+0112mom	jpn,7
+0112ogimoni	jpn,6
+0112ritaaaan	jpn,15
+0112shino	jpn,8
+0112tama	jpn,51
+0112tencho	jpn,14
+0112wjd	kor,8
+01130904_s2	kor,6
+011312	jpn,34
+011312_	eng,73
+01131993	eng,7
+011323	jpn,6
+01134diana	eng,17
+011384	eng,36
+011390bday	eng,86
+0113abi	jpn,62
+0113allice	jpn,6
+0113aoi	jpn,264	ell,5	eng,3
+0113haru	jpn,38
+0113kaori	jpn,36
+0113kumagoro	jpn,5
+0113maki	jpn,11
+0113min	kor,15
+0113miya	jpn,18
+0113niconico	jpn,22
+0113nyun	jpn,5
+0113takuma	jpn,7
+0113yutaro	jpn,5
+0113zt2d	jpn,7
+011401140114	jpn,11
+01140301	jpn,14
+01140704	jpn,15
+01140807	jpn,10
+01140826	jpn,5
+01141019	jpn,29
+01141113ds	jpn,5
+011413	kor,31
+011417	jpn,12
+011422kirakira	jpn,6
+011425	jpn,13
+01144110	jpn,5
+0114_ekdud	kor,7
+0114_exileyui	jpn,6
+0114_min	kor,6
+0114_ryota	jpn,25
+0114anna	jpn,207
+0114hrk	jpn,7
+0114hug	eng,8
+0114kccroq	jpn,13
+0114m	jpn,8
+0114mayuge	jpn,22
+0114momo	jpn,5
+0114onitti	jpn,6
+0114rionosuke	jpn,6
+0114shi	jpn,8
+0114sidd	eng,11
+0114sy	jpn,20
+0114tvxq	kor,24
+0114yukari	jpn,5
+0114yurimeron	jpn,9
+011502140306	jpn,34
+0115029	jpn,16
+011505230523	jpn,6
+0115108125	kor,27
+01152lilmenace	eng,5
+011597_	eng,16
+0115_banana	jpn,8
+0115_itsuki	jpn,372	ell,7	eng,10
+0115_n	jpn,13
+0115_shohei	jpn,14
+0115akxxx	jpn,7
+0115chan	jpn,12
+0115chii	jpn,73
+0115chiyan	jpn,13
+0115hanon	jpn,118
+0115kasua0115	jpn,8
+0115kky	kor,13
+0115mari	jpn,12
+0115mhmsk	jpn,9
+0115nino	jpn,13
+0115nori	jpn,45
+0115shaghayegh	eng,39
+0115takachika	jpn,13
+0115theoumitic	kor,2	tha,418
+0115yumi1231000	jpn,9
+01161055657	por,10
+0116601	jpn,15
+0116769piro	jpn,38
+011693foley	eng,62
+011694_	eng,23
+011694_lilhaad	eng,8
+011694_og	eng,10
+0116_0610_ily	eng,114
+0116_nrm	jpn,5
+0116c	jpn,13
+0116eri	jpn,35
+0116hiroro	jpn,6
+0116joeun	kor,6
+0116kh	jpn,10
+0116megan	jpn,8
+0116misato	jpn,5
+0116moe	jpn,8
+0116naoto	jpn,5
+0116ne	jpn,5
+0116noa	jpn,10
+0116quu	jpn,21
+0116reei	jpn,13
+0116smilemj	kor,205	eng,2
+0116star	zho,3	eng,5
+0116tatsu	jpn,17
+0116th_jazzday	eng,54
+0116tomo	jpn,18
+01170120	jpn,24
+01170207	kor,313
+01170225	jpn,5
+01170314	kor,38
+01170326	jpn,26
+0117111_s	jpn,16
+011711__	eng,55
+011752	jpn,6
+011793_	eng,9
+0117_kanoke	jpn,25
+0117_rey	jpn,7
+0117adahc	tha,53	eng,14
+0117eunaeuna	kor,15
+0117jaime	spa,2	eng,6
+0117kazuha	jpn,11
+0117ksh	kor,17
+0117ktkrpika	jpn,20
+0117m	jpn,8
+0117maui	jpn,111
+0117mom	jpn,29
+0117naginagi	jpn,9
+0117smile_ayk	jpn,13
+0117sr	jpn,9
+0117st	jpn,68
+0117yj	kor,8
+01180507	jpn,7
+01180830	jpn,15
+011809_	eng,5
+0118272127	kor,50
+0118790355	ara,12
+0118891	kor,5
+0118_beast	kor,5
+0118_j	jpn,6
+0118_jun	jpn,7
+0118_k	jpn,138
+0118_whitekid	nld,23	msa,3	eng,20
+0118_xoxo	eng,134
+0118akane2	jpn,170
+0118ami	jpn,9
+0118ao	jpn,28
+0118chaso	jpn,35
+0118cheju	jpn,10
+0118gack	jpn,12
+0118kenji	jpn,10
+0118ksh	kor,38
+0118kt	jpn,12	eng,2
+0118motoring	jpn,9
+0118mybirthday	eng,119
+0118myunhen	jpn,14
+0118nana	jpn,22
+0118oshita	jpn,8
+0118pumini	kor,64
+0118riho	jpn,45
+0118rollo	nld,8
+0118s	jpn,14
+0118sakura	jpn,21
+0118snow	jpn,5
+0118yh	kor,47
+0118yu	jpn,94	eng,3
+0118yukapower	jpn,21
+0118yumi	jpn,8
+01190230	jpn,55
+01190319	jpn,15
+011903_	tur,9	eng,4
+01190804	jpn,19
+01191210	jpn,6
+0119420	jpn,7
+01195729171	kor,11
+01199113023	kor,17
+0119_0914	jpn,12
+0119_a_9110	jpn,18
+0119_hama	jpn,14
+0119am	jpn,7
+0119anna	jpn,22
+0119ari	kor,24
+0119fran	jpn,9
+0119killerqueen	jpn,11
+0119km	kor,6
+0119miiko	jpn,9
+0119nancy	jpn,11
+0119reito	jpn,11
+011_gata	por,4	msa,2
+011_jenny	eng,5
+011_junior	por,9
+011_lillie	eng,10
+011_naatth	por,142	eng,5
+011_thainazinha	por,64	eng,4
+011_tk3	jpn,32
+011_victor	por,20
+011akshaykumar	eng,7
+011amateras	jpn,6
+011analia	spa,7
+011ateruspw1024	jpn,25
+011bh	eng,5
+011bojan	eng,24
+011enelson	eng,58
+011gui	por,12	eng,8
