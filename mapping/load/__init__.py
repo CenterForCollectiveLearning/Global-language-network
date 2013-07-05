@@ -103,7 +103,8 @@ def load(args, paths):
                 filteredfile = os.path.join(paths['preprocessed'],
                                     '{}_userlang_filtered.txt'.format(dataset))
 
-                if dataset == 'wikipedia' or dataset == 'twitter':
+                # All datasets besides book translations have 'users' and are processed similarly
+                if dataset != 'books':
                     min_per_language = spf[dataset + '_min_degree']
                     min_per_user = spf[dataset + '_min_per_user']
                     max_langs_per_user = spf[dataset + '_max_langs_per_user']
@@ -130,7 +131,7 @@ def load(args, paths):
                     networks.update({dataset: network})
 
                 # The book network has no 'users', so only generate langtables
-                if dataset == 'books':
+                else:
                     # Input file is a directed edgelist, so process is different
                     population, network = langtable.generate_network_files_from_edgelist(
                         infile, langlangfile, langinfofile, paths,

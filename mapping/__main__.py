@@ -110,11 +110,9 @@ def get_paths():
         os.path.join(paths['gln'], VISUAL_SETTINGS['num_speakers_per_lang_file'])
 
     # Datasets
-    infiles = {
-        'twitter': os.path.join(paths['gln'], SETTINGS['dataset_locations']['twitter']),
-        'wikipedia': os.path.join(paths['gln'], SETTINGS['dataset_locations']['wikipedia']),
-        'books': os.path.join(paths['gln'], SETTINGS['dataset_locations']['books']),
-    }
+    infiles = { dataset_name : os.path.join(paths['gln'], 
+        SETTINGS['dataset_locations'][dataset_name]) 
+        for dataset_name in SETTINGS['general']['datasets_to_use'] }    # }
     paths.update(infiles)
 
     return paths
