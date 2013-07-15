@@ -1,0 +1,50 @@
+<!doctype html>
+<html>
+<head>
+  <title>Immersion</title>
+  <script src="/static/js/libs/jquery-1.7.2.min.js"></script>
+  <script src="/static/js/libs/jquery.hotkeys.js"></script>
+  <script src="/static/js/libs/mustache.js"></script>
+  <link rel="stylesheet" href="/static/css/styles.css">
+  
+  <!-- TIPSY -->
+  <script type='text/javascript' src='static/js/libs/jquery.tipsy.js'></script>
+  <link rel="stylesheet" href="/static/css/tipsy.css" type="text/css" />
+  <!-- END TIPSY -->
+
+  <script type="text/javascript">
+    WebFontConfig = {
+      google: { families: [ 'Open+Sans:100,400,300,800,700:latin' ] }
+    };
+    (function() {
+      var wf = document.createElement('script');
+      wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+        '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+      wf.type = 'text/javascript';
+      wf.async = 'true';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(wf, s);
+    })(); 
+  </script>
+</head>
+
+{% extends "base.html" %}
+{% block meta %}
+<meta http-equiv="refresh" content="120">
+{% end %}
+
+{% block body %}
+<script src="static/js/libs/coffee-script.js"></script>
+<script src="static/js/libs/d3.v2.js"></script>
+<script src="static/js/libs/jquery-1.7.2.js"></script>
+<!-- <script src="static/js/libs/Tooltip.js"></script> -->
+<!--<script type="text/coffeescript" src="coffee/netmail.coffee"></script>-->
+
+<script src="/static/js/guestbook.js"></script>
+<script src="/static/js/viz.js"></script>
+<script src="/static/js/graph.js"></script>
+<script src="/static/js/db.js"></script>
+<div class="page_title">immersion. <b>Guestbook</b></div>
+<div class="page_desc">The combined network of people who have logged in to Immersion and saved their profile</div>
+<svg id="network"></svg>
+{% end %}

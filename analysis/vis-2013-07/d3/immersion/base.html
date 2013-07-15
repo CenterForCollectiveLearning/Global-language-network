@@ -1,0 +1,48 @@
+<!doctype html>
+<html>
+<head>
+  <title>Immersion</title>
+  <script src="/static/js/libs/jquery-1.7.2.min.js"></script>
+  <script src="/static/js/libs/jquery.hotkeys.js"></script>
+  <script src="/static/js/libs/mustache.js"></script>
+  <link rel="stylesheet" href="/static/css/styles.css"> 
+  
+  <!-- TIPSY -->
+  <script type='text/javascript' src='static/js/libs/jquery.tipsy.js'></script>
+  <link rel="stylesheet" href="/static/css/tipsy.css" type="text/css" />
+  <!-- END TIPSY -->
+
+  <script type="text/javascript">
+    WebFontConfig = {
+      google: { families: [ 'Open+Sans:100,400,300,800,700:latin' ] }
+    };
+    (function() {
+      var wf = document.createElement('script');
+      wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+        '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+      wf.type = 'text/javascript';
+      wf.async = 'true';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(wf, s);
+    })(); 
+  </script>
+</head>
+
+<body>
+  {% if current_user %}
+    <div id="header">
+      <!--<div id="headerimage" onclick="location.href='/'"></div> -->
+      <a href="#" class="logoutlink" onclick="$(logoutpopup).fadeIn('fast');">Log out</a>
+    </div>  
+    <div id="logoutpopup" class="hidden"> 
+      <div class="centered">
+        <a href="#" class="greenlink" onclick="$(logoutpopup).fadeOut('fast'); myIFrame.location='/logout';setTimeout(function(){ window.location='/'}, 2000);">For science, you can keep my email meta-data.</a>
+        <a href="#" class="redlink" onclick="$(logoutpopup).fadeOut('fast'); myIFrame.location='/logout?delete=1';setTimeout(function(){ window.location='/'}, 2000);">Delete all my email meta-data.</a>
+      </div>
+    </div>
+    <iframe id="myIFrame" width="0" height="0" style="display:none;"></iframe>
+  {% end %}
+  {% block body %}
+  {% end %}
+</body>
+</html>

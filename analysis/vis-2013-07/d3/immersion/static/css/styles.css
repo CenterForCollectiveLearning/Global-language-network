@@ -1,0 +1,305 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  /*background-color: #000000;*/
+  background-color: #ffffff;
+  font-size: 16px;
+  font-weight: 100;
+  margin: 0 0 0 0;
+  padding: 0 0 0 0;
+}
+
+.page {
+ /*width: 95%;
+ height: 95%;
+ min-width: 1100px;
+ min-height: 700px;
+ margin-left: auto;
+ margin-right: auto;
+ position: relative;*/
+}
+
+.chart {
+   font: 10px sans-serif;
+   background-color: steelblue;
+   text-align: right;
+   padding: 3px;
+   float:left;
+   color: white;
+}
+
+.rcv {
+  background-color: steelblue;
+}
+
+.sent {
+  background-color: palevioletred;
+}
+
+#name {
+  font-size: 32px;
+  font-weight: 100;
+  font-style: lighter;
+  color: #ffffff;
+  width: 200px;
+  text-align: center;
+  height: 35px;
+  letter-spacing: 5;
+  margin-top: 20%;
+}
+
+.centered {
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.about {
+  margin-top: 30px;
+  width: 350px;
+}
+
+#biglogo {
+  background-image: url('/static/images/immersion-logo-80x50px.png');
+  width: 80px;
+  margin-top: 30px;
+  height: 50px;
+}
+
+#landinglinks {
+   margin-top: 140px;
+   height: 50px;
+   width: 380px;
+}
+
+.greytext {
+  font-size: 16px;
+  font-style: normal;
+  color: #8e8e8e;
+  text-align: center;
+  height: 20px;
+}
+
+.cyantext {
+  font-size: 16px;
+  font-style: normal;
+  color: #00ff96;
+  text-align: center;
+  height: 20px;
+}
+
+.leftfloat {
+  float: left;
+}
+
+.alignleft {
+  text-align: left;
+  margin-bottom: 10px;
+}
+
+.toppadding {
+  padding-top: 10px;
+}
+
+a.loginbutton {
+  display: block;
+  width: 120px;
+  height: 20px;
+  padding: 10px 20px 10px 60px;
+  color: #00ff96;
+  background: url('/static/images/login-button.png') no-repeat 0px 0px;
+  float: left;
+  margin-left: 10px;
+}
+
+a.loginbutton:hover {
+  color: #000000;
+  background: url('/static/images/login-button.png') no-repeat 0px -40px;
+  text-decoration: none;
+}
+
+a.greylink {
+  text-align: center;
+  display: block;
+  width: 100px;
+  height: 20px;
+  color: #8e8e8e;
+  float: left;
+  padding-right: 20px;
+  padding-left: 30px; 
+}
+
+a.greylink:hover {
+  color: #ffffff;
+}
+
+.loadingupdate {
+  width: 350px;
+  margin-top: 30px;
+}
+
+.latestupdate {
+  color: #00ff96;
+}
+
+.percentage {
+  font-size: 26px;
+}
+
+.hidden {
+  display: none;
+}
+
+
+#main {
+  clear: both;
+}
+
+#controls {
+  width: 150px;
+  float: left;
+  margin-top: 40px;
+}
+
+.control {
+  margin-top: 20px;
+  width: 150px;
+}
+
+.control a {
+  color: #00ff96;
+  font-size: 12px;
+  padding: 5px;
+  /*background: #000000;*/
+  background: #000000;
+  cursor: pointer;
+  margin-right: 3px;
+  text-decoration: none;
+}
+
+.control a:hover {
+  text-decoration: underline;
+}
+
+.control a.active {
+  color: #00ff96;
+  background: #555;
+}
+
+p.search_title {
+  display: inline;
+  text-align: left;  
+  font-weight: normal;
+  color: #777;
+}
+
+#search_section {
+  padding-top: 23px;
+  padding-left: 20px;
+}
+
+#search_form #search {
+  margin-left: 10px;
+}
+
+footer p {
+  text-align: center;
+}
+
+.tooltip {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  -moz-border-radius:3px;
+  border-radius: 3px;
+  border: 1px solid #575757;
+  background: #000;
+  opacity: 1;
+  color: #00ff96;
+  padding: 10px;
+  /*width: 300px;*/
+  font-size: 12px;
+  z-index: 120;
+}
+
+.tooltip p.main {
+  font-size: 15px;
+  text-align: center;
+  padding:0;
+  margin:0;
+}
+
+hr.tooltip-hr {
+  padding:3px 0 0 0;
+  margin:3px 0 3px 0;
+}
+
+.tooltip .title {
+  font-size: 20px;
+  line-height: 24px;
+}
+ 
+.tooltip .name {
+  font-weight:bold;
+}
+
+line.link {
+  fill: none;
+  stroke-width: 1.5px;
+}
+
+#header {
+  top: 0;
+  /*height: 100px;*/
+}
+
+#headerimage {
+  background-image: url('/static/images/header.png');
+  width: 500px;
+  height: 100px;
+  float:left;
+}
+
+.logoutlink {
+  font-size: 16px;
+  font-style: normal;
+  color: #00ff96;
+  text-align: center;
+  /*height: 20px;*/
+  float: right;
+  padding-top: 10px;
+  /*padding-bottom: 20px;*/
+  padding-right: 50px;  
+}
+
+a.redlink {
+  text-align: center;
+  display: block;
+  height: 20px;
+  color: #ff1271;
+}
+
+a.redlink:hover {
+  color: #ffffff;
+  text-decoration: underline;
+}
+
+a.greenlink {
+  text-align: center;
+  display: block;
+  height: 20px;
+  color: #00ff96;
+  margin-bottom: 30px;
+  margin-top: 10px;
+}
+
+a.greenlink:hover {
+  color: #ffffff;
+  text-decoration: underline;
+}
+
+#logoutpopup {
+  float:right;
+  background-color: #282828;
+  /*height: 100px;*/
+  width: 500px;
+  z-index: 800;
+}

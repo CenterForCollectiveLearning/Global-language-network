@@ -1,0 +1,4 @@
+{"eng": {"full_name": "English", "nspeakers": 1300, "family": "#00b3ef", "links": ["fra", "spa", "hin"]},
+"fra": {"full_name": "French", "nspeakers": 300, "family": "#66cdf5", "links": ["eng", "spa"]},
+"spa": {"full_name": "Spanish", "nspeakers": 500, "family": "#66cdf5", "links": ["eng", "fra"]},
+"hin": {"full_name": "Hindi", "nspeakers": 550, "family": "#40459b", "links": ["eng"] } }

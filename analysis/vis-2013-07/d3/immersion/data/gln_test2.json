@@ -1,0 +1,4 @@
+{"eng": {"full_name": "English", "nspeakers": 1300, "family": "#00b3ef", "links": [{"target_lang":"fra", "target_exposure":0.2}, {"target_lang":"spa", "target_exposure":0.5}, {"target_lang":"hin", "target_exposure":0.1}]},
+"fra": {"full_name": "French", "nspeakers": 300, "family": "#66cdf5", "links": [{"target_lang":"eng", "target_exposure":0.2}, {"target_lang":"spa", "target_exposure":0.5}]},
+"spa": {"full_name": "Spanish", "nspeakers": 500, "family": "#66cdf5", "links": [{"target_lang":"eng", "target_exposure":0.5}, {"target_lang": "fra", "target_exposure":0.5}]},
+"hin": {"full_name": "Hindi", "nspeakers": 550, "family": "#40459b", "links": [{"target_lang":"eng", "target_exposure": 0.05}]} }
