@@ -1,4 +1,4 @@
-source("../../figures/load.R", chdir=T)
+source("../load.R", chdir=T)
 
 # info on graph structure: http://igraph.sourceforge.net/doc/R/structure.info.html
 # manipulate structure: http://igraph.sourceforge.net/doc/R/graph.structure.html
@@ -7,7 +7,7 @@ library(gridExtra)
 library(ggplot2)
 library(memisc)
 
-POPULARITY.DIR <- paste0(FIGURES.ROOT.DIR, "/fig4-notability/")
+POPULARITY.DIR <- paste0(ANALYSIS.ROOT.DIR, "/fig4-notability/")
 
 ALLOW.UNCOMMON.LANGS <- F # "True" to include languages that do not appear in ALL datasets.
 # MIN.EXPORTS <- 0 # Minimum number of language cultural exports to be included

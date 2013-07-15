@@ -4,14 +4,11 @@
 # Data like population, GDP, etc., which aren't supposed to change often
 DATA.ROOT.DIR <- normalizePath("../../data/")
 
-# Extracted network data: node and link tables
-NETWORK.ROOT.DIR <- normalizePath("network_data/") # 
-
-# Obsolete
-#FIGURES.ROOT.DIR <- normalizePath("../figures/")
+# This directory
+ANALYSIS.ROOT.DIR <- normalizePath("../") # 
 
 # GLN STRUCTURE
-GLN.STRUCT.DIR <- paste0(NETWORK.ROOT.DIR, "/gln_structure/")
+GLN.STRUCT.DIR <- paste0(ANALYSIS.ROOT.DIR, "network_data/")
 TWIT.STD.LANGLANG <- paste0(GLN.STRUCT.DIR, "twitter/twitter_langlang_std.tsv")  
 WIKI.STD.LANGLANG <- paste0(GLN.STRUCT.DIR, "wikipedia/wikipedia_langlang_std.tsv")
 BOOKS.STD.LANGLANG <- paste0(GLN.STRUCT.DIR, "translations/books_langlang_std.tsv")
@@ -53,11 +50,6 @@ MURRAY.FILE.NAME <- paste0(MURRAY.PRODUCTION.DIR,
 WIKI.FILE.NAME <- paste0(WIKI.PRODUCTION.DIR,
                          #"final_resolved_wiki_4-16-2013_20_%s_%s_exports.tsv")
                          "wiki_4crit_langs20_%s_%s_exports.tsv")
-
-# SPECIAL SETTINGS -- all data should be in net-langs/data/,remove after
-# identifying the scripts that create thess files
-#FIGURES.DATA.DIR <- paste0(FIGURES.ROOT.DIR, "/fig_data/")
-#ALL.SRC.EXPRESSION.FILE <- paste0(FIGURES.DATA.DIR, "all_pop_table_6393.tsv") 
 
 # GENERAL SETTINGS
 LOG.SMOOTH.ADD <- 1e-32 # Value to add to number for preventing log(0)

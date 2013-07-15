@@ -1,9 +1,9 @@
 # Generate tables with number of expressions, users, etc. for each languge
 # in the final GLN
 
-source("../../figures/load.R", chdir=T)
+source("../load.R", chdir=T)
 
-LANG.STATS.DIR <- paste0(FIGURES.ROOT.DIR, "/si-tables1-3-lang-stat/")
+LANG.STATS.DIR <- paste0(ANALYSIS.ROOT.DIR, "/si-table1-3-lang-stat/")
 
 final.lang.stats <- function(final.lang.file, # List of langs in GLN
                              lang.info.file, # Stats for all langs in dataset

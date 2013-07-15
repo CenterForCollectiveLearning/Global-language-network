@@ -2,7 +2,7 @@
 # TODO: ADD EXPRESSIONS CORRELATION PLOTS!
 # assign '0' if a link doesnt exist.
 
-source("../../figures/load.R", chdir=T)
+source("../load.R", chdir=T)
 library(ggplot2)
 library(gridExtra)
 

@@ -1,6 +1,6 @@
 # From http://spatialanalysis.co.uk/2013/02/mapped-twitter-languages-york/
 
-source("../../figures/load.R", chdir=T)
+source("../load.R", chdir=T)
 library("RSQLite")
 library(plyr)
 library(ggplot2)

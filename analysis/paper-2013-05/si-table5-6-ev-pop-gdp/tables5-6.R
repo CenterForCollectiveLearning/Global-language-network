@@ -1,9 +1,14 @@
-# Code for generating SI Table 5: GDP+Pop per language, and SI table 6: Language EV centrality
+# Code for generating SI Table 5: GDP+Pop per language, 
+# and SI table 6: Language EV centrality
 
-source("../../figures/load.R", chdir=T)
+source("../load.R", chdir=T)
 library(igraph)
 
-LANGS.TO.REMOVE.FROM.GLNS <- c("gmh", "grc", "fro") # languaage removed from translations GLN
+# TODO: For the tables used in the paper, c("gmh", "grc", "fro") were removed.
+# There's actually no reason for that (though obviously we don't have GDP
+# and pop. stats for these languages). Either way, the settings from 
+# DISCARD.LANGS in load.R should be used instead of these.
+LANGS.TO.REMOVE.FROM.GLNS <- c() 
 
 get.lgn.metrics <- function(file.in, src.name) {
   # Table of LGN graph metrics for each language from given source

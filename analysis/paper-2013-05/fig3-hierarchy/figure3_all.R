@@ -1,12 +1,12 @@
 # Plot figure 3 using Degree, Percolation, and Clustering
 # Run the degree separately for better values on the y-scale - need to figure this out. 
 
-source("../../figures/load.R", chdir=T)
+source("../load.R", chdir=T)
 source("degree/Degree2.R", chdir=T)
 source("clustering/Clustering7.R", chdir=T)
 source("percolation/Percolation_analysis7.R", chdir=T)
 
-HIERARCHY.DIR <- paste0(FIGURES.ROOT.DIR, "fig3-hierarchy/")
+HIERARCHY.DIR <- paste0(ANALYSIS.ROOT.DIR, "fig3-hierarchy/")
 COMP.CONN.MODE <- "weak"
 OUTFILE <- "figure3_users500_trans300_exp0.001_v22.eps"
 OUTFILE2 <- "figure3_users500_trans300_exp0.001_degreedist_v22.eps"

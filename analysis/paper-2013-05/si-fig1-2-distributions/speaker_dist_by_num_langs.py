@@ -3,7 +3,7 @@
 import sys, os
 from collections import Counter
 
-LGN_HOME = os.path.abspath(os.path.relpath(os.path.join(__file__, '../../../../')))
+LGN_HOME = os.path.abspath(os.path.relpath(os.path.join(__file__, '../../../')))
 GLN_SOURCES_HOME = os.path.join(LGN_HOME, 'data/gln_sources')
 
 sys.path.append(os.path.join(GLN_SOURCES_HOME, "twitter"))

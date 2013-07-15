@@ -1,4 +1,4 @@
-source("../../figures/load.R", chdir=T)
+source("../load.R", chdir=T)
 
 merge.exports.table <- function(src.type, # Wiki/Murray
                                 ranking.type, # country/language
@@ -47,7 +47,7 @@ merge.exports.table <- function(src.type, # Wiki/Murray
     
     # Remove languages not in either GLN - load the list from SI table 6: the EV centrality table
     # NOTE: We assume its generated!!!
-    legit.langs <- read.csv(file="../si-tables5-6-ev-pop-gdp/table6_ev_cent_for_glns.tsv", 
+    legit.langs <- read.csv(file="../si-table5-6-ev-pop-gdp/table6_ev_cent_for_glns.tsv", 
                             header=T, sep="\t")
     
     names(merged.table) <- c("Language", "Code", "People (all years)", "People (1800-1950 only)")  
