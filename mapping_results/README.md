@@ -9,7 +9,7 @@ The folder we're interested in is this one:
 
 Run data/gln_sources/prep_langinfo_tables.R and data/gln_sources/prep_langlang_tables.R to get the desired statistics for this file. Make sure to use the update the path at the beginning of the R scripts to the results folder you want to use.
 
-The results will be saved to data/gln_sources
+NOTE: The results will be saved to data/gln_sources -- move them to the respective folder under analysis so they're not overwritten.
 
 * * *
 
