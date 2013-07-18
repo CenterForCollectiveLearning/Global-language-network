@@ -1,0 +1,37 @@
+These are the results used for the paper submitted on May 2013, before applying weight cut-offs.
+Originally generated December 8, 2012, re-generated in March 10, 2013.
+
+The settings used are listed in settings.py.
+
+/twitter_langlang.tsv
+		Time to create lang-lang network: 19.765851 seconds
+		Time to calc language info table: 0.000593
+
+		# languages: 73	# connected: 73
+		# persons: 17694811	# polyglots: 3275235
+		# expressions: 548285896
+
+/wikipedia_langlang.tsv
+		Time to create lang-lang network: 2.049586 seconds
+		Time to calc language info table: 0.001555
+
+		# languages: 238	# connected: 238
+		# persons: 2562860	# polyglots: 279172
+		# expressions: 382884184
+
+/books_langlang.tsv?
+
+
+Probability Extraction
+
+	Twitter network probability Extraction with a probability cutoff = 0.0
+		Input nodes:  73
+		Input edges:  2104
+
+	Books network probability Extraction with a probability cutoff = 0.0
+		Input nodes:  1019
+		Input edges:  6906
+
+	Wikipedia network probability Extraction with a probability cutoff = 0.0 and weight cutoff = 100
+		Input nodes:  238
+		Input edges:  20210
