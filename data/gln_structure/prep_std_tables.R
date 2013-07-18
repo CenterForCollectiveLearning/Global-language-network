@@ -4,8 +4,9 @@
   
 BOOKS.TOTAL.TRANSLATIONS <- 2231920 # Not in the original table
 
-INPUT.DIR <- "../../mapping_results/2013-07-05_1/preprocessed/"
-OUTPUT.DIR <- "../../data/gln_structure/"
+RESULTS.DIR <- "../../mapping_results/2013-07-18_1/"
+INPUT.DIR <- paste0(RESULTS.DIR, "preprocessed/")
+OUTPUT.DIR <- paste0(RESULTS.DIR, "standard/")
 
 library(psych)
 library(stats)
@@ -134,9 +135,10 @@ format.edge.table <- function(dataset.name, is.books=F) {
   new.table <- cbind(new.table, sig.measures)
   
   # Write tables
-  setwd(OUTPUT.DIR)
+  #setwd(OUTPUT.DIR)
   write.table(new.table, file=path.to.outfile, sep="\t", 
               quote=F, row.names=F)
+  
   return(new.table)
   
 }
@@ -205,6 +207,13 @@ format.node.table <- function(dataset.name, is.books=F) {
 }
 
 ### MAIN ####
+
+dir.create(OUTPUT.DIR)
+dir.create(file.path(OUTPUT.DIR, "twitter"))
+dir.create(file.path(OUTPUT.DIR, "wikipedia"))
+dir.create(file.path(OUTPUT.DIR, "translations"))
+dir.create(file.path(OUTPUT.DIR, "facebook"))
+
 
 format.edge.table("twitter")
 format.node.table("twitter")
