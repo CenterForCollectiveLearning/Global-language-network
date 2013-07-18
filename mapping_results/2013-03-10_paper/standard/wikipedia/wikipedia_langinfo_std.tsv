@@ -1,4 +1,4 @@
-name	num.exps	num.users	avg.exp.per.user	num.exp.by.polys	num.polys	avg.exp.per.poly	total.users	total.polys
+name	num.exp	num.users	avg.exp.per.user	num.exp.by.polys	num.polys	avg.exp.per.poly	total.users	total.polys
 roh	6781	95	71.3789473684	4928	52	94.7692307692	2562860	279172
 sco	11474	228	50.3245614035	8116	165	49.1878787879	2562860	279172
 scn	24330	232	104.870689655	20641	151	136.695364238	2562860	279172

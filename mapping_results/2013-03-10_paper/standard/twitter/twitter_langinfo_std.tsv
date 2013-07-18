@@ -1,4 +1,4 @@
-name	num.exps	num.users	avg.exp.per.user	num.exp.by.polys	num.polys	avg.exp.per.poly	total.users	total.polys
+name	num.exp	num.users	avg.exp.per.user	num.exp.by.polys	num.polys	avg.exp.per.poly	total.users	total.polys
 tel	1408	102	13.8039215686	474	80	5.925	17694811	3275235
 dan	64537	12029	5.36511763239	54764	11075	4.94483069977	17694811	3275235
 ron	73428	5040	14.569047619	42884	3440	12.4662790698	17694811	3275235
