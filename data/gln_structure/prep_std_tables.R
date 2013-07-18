@@ -6,7 +6,7 @@ BOOKS.TOTAL.TRANSLATIONS <- 2231920 # Not in the original table
 
 RESULTS.DIR <- "../../mapping_results/2013-07-18_1/"
 INPUT.DIR <- paste0(RESULTS.DIR, "preprocessed/")
-OUTPUT.DIR <- paste0(RESULTS.DIR, "standard/")
+OUTPUT.DIR <- paste0(RESULTS.DIR, "standard2/")
 
 library(psych)
 library(stats)
@@ -171,7 +171,7 @@ format.node.table <- function(dataset.name, is.books=F) {
   
   if (is.books==F) {
     # Twitter and Wikipedia datasets
-    names(orig.table)[names(orig.table)=="Language"] <- "lang.code"
+    names(orig.table)[names(orig.table)=="Language"] <- "name"
     names(orig.table)[names(orig.table)=="NumOfExps"] <- "num.exp"
     names(orig.table)[names(orig.table)=="NumOfUsers"] <- "num.users"
     names(orig.table)[names(orig.table)=="AvgExpsPerUser"] <- "avg.exp.per.user"
@@ -182,7 +182,7 @@ format.node.table <- function(dataset.name, is.books=F) {
     names(orig.table)[names(orig.table)=="TotalNumOfPolys"] <- "total.polys"
     
     # Select only the columns that interest us
-    new.table <- orig.table[c('lang.code', 
+    new.table <- orig.table[c('name', 
                               'num.exp', 'num.users', 'avg.exp.per.user', 
                               'num.exp.by.polys', 'num.polys', 'avg.exp.per.poly', 
                               'total.users', 'total.polys')]
@@ -221,9 +221,9 @@ print("T DONE")
 format.edge.table("wikipedia")
 format.node.table("wikipedia")
 print("W DONE")
-format.edge.table("facebook")
-format.node.table("facebook")
-print("F DONE")
+# format.edge.table("facebook")
+# format.node.table("facebook")
+# print("F DONE")
 format.edge.table("books", is.books=T)
 format.node.table("books", is.books=T)
 print("B DONE")
