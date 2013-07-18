@@ -104,13 +104,13 @@ if (OUTFILE!="") {
 # Read data using default filters, get only the num of expressions column,
 # and give it a standard name
 twitter.nodes <- read.nodelist(TWIT.STD.LANGINFO, 
-                               col.select=c("num.exps"))
+                               col.select=c("num.exp"))
 colnames(twitter.nodes) <- "val.twit" # there's only one column!
 wikipedia.nodes <- read.nodelist(WIKI.STD.LANGINFO, 
-                                 col.select=c("num.exps"))
+                                 col.select=c("num.exp"))
 colnames(wikipedia.nodes) <- "val.wiki"
 books.nodes <- read.nodelist(BOOKS.STD.LANGINFO, 
-                             col.select=c("trans.from"))
+                             col.select=c("num.exp"))
 colnames(books.nodes) <- "val.books"
 
 plot.corrlation.fig(twitter.nodes, wikipedia.nodes, books.nodes)
