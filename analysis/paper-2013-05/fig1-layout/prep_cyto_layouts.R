@@ -1,6 +1,6 @@
 ### Create filtered edgelists to be fed to CytoScape
 
-source("../../load.R", chdir=T)
+source("../load.R", chdir=T)
 
 write.filtered.edgelist <- function(infile, outfile, min.common, 
                                     # change the column name to distinguish sources
@@ -34,6 +34,10 @@ write.filtered.edgelist <- function(infile, outfile, min.common,
 # e.g., add ".new"
 ALL.SUFFIX <- ".new"
 
+dir.create("filtered_glns")
+orig.dir <- getwd()
+setwd("filtered_glns")
+
 write.filtered.edgelist(TWIT.STD.LANGLANG, "twit_links_filtered.tsv", 
                         MIN.COMMON.USERS, src.prefix="t", src.suffix=ALL.SUFFIX)
 write.filtered.edgelist(WIKI.STD.LANGLANG, "wiki_links_filtered.tsv", 
@@ -51,3 +55,4 @@ write.filtered.edgelist(WIKI.STD.LANGLANG, "wiki_edge_attribs_cyto.tsv",
 write.filtered.edgelist(BOOKS.STD.LANGLANG, "book_edge_attribs_cyto.tsv", 
                         MIN.COMMON.TRANS, src.prefix="b", src.suffix=ALL.SUFFIX,
                         cyto.mode=T)
+setwd(orig.dir)
