@@ -109,7 +109,9 @@ function createVisualization(data, langData, langGroups, sponsorData,min,max) {
             //  val=element.source+" "+element.target;
             //}
             //if(!linkDict[val]) {
+            // if (element.source!="eng" && element.target!="eng") { // UNCOMMENT TO REMOVE ENGLISH
                 links.push({source: element.source , target: element.target , influence: element.influence, selected:"off"});
+            // } // UNCOMMENT TO REMOVE ENGLISH
                 //linkDict[val]=true;
             //}
         }
