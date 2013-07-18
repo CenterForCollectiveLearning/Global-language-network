@@ -9,6 +9,8 @@ twitter: first 10,000 rows of the actual Twitter userlang file. The full file in
 
 wikipedia: first 10,000 rows of the actual Wikipedia edits userlang file. The full file includes a list of registered users and their edit languages in all Wikipedia editions between 2001-2011.
 
+prep_userlang.py: merges all the languages of one user to a single line (assuming all languages for a user are already listed contiguously)
+
 * * *
 
 books_UNESCO: full, actual data files from UNESCO's Index Translationum .
