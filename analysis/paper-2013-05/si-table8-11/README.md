@@ -1,3 +1,5 @@
+For V29:
+
 We used the September 2012 person.tsv file from Freebase (cultural-exports/freebase/match_2012-12-25_Sept in the Cultural Exports repo). The file contains 2,345,208 entries.
 
 We matched the file with Wikipedia, getting 991,684 matches.

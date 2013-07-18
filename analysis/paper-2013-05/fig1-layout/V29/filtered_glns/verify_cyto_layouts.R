@@ -1,6 +1,6 @@
 ### Create filtered edgelists to be fed to CytoScape
 
-source("../../../figures/load.R", chdir=T)
+source("../../load.R", chdir=T)
 
 write.filtered.edgelist <- function(infile, outfile, min.common, 
                                     # change the column name to distinguish sources

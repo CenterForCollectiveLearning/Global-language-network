@@ -1,3 +1,5 @@
+NOTE: This table isn't expected to change across versions
+
 -File produced using net-langs/data/lang_tools/mappings/country_name_lang_two_code_mapping.py
 
 -Cleaning:
