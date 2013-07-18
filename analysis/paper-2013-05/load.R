@@ -1,8 +1,9 @@
 # Constants and common functions for figures.
-# Should be placed in analyis/revised-paper-2013-07/
+# This file should be placed in analyis/paper-2013-05/
 
 # Mapping results to use
-MAPPING_VERSION = "2013-07-18_1"
+MAPPING_VERSION = "2013-07-18_1" 
+#MAPPING_VERSION = "2013-03-10_paper"
 
 # Data like population, GDP, etc., which aren't supposed to change often
 DATA.ROOT.DIR <- normalizePath("../../data/")
@@ -22,7 +23,7 @@ BOOKS.STD.LANGINFO <- file.path(GLN.STRUCT.DIR, "translations/books_langinfo_std
 
 # GLN SETTINGS
 MIN.COMMON.USERS <- 50 # Was 500 in V29
-MIN.COMMON.TRANS <- 20 # Was 300 in V29
+MIN.COMMON.TRANS <- 30 # Was 300 in V29
 MIN.EXPOSURE <- 0.001
 DESIRED.P.VAL <- 99999 # A value of 99999 should not filter anything
 DISCARD.LANGS <- c() # c("grc", "gmh", "fro") # Languages to drop
@@ -70,7 +71,7 @@ read.nodelist <- function(infile,
                           ) 
 {
   nodelist <- read.csv(infile, sep = "\t") 
-  
+
   # Use language codes for row names
   rownames(nodelist) <- nodelist$name 
   
