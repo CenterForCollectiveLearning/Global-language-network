@@ -4,9 +4,9 @@
   
 BOOKS.TOTAL.TRANSLATIONS <- 2231920 # Not in the original table
 
-RESULTS.DIR <- "../../mapping_results/2013-07-18_1/"
+RESULTS.DIR <- "../../mapping_results/2013-07-18_2/"
 INPUT.DIR <- paste0(RESULTS.DIR, "preprocessed/")
-OUTPUT.DIR <- paste0(RESULTS.DIR, "standard2/")
+OUTPUT.DIR <- paste0(RESULTS.DIR, "standard/")
 
 library(psych)
 library(stats)
