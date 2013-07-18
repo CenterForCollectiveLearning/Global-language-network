@@ -1,0 +1,203 @@
+Num	Country	People (all years)	People (1800-1950 only)
+1	Afghanistan	13	6
+2	Albania	20	11
+3	Algeria	21	11
+4	Andorra	2	1
+5	Angola	6	4
+6	Argentina	124	39
+7	Armenia	14	7
+8	Aruba	1	1
+9	Australia	153	42
+10	Austria	165	111
+11	Azerbaijan	14	11
+12	Bahrain	2	1
+13	Bangladesh	9	8
+14	Barbados	2	NA
+15	Belarus	27	11
+16	Belgium	109	49
+17	Belize	2	1
+18	Benin	5	1
+19	Bermuda	1	NA
+20	Bolivia	4	2
+21	Bosnia and Herzegovina	33	9
+22	Botswana	4	3
+23	Brazil	165	59
+24	Brunei	1	1
+25	Bulgaria	24	11
+26	Burkina Faso	3	2
+27	Burundi	2	NA
+28	Cambodia	6	5
+29	Cameroon	16	1
+30	Canada	192	77
+31	Cape Verde	4	2
+32	Central African Republic	6	4
+33	Chad	3	1
+34	Chile	36	18
+35	China	120	46
+36	Colombia	24	5
+37	Comoros	1	NA
+38	Congo, Republic	8	1
+39	Costa Rica	5	3
+40	Côte d'Ivoire	23	3
+41	Croatia	58	11
+42	Cuba	19	14
+43	Cyprus	10	7
+44	Czech Republic	142	70
+45	Congo, Dem. Rep.	6	3
+46	Denmark	96	38
+47	Djibouti	2	1
+48	Dominica	2	1
+49	Dominican Republic	4	1
+50	East Timor	3	3
+51	Ecuador	6	NA
+52	Egypt	37	20
+53	El Salvador	3	1
+54	Equatorial Guinea	1	1
+55	Eritrea	3	1
+56	Estonia	23	11
+57	Ethiopia	7	2
+58	Faroe Islands	4	2
+59	Fiji	2	1
+60	Finland	84	39
+61	France	930	491
+62	French Guiana	2	1
+63	French Polynesia	1	NA
+64	Gabon	3	3
+65	Georgia	32	14
+66	Germany	798	437
+67	Ghana	25	5
+68	Gibraltar	1	NA
+69	Greece	105	33
+70	Greenland	3	1
+71	Grenada	2	1
+72	Guadeloupe	4	1
+73	Guam	1	1
+74	Guatemala	5	3
+75	Guernsey	1	NA
+76	Guinea	3	2
+77	Guinea-Bissau	6	5
+78	Guyana	1	NA
+79	Haiti	7	1
+80	Honduras	7	1
+81	Hong Kong	14	3
+82	Hungary	86	67
+83	Iceland	14	5
+84	India	165	88
+85	Indonesia	11	9
+86	Iran	47	17
+87	Iraq	19	6
+88	Ireland	110	40
+89	Isle of Man	4	3
+90	Israel	56	28
+91	Italy	644	220
+92	Jamaica	18	7
+93	Japan	216	93
+94	Jersey	2	NA
+95	Jordan	5	2
+96	Kazakhstan	27	20
+97	Kenya	19	8
+98	Kosovo	4	NA
+99	Kuwait	3	3
+100	Kyrgyzstan	3	2
+101	Latvia	17	12
+102	Lebanon	21	9
+103	Lesotho	1	1
+104	Liberia	5	3
+105	Libya	6	1
+106	Lithuania	25	15
+107	Luxembourg	10	5
+108	Macedonia	15	3
+109	Madagascar	4	3
+110	Malawi	4	3
+111	Malaysia	10	4
+112	Maldives	3	1
+113	Mali	11	7
+114	Malta	7	4
+115	Martinique	2	2
+116	Mauritania	3	3
+117	Mauritius	2	2
+118	Mexico	68	25
+119	Moldova	7	1
+120	Monaco	2	1
+121	Mongolia	7	2
+122	Montenegro	9	2
+123	Morocco	20	10
+124	Mozambique	7	2
+125	Myanmar (Burma)	9	9
+126	Namibia	4	3
+127	Nauru	3	2
+128	Nepal	2	NA
+129	Netherlands	205	76
+130	New Caledonia	1	NA
+131	New Zealand	25	10
+132	Nicaragua	7	7
+133	Niger	5	3
+134	Nigeria	37	6
+135	Korea, DPR	7	4
+136	Norway	79	42
+137	Oman	2	NA
+138	Pakistan	31	18
+139	Palau	2	1
+140	Palestinian State	3	1
+141	Panama	5	3
+142	Papua New Guinea	1	1
+143	Paraguay	11	2
+144	Peru	22	15
+145	Philippines	25	19
+146	Poland	183	125
+147	Portugal	84	21
+148	Puerto Rico	12	3
+149	Qatar	1	NA
+150	Romania	65	34
+151	Russia	393	249
+152	Rwanda	2	1
+153	St. Kitts and Nevis	3	NA
+154	St. Lucia	1	1
+155	St. Vincent and the Grenadines	1	1
+156	Samoa	2	2
+157	Saudi Arabia	14	6
+158	Senegal	12	3
+159	Serbia	68	17
+160	Seychelles	2	2
+161	Sierra Leone	3	1
+162	Singapore	7	4
+163	Slovakia	34	10
+164	Slovenia	28	6
+165	Solomon Islands	1	NA
+166	Somalia	11	5
+167	South Africa	64	26
+168	Korea, Republic	42	10
+169	South Sudan	1	1
+170	Spain	346	100
+171	Sri Lanka	7	6
+172	St. Lucia	1	1
+173	Sudan	4	1
+174	Suriname	7	3
+175	Sweden	175	72
+176	Switzerland	111	57
+177	Syria	10	1
+178	Taiwan	15	4
+179	Tajikistan	4	1
+180	Tanzania	4	3
+181	Thailand	6	4
+182	Bahamas	4	2
+183	Gambia	1	NA
+184	Togo	6	3
+185	Tonga	2	1
+186	Trinidad and Tobago	6	2
+187	Tunisia	11	4
+188	Turkey	96	27
+189	Turkmenistan	3	1
+190	Virgin Islands, U.S.	2	1
+191	Uganda	3	2
+192	Ukraine	114	62
+193	United Arab Emirates	4	4
+194	United Kingdom	1515	673
+195	United States	3726	1807
+196	Uruguay	35	8
+197	Uzbekistan	9	2
+198	Venezuela	13	2
+199	Vietnam	12	10
+200	Yemen	1	1
+201	Zambia	2	2
+202	Zimbabwe	7	4

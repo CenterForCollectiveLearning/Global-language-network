@@ -1,0 +1,334 @@
+cultexp
+eng	2555.828
+deu	787.445
+fra	691.049
+spa	455.297
+ita	284.897
+pol	163.27
+nld	134.058
+ara	125.446
+jpn	125.015
+por	113.428
+swe	92.2
+hun	90.257
+ces	86
+ukr	61.64
+rus	57.242
+ell	53.936
+zho	53.319
+dan	52.137
+nor	48
+hbs	46.964
+hin	44.37
+tur	42.108
+fin	41.8
+ron	39.68
+heb	24.8
+cat	21.58
+msa	15.364
+bul	11.83
+sqi	10.55
+tha	10
+est	9.1
+slk	9
+glg	8.68
+slv	8
+tam	7.573
+fas	5
+twit.eig
+eng	1
+msa	0.822992157666439
+spa	0.693458419022746
+por	0.570558612190605
+fra	0.508144128195
+nld	0.475438332157709
+ita	0.47336187734824
+ces	0.427695513933463
+deu	0.345795250405766
+cat	0.317458179984351
+tur	0.310011191468417
+ara	0.274074294755999
+jpn	0.271056308480583
+glg	0.246502861211265
+rus	0.221932504943845
+tha	0.220341260898159
+sqi	0.214178456972051
+dan	0.185277421402819
+hbs	0.174891292111783
+ell	0.169167454135754
+zho	0.163687301868239
+swe	0.123694047350877
+slk	0.105115247277254
+ron	0.0959411238901881
+nor	0.0916628728942925
+fin	0.088978363269135
+fas	0.0877087467624415
+bul	0.0818006691149125
+hin	0.0566539590299203
+tam	0.0566539590299203
+est	0.0566539590299202
+slv	0.0566539590299202
+hun	0.0566539590299202
+heb	0.0566539590299202
+pol	0.0566539590299202
+ukr	0.0251467100849923
+wiki.eig
+eng	1
+deu	0.881853885828308
+fra	0.818472173093032
+spa	0.722866816754267
+jpn	0.716780194239308
+ita	0.66787741888798
+rus	0.641438481118609
+swe	0.637980708718283
+nld	0.582232256103463
+pol	0.521210982692337
+por	0.459858981921983
+zho	0.395978162288804
+nor	0.319300767585279
+fin	0.319300767585278
+hun	0.258279494174153
+tur	0.258279494174153
+dan	0.179994659584018
+ces	0.179994659584018
+hbs	0.179994659584018
+heb	0.179994659584018
+ron	0.179994659584018
+ara	0.17393235586663
+cat	0.164787940512071
+ukr	0.15699952204685
+bul	0.0956475212764952
+msa	0.0956475212764952
+ell	0.0956475212764951
+fas	0.0956475212764951
+glg	0.0691404192355761
+slv	0.0478237606382476
+tam	0.0478237606382476
+hin	0.0478237606382476
+slk	0.0478237606382476
+tha	0.0478237606382476
+sqi	0.0478237606382476
+est	0.0478237606382475
+book.eig
+eng	1
+deu	0.948573661161244
+fra	0.908485778147256
+rus	0.857987629055577
+spa	0.777157259129473
+ita	0.666951794601442
+swe	0.571497110044563
+pol	0.547185866425526
+nld	0.540485899013472
+dan	0.502651584265193
+jpn	0.48642261078306
+hun	0.480815797918296
+ces	0.474386986264057
+nor	0.450551691773209
+hbs	0.447113949111919
+fin	0.414018475113667
+slk	0.361352292038189
+zho	0.354682260471156
+por	0.351163110701693
+ron	0.335430901597671
+ara	0.321843319844544
+est	0.293886259592247
+bul	0.291313211135865
+cat	0.277040665022585
+ell	0.274316460540841
+slv	0.244468049041304
+heb	0.240628268852556
+fas	0.204823747582721
+sqi	0.199333625744642
+tur	0.170603552474493
+ukr	0.127161398349911
+glg	0.11849770176385
+hin	0.103672287119184
+tam	0.0635806991749557
+msa	0.0452337363075881
+tha	0.034220195108228
+numppl
+United States	1894
+United Kingdom	774
+Germany	590
+France	578
+Russian Federation	323
+Italy	275
+Austria	168
+Poland	165
+Japan	125
+Spain	124
+India	107
+Canada	99
+Netherlands	92
+Ukraine	92
+Hungary	91
+Sweden	90
+Czech Republic	86
+Brazil	85
+Australia	72
+Switzerland	71
+Belgium	65
+Argentina	52
+Denmark	52
+Greece	50
+Norway	48
+China	48
+Ireland	48
+Finland	44
+Romania	43
+Turkey	41
+Mexico	35
+Israel	31
+Iran, Islamic Republic of	26
+South Africa	25
+Armenia	24
+Serbia	24
+Pakistan	23
+Belarus	23
+Peru	22
+Philippines	21
+Egypt	21
+Chile	20
+Lithuania	19
+Cuba	17
+Korea, Republic of	17
+Uruguay	17
+Georgia	16
+Latvia	16
+Portugal	15
+Kazakhstan	15
+Bosnia and Herzegovina	14
+Viet Nam	14
+Bulgaria	14
+Morocco	14
+Croatia	14
+Saudi Arabia	13
+Algeria	13
+Estonia	13
+New Zealand	11
+Albania	11
+Azerbaijan	11
+Iraq	11
+Kenya	10
+Afghanistan	10
+Slovakia	10
+Nigeria	10
+Thailand	10
+Lebanon	10
+Myanmar	10
+Indonesia	9
+Bangladesh	9
+Iceland	9
+Slovenia	8
+Tunisia	8
+Jamaica	7
+Mali	7
+Venezuela, Bolivarian Republic of	7
+Luxembourg	7
+Sri Lanka	7
+Syrian Arab Republic	6
+Ghana	6
+Cyprus	6
+Nicaragua	6
+Korea, Democratic People's Republic of	6
+Cambodia	5
+Bahrain	5
+Guatemala	5
+Somalia	5
+Malawi	5
+Angola	5
+Malaysia	5
+Kuwait	5
+Macedonia, Republic of	5
+Guinea-Bissau	5
+Colombia	5
+Malta	5
+Ethiopia	4
+United Arab Emirates	4
+Libya	4
+Central African Republic	4
+Mozambique	4
+Niger	4
+Taiwan, Province of China	4
+Tanzania, United Republic of	4
+Madagascar	4
+Senegal	4
+Zimbabwe	4
+Kyrgyzstan	4
+Congo, The Democratic Republic of the	4
+Singapore	4
+Cape Verde	3
+Paraguay	3
+Gabon	3
+Monaco	3
+Namibia	3
+Mauritania	3
+Mongolia	3
+Uganda	3
+Costa Rica	3
+Puerto Rico	3
+Timor-Leste	3
+Sudan	3
+Bolivia, Plurinational State of	3
+Suriname	3
+Zambia	3
+Moldova, Republic of	3
+Trinidad and Tobago	3
+Côte d'Ivoire	3
+Botswana	3
+Montenegro	2
+Cameroon	2
+Burkina Faso	2
+Guinea	2
+Jordan	2
+Liberia	2
+Bahamas	2
+Yemen	2
+Samoa	2
+Saint Lucia	2
+Togo	2
+Dominican Republic	2
+Mauritius	2
+Faroe Islands	2
+Panama	2
+Haiti	2
+Hong Kong	2
+Seychelles	2
+Uzbekistan	2
+Nepal	2
+Martinique	2
+Sao Tome and Principe	1
+Turkmenistan	1
+Aruba	1
+Swaziland	1
+Belize	1
+Oman	1
+Greenland	1
+Guam	1
+Lesotho	1
+Saint Vincent and the Grenadines	1
+Tajikistan	1
+Fiji	1
+Rwanda	1
+Nauru	1
+Benin	1
+Tonga	1
+Brunei Darussalam	1
+Virgin Islands, U.S.	1
+Andorra	1
+Palau	1
+Ecuador	1
+El Salvador	1
+Sierra Leone	1
+Lao People's Democratic Republic	1
+Grenada	1
+Chad	1
+Equatorial Guinea	1
+Djibouti	1
+Dominica	1
+Bhutan	1
+Maldives	1
+Eritrea	1
+South Sudan	1
+Guadeloupe	1
+French Guiana	1

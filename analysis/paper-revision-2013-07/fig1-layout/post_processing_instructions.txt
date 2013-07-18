@@ -1,0 +1,15 @@
+Post-processing:
+
+In CytoScape:
+- Use the same viz settings for all sources
+- Zoom to 1:1, then export as SVG
+- Edges in the exported figures will have the same scale, but nodes won't.
+
+In Illustrator:
+- Select the size of one node in one network as the desired size. Scale the other two networks, WITHOUT SCALING EFFECTS AND STROKES, so that the respective node becomes the same size.   
+- Verfify that sizes of nodes and edges match across the three networks.
+- Scale all three networks using the same factor, THIS TIME INCLUDING EFFECTS AND STROKES, so they fit in the final figure. 
+- Add a circle for Latin. Should be the size of Old French.
+- Change the colors of the nodes to match the language family legend. Don't forget the sneaky "other" languages: Albanian, Armenian, Esperanto and Basque.
+- Verify that the legends for node size, edge width and edge color match the figure.
+
