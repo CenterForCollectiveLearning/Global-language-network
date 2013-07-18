@@ -1,5 +1,8 @@
 # Constants and common functions for figures.
-# Should be placed in analyis/paper-2013-05/
+# Should be placed in analyis/revised-paper-2013-07/
+
+# Mapping results to use
+MAPPING_VERSION = "2013-07-18_1"
 
 # Data like population, GDP, etc., which aren't supposed to change often
 DATA.ROOT.DIR <- normalizePath("../../data/")
@@ -7,19 +10,19 @@ DATA.ROOT.DIR <- normalizePath("../../data/")
 # This directory
 ANALYSIS.ROOT.DIR <- normalizePath("../") # 
 
-# GLN STRUCTURE
-GLN.STRUCT.DIR <- paste0(ANALYSIS.ROOT.DIR, "network_data/")
-TWIT.STD.LANGLANG <- paste0(GLN.STRUCT.DIR, "twitter/twitter_langlang_std.tsv")  
-WIKI.STD.LANGLANG <- paste0(GLN.STRUCT.DIR, "wikipedia/wikipedia_langlang_std.tsv")
-BOOKS.STD.LANGLANG <- paste0(GLN.STRUCT.DIR, "translations/books_langlang_std.tsv")
+# GLN STRUCTURE -- CHANGE THIS PATH TO THE ONE YOU WANT!!
+GLN.STRUCT.DIR <- normalizePath(sprintf("../../mapping_results/%s/standard", MAPPING_VERSION))
+TWIT.STD.LANGLANG <- file.path(GLN.STRUCT.DIR, "twitter/twitter_langlang_std.tsv")  
+WIKI.STD.LANGLANG <- file.path(GLN.STRUCT.DIR, "wikipedia/wikipedia_langlang_std.tsv")
+BOOKS.STD.LANGLANG <- file.path(GLN.STRUCT.DIR, "translations/books_langlang_std.tsv")
 
-TWIT.STD.LANGINFO <- paste0(GLN.STRUCT.DIR, "twitter/twitter_langinfo_std.tsv")  
-WIKI.STD.LANGINFO <- paste0(GLN.STRUCT.DIR, "wikipedia/wikipedia_langinfo_std.tsv")
-BOOKS.STD.LANGINFO <- paste0(GLN.STRUCT.DIR, "translations/books_langinfo_std.tsv")
+TWIT.STD.LANGINFO <- file.path(GLN.STRUCT.DIR, "twitter/twitter_langinfo_std.tsv")  
+WIKI.STD.LANGINFO <- file.path(GLN.STRUCT.DIR, "wikipedia/wikipedia_langinfo_std.tsv")
+BOOKS.STD.LANGINFO <- file.path(GLN.STRUCT.DIR, "translations/books_langinfo_std.tsv")
 
 # GLN SETTINGS
-MIN.COMMON.USERS <- 500
-MIN.COMMON.TRANS <- 300
+MIN.COMMON.USERS <- 50 # Was 500 in V29
+MIN.COMMON.TRANS <- 20 # Was 300 in V29
 MIN.EXPOSURE <- 0.001
 DESIRED.P.VAL <- 99999 # A value of 99999 should not filter anything
 DISCARD.LANGS <- c() # c("grc", "gmh", "fro") # Languages to drop
@@ -27,27 +30,27 @@ USE.WEIGHTED.GRAPH <- F # Default is FALSE - otherwise results are even more ang
 
 # GLN FINAL LANGS - lists the languages we used in the final GLN
 # Generated manually from CytoScape, based on the GLN settings above
-TWIT.LANGS.FINAL <- paste0(GLN.STRUCT.DIR, "twitter/twitter_langs_final_gln.tsv")  
-WIKI.LANGS.FINAL <- paste0(GLN.STRUCT.DIR, "wikipedia/wikipedia_langs_final_gln.tsv")  
-BOOKS.LANGS.FINAL <- paste0(GLN.STRUCT.DIR, "translations/books_langs_final_gln.tsv")  
+TWIT.LANGS.FINAL <- file.path(GLN.STRUCT.DIR, "twitter/twitter_langs_final_gln.tsv")  
+WIKI.LANGS.FINAL <- file.path(GLN.STRUCT.DIR, "wikipedia/wikipedia_langs_final_gln.tsv")  
+BOOKS.LANGS.FINAL <- file.path(GLN.STRUCT.DIR, "translations/books_langs_final_gln.tsv")  
 
 # LANGUAGE DEMOGRAPHICS SETTINGS
-LANG.DEMOG.DIR <- paste0(DATA.ROOT.DIR, "/lang_demog/")
-SPEAKER.STATS.FILE <- paste0(LANG.DEMOG.DIR, "population/gold/speakers_iso639-3_all_families_1.tsv")
+LANG.DEMOG.DIR <- file.path(DATA.ROOT.DIR, "lang_demog/")
+SPEAKER.STATS.FILE <- file.path(LANG.DEMOG.DIR, "population/gold/speakers_iso639-3_all_families_1.tsv")
 
 # CULTURAL PRODUCTION SETTINGS
-CULT.PRODUCTION.DIR <- paste0(DATA.ROOT.DIR, "/cultural_production/")
-MURRAY.PRODUCTION.DIR <- paste0(CULT.PRODUCTION.DIR, "murray/")
-WIKI.PRODUCTION.DIR <- paste0(CULT.PRODUCTION.DIR, "wikipedia/")
+CULT.PRODUCTION.DIR <- file.path(DATA.ROOT.DIR, "cultural_production/")
+MURRAY.PRODUCTION.DIR <- file.path(CULT.PRODUCTION.DIR, "murray/")
+WIKI.PRODUCTION.DIR <- file.path(CULT.PRODUCTION.DIR, "wikipedia/")
 
 # Replace with {1} date range ("all"/"1800_1950") {2} "country"/"language"
-MURRAY.FILE.NAME <- paste0(MURRAY.PRODUCTION.DIR,
+MURRAY.FILE.NAME <- file.path(MURRAY.PRODUCTION.DIR,
                            #"final_resolved_murray_4-16-2013_%s_%s_exports.tsv"
                            "HA_unique_countries_resolved_%s_%s_exports.tsv")
                            
                       
 # Replace with {1} date range ("all"/"1800_1950") {3} "country"/"language"
-WIKI.FILE.NAME <- paste0(WIKI.PRODUCTION.DIR,
+WIKI.FILE.NAME <- file.path(WIKI.PRODUCTION.DIR,
                          #"final_resolved_wiki_4-16-2013_20_%s_%s_exports.tsv")
                          "wiki_4crit_langs20_%s_%s_exports.tsv")
 
