@@ -169,6 +169,8 @@ def main():
             write_property_file(paths)
             visualize(final_network_full_names, paths) # note the name change here!
 
+        # TODO: Call R script
+
         total_time = round((time.time() - start_time), 3)
         print "\nFINISHED MAPPING\n"
         print "\tTotal mapping time:", total_time, "seconds"
