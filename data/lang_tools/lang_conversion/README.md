@@ -98,6 +98,8 @@ Macrolanguages
 *******
 Languages were consolidated to ISO639-3 macrolanguages, thus all variants of Chinese appear under "zho" ("Chinese"); all variants of Arabic under "ara" ("Arabic"), "Malay"etc. There are two notable additions: (1) Serbian, Croatian, and Bosnian were consolidated into "Serbo-Croatian" even though the latter had been deprecated as a macrolanguage; this is mostly because CLD cannot distinguish the written forms of the three languages. (2) Filipino ("fil" in CLD) and Tagalog ("tl" in Wikipedia) were merged into one Filipino language "fil" ("Filipino"), as they are essentially the same language.      
 
+Note that other supposedly similar languages (e.g., German and Swiss German) ARE NOT merged.
+
 
 >>>>> IGNORE THE FOLLOWING -- this has been changed:
 The following languages are merged at source level. They are converted like the rest:

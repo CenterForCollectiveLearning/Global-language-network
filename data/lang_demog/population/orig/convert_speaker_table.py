@@ -4,7 +4,7 @@ import csv
 from collections import defaultdict
 
 LGN_HOME = '../../../' # fix this path to work for you!!!!
-sys.path.append(LGN_HOME+'analysis/load/')
+sys.path.append(LGN_HOME+'mapping/load/')
 import convert_lang
 
 # header: 'language\tlangcode\tnumber of speakers\tMacrogroup\tSource\tComments'
