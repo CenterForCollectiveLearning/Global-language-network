@@ -37,7 +37,7 @@ BOOKS.LANGS.FINAL <- file.path(GLN.STRUCT.DIR, "translations/books_langs_final_g
 
 # LANGUAGE DEMOGRAPHICS SETTINGS
 LANG.DEMOG.DIR <- file.path(DATA.ROOT.DIR, "lang_demog/")
-SPEAKER.STATS.FILE <- file.path(LANG.DEMOG.DIR, "population/gold/speakers_iso639-3_all_families_1.tsv")
+SPEAKER.STATS.FILE <- file.path(LANG.DEMOG.DIR, "population/gold/speakers_families_iso639-3.tsv")
 
 # CULTURAL PRODUCTION SETTINGS
 CULT.PRODUCTION.DIR <- file.path(DATA.ROOT.DIR, "cultural_production/")
