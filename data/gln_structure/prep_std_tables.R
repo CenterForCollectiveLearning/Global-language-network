@@ -189,7 +189,7 @@ format.node.table <- function(dataset.name, is.books=F) {
   }
   else {
     # Books dataset: rename and add totals
-    names(orig.table)[names(orig.table)=="Language"] <- "lang.code"
+    names(orig.table)[names(orig.table)=="Language"] <- "name"
     names(orig.table)[names(orig.table)=="TranslatedFrom"] <- "num.exp"
     names(orig.table)[names(orig.table)=="TranslatedTo"] <- "trans.to"
     names(orig.table)[names(orig.table)=="OutDegree"] <- "degree.from"

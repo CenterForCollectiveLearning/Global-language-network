@@ -11,8 +11,10 @@ SETTINGS = {
 
     # Location of datasets relative to net-langs directory
     'dataset_locations': {
-        'twitter': 'data/gln_sources/twitter/gold/twitter_20120505_90_userlang_stripped_full_iso639-3_sample.dat',
-        'wikipedia': 'data/gln_sources/wikipedia_edits/gold/wikipedia_20120612_userlang_full_nosuffix_iso639-3_sample.dat',
+        #'twitter': 'data/gln_sources/twitter/gold/twitter_20120505_90_userlang_stripped_full_iso639-3_sample.dat',
+        #'wikipedia': 'data/gln_sources/wikipedia_edits/gold/wikipedia_20120612_userlang_full_nosuffix_iso639-3_sample.dat',
+        'twitter': 'data/gln_sources/twitter/gold/twitter_20120505_90_userlang_stripped_full_iso639-3.dat',
+        'wikipedia': 'data/gln_sources/wikipedia_edits/gold/wikipedia_20120612_userlang_full_nosuffix_iso639-3.dat',
         'facebook': 'data/gln_sources/facebook/gold/fb_iso639-3_sample.dat',
         'books': 'data/gln_sources/books_UNESCO/gold/unesco_langlang_20120722_iso639-3.txt',
         },
@@ -50,14 +52,14 @@ SETTINGS = {
         'facebook_max_langs_per_user': 5,
 
         # Minimum tweets/edits per user
-        'twitter_min_per_user': 5,
-        'wikipedia_min_per_user': 5,
-        'facebook_min_per_user': 5,
+        'twitter_min_per_user': 25,
+        'wikipedia_min_per_user': 25,
+        'facebook_min_per_user': 25,
 
         # Minimum expressions per language per user
-        'twitter_min_degree': 2,
-        'wikipedia_min_degree': 2, # was 20 becasue of hypermultilingualism; max_langs_per_user hopefully handles it better
-        'facebook_min_degree': 2,
+        'twitter_min_degree': 10,
+        'wikipedia_min_degree': 10,
+        'facebook_min_degree': 10,
         #'books_min_degree': 0, # N/A for books
 
         # Minimum weight per link
