@@ -1,0 +1,141 @@
+Language	Code	EV Centrality.twit	EV Centrality.wiki	EV Centrality
+Abkhazian	abk			0.04
+Afrikaans	afr	0.11	0.04	0.02
+Albanian	sqi		0.12	0.29
+Amharic	amh			0.02
+Arabic	ara	0.25	0.19	0.55
+Armenian	hye			0.13
+Assamese	asm			0.05
+Asturian	ast			0.04
+Avaric	ava			0.04
+Azerbaijani	aze	0.03	0.04	0.08
+Bashkir	bak			0.04
+Basque	eus	0.04	0.1	0.14
+Bavarian	bar		0.04	
+Belarusian	bel			0.17
+Bengali	ben		0.04	0.14
+Breton	bre			0.04
+Bulgarian	bul		0.12	0.59
+Buriat	bua			0.04
+Burmese	mya			0.02
+Catalan	cat	0.17	0.29	0.41
+Central Khmer	khm			0.02
+Chechen	che			0.02
+Chinese	zho	0.21	0.48	0.61
+Chuvash	chv			0.04
+Cree	cre			0.02
+Czech	ces	0.09	0.35	0.74
+Danish	dan	0.11	0.24	0.72
+Dutch	nld	0.23	0.56	0.7
+English	eng	1	1	1
+Esperanto	epo		0.19	0.06
+Estonian	est	0.09	0.04	0.38
+Faroese	fao			0.07
+Filipino	fil	0.43	0.04	0.02
+Finnish	fin	0.09	0.4	0.56
+French	fra	0.29	0.86	0.88
+Galician	glg	0.04	0.1	0.17
+Georgian	kat		0.04	0.11
+German	deu	0.18	0.95	0.91
+Greek (Modern)	ell	0.12	0.16	0.48
+Gujarati	guj			0.05
+Haitian	hat	0.15		
+Hebrew	heb	0.13	0.29	0.54
+Hindi	hin	0.09	0.04	0.11
+Hungarian	hun	0.09	0.28	0.7
+Icelandic	isl		0.04	0.3
+Inuktitut	iku			0.04
+Irish	gle		0.04	0.02
+Italian	ita	0.3	0.63	0.81
+Japanese	jpn	0.34	0.7	0.62
+Kabardian	kbd			0.04
+Kalaallisut	kal			0.04
+Kalmyk	xal			0.02
+Kannada	kan		0.04	0.05
+Kara-Kalpak	kaa			0.05
+Karachay-Balkar	krc			0.04
+Kazakh	kaz			0.11
+Kirghiz	kir			0.04
+Komi	kom			0.02
+Korean	kor	0.46	0.26	0.27
+Kurdish	kur			0.02
+Lak	lbe			0.02
+Lao	lao			0.02
+Latin	lat		0.08	0.45
+Latvian	lav	0.09	0.04	0.27
+Lezghian	lez			0.02
+Lithuanian	lit		0.04	0.37
+Macedonian	mkd		0.04	0.25
+Malagasy	mlg			0.06
+Malay	msa	0.44	0.08	0.11
+Malayalam	mal		0.04	0.08
+Maori	mri			0.02
+Marathi	mar		0.04	0.05
+Mari (Russia)	chm			0.04
+Moksha	mdf			0.02
+Moldavian	mol			0.18
+Mongolian	mon			0.08
+Nepali	nep			0.02
+Northern Sami	sme			0.03
+Norwegian	nor	0.11	0.36	0.67
+Occitan	oci			0.04
+Official Aramaic (700-300 BCE)	arc			0.02
+Oriya	ori			0.05
+Ossetian	oss			0.04
+Panjabi	pan			0.05
+Persian	fas	0.12	0.08	0.32
+Polish	pol	0.09	0.6	0.73
+Portuguese	por	0.38	0.46	0.64
+Pushto	pus			0.02
+Romanian	ron	0.09	0.23	0.52
+Romansh	roh			0.02
+Russian	rus	0.13	0.75	0.97
+Samoan	smo			0.02
+Sanskrit	san			0.13
+Scottish Gaelic	gla			0.02
+Serbo-Croatian	hbs	0.09	0.23	0.68
+Sinhala	sin			0.04
+Slovak	slk		0.11	0.45
+Slovenian	slv	0.09	0.12	0.4
+Spanish	spa	0.4	0.66	0.8
+Swahili	swa	0.09		0.02
+Swedish	swe	0.09	0.63	0.77
+Tajik	tgk			0.05
+Tamil	tam	0.09	0.04	0.1
+Tatar	tat			0.04
+Telugu	tel		0.04	0.05
+Thai	tha	0.3	0.04	0.02
+Tibetan	bod			0.07
+Tonga (Tonga Islands)	ton			0.02
+Turkish	tur	0.18	0.29	0.41
+Turkmen	tuk			0.04
+Udmurt	udm			0.02
+Uighur	uig			0.06
+Ukrainian	ukr	0.02	0.22	0.31
+Urdu	urd		0.04	0.1
+Uzbek	uzb			0.09
+Vietnamese	vie	0.09	0.04	0.07
+Welsh	cym		0.04	0.04
+Yakut	sah			0.04
+Yiddish	yid			0.1
+Zhuang	zha			0.01
+	ady			0.02
+	alt			0.02
+	chp			0.02
+	dar			0.02
+	enm			0.02
+	fro			0.04
+	gmh			0.02
+	grc			0.42
+	gsw			0.02
+	inh			0.02
+	kac			0.01
+	kum			0.02
+	lis			0.01
+	non			0.01
+	orv			0.02
+	tab			0.02
+	tiz			0.01
+	tkl			0.02
+	tyv			0.02
+	yiz			0.01
