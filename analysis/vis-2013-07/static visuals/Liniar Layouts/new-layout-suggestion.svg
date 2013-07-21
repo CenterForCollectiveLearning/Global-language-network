@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="641.732px" height="463px" viewBox="0 0 641.732 463" enable-background="new 0 0 641.732 463" xml:space="preserve">
+<rect x="0.5" stroke="#FFFFFF" stroke-miterlimit="10" width="641.232" height="463"/>
+<g>
+	<ellipse fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" cx="115.543" cy="85.026" rx="43.443" ry="38.525"/>
+	<text transform="matrix(1 0 0 1 97.3809 88.5479)" stroke="#000000" font-family="'MyriadPro-Regular'" font-size="12">English</text>
+</g>
+<g>
+	<ellipse fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" cx="290.083" cy="173.384" rx="27.869" ry="25"/>
+	<text transform="matrix(1 0 0 1 275.2451 176.9062)" stroke="#000000" font-family="'MyriadPro-Regular'" font-size="12">Malay</text>
+</g>
+<g>
+	<ellipse fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" cx="207.232" cy="144.862" rx="22.951" ry="21.312"/>
+	<text transform="matrix(1 0 0 1 189.5562 148.3838)" stroke="#000000" font-family="'MyriadPro-Regular'" font-size="12">Korean</text>
+</g>
+<g>
+	<ellipse fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" cx="108.233" cy="274.804" rx="43.443" ry="38.524"/>
+	<text transform="matrix(1 0 0 1 90.0708 278.3262)" stroke="#000000" font-family="'MyriadPro-Regular'" font-size="12">English</text>
+</g>
+<g>
+	<ellipse fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" cx="391.723" cy="365.525" rx="27.869" ry="25.001"/>
+	<text transform="matrix(1 0 0 1 376.8848 369.0474)" stroke="#000000" font-family="'MyriadPro-Regular'" font-size="12">Malay</text>
+</g>
+<g>
+	<ellipse fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" cx="340.903" cy="363.525" rx="22.951" ry="21.312"/>
+	<text transform="matrix(1 0 0 1 323.2271 367.0469)" stroke="#000000" font-family="'MyriadPro-Regular'" font-size="12">Korean</text>
+</g>
+<g>
+	<ellipse fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" cx="568.336" cy="123.551" rx="43.443" ry="38.525"/>
+	<text transform="matrix(1 0 0 1 548.4043 127.0728)" stroke="#000000" font-family="'MyriadPro-Regular'" font-size="12">Chinese</text>
+</g>
+<g>
+	<ellipse fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" cx="568.336" cy="294.027" rx="43.443" ry="38.524"/>
+	<text transform="matrix(1 0 0 1 548.4043 297.5488)" stroke="#000000" font-family="'MyriadPro-Regular'" font-size="12">Chinese</text>
+</g>
+<line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="0.5" y1="210.5" x2="741.463" y2="210.5"/>
+<text transform="matrix(1 0 0 1 30.4116 22.6045)" stroke="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="12">Current viz:</text>
+<text transform="matrix(1 0 0 1 23.1313 226.2798)" stroke="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="12">New viz:</text>
+<text transform="matrix(1 0 0 1 30.4116 65.5)"><tspan x="0" y="0" stroke="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="12">EV </tspan><tspan x="0" y="14.4" stroke="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="12">axis</tspan></text>
+<text transform="matrix(1 0 0 1 39.9043 263.833)"><tspan x="0" y="0" stroke="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="12">EV </tspan><tspan x="0" y="14.4" stroke="#FFFFFF" font-family="'MyriadPro-Regular'" font-size="12">axis</tspan></text>
+<path fill="#FFFFFF" stroke="#FFFFFF" stroke-miterlimit="10" stroke-dasharray="12" d="M-6.434,76.5"/>
+<path fill="none" stroke="#FFFFFF" stroke-miterlimit="10" stroke-dasharray="12" d="M91.868,73.532
+	c173.178,145.314,405.718,152.776,519.911,16.685"/>
+<path fill="none" stroke="#FFFFFF" stroke-miterlimit="10" stroke-dasharray="12" d="M90.61,256.297
+	c173.178,145.314,405.718,152.776,519.911,16.685"/>
+</svg>
