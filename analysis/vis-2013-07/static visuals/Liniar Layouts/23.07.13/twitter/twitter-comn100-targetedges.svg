@@ -1,0 +1,1227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="595px"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css" viewBox="-69 -69 2082 2082" height="841px"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="0.006696896"
+              d="M 615.867065,615.867065 C 512.087524,615.867065 356.418091,460.197693 356.418091,356.418091"
+              class="hat fra" stroke-opacity="0.49803922" stroke="#ff4f00"/>
+        <path fill="none" stroke-width="4.1692056E-5"
+              d="M 615.867065,615.867065 C 379.858032,615.867065 25.844536,261.853546 25.844542,25.844542"
+              class="hat eng" stroke-opacity="0.49803922" stroke="#ff2800"/>
+        <path fill="none" stroke-width="0.0029948358"
+              d="M 385.734344,385.734344 C 241.778412,385.734344 25.844543,169.800461 25.844542,25.844542"
+              class="tha eng" stroke-opacity="0.49803922" stroke="#ff2800"/>
+        <path fill="none" stroke-width="0.008658804"
+              d="M 385.734344,385.734344 C 334.553741,385.734344 257.782776,308.963379 257.782776,257.782776"
+              class="tha kor" stroke-opacity="0.49803922" stroke="#ffe300"/>
+        <path fill="none" stroke-width="1.6390577E-4"
+              d="M 385.734344,385.734344 C 298.140228,385.734344 166.749008,254.343155 166.749008,166.749008"
+              class="tha jpn" stroke-opacity="0.49803922" stroke="#ffe300"/>
+        <path fill="none" stroke-width="3.5893443E-4"
+              d="M 482.146667,482.146667 C 299.625793,482.146667 25.844543,208.365402 25.844542,25.844542"
+              class="zho eng" stroke-opacity="0.49803922" stroke="#ff2800"/>
+        <path fill="none" stroke-width="0.002406092"
+              d="M 482.146667,482.146667 C 392.401123,482.146667 257.782776,347.528320 257.782776,257.782776"
+              class="zho kor" stroke-opacity="0.49803922" stroke="#ffe300"/>
+        <path fill="none" stroke-width="4.0462523E-4"
+              d="M 482.146667,482.146667 C 355.987610,482.146667 166.749008,292.908081 166.749008,166.749008"
+              class="zho jpn" stroke-opacity="0.49803922" stroke="#ffe300"/>
+        <path fill="none" stroke-width="0.046398982"
+              d="M 129.674026,129.674026 C 190.594559,129.674026 281.975342,221.054810 281.975342,281.975342"
+              class="msa fil" stroke-opacity="0.49803922" stroke="#fd00e6"/>
+        <path fill="none" stroke-width="3.3497342E-4"
+              d="M 129.674026,129.674026 C 163.237778,129.674026 213.583435,180.019684 213.583435,213.583435"
+              class="msa spa" stroke-opacity="0.49803922" stroke="#ff4f00"/>
+        <path fill="none" stroke-width="0.004044951"
+              d="M 129.674026,129.674026 C 204.409561,129.674026 316.512878,241.777344 316.512878,316.512878"
+              class="msa por" stroke-opacity="0.49803922" stroke="#ff4f00"/>
+        <path fill="none" stroke-width="0.102007836"
+              d="M 129.674026,129.674026 C 88.142227,129.674026 25.844542,67.376335 25.844542,25.844542"
+              class="msa eng" stroke-opacity="0.49803922" stroke="#ff2800"/>
+        <path fill="none" stroke-width="0.012672695"
+              d="M 129.674026,129.674026 C 180.917526,129.674026 257.782776,206.539276 257.782776,257.782776"
+              class="msa kor" stroke-opacity="0.49803922" stroke="#ffe300"/>
+        <path fill="none" stroke-width="2.632236E-4"
+              d="M 129.674026,129.674026 C 144.504013,129.674026 166.749008,151.919022 166.749008,166.749008"
+              class="msa jpn" stroke-opacity="0.49803922" stroke="#ffe300"/>
+        <path fill="none" stroke-width="0.002609259"
+              d="M 281.975342,281.975342 C 221.054810,281.975342 129.674026,190.594559 129.674026,129.674026"
+              class="fil msa" stroke-opacity="0.49803922" stroke="#fd00e6"/>
+        <path fill="none" stroke-width="0.0012412173"
+              d="M 281.975342,281.975342 C 254.618591,281.975342 213.583435,240.940186 213.583435,213.583435"
+              class="fil spa" stroke-opacity="0.49803922" stroke="#ff4f00"/>
+        <path fill="none" stroke-width="0.015739614"
+              d="M 281.975342,281.975342 C 179.523010,281.975342 25.844543,128.296860 25.844542,25.844542"
+              class="fil eng" stroke-opacity="0.49803922" stroke="#ff2800"/>
+        <path fill="none" stroke-width="5.325302E-4"
+              d="M 788.652344,788.652344 C 483.529175,788.652344 25.844543,330.967682 25.844542,25.844542"
+              class="vie eng" stroke-opacity="0.49803922" stroke="#ff2800"/>
+        <path fill="none" stroke-width="0.75801796"
+              d="M 755.188293,755.188293 C 893.418640,755.188293 1100.764282,962.533875 1100.764282,1100.764282"
+              class="rus ukr" stroke-opacity="0.49803922" stroke="#ff5800"/>
+        <path fill="none" stroke-width="0.0013405127"
+              d="M 755.188293,755.188293 C 463.450745,755.188293 25.844543,317.582062 25.844542,25.844542"
+              class="rus eng" stroke-opacity="0.49803922" stroke="#ff2800"/>
+        <path fill="none" stroke-width="0.006707003"
+              d="M 1100.764282,1100.764282 C 962.533875,1100.764282 755.188293,893.418640 755.188293,755.188293"
+              class="ukr rus" stroke-opacity="0.49803922" stroke="#ff5800"/>
+        <path fill="none" stroke-width="6.067878E-4"
+              d="M 810.648987,810.648987 C 496.727234,810.648987 25.844543,339.766327 25.844542,25.844542"
+              class="pol eng" stroke-opacity="0.49803922" stroke="#ff2800"/>
+        <path fill="none" stroke-width="5.602826E-5"
+              d="M 829.864197,829.864197 C 508.256287,829.864197 25.844543,347.452423 25.844542,25.844542"
+              class="hbs eng" stroke-opacity="0.49803922" stroke="#ff2800"/>
+        <path fill="none" stroke-width="4.0814317E-5"
+              d="M 847.566711,847.566711 C 518.877869,847.566711 25.844543,354.533417 25.844542,25.844542"
+              class="ces eng" stroke-opacity="0.49803922" stroke="#ff2800"/>
+        <path fill="none" stroke-width="2.8832385E-4"
+              d="M 213.583435,213.583435 C 180.019684,213.583435 129.674026,163.237778 129.674026,129.674026"
+              class="spa msa" stroke-opacity="0.49803922" stroke="#fd00e6"/>
+        <path fill="none" stroke-width="0.019865194"
+              d="M 213.583435,213.583435 C 240.940186,213.583435 281.975342,254.618591 281.975342,281.975342"
+              class="spa fil" stroke-opacity="0.49803922" stroke="#fd00e6"/>
+        <path fill="none" stroke-width="0.0066412087"
+              d="M 213.583435,213.583435 C 254.755219,213.583435 316.512878,275.341125 316.512878,316.512878"
+              class="spa por" stroke-opacity="0.49803922" stroke="#ff4f00"/>
+        <path fill="none" stroke-width="0.01959343"
+              d="M 213.583435,213.583435 C 270.717285,213.583435 356.418091,299.284241 356.418091,356.418091"
+              class="spa fra" stroke-opacity="0.49803922" stroke="#ff4f00"/>
+        <path fill="none" stroke-width="0.030395223"
+              d="M 213.583435,213.583435 C 366.498535,213.583435 595.871155,442.956085 595.871155,595.871155"
+              class="spa ita" stroke-opacity="0.49803922" stroke="#ff4f00"/>
+        <path fill="none" stroke-width="0.04266072"
+              d="M 213.583435,213.583435 C 138.487885,213.583435 25.844540,100.940094 25.844542,25.844542"
+              class="spa eng" stroke-opacity="0.49803922" stroke="#ff2800"/>
+        <path fill="none" stroke-width="0.0037968287"
+              d="M 316.512878,316.512878 C 241.777344,316.512878 129.674026,204.409561 129.674026,129.674026"
+              class="por msa" stroke-opacity="0.49803922" stroke="#fd00e6"/>
+        <path fill="none" stroke-width="0.0070870495"
+              d="M 316.512878,316.512878 C 275.341125,316.512878 213.583435,254.755219 213.583435,213.583435"
+              class="por spa" stroke-opacity="0.49803922" stroke="#ff4f00"/>
+        <path fill="none" stroke-width="0.045652173"
+              d="M 316.512878,316.512878 C 200.245544,316.512878 25.844540,142.111877 25.844542,25.844542"
+              class="por eng" stroke-opacity="0.49803922" stroke="#ff2800"/>
+        <path fill="none" stroke-width="0.69599056"
+              d="M 356.418091,356.418091 C 460.197693,356.418091 615.867065,512.087524 615.867065,615.867065"
+              class="fra hat" stroke-opacity="0.49803922" stroke="#00fffe"/>
+        <path fill="none" stroke-width="0.0013838666"
+              d="M 356.418091,356.418091 C 299.284241,356.418091 213.583435,270.717285 213.583435,213.583435"
+              class="fra spa" stroke-opacity="0.49803922" stroke="#ff4f00"/>
+        <path fill="none" stroke-width="0.006766731"
+              d="M 356.418091,356.418091 C 224.188660,356.418091 25.844543,158.073959 25.844542,25.844542"
+              class="fra eng" stroke-opacity="0.49803922" stroke="#ff2800"/>
+        <path fill="none" stroke-width="0.003907932"
+              d="M 356.418091,356.418091 C 477.174744,356.418091 658.309753,537.553040 658.309753,658.309753"
+              class="fra ara" stroke-opacity="0.49803922" stroke="#00ff05"/>
+        <path fill="none" stroke-width="9.4473E-4"
+              d="M 595.871155,595.871155 C 442.956085,595.871155 213.583435,366.498535 213.583435,213.583435"
+              class="ita spa" stroke-opacity="0.49803922" stroke="#ff4f00"/>
+        <path fill="none" stroke-width="0.0033498956"
+              d="M 595.871155,595.871155 C 367.860474,595.871155 25.844536,253.855194 25.844542,25.844542"
+              class="ita eng" stroke-opacity="0.49803922" stroke="#ff2800"/>
+        <path fill="none" stroke-width="6.787758E-5"
+              d="M 865.513306,865.513306 C 529.645874,865.513306 25.844543,361.712036 25.844542,25.844542"
+              class="ron eng" stroke-opacity="0.49803922" stroke="#ff2800"/>
+        <path fill="none" stroke-width="0.0"
+              d="M 909.712646,909.712646 C 556.165405,909.712646 25.844543,379.391785 25.844542,25.844542"
+              class="hin eng" stroke-opacity="0.49803922" stroke="#ff2800"/>
+        <path fill="none" stroke-width="3.1319956E-4"
+              d="M 575.728699,575.728699 C 355.775024,575.728699 25.844536,245.798187 25.844542,25.844542"
+              class="ell eng" stroke-opacity="0.49803922" stroke="#ff2800"/>
+        <path fill="none" stroke-width="7.530792E-4"
+              d="M 575.728699,575.728699 C 412.136841,575.728699 166.749023,330.340881 166.749008,166.749008"
+              class="ell jpn" stroke-opacity="0.49803922" stroke="#ffe300"/>
+        <path fill="none" stroke-width="0.7864375"
+              d="M 25.844542,25.844542 C 261.853546,25.844536 615.867065,379.858032 615.867065,615.867065"
+              class="eng hat" stroke-opacity="0.49803922" stroke="#00fffe"/>
+        <path fill="none" stroke-width="0.1469063"
+              d="M 25.844542,25.844542 C 169.800461,25.844543 385.734344,241.778412 385.734344,385.734344"
+              class="eng tha" stroke-opacity="0.49803922" stroke="#6200fe"/>
+        <path fill="none" stroke-width="0.28694892"
+              d="M 25.844542,25.844542 C 208.365402,25.844543 482.146667,299.625793 482.146667,482.146667"
+              class="eng zho" stroke-opacity="0.49803922" stroke="#bf00fe"/>
+        <path fill="none" stroke-width="0.51129806"
+              d="M 25.844542,25.844542 C 67.376335,25.844542 129.674026,88.142227 129.674026,129.674026"
+              class="eng msa" stroke-opacity="0.49803922" stroke="#fd00e6"/>
+        <path fill="none" stroke-width="1.3790563"
+              d="M 25.844542,25.844542 C 128.296860,25.844543 281.975342,179.523010 281.975342,281.975342"
+              class="eng fil" stroke-opacity="0.49803922" stroke="#fd00e6"/>
+        <path fill="none" stroke-width="0.9117691"
+              d="M 25.844542,25.844542 C 330.967682,25.844543 788.652344,483.529175 788.652344,788.652344"
+              class="eng vie" stroke-opacity="0.49803922" stroke="#fd009e"/>
+        <path fill="none" stroke-width="0.10381061"
+              d="M 25.844542,25.844542 C 317.582062,25.844543 755.188293,463.450745 755.188293,755.188293"
+              class="eng rus" stroke-opacity="0.49803922" stroke="#ff5800"/>
+        <path fill="none" stroke-width="0.90977454"
+              d="M 25.844542,25.844542 C 339.766327,25.844543 810.648987,496.727234 810.648987,810.648987"
+              class="eng pol" stroke-opacity="0.49803922" stroke="#ff5800"/>
+        <path fill="none" stroke-width="0.6466601"
+              d="M 25.844542,25.844542 C 347.452423,25.844543 829.864197,508.256287 829.864197,829.864197"
+              class="eng hbs" stroke-opacity="0.49803922" stroke="#ff5800"/>
+        <path fill="none" stroke-width="0.5383263"
+              d="M 25.844542,25.844542 C 354.533417,25.844543 847.566711,518.877869 847.566711,847.566711"
+              class="eng ces" stroke-opacity="0.49803922" stroke="#ff5800"/>
+        <path fill="none" stroke-width="0.24290623"
+              d="M 25.844542,25.844542 C 100.940094,25.844540 213.583435,138.487885 213.583435,213.583435"
+              class="eng spa" stroke-opacity="0.49803922" stroke="#ff4f00"/>
+        <path fill="none" stroke-width="0.24369538"
+              d="M 25.844542,25.844542 C 142.111877,25.844540 316.512878,200.245544 316.512878,316.512878"
+              class="eng por" stroke-opacity="0.49803922" stroke="#ff4f00"/>
+        <path fill="none" stroke-width="0.5293499"
+              d="M 25.844542,25.844542 C 158.073959,25.844543 356.418091,224.188660 356.418091,356.418091"
+              class="eng fra" stroke-opacity="0.49803922" stroke="#ff4f00"/>
+        <path fill="none" stroke-width="0.5891608"
+              d="M 25.844542,25.844542 C 253.855194,25.844536 595.871155,367.860474 595.871155,595.871155"
+              class="eng ita" stroke-opacity="0.49803922" stroke="#ff4f00"/>
+        <path fill="none" stroke-width="0.45686728"
+              d="M 25.844542,25.844542 C 361.712036,25.844543 865.513306,529.645874 865.513306,865.513306"
+              class="eng ron" stroke-opacity="0.49803922" stroke="#ff4f00"/>
+        <path fill="none" stroke-width="0.98375094"
+              d="M 25.844542,25.844542 C 379.391785,25.844543 909.712646,556.165405 909.712646,909.712646"
+              class="eng hin" stroke-opacity="0.49803922" stroke="#ff3b00"/>
+        <path fill="none" stroke-width="0.22860375"
+              d="M 25.844542,25.844542 C 245.798187,25.844536 575.728699,355.775024 575.728699,575.728699"
+              class="eng ell" stroke-opacity="0.49803922" stroke="#ff3200"/>
+        <path fill="none" stroke-width="0.46971127"
+              d="M 25.844542,25.844542 C 400.136017,25.844543 961.573181,587.281677 961.573181,961.573181"
+              class="eng deu" stroke-opacity="0.49803922" stroke="#ff2800"/>
+        <path fill="none" stroke-width="0.5043119"
+              d="M 25.844542,25.844542 C 296.100494,25.844543 701.484436,431.228455 701.484436,701.484436"
+              class="eng nld" stroke-opacity="0.49803922" stroke="#ff2800"/>
+        <path fill="none" stroke-width="1.1870965"
+              d="M 25.844542,25.844542 C 410.398590,25.844543 987.229675,602.675598 987.229675,987.229675"
+              class="eng afr" stroke-opacity="0.49803922" stroke="#ff2800"/>
+        <path fill="none" stroke-width="0.3200055"
+              d="M 25.844542,25.844542 C 417.245361,25.844543 1004.346680,612.945801 1004.346619,1004.346619"
+              class="eng swe" stroke-opacity="0.49803922" stroke="#ff2800"/>
+        <path fill="none" stroke-width="0.5698789"
+              d="M 25.844542,25.844542 C 424.131195,25.844543 1021.561096,623.274475 1021.561096,1021.561096"
+              class="eng hun" stroke-opacity="0.49803922" stroke="#ff9500"/>
+        <path fill="none" stroke-width="0.6216669"
+              d="M 25.844542,25.844542 C 432.110046,25.844543 1041.508301,635.242798 1041.508301,1041.508301"
+              class="eng tam" stroke-opacity="0.49803922" stroke="#ffaf00"/>
+        <path fill="none" stroke-width="0.08588998"
+              d="M 25.844542,25.844542 C 304.391663,25.844543 722.212341,443.665222 722.212341,722.212341"
+              class="eng tur" stroke-opacity="0.49803922" stroke="#ffe300"/>
+        <path fill="none" stroke-width="0.054314807"
+              d="M 25.844542,25.844542 C 118.619843,25.844543 257.782776,165.007477 257.782776,257.782776"
+              class="eng kor" stroke-opacity="0.49803922" stroke="#ffe300"/>
+        <path fill="none" stroke-width="0.009880217"
+              d="M 25.844542,25.844542 C 82.206329,25.844543 166.749008,110.387222 166.749008,166.749008"
+              class="eng jpn" stroke-opacity="0.49803922" stroke="#ffe300"/>
+        <path fill="none" stroke-width="1.4289145"
+              d="M 25.844542,25.844542 C 440.772156,25.844543 1063.163452,648.235840 1063.163452,1063.163452"
+              class="eng swa" stroke-opacity="0.49803922" stroke="#3dfd03"/>
+        <path fill="none" stroke-width="0.28255698"
+              d="M 25.844542,25.844542 C 278.830597,25.844536 658.309753,405.323669 658.309753,658.309753"
+              class="eng ara" stroke-opacity="0.49803922" stroke="#00ff05"/>
+        <path fill="none" stroke-width="0.3383824"
+              d="M 25.844542,25.844542 C 448.341125,25.844543 1082.085938,659.589355 1082.085938,1082.085938"
+              class="eng heb" stroke-opacity="0.49803922" stroke="#00ff05"/>
+        <path fill="none" stroke-width="0.0026987884"
+              d="M 961.573181,961.573181 C 587.281677,961.573181 25.844543,400.136017 25.844542,25.844542"
+              class="deu eng" stroke-opacity="0.49803922" stroke="#ff2800"/>
+        <path fill="none" stroke-width="0.021903984"
+              d="M 701.484436,701.484436 C 431.228455,701.484436 25.844543,296.100494 25.844542,25.844542"
+              class="nld eng" stroke-opacity="0.49803922" stroke="#ff2800"/>
+        <path fill="none" stroke-width="0.004864664"
+              d="M 701.484436,701.484436 C 709.775574,701.484436 722.212341,713.921204 722.212341,722.212341"
+              class="nld tur" stroke-opacity="0.49803922" stroke="#ffe300"/>
+        <path fill="none" stroke-width="1.9602578E-5"
+              d="M 987.229675,987.229675 C 602.675598,987.229675 25.844543,410.398590 25.844542,25.844542"
+              class="afr eng" stroke-opacity="0.49803922" stroke="#ff2800"/>
+        <path fill="none" stroke-width="6.294094E-4"
+              d="M 1004.346619,1004.346619 C 612.945801,1004.346680 25.844543,417.245361 25.844542,25.844542"
+              class="swe eng" stroke-opacity="0.49803922" stroke="#ff2800"/>
+        <path fill="none" stroke-width="1.5337348E-4"
+              d="M 1021.561096,1021.561096 C 623.274475,1021.561096 25.844543,424.131195 25.844542,25.844542"
+              class="hun eng" stroke-opacity="0.49803922" stroke="#ff2800"/>
+        <path fill="none" stroke-width="3.5401667E-5"
+              d="M 1041.508301,1041.508301 C 635.242798,1041.508301 25.844543,432.110046 25.844542,25.844542"
+              class="tam eng" stroke-opacity="0.49803922" stroke="#ff2800"/>
+        <path fill="none" stroke-width="0.0013862476"
+              d="M 722.212341,722.212341 C 443.665222,722.212341 25.844543,304.391663 25.844542,25.844542"
+              class="tur eng" stroke-opacity="0.49803922" stroke="#ff2800"/>
+        <path fill="none" stroke-width="0.0018408678"
+              d="M 722.212341,722.212341 C 713.921204,722.212341 701.484436,709.775574 701.484436,701.484436"
+              class="tur nld" stroke-opacity="0.49803922" stroke="#ff2800"/>
+        <path fill="none" stroke-width="0.01285149"
+              d="M 257.782776,257.782776 C 308.963379,257.782776 385.734344,334.553741 385.734344,385.734344"
+              class="kor tha" stroke-opacity="0.49803922" stroke="#6200fe"/>
+        <path fill="none" stroke-width="0.052249715"
+              d="M 257.782776,257.782776 C 347.528320,257.782776 482.146667,392.401123 482.146667,482.146667"
+              class="kor zho" stroke-opacity="0.49803922" stroke="#bf00fe"/>
+        <path fill="none" stroke-width="0.0019046015"
+              d="M 257.782776,257.782776 C 206.539276,257.782776 129.674026,180.917526 129.674026,129.674026"
+              class="kor msa" stroke-opacity="0.49803922" stroke="#fd00e6"/>
+        <path fill="none" stroke-width="0.0016154135"
+              d="M 257.782776,257.782776 C 165.007477,257.782776 25.844543,118.619843 25.844542,25.844542"
+              class="kor eng" stroke-opacity="0.49803922" stroke="#ff2800"/>
+        <path fill="none" stroke-width="0.0039430326"
+              d="M 257.782776,257.782776 C 221.369263,257.782776 166.749008,203.162521 166.749008,166.749008"
+              class="kor jpn" stroke-opacity="0.49803922" stroke="#ffe300"/>
+        <path fill="none" stroke-width="0.0030460684"
+              d="M 166.749008,166.749008 C 254.343155,166.749008 385.734344,298.140228 385.734344,385.734344"
+              class="jpn tha" stroke-opacity="0.49803922" stroke="#6200fe"/>
+        <path fill="none" stroke-width="0.093007885"
+              d="M 166.749008,166.749008 C 292.908081,166.749008 482.146667,355.987610 482.146667,482.146667"
+              class="jpn zho" stroke-opacity="0.49803922" stroke="#bf00fe"/>
+        <path fill="none" stroke-width="4.115157E-4"
+              d="M 166.749008,166.749008 C 151.919022,166.749008 129.674026,144.504013 129.674026,129.674026"
+              class="jpn msa" stroke-opacity="0.49803922" stroke="#fd00e6"/>
+        <path fill="none" stroke-width="0.14620087"
+              d="M 166.749008,166.749008 C 330.340881,166.749023 575.728699,412.136841 575.728699,575.728699"
+              class="jpn ell" stroke-opacity="0.49803922" stroke="#ff3200"/>
+        <path fill="none" stroke-width="0.0028463206"
+              d="M 166.749008,166.749008 C 110.387222,166.749008 25.844543,82.206329 25.844542,25.844542"
+              class="jpn eng" stroke-opacity="0.49803922" stroke="#ff2800"/>
+        <path fill="none" stroke-width="0.03793941"
+              d="M 166.749008,166.749008 C 203.162521,166.749008 257.782776,221.369263 257.782776,257.782776"
+              class="jpn kor" stroke-opacity="0.49803922" stroke="#ffe300"/>
+        <path fill="none" stroke-width="2.3353241E-4"
+              d="M 1063.163452,1063.163452 C 648.235840,1063.163452 25.844543,440.772156 25.844542,25.844542"
+              class="swa eng" stroke-opacity="0.49803922" stroke="#ff2800"/>
+        <path fill="none" stroke-width="0.011847878"
+              d="M 658.309753,658.309753 C 537.553040,658.309753 356.418091,477.174744 356.418091,356.418091"
+              class="ara fra" stroke-opacity="0.49803922" stroke="#ff4f00"/>
+        <path fill="none" stroke-width="0.010880901"
+              d="M 658.309753,658.309753 C 405.323669,658.309753 25.844536,278.830597 25.844542,25.844542"
+              class="ara eng" stroke-opacity="0.49803922" stroke="#ff2800"/>
+        <path fill="none" stroke-width="4.856758E-5"
+              d="M 1082.085938,1082.085938 C 659.589355,1082.085938 25.844543,448.341125 25.844542,25.844542"
+              class="heb eng" stroke-opacity="0.49803922" stroke="#ff2800"/>
+    </g>
+    <g id="node-labels-outline">
+        <text stroke-linecap="round" font-size="10" x="615.86707" y="617.7108"
+              fill="#00fffe" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="hat" stroke="#000000"
+              stroke-opacity="1.0" stroke-width="0.08930716px">
+            Haitian
+        </text>
+        <text stroke-linecap="round" font-size="10" x="1119.4427" y="1121.654"
+              fill="#0090fe" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="que" stroke="#000000"
+              stroke-opacity="1.0" stroke-width="0.08930716px">
+            Quechua
+        </text>
+        <text stroke-linecap="round" font-size="14" x="385.73434" y="388.3401"
+              fill="#6200fe" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="tha" stroke="#000000"
+              stroke-opacity="1.0" stroke-width="0.12503003px">
+            Thai
+        </text>
+        <text stroke-linecap="round" font-size="10" x="1136.6085" y="1138.906"
+              fill="#6200fe" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="zha" stroke="#000000"
+              stroke-opacity="1.0" stroke-width="0.08930716px">
+            Zhuang
+        </text>
+        <text stroke-linecap="round" font-size="100" x="482.14667" y="500.75916"
+              fill="#bf00fe" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="zho" stroke="#000000"
+              stroke-opacity="1.0" stroke-width="0.8930716px">
+            Chinese
+        </text>
+        <text stroke-linecap="round" font-size="12" x="1155.8237" y="1157.9972"
+              fill="#bf00fe" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="mya" stroke="#000000"
+              stroke-opacity="1.0" stroke-width="0.107168585px">
+            Burmese
+        </text>
+        <text stroke-linecap="round" font-size="27" x="129.67403" y="135.80302"
+              fill="#fd00e6" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="msa" stroke="#000000"
+              stroke-opacity="1.0" stroke-width="0.24112932px">
+            Malay
+        </text>
+        <text stroke-linecap="round" font-size="15" x="281.97534" y="285.38034"
+              fill="#fd00e6" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="fil" stroke="#000000"
+              stroke-opacity="1.0" stroke-width="0.13396074px">
+            Filipino
+        </text>
+        <text stroke-linecap="round" font-size="14" x="1178.2595" y="1180.7953"
+              fill="#fd00e6" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="jav" stroke="#000000"
+              stroke-opacity="1.0" stroke-width="0.12503003px">
+            Javanese
+        </text>
+        <text stroke-linecap="round" font-size="11" x="1199.4756" y="1201.523"
+              fill="#fd00e6" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="sun" stroke="#000000"
+              stroke-opacity="1.0" stroke-width="0.09823787px">
+            Sundanese
+        </text>
+        <text stroke-linecap="round" font-size="11" x="1217.7637" y="1219.811"
+              fill="#fd00e6" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="ceb" stroke="#000000"
+              stroke-opacity="1.0" stroke-width="0.09823787px">
+            Cebuano
+        </text>
+        <text stroke-linecap="round" font-size="11" x="1235.7101" y="1238.2373"
+              fill="#fd00e6" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="mlg" stroke="#000000"
+              stroke-opacity="1.0" stroke-width="0.09823787px">
+            Malagasy
+        </text>
+        <text stroke-linecap="round" font-size="10" x="1253.1686" y="1255.0273"
+              fill="#fd00e6" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="ilo" stroke="#000000"
+              stroke-opacity="1.0" stroke-width="0.08930716px">
+            Iloko
+        </text>
+        <text stroke-linecap="round" font-size="14" x="788.65234" y="791.2336"
+              fill="#fd009e" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="vie" stroke="#000000"
+              stroke-opacity="1.0" stroke-width="0.12503003px">
+            Vietnamese
+        </text>
+        <text stroke-linecap="round" font-size="10" x="1270.5295" y="1272.3907"
+              fill="#fd009e" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="khm" stroke="#000000"
+              stroke-opacity="1.0" stroke-width="0.08930716px">
+            Central Khmer
+        </text>
+        <text stroke-linecap="round" font-size="25" x="755.1883" y="759.79767"
+              fill="#ff5800" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="rus" stroke="#000000"
+              stroke-opacity="1.0" stroke-width="0.2232679px">
+            Russian
+        </text>
+        <text stroke-linecap="round" font-size="12" x="1100.7643" y="1102.9993"
+              fill="#ff5800" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="ukr" stroke="#000000"
+              stroke-opacity="1.0" stroke-width="0.107168585px">
+            Ukrainian
+        </text>
+        <text stroke-linecap="round" font-size="12" x="810.649" y="812.8825"
+              fill="#ff5800" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="pol" stroke="#000000"
+              stroke-opacity="1.0" stroke-width="0.107168585px">
+            Polish
+        </text>
+        <text stroke-linecap="round" font-size="11" x="829.8642" y="831.91156"
+              fill="#ff5800" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="hbs" stroke="#000000"
+              stroke-opacity="1.0" stroke-width="0.09823787px">
+            Serbo-Croatian
+        </text>
+        <text stroke-linecap="round" font-size="10" x="1287.988" y="1290.2855"
+              fill="#ff5800" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="bul" stroke="#000000"
+              stroke-opacity="1.0" stroke-width="0.08930716px">
+            Bulgarian
+        </text>
+        <text stroke-linecap="round" font-size="10" x="847.5667" y="849.428"
+              fill="#ff5800" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="ces" stroke="#000000"
+              stroke-opacity="1.0" stroke-width="0.08930716px">
+            Czech
+        </text>
+        <text stroke-linecap="round" font-size="38" x="213.58344" y="222.20944"
+              fill="#ff4f00" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="spa" stroke="#000000"
+              stroke-opacity="1.0" stroke-width="0.3393672px">
+            Spanish
+        </text>
+        <text stroke-linecap="round" font-size="26" x="316.51288" y="322.35638"
+              fill="#ff4f00" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="por" stroke="#000000"
+              stroke-opacity="1.0" stroke-width="0.23219861px">
+            Portuguese
+        </text>
+        <text stroke-linecap="round" font-size="21" x="356.4181" y="360.32147"
+              fill="#ff4f00" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="fra" stroke="#000000"
+              stroke-opacity="1.0" stroke-width="0.18754503px">
+            French
+        </text>
+        <text stroke-linecap="round" font-size="13" x="595.87115" y="598.2908"
+              fill="#ff4f00" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="ita" stroke="#000000"
+              stroke-opacity="1.0" stroke-width="0.116099305px">
+            Italian
+        </text>
+        <text stroke-linecap="round" font-size="11" x="865.5133" y="867.54144"
+              fill="#ff4f00" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="ron" stroke="#000000"
+              stroke-opacity="1.0" stroke-width="0.09823787px">
+            Romanian
+        </text>
+        <text stroke-linecap="round" font-size="16" x="1309.7897" y="1312.7397"
+              fill="#ff4500" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="fas" stroke="#000000"
+              stroke-opacity="1.0" stroke-width="0.14289145px">
+            Persian
+        </text>
+        <text stroke-linecap="round" font-size="11" x="1332.4695" y="1334.5168"
+              fill="#ff4500" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="kur" stroke="#000000"
+              stroke-opacity="1.0" stroke-width="0.09823787px">
+            Kurdish
+        </text>
+        <text stroke-linecap="round" font-size="11" x="1351.1968" y="1353.2441"
+              fill="#ff4500" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="pus" stroke="#000000"
+              stroke-opacity="1.0" stroke-width="0.09823787px">
+            Pushto
+        </text>
+        <text stroke-linecap="round" font-size="41" x="909.71265" y="917.3335"
+              fill="#ff3b00" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="hin" stroke="#000000"
+              stroke-opacity="1.0" stroke-width="0.36615935px">
+            Hindi
+        </text>
+        <text stroke-linecap="round" font-size="23" x="1379.6835" y="1384.9678"
+              fill="#ff3b00" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="ben" stroke="#000000"
+              stroke-opacity="1.0" stroke-width="0.20540646px">
+            Bengali
+        </text>
+        <text stroke-linecap="round" font-size="15" x="1411.9762" y="1415.4205"
+              fill="#ff3b00" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="pan" stroke="#000000"
+              stroke-opacity="1.0" stroke-width="0.13396074px">
+            Panjabi
+        </text>
+        <text stroke-linecap="round" font-size="15" x="1437.4375" y="1440.2294"
+              fill="#ff3b00" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="mar" stroke="#000000"
+              stroke-opacity="1.0" stroke-width="0.13396074px">
+            Marathi
+        </text>
+        <text stroke-linecap="round" font-size="13" x="1460.7517" y="1463.1714"
+              fill="#ff3b00" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="lah" stroke="#000000"
+              stroke-opacity="1.0" stroke-width="0.116099305px">
+            Lahnda
+        </text>
+        <text stroke-linecap="round" font-size="13" x="1482.6019" y="1485.0232"
+              fill="#ff3b00" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="urd" stroke="#000000"
+              stroke-opacity="1.0" stroke-width="0.116099305px">
+            Urdu
+        </text>
+        <text stroke-linecap="round" font-size="12" x="1503.769" y="1506.5035"
+              fill="#ff3b00" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="guj" stroke="#000000"
+              stroke-opacity="1.0" stroke-width="0.107168585px">
+            Gujarati
+        </text>
+        <text stroke-linecap="round" font-size="12" x="1524.0092" y="1526.2427"
+              fill="#ff3b00" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="snd" stroke="#000000"
+              stroke-opacity="1.0" stroke-width="0.107168585px">
+            Sindhi
+        </text>
+        <text stroke-linecap="round" font-size="11" x="1543.5171" y="1545.9949"
+              fill="#ff3b00" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="ori" stroke="#000000"
+              stroke-opacity="1.0" stroke-width="0.09823787px">
+            Oriya
+        </text>
+        <text stroke-linecap="round" font-size="11" x="1562.4883" y="1564.9852"
+              fill="#ff3b00" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="nep" stroke="#000000"
+              stroke-opacity="1.0" stroke-width="0.09823787px">
+            Nepali
+        </text>
+        <text stroke-linecap="round" font-size="11" x="1580.8739" y="1582.9213"
+              fill="#ff3b00" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="sin" stroke="#000000"
+              stroke-opacity="1.0" stroke-width="0.09823787px">
+            Sinhala
+        </text>
+        <text stroke-linecap="round" font-size="10" x="1598.43" y="1600.2413"
+              fill="#ff3b00" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="asm" stroke="#000000"
+              stroke-opacity="1.0" stroke-width="0.08930716px">
+            Assamese
+        </text>
+        <text stroke-linecap="round" font-size="10" x="575.7287" y="578.0337"
+              fill="#ff3200" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="ell" stroke="#000000"
+              stroke-opacity="1.0" stroke-width="0.08930716px">
+            Greek (Modern)
+        </text>
+        <text stroke-linecap="round" font-size="96" x="25.844542" y="47.900543"
+              fill="#ff2800" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="eng" stroke="#000000"
+              stroke-opacity="1.0" stroke-width="0.8573487px">
+            English
+        </text>
+        <text stroke-linecap="round" font-size="20" x="961.5732" y="965.23566"
+              fill="#ff2800" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="deu" stroke="#000000"
+              stroke-opacity="1.0" stroke-width="0.17861432px">
+            German
+        </text>
+        <text stroke-linecap="round" font-size="11" x="701.48444" y="703.5318"
+              fill="#ff2800" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="nld" stroke="#000000"
+              stroke-opacity="1.0" stroke-width="0.09823787px">
+            Dutch
+        </text>
+        <text stroke-linecap="round" font-size="10" x="987.2297" y="989.09094"
+              fill="#ff2800" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="afr" stroke="#000000"
+              stroke-opacity="1.0" stroke-width="0.08930716px">
+            Afrikaans
+        </text>
+        <text stroke-linecap="round" font-size="10" x="1615.6448" y="1617.4885"
+              fill="#ff2800" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="bar" stroke="#000000"
+              stroke-opacity="1.0" stroke-width="0.08930716px">
+            Bavarian
+        </text>
+        <text stroke-linecap="round" font-size="10" x="1632.7129" y="1634.5442"
+              fill="#ff2800" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="nds" stroke="#000000"
+              stroke-opacity="1.0" stroke-width="0.08930716px">
+            Low German
+        </text>
+        <text stroke-linecap="round" font-size="10" x="1004.3466" y="1006.2079"
+              fill="#ff2800" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="swe" stroke="#000000"
+              stroke-opacity="1.0" stroke-width="0.08930716px">
+            Swedish
+        </text>
+        <text stroke-linecap="round" font-size="10" x="1649.9762" y="1651.8374"
+              fill="#ff1e00" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="sqi" stroke="#000000"
+              stroke-opacity="1.0" stroke-width="0.08930716px">
+            Albanian
+        </text>
+        <text stroke-linecap="round" font-size="10" x="1021.5611" y="1023.84106"
+              fill="#ff9500" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="hun" stroke="#000000"
+              stroke-opacity="1.0" stroke-width="0.08930716px">
+            Hungarian
+        </text>
+        <text stroke-linecap="round" font-size="14" x="1670.6553" y="1673.8718"
+              fill="#ffaf00" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="tel" stroke="#000000"
+              stroke-opacity="1.0" stroke-width="0.12503003px">
+            Telugu
+        </text>
+        <text stroke-linecap="round" font-size="13" x="1041.5083" y="1043.928"
+              fill="#ffaf00" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="tam" stroke="#000000"
+              stroke-opacity="1.0" stroke-width="0.116099305px">
+            Tamil
+        </text>
+        <text stroke-linecap="round" font-size="12" x="1692.8472" y="1695.0807"
+              fill="#ffaf00" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="kan" stroke="#000000"
+              stroke-opacity="1.0" stroke-width="0.107168585px">
+            Kannada
+        </text>
+        <text stroke-linecap="round" font-size="12" x="1712.9408" y="1715.6648"
+              fill="#ffaf00" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="mal" stroke="#000000"
+              stroke-opacity="1.0" stroke-width="0.107168585px">
+            Malayalam
+        </text>
+        <text stroke-linecap="round" font-size="13" x="722.21234" y="724.63196"
+              fill="#ffe300" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="tur" stroke="#000000"
+              stroke-opacity="1.0" stroke-width="0.116099305px">
+            Turkish
+        </text>
+        <text stroke-linecap="round" font-size="11" x="1732.0583" y="1734.5842"
+              fill="#ffe300" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="aze" stroke="#000000"
+              stroke-opacity="1.0" stroke-width="0.09823787px">
+            Azerbaijani
+        </text>
+        <text stroke-linecap="round" font-size="11" x="1750.5417" y="1752.5905"
+              fill="#ffe300" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="uzb" stroke="#000000"
+              stroke-opacity="1.0" stroke-width="0.09823787px">
+            Uzbek
+        </text>
+        <text stroke-linecap="round" font-size="10" x="1768.293" y="1770.1542"
+              fill="#ffe300" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="kaz" stroke="#000000"
+              stroke-opacity="1.0" stroke-width="0.08930716px">
+            Kazakh
+        </text>
+        <text stroke-linecap="round" font-size="10" x="1785.3611" y="1787.6586"
+              fill="#ffe300" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="uig" stroke="#000000"
+              stroke-opacity="1.0" stroke-width="0.08930716px">
+            Uighur
+        </text>
+        <text stroke-linecap="round" font-size="14" x="257.78278" y="260.31854"
+              fill="#ffe300" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="kor" stroke="#000000"
+              stroke-opacity="1.0" stroke-width="0.12503003px">
+            Korean
+        </text>
+        <text stroke-linecap="round" font-size="17" x="166.74901" y="170.52301"
+              fill="#ffe300" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="jpn" stroke="#000000"
+              stroke-opacity="1.0" stroke-width="0.15182216px">
+            Japanese
+        </text>
+        <text stroke-linecap="round" font-size="12" x="1063.1635" y="1065.397"
+              fill="#3dfd03" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="swa" stroke="#000000"
+              stroke-opacity="1.0" stroke-width="0.107168585px">
+            Swahili
+        </text>
+        <text stroke-linecap="round" font-size="11" x="1803.1124" y="1805.1598"
+              fill="#3dfd03" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="zul" stroke="#000000"
+              stroke-opacity="1.0" stroke-width="0.09823787px">
+            Zulu
+        </text>
+        <text stroke-linecap="round" font-size="11" x="1821.5958" y="1824.123"
+              fill="#3dfd03" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="lin" stroke="#000000"
+              stroke-opacity="1.0" stroke-width="0.09823787px">
+            Lingala
+        </text>
+        <text stroke-linecap="round" font-size="11" x="1840.0303" y="1842.0776"
+              fill="#3dfd03" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="yor" stroke="#000000"
+              stroke-opacity="1.0" stroke-width="0.09823787px">
+            Yoruba
+        </text>
+        <text stroke-linecap="round" font-size="11" x="1858.3182" y="1860.8455"
+              fill="#3dfd03" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="ibo" stroke="#000000"
+              stroke-opacity="1.0" stroke-width="0.09823787px">
+            Igbo
+        </text>
+        <text stroke-linecap="round" font-size="11" x="1876.3136" y="1878.361"
+              fill="#3dfd03" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="aka" stroke="#000000"
+              stroke-opacity="1.0" stroke-width="0.09823787px">
+            Akan
+        </text>
+        <text stroke-linecap="round" font-size="10" x="1893.8696" y="1895.7308"
+              fill="#3dfd03" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="ful" stroke="#000000"
+              stroke-opacity="1.0" stroke-width="0.08930716px">
+            Fulah
+        </text>
+        <text stroke-linecap="round" font-size="10" x="1911.0844" y="1913.3544"
+              fill="#3dfd03" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="kin" stroke="#000000"
+              stroke-opacity="1.0" stroke-width="0.08930716px">
+            Kinyarwanda
+        </text>
+        <text stroke-linecap="round" font-size="10" x="1928.1525" y="1930.0137"
+              fill="#3dfd03" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="lug" stroke="#000000"
+              stroke-opacity="1.0" stroke-width="0.08930716px">
+            Ganda
+        </text>
+        <text stroke-linecap="round" font-size="40" x="658.30975" y="665.75476"
+              fill="#00ff05" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="ara" stroke="#000000"
+              stroke-opacity="1.0" stroke-width="0.35722864px">
+            Arabic
+        </text>
+        <text stroke-linecap="round" font-size="11" x="1945.855" y="1947.9023"
+              fill="#00ff05" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="amh" stroke="#000000"
+              stroke-opacity="1.0" stroke-width="0.09823787px">
+            Amharic
+        </text>
+        <text stroke-linecap="round" font-size="10" x="1082.0859" y="1083.9447"
+              fill="#00ff05" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="heb" stroke="#000000"
+              stroke-opacity="1.0" stroke-width="0.08930716px">
+            Hebrew
+        </text>
+        <text stroke-linecap="round" font-size="11" x="1964.3381" y="1966.3511"
+              fill="#00ff05" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="orm" stroke="#000000"
+              stroke-opacity="1.0" stroke-width="0.09823787px">
+            Oromo
+        </text>
+        <text stroke-linecap="round" font-size="10" x="1982.2848" y="1984.146"
+              fill="#00ff05" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="som" stroke="#000000"
+              stroke-opacity="1.0" stroke-width="0.08930716px">
+            Somali
+        </text>
+        <text stroke-linecap="round" font-size="12" x="2000.8657" y="2003.0392"
+              fill="#00ff05" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="hau" stroke="#000000"
+              stroke-opacity="1.0" stroke-width="0.107168585px">
+            Hausa
+        </text>
+    </g>
+    <g id="node-labels">
+        <text font-size="10" x="615.86707" y="617.7108" fill="#00fffe"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="hat">
+            Haitian
+        </text>
+        <text font-size="10" x="1119.4427" y="1121.654" fill="#0090fe"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="que">
+            Quechua
+        </text>
+        <text font-size="14" x="385.73434" y="388.3401" fill="#6200fe"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="tha">
+            Thai
+        </text>
+        <text font-size="10" x="1136.6085" y="1138.906" fill="#6200fe"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="zha">
+            Zhuang
+        </text>
+        <text font-size="100" x="482.14667" y="500.75916" fill="#bf00fe"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="zho">
+            Chinese
+        </text>
+        <text font-size="12" x="1155.8237" y="1157.9972" fill="#bf00fe"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="mya">
+            Burmese
+        </text>
+        <text font-size="27" x="129.67403" y="135.80302" fill="#fd00e6"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="msa">
+            Malay
+        </text>
+        <text font-size="15" x="281.97534" y="285.38034" fill="#fd00e6"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="fil">
+            Filipino
+        </text>
+        <text font-size="14" x="1178.2595" y="1180.7953" fill="#fd00e6"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="jav">
+            Javanese
+        </text>
+        <text font-size="11" x="1199.4756" y="1201.523" fill="#fd00e6"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="sun">
+            Sundanese
+        </text>
+        <text font-size="11" x="1217.7637" y="1219.811" fill="#fd00e6"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="ceb">
+            Cebuano
+        </text>
+        <text font-size="11" x="1235.7101" y="1238.2373" fill="#fd00e6"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="mlg">
+            Malagasy
+        </text>
+        <text font-size="10" x="1253.1686" y="1255.0273" fill="#fd00e6"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="ilo">
+            Iloko
+        </text>
+        <text font-size="14" x="788.65234" y="791.2336" fill="#fd009e"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="vie">
+            Vietnamese
+        </text>
+        <text font-size="10" x="1270.5295" y="1272.3907" fill="#fd009e"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="khm">
+            Central Khmer
+        </text>
+        <text font-size="25" x="755.1883" y="759.79767" fill="#ff5800"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="rus">
+            Russian
+        </text>
+        <text font-size="12" x="1100.7643" y="1102.9993" fill="#ff5800"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="ukr">
+            Ukrainian
+        </text>
+        <text font-size="12" x="810.649" y="812.8825" fill="#ff5800"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="pol">
+            Polish
+        </text>
+        <text font-size="11" x="829.8642" y="831.91156" fill="#ff5800"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="hbs">
+            Serbo-Croatian
+        </text>
+        <text font-size="10" x="1287.988" y="1290.2855" fill="#ff5800"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="bul">
+            Bulgarian
+        </text>
+        <text font-size="10" x="847.5667" y="849.428" fill="#ff5800"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="ces">
+            Czech
+        </text>
+        <text font-size="38" x="213.58344" y="222.20944" fill="#ff4f00"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="spa">
+            Spanish
+        </text>
+        <text font-size="26" x="316.51288" y="322.35638" fill="#ff4f00"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="por">
+            Portuguese
+        </text>
+        <text font-size="21" x="356.4181" y="360.32147" fill="#ff4f00"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="fra">
+            French
+        </text>
+        <text font-size="13" x="595.87115" y="598.2908" fill="#ff4f00"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="ita">
+            Italian
+        </text>
+        <text font-size="11" x="865.5133" y="867.54144" fill="#ff4f00"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="ron">
+            Romanian
+        </text>
+        <text font-size="16" x="1309.7897" y="1312.7397" fill="#ff4500"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="fas">
+            Persian
+        </text>
+        <text font-size="11" x="1332.4695" y="1334.5168" fill="#ff4500"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="kur">
+            Kurdish
+        </text>
+        <text font-size="11" x="1351.1968" y="1353.2441" fill="#ff4500"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="pus">
+            Pushto
+        </text>
+        <text font-size="41" x="909.71265" y="917.3335" fill="#ff3b00"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="hin">
+            Hindi
+        </text>
+        <text font-size="23" x="1379.6835" y="1384.9678" fill="#ff3b00"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="ben">
+            Bengali
+        </text>
+        <text font-size="15" x="1411.9762" y="1415.4205" fill="#ff3b00"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="pan">
+            Panjabi
+        </text>
+        <text font-size="15" x="1437.4375" y="1440.2294" fill="#ff3b00"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="mar">
+            Marathi
+        </text>
+        <text font-size="13" x="1460.7517" y="1463.1714" fill="#ff3b00"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="lah">
+            Lahnda
+        </text>
+        <text font-size="13" x="1482.6019" y="1485.0232" fill="#ff3b00"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="urd">
+            Urdu
+        </text>
+        <text font-size="12" x="1503.769" y="1506.5035" fill="#ff3b00"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="guj">
+            Gujarati
+        </text>
+        <text font-size="12" x="1524.0092" y="1526.2427" fill="#ff3b00"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="snd">
+            Sindhi
+        </text>
+        <text font-size="11" x="1543.5171" y="1545.9949" fill="#ff3b00"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="ori">
+            Oriya
+        </text>
+        <text font-size="11" x="1562.4883" y="1564.9852" fill="#ff3b00"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="nep">
+            Nepali
+        </text>
+        <text font-size="11" x="1580.8739" y="1582.9213" fill="#ff3b00"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="sin">
+            Sinhala
+        </text>
+        <text font-size="10" x="1598.43" y="1600.2413" fill="#ff3b00"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="asm">
+            Assamese
+        </text>
+        <text font-size="10" x="575.7287" y="578.0337" fill="#ff3200"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="ell">
+            Greek (Modern)
+        </text>
+        <text font-size="96" x="25.844542" y="47.900543" fill="#ff2800"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="eng">
+            English
+        </text>
+        <text font-size="20" x="961.5732" y="965.23566" fill="#ff2800"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="deu">
+            German
+        </text>
+        <text font-size="11" x="701.48444" y="703.5318" fill="#ff2800"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="nld">
+            Dutch
+        </text>
+        <text font-size="10" x="987.2297" y="989.09094" fill="#ff2800"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="afr">
+            Afrikaans
+        </text>
+        <text font-size="10" x="1615.6448" y="1617.4885" fill="#ff2800"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="bar">
+            Bavarian
+        </text>
+        <text font-size="10" x="1632.7129" y="1634.5442" fill="#ff2800"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="nds">
+            Low German
+        </text>
+        <text font-size="10" x="1004.3466" y="1006.2079" fill="#ff2800"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="swe">
+            Swedish
+        </text>
+        <text font-size="10" x="1649.9762" y="1651.8374" fill="#ff1e00"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="sqi">
+            Albanian
+        </text>
+        <text font-size="10" x="1021.5611" y="1023.84106" fill="#ff9500"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="hun">
+            Hungarian
+        </text>
+        <text font-size="14" x="1670.6553" y="1673.8718" fill="#ffaf00"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="tel">
+            Telugu
+        </text>
+        <text font-size="13" x="1041.5083" y="1043.928" fill="#ffaf00"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="tam">
+            Tamil
+        </text>
+        <text font-size="12" x="1692.8472" y="1695.0807" fill="#ffaf00"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="kan">
+            Kannada
+        </text>
+        <text font-size="12" x="1712.9408" y="1715.6648" fill="#ffaf00"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="mal">
+            Malayalam
+        </text>
+        <text font-size="13" x="722.21234" y="724.63196" fill="#ffe300"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="tur">
+            Turkish
+        </text>
+        <text font-size="11" x="1732.0583" y="1734.5842" fill="#ffe300"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="aze">
+            Azerbaijani
+        </text>
+        <text font-size="11" x="1750.5417" y="1752.5905" fill="#ffe300"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="uzb">
+            Uzbek
+        </text>
+        <text font-size="10" x="1768.293" y="1770.1542" fill="#ffe300"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="kaz">
+            Kazakh
+        </text>
+        <text font-size="10" x="1785.3611" y="1787.6586" fill="#ffe300"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="uig">
+            Uighur
+        </text>
+        <text font-size="14" x="257.78278" y="260.31854" fill="#ffe300"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="kor">
+            Korean
+        </text>
+        <text font-size="17" x="166.74901" y="170.52301" fill="#ffe300"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="jpn">
+            Japanese
+        </text>
+        <text font-size="12" x="1063.1635" y="1065.397" fill="#3dfd03"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="swa">
+            Swahili
+        </text>
+        <text font-size="11" x="1803.1124" y="1805.1598" fill="#3dfd03"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="zul">
+            Zulu
+        </text>
+        <text font-size="11" x="1821.5958" y="1824.123" fill="#3dfd03"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="lin">
+            Lingala
+        </text>
+        <text font-size="11" x="1840.0303" y="1842.0776" fill="#3dfd03"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="yor">
+            Yoruba
+        </text>
+        <text font-size="11" x="1858.3182" y="1860.8455" fill="#3dfd03"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="ibo">
+            Igbo
+        </text>
+        <text font-size="11" x="1876.3136" y="1878.361" fill="#3dfd03"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="aka">
+            Akan
+        </text>
+        <text font-size="10" x="1893.8696" y="1895.7308" fill="#3dfd03"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="ful">
+            Fulah
+        </text>
+        <text font-size="10" x="1911.0844" y="1913.3544" fill="#3dfd03"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="kin">
+            Kinyarwanda
+        </text>
+        <text font-size="10" x="1928.1525" y="1930.0137" fill="#3dfd03"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="lug">
+            Ganda
+        </text>
+        <text font-size="40" x="658.30975" y="665.75476" fill="#00ff05"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="ara">
+            Arabic
+        </text>
+        <text font-size="11" x="1945.855" y="1947.9023" fill="#00ff05"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="amh">
+            Amharic
+        </text>
+        <text font-size="10" x="1082.0859" y="1083.9447" fill="#00ff05"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="heb">
+            Hebrew
+        </text>
+        <text font-size="11" x="1964.3381" y="1966.3511" fill="#00ff05"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="orm">
+            Oromo
+        </text>
+        <text font-size="10" x="1982.2848" y="1984.146" fill="#00ff05"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="som">
+            Somali
+        </text>
+        <text font-size="12" x="2000.8657" y="2003.0392" fill="#00ff05"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Lato" class="hau">
+            Hausa
+        </text>
+    </g>
+</svg>
