@@ -9,7 +9,7 @@ MAPPING_VERSION = "2013-07-18_2"
 DATA.ROOT.DIR <- normalizePath("../../data/")
 
 # This directory
-ANALYSIS.ROOT.DIR <- normalizePath("../") # 
+ANALYSIS.ROOT.DIR <- normalizePath(".") # 
 
 # GLN STRUCTURE -- CHANGE THIS PATH TO THE ONE YOU WANT!!
 GLN.STRUCT.DIR <- normalizePath(sprintf("../../mapping_results/%s/standard", MAPPING_VERSION))
