@@ -83,7 +83,8 @@ if __name__ == "__main__":
 	#	"all_langs_iso639-2_20120722.txt" ]
 
 
-	ISO639_3_FILE = '../../data/world/lang_conversion/gold/iso-639-3-20120726_conversion_nogeneric.txt'
+
+	ISO639_3_FILE = "../../data/lang_tools/lang_conversion/gold/iso-639-3-20120726_conversion_nogeneric.txt"
 	INPUT_FILES = [sys.argv[1]] # Note that more than one file can be used
 	OUTPUT_FILE = sys.argv[2]
 	
