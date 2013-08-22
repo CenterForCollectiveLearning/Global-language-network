@@ -1,3 +1,23 @@
+'''
+Breakdown of languages in each country accoding to CIA World Fact Book, or, if missing, from Wikipedia articles.
+
+-Percentages may not add to 100, and may be missing altogehter in certain cases. I wouldn't trust it with my life...
+'''
+
+import sys
+import operator # for sorting dictionary by values
+
+LGN_HOME = '../../../' # fix this path to work for you!!!!
+sys.path.append(LGN_HOME+'mapping/load/')
+import convert_lang
+
+LANG_CONVERSION_FILE = LGN_HOME+\
+  "/data/lang_tools/lang_conversion/gold/iso-639-3-20120726_conversion_nogeneric.txt"
+
+
+# Print the dictionary: leave blank to print to screen, or pass a filename
+OUTPUT_FILENAME = "" 
+
 COUNTRY_THREE_CODE_TO_LANG_TWO = {
     u'ABW': {'en': 7.7, 'es': 12.6, 'nl': 5.8},
     u'AFG': {'fa': 50},
@@ -230,3 +250,51 @@ COUNTRY_THREE_CODE_TO_LANG_TWO = {
     u'ZAF': {'af': 13.35, 'en': 8.2, 'nso': 9.39, 'xh': 17.64, 'zu': 23.83},
     u'ZMB': {'en': 1.7},
     u'ZWE': {'en': 100}}
+
+
+def print_country_to_langs_mapping(outfile=""):
+  # Format the dictionary nicely and print it, to given file 
+  # or to screen (outfile="")
+
+  # Load conversion table
+  iso3_table, code_to_name = \
+    convert_lang.init_conversion_table_iso3(LANG_CONVERSION_FILE)
+
+  # Hacks for non-standard two-letter codes for merged languages
+  iso3_table['hr-sr'] = 'hbs' 
+  iso3_table['id-ms'] = 'msa'
+  iso3_table['zh-zh-TW'] = 'zho'
+
+  if outfile!="":
+    fout = open(outfile, 'w')
+
+  for country, langs in COUNTRY_THREE_CODE_TO_LANG_TWO.iteritems():
+    # prepare a tab-separatd string of "lang:percent"
+    spoken_langs = []
+
+    # Sort languages from most spoken to least
+    sorted_langs = sorted(langs.iteritems(), 
+                          key=operator.itemgetter(1),
+                          reverse=True)
+
+    # The result is a list - format it nicely
+    for (lang_code, pcent) in sorted_langs:
+      spoken_langs.append(
+        "{0}: {1}%".format(iso3_table[lang_code], pcent)) 
+
+    # Now add the first alternative for country name 
+    langs_string = country + "\t" + ", ".join(spoken_langs)
+
+    if outfile=="":
+      print langs_string
+    else:
+      #write to file
+      fout.write(langs_string + "\n")
+
+  if outfile!="":
+    fout.close()
+
+    
+if __name__ == "__main__":
+  print_country_to_langs_mapping(outfile=OUTPUT_FILENAME)
+
