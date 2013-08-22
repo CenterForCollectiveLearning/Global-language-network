@@ -8,8 +8,12 @@ import sys
 import operator # for sorting dictionary by values
 
 LGN_HOME = '../../../' # fix this path to work for you!!!!
-sys.path.append(LGN_HOME+'analysis/load/')
+sys.path.append(LGN_HOME+'mapping/load/')
 import convert_lang
+
+LANG_CONVERSION_FILE = LGN_HOME+\
+  "/data/lang_tools/lang_conversion/gold/iso-639-3-20120726_conversion_nogeneric.txt"
+
 
 # Print the dictionary: leave blank to print to screen, or pass a filename
 OUTPUT_FILENAME = "" 
@@ -267,8 +271,7 @@ def print_country_to_langs_mapping(outfile=""):
 
   # Load conversion table
   iso3_table, code_to_name = \
-    convert_lang.init_conversion_table_iso3(LGN_HOME+ \
-  'data/lang_tools/lang_conversion/gold/iso-639-3-20120726_conversion_nogeneric.txt')
+    convert_lang.init_conversion_table_iso3(LANG_CONVERSION_FILE)
 
   # Hacks for non-standard two-letter codes for merged languages
   iso3_table['hr-sr'] = 'hbs' 
