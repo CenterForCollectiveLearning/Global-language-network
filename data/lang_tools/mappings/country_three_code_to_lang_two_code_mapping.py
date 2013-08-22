@@ -265,8 +265,13 @@ def print_country_to_langs_mapping(outfile=""):
   iso3_table['id-ms'] = 'msa'
   iso3_table['zh-zh-TW'] = 'zho'
 
-  if outfile!="":
+  header_string = "Country.Code\tLanguage\tLanguage.Percent"
+
+  if outfile=="":
+    print header_string
+  else:
     fout = open(outfile, 'w')
+    fout.write(header_string + "\n")
 
   for country, langs in COUNTRY_THREE_CODE_TO_LANG_TWO.iteritems():
     # prepare a tab-separatd string of "lang:percent"
@@ -277,19 +282,29 @@ def print_country_to_langs_mapping(outfile=""):
                           key=operator.itemgetter(1),
                           reverse=True)
 
-    # The result is a list - format it nicely
     for (lang_code, pcent) in sorted_langs:
-      spoken_langs.append(
-        "{0}: {1}%".format(iso3_table[lang_code], pcent)) 
+        # The result is a list - format it nicely
+        lang_string = "\t".join([country, iso3_table[lang_code], str(pcent)])
 
-    # Now add the first alternative for country name 
-    langs_string = country + "\t" + ", ".join(spoken_langs)
+        if outfile=="":
+            print lang_string
+        else:
+            #write to file
+            fout.write(lang_string + "\n")
 
-    if outfile=="":
-      print langs_string
-    else:
-      #write to file
-      fout.write(langs_string + "\n")
+    # The result is a list - format it nicely
+    # for (lang_code, pcent) in sorted_langs:
+    #   spoken_langs.append(
+    #     "{0}: {1}%".format(iso3_table[lang_code], pcent)) 
+
+    # # Now add the country code 
+    # langs_string = country + "\t" + ", ".join(spoken_langs)
+
+    # if outfile=="":
+    #   print langs_string
+    # else:
+    #   #write to file
+    #   fout.write(langs_string + "\n")
 
   if outfile!="":
     fout.close()
