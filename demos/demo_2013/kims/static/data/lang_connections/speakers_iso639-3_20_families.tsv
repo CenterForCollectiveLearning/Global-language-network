@@ -1,0 +1,251 @@
+Lang_Code	Lang_Name	Num_Speakers_M	Family_Name	Family_Code	Viz_Family_Name	Viz_Family_Code	Primary_Family_Name	Primary_Family_Code
+aar	Afar	1.5	Cushitic	cus	Afro-Asiatic	afa	Afro-Asiatic	afa
+abk	Abkhazian	0.125	Caucasian	cau	Caucasian	cau	Caucasian	cau
+ace	Achinese	3	Malayo-Polynesian	poz	Malayo-Polynesian	poz	Austronesian	map
+afr	Afrikaans	13	Germanic	gem	Germanic	gem	Indo-European	ine
+aka	Akan	34	Niger-Kordofanian	nic	Niger-Kordofanian	nic	Niger-Kordofanian	nic
+amh	Amharic	25	Semitic	sem	Afro-Asiatic	afa	Afro-Asiatic	afa
+ang	English (Old)	0	Germanic	gem	Germanic	gem	Indo-European	ine
+ara	Arabic	606	Semitic	sem	Afro-Asiatic	afa	Afro-Asiatic	afa
+arc	Official Aramaic (700-300 BCE)	2	Semitic	sem	Afro-Asiatic	afa	Afro-Asiatic	afa
+arg	Aragonese	0.01	Italic	itc	Italic	itc	Indo-European	ine
+asm	Assamese	13	Indic	inc	Indic	inc	Indo-European	ine
+ast	Asturian	0.275	Italic	itc	Italic	itc	Indo-European	ine
+ava	Avaric	0.06	Caucasian	cau	Caucasian	cau	Caucasian	cau
+aym	Aymara	2	Quechuan	qwe	Amerindian	z-ame	South American Indian	sai
+aze	Azerbaijani	27	Turkic	trk	Turkic	trk	Altaic	tut
+bak	Bashkir	2	Turkic	trk	Turkic	trk	Altaic	tut
+bam	Bambara	6	Niger-Kordofanian	nic	Niger-Kordofanian	nic	Niger-Kordofanian	nic
+bar	Bavarian	12	Germanic	gem	Germanic	gem	Indo-European	ine
+bel	Belarusian	6	Slavic	sla	Balto-Slavic	z-bsl	Indo-European	ine
+ben	Bengali	230	Indic	inc	Indic	inc	Indo-European	ine
+bik	Bikol	2	Malayo-Polynesian	poz	Malayo-Polynesian	poz	Austronesian	map
+bis	Bislama	0	Creole (English)	cpe	Creoles and pidgins	crp	Creoles and pidgins	crp
+bod	Tibetan	7	Sino-Tibetan	sit	Sino-Tibetan	sit	Sino-Tibetan	sit
+bpy	Bishnupriya	0.45	Indic	inc	Indic	inc	Indo-European	ine
+bre	Breton	0.25	Celtic	cel	Celtic	cel	Indo-European	ine
+bua	Buriat	0.4	Mongolian	xgn	Altaic (other)	z-tut	Altaic	tut
+bug	Buginese	4	Malayo-Polynesian	poz	Malayo-Polynesian	poz	Austronesian	map
+bul	Bulgarian	12	Slavic	sla	Balto-Slavic	z-bsl	Indo-European	ine
+cat	Catalan	9	Italic	itc	Italic	itc	Indo-European	ine
+ceb	Cebuano	20	Malayo-Polynesian	poz	Malayo-Polynesian	poz	Austronesian	map
+ces	Czech	12	Slavic	sla	Balto-Slavic	z-bsl	Indo-European	ine
+cha	Chamorro	0.06	Malayo-Polynesian	poz	Malayo-Polynesian	poz	Austronesian	map
+che	Chechen	1	Caucasian	cau	Caucasian	cau	Caucasian	cau
+chm	Mari (Russia)	0.6	Uralic	urj	Uralic	urj	Uralic	urj
+chr	Cherokee	0.018	Iroquoian	iro	Amerindian	z-ame	North American Indian	nai
+chu	Church Slavic	0	Slavic	sla	Balto-Slavic	z-bsl	Indo-European	ine
+chv	Chuvash	1	Turkic	trk	Turkic	trk	Altaic	tut
+chy	Cheyenne	0.000712	Algic	aql	Amerindian	z-ame	North American Indian	nai
+cor	Cornish	0.000245	Celtic	cel	Celtic	cel	Indo-European	ine
+cos	Corsican	0.25	Italic	itc	Italic	itc	Indo-European	ine
+cre	Cree	0.117	Algic	aql	Amerindian	z-ame	North American Indian	nai
+crh	Crimean Tatar	0.456	Turkic	trk	Turkic	trk	Altaic	tut
+csb	Kashubian	0.05	Slavic	sla	Balto-Slavic	z-bsl	Indo-European	ine
+cym	Welsh	0.75	Celtic	cel	Celtic	cel	Indo-European	ine
+dan	Danish	6	Germanic	gem	Germanic	gem	Indo-European	ine
+deu	German	185	Germanic	gem	Germanic	gem	Indo-European	ine
+div	Dhivehi	0.3	Indic	inc	Indic	inc	Indo-European	ine
+dsb	Lower Sorbian	0.014	Slavic	sla	Balto-Slavic	z-bsl	Indo-European	ine
+dzo	Dzongkha	0.6	Sino-Tibetan	sit	Sino-Tibetan	sit	Sino-Tibetan	sit
+ell	Greek (Modern)	15	Greek	grk	Indo-European (other)	z-ine	Indo-European	ine
+eml	Emiliano-Romagnolo	2	Italic	itc	Italic	itc	Indo-European	ine
+eng	English	1500	Germanic	gem	Germanic	gem	Indo-European	ine
+epo	Esperanto	1	Constructed	#N/A	Indo-European (other)	z-ine	Indo-European	ine
+est	Estonian	1.07	Uralic	urj	Uralic	urj	Uralic	urj
+eus	Basque	1	Basque	euq	Other	#N/A	Basque	euq
+ewe	Ewe	4	Niger-Kordofanian	nic	Niger-Kordofanian	nic	Niger-Kordofanian	nic
+ext	Extremaduran	0.5	Italic	itc	Italic	itc	Indo-European	ine
+fao	Faroese	0.07	Germanic	gem	Germanic	gem	Indo-European	ine
+fas	Persian	107	Iranian	ira	Iranian	ira	Indo-European	ine
+fij	Fijian	0.55	Malayo-Polynesian	poz	Malayo-Polynesian	poz	Austronesian	map
+fil	Filipino	90	Malayo-Polynesian	poz	Malayo-Polynesian	poz	Austronesian	map
+fin	Finnish	6	Uralic	urj	Uralic	urj	Uralic	urj
+fra	French	200	Italic	itc	Italic	itc	Indo-European	ine
+frp	Arpitan	0.113	Italic	itc	Italic	itc	Indo-European	ine
+frr	Northern Frisian	0.01	Germanic	gem	Germanic	gem	Indo-European	ine
+fry	Western Frisian	0.65	Germanic	gem	Germanic	gem	Indo-European	ine
+ful	Fulah	13	Niger-Kordofanian	nic	Niger-Kordofanian	nic	Niger-Kordofanian	nic
+fur	Friulian	0.794	Italic	itc	Italic	itc	Indo-European	ine
+gag	Gagauz	0.16	Turkic	trk	Turkic	trk	Altaic	tut
+gla	Scottish Gaelic	0.07	Celtic	cel	Celtic	cel	Indo-European	ine
+gle	Irish	0.53	Celtic	cel	Celtic	cel	Indo-European	ine
+glg	Galician	4	Italic	itc	Italic	itc	Indo-European	ine
+glk	Gilaki	3	Iranian	ira	Iranian	ira	Indo-European	ine
+glv	Manx	0.002	Celtic	cel	Celtic	cel	Indo-European	ine
+got	Gothic	0	Germanic	gem	Germanic	gem	Indo-European	ine
+grn	Guarani	7	Tupi	tup	Amerindian	z-ame	South American Indian	sai
+guj	Gujarati	46	Indic	inc	Indic	inc	Indo-European	ine
+hat	Haitian	12	Creole (French)	cpf	Creoles and pidgins	crp	Creoles and pidgins	crp
+hau	Hausa	39	Chadic	cdc	Afro-Asiatic	afa	Afro-Asiatic	afa
+haw	Hawaiian	0.027	Malayo-Polynesian	poz	Malayo-Polynesian	poz	Austronesian	map
+hbs	Serbo-Croatian	44	Slavic	sla	Balto-Slavic	z-bsl	Indo-European	ine
+heb	Hebrew	10	Semitic	sem	Afro-Asiatic	afa	Afro-Asiatic	afa
+hif	Fiji Hindi	0.46	Indic	inc	Indic	inc	Indo-European	ine
+hin	Hindi	550	Indic	inc	Indic	inc	Indo-European	ine
+hsb	Upper Sorbian	0.04	Slavic	sla	Balto-Slavic	z-bsl	Indo-European	ine
+hun	Hungarian	15	Uralic	urj	Uralic	urj	Uralic	urj
+hye	Armenian	6	Armenian	hyx	Indo-European (other)	z-ine	Indo-European	ine
+ibo	Igbo	22	Niger-Kordofanian	nic	Niger-Kordofanian	nic	Niger-Kordofanian	nic
+ido	Ido	0.003	Constructed	#N/A	Indo-European (other)	z-ine	Indo-European	ine
+iii	Sichuan Yi	2	Sino-Tibetan	sit	Sino-Tibetan	sit	Sino-Tibetan	sit
+iku	Inuktitut	0.03	Eskimo-Aleut	esx	Other	#N/A	Eskimo-Aleut	esx
+ile	Interlingue	0	Constructed	#N/A	Indo-European (other)	z-ine	Indo-European	ine
+ilo	Iloko	10	Malayo-Polynesian	poz	Malayo-Polynesian	poz	Austronesian	map
+ina	Interlingua	0.0003	Constructed	#N/A	Indo-European (other)	z-ine	Indo-European	ine
+ipk	Inupiaq	0.002	Eskimo-Aleut	esx	Other	#N/A	Eskimo-Aleut	esx
+isl	Icelandic	0.32	Germanic	gem	Germanic	gem	Indo-European	ine
+ita	Italian	70	Italic	itc	Italic	itc	Indo-European	ine
+jav	Javanese	80	Malayo-Polynesian	poz	Malayo-Polynesian	poz	Austronesian	map
+jbo	Lojban	0	Constructed	#N/A	Other	#N/A	#N/A	#N/A
+jpn	Japanese	132	Japanese	jpx	Altaic (other)	z-tut	Altaic	tut
+kaa	Kara-Kalpak	0.41	Turkic	trk	Turkic	trk	Altaic	tut
+kab	Kabyle	8	Berber	ber	Afro-Asiatic	afa	Afro-Asiatic	afa
+kal	Kalaallisut	0.05	Eskimo-Aleut	esx	Other	#N/A	Eskimo-Aleut	esx
+kan	Kannada	47	Dravidian	dra	Dravidian	dra	Dravidian	dra
+kas	Kashmiri	5	Indic	inc	Indic	inc	Indo-European	ine
+kat	Georgian	4	Caucasian	cau	Caucasian	cau	Caucasian	cau
+kaz	Kazakh	12	Turkic	trk	Turkic	trk	Altaic	tut
+kbd	Kabardian	2	Caucasian	cau	Caucasian	cau	Caucasian	cau
+khm	Central Khmer	18	Austro-Asiatic	aav	Other	#N/A	Austro-Asiatic	aav
+kik	Kikuyu	5	Niger-Kordofanian	nic	Niger-Kordofanian	nic	Niger-Kordofanian	nic
+kin	Kinyarwanda	12	Niger-Kordofanian	nic	Niger-Kordofanian	nic	Niger-Kordofanian	nic
+kir	Kirghiz	5	Turkic	trk	Turkic	trk	Altaic	tut
+kom	Komi	0.387	Uralic	urj	Uralic	urj	Uralic	urj
+kon	Kongo	7	Niger-Kordofanian	nic	Niger-Kordofanian	nic	Niger-Kordofanian	nic
+kor	Korean	78	Korean	#N/A	Altaic (other)	z-tut	Altaic	tut
+krc	Karachay-Balkar	0	Turkic	trk	Turkic	trk	Altaic	tut
+ksh	Kölsch	0.25	Germanic	gem	Germanic	gem	Indo-European	ine
+kur	Kurdish	30	Iranian	ira	Iranian	ira	Indo-European	ine
+lad	Ladino	0.109	Italic	itc	Italic	itc	Indo-European	ine
+lah	Lahnda	60	Indic	inc	Indic	inc	Indo-European	ine
+lao	Lao	5	Tai	tai	Tai	tai	Tai	tai
+lat	Latin	0	Italic	itc	Italic	itc	Indo-European	ine
+lav	Latvian	2.15	Baltic	bat	Balto-Slavic	z-bsl	Indo-European	ine
+lbe	Lak	0.12	Caucasian	cau	Caucasian	cau	Caucasian	cau
+lez	Lezghian	0.784	Caucasian	cau	Caucasian	cau	Caucasian	cau
+lij	Ligurian	2	Italic	itc	Italic	itc	Indo-European	ine
+lim	Limburgan	2	Germanic	gem	Germanic	gem	Indo-European	ine
+lin	Lingala	25	Niger-Kordofanian	nic	Niger-Kordofanian	nic	Niger-Kordofanian	nic
+lit	Lithuanian	4	Baltic	bat	Balto-Slavic	z-bsl	Indo-European	ine
+lmo	Lombard	3	Italic	itc	Italic	itc	Indo-European	ine
+ltz	Luxembourgish	0.39	Germanic	gem	Germanic	gem	Indo-European	ine
+lug	Ganda	10	Niger-Kordofanian	nic	Niger-Kordofanian	nic	Niger-Kordofanian	nic
+mal	Malayalam	37	Dravidian	dra	Dravidian	dra	Dravidian	dra
+mar	Marathi	90	Indic	inc	Indic	inc	Indo-European	ine
+mdf	Moksha	0.5	Uralic	urj	Uralic	urj	Uralic	urj
+mkd	Macedonian	3	Slavic	sla	Balto-Slavic	z-bsl	Indo-European	ine
+mlg	Malagasy	20	Malayo-Polynesian	poz	Malayo-Polynesian	poz	Austronesian	map
+mlt	Maltese	0.37	Semitic	sem	Afro-Asiatic	afa	Afro-Asiatic	afa
+mol	Moldavian	0	Italic	itc	Italic	itc	Indo-European	ine
+mon	Mongolian	5	Mongolian	xgn	Altaic (other)	z-tut	Altaic	tut
+mri	Maori	0.157	Malayo-Polynesian	poz	Malayo-Polynesian	poz	Austronesian	map
+msa	Malay	554	Malayo-Polynesian	poz	Malayo-Polynesian	poz	Austronesian	map
+mwl	Mirandese	0.015	Italic	itc	Italic	itc	Indo-European	ine
+mya	Burmese	52	Sino-Tibetan	sit	Sino-Tibetan	sit	Sino-Tibetan	sit
+myv	Erzya	0.5	Uralic	urj	Uralic	urj	Uralic	urj
+mzn	Mazanderani	4	Iranian	ira	Iranian	ira	Indo-European	ine
+nap	Neapolitan	8	Italic	itc	Italic	itc	Indo-European	ine
+nau	Nauru	0.006	Malayo-Polynesian	poz	Malayo-Polynesian	poz	Austronesian	map
+nav	Navajo	0.178	Na-Dene	xnd	Amerindian	z-ame	North American Indian	nai
+ndo	Ndonga	1	Niger-Kordofanian	nic	Niger-Kordofanian	nic	Niger-Kordofanian	nic
+nds	Low German	10	Germanic	gem	Germanic	gem	Indo-European	ine
+nep	Nepali	30	Indic	inc	Indic	inc	Indo-European	ine
+new	Newari	0.8	Sino-Tibetan	sit	Sino-Tibetan	sit	Sino-Tibetan	sit
+nld	Dutch	27	Germanic	gem	Germanic	gem	Indo-European	ine
+nor	Norwegian	10	Germanic	gem	Germanic	gem	Indo-European	ine
+nov	Novial	0	Constructed	#N/A	Indo-European (other)	z-ine	Indo-European	ine
+nrm	Narom	0	Malayo-Polynesian	poz	Malayo-Polynesian	poz	Austronesian	map
+nso	Pedi	4	Niger-Kordofanian	nic	Niger-Kordofanian	nic	Niger-Kordofanian	nic
+nya	Nyanja	9	Niger-Kordofanian	nic	Niger-Kordofanian	nic	Niger-Kordofanian	nic
+oci	Occitan	2	Italic	itc	Italic	itc	Indo-European	ine
+ori	Oriya	31	Indic	inc	Indic	inc	Indo-European	ine
+orm	Oromo	26	Cushitic	cus	Afro-Asiatic	afa	Afro-Asiatic	afa
+oss	Ossetian	0.52	Iranian	ira	Iranian	ira	Indo-European	ine
+pag	Pangasinan	2	Malayo-Polynesian	poz	Malayo-Polynesian	poz	Austronesian	map
+pam	Pampanga	3	Malayo-Polynesian	poz	Malayo-Polynesian	poz	Austronesian	map
+pan	Panjabi	104	Indic	inc	Indic	inc	Indo-European	ine
+pap	Papiamento	0.329	Creole (Spanish)	#N/A	Creoles and pidgins	crp	Creoles and pidgins	crp
+pcd	Picard	0	Italic	itc	Italic	itc	Indo-European	ine
+pdc	Pennsylvania German	0.25	Germanic	gem	Germanic	gem	Indo-European	ine
+pfl	Pfaelzisch	0	Germanic	gem	Germanic	gem	Indo-European	ine
+pih	Pitcairn-Norfolk	0.0006	Creole (English)	cpe	Creoles and pidgins	crp	Creoles and pidgins	crp
+pli	Pali	0	Indic	inc	Indic	inc	Indo-European	ine
+pms	Piemontese	2	Italic	itc	Italic	itc	Indo-European	ine
+pnt	Pontic	0.325	Greek	grk	Indo-European (other)	z-ine	Indo-European	ine
+pol	Polish	43	Slavic	sla	Balto-Slavic	z-bsl	Indo-European	ine
+por	Portuguese	290	Italic	itc	Italic	itc	Indo-European	ine
+pus	Pushto	26	Iranian	ira	Iranian	ira	Indo-European	ine
+que	Quechua	10	Quechuan	qwe	Amerindian	z-ame	South American Indian	sai
+roh	Romansh	0.035	Italic	itc	Italic	itc	Indo-European	ine
+rom	Romany	2	Indic	inc	Indic	inc	Indo-European	ine
+ron	Romanian	28	Italic	itc	Italic	itc	Indo-European	ine
+rue	Rusyn	0.6	Slavic	sla	Balto-Slavic	z-bsl	Indo-European	ine
+run	Rundi	5	Niger-Kordofanian	nic	Niger-Kordofanian	nic	Niger-Kordofanian	nic
+rup	Macedo-Romanian	0.3	Italic	itc	Italic	itc	Indo-European	ine
+rus	Russian	278	Slavic	sla	Balto-Slavic	z-bsl	Indo-European	ine
+sag	Sango	3	Niger-Kordofanian	nic	Niger-Kordofanian	nic	Niger-Kordofanian	nic
+sah	Yakut	0.456	Turkic	trk	Turkic	trk	Altaic	tut
+san	Sanskrit	0.05	Indic	inc	Indic	inc	Indo-European	ine
+scn	Sicilian	8	Italic	itc	Italic	itc	Indo-European	ine
+sco	Scots	2	Germanic	gem	Germanic	gem	Indo-European	ine
+sgs	Samogitian	0.5	Baltic	bat	Balto-Slavic	z-bsl	Indo-European	ine
+sin	Sinhala	19	Indic	inc	Indic	inc	Indo-European	ine
+slk	Slovak	7	Slavic	sla	Balto-Slavic	z-bsl	Indo-European	ine
+slv	Slovenian	2	Slavic	sla	Balto-Slavic	z-bsl	Indo-European	ine
+sme	Northern Sami	0.02	Uralic	urj	Uralic	urj	Uralic	urj
+smo	Samoan	0.37	Malayo-Polynesian	poz	Malayo-Polynesian	poz	Austronesian	map
+sna	Shona	7	Niger-Kordofanian	nic	Niger-Kordofanian	nic	Niger-Kordofanian	nic
+snd	Sindhi	41	Indic	inc	Indic	inc	Indo-European	ine
+som	Somali	14	Cushitic	cus	Afro-Asiatic	afa	Afro-Asiatic	afa
+sot	Southern Sotho	5	Niger-Kordofanian	nic	Niger-Kordofanian	nic	Niger-Kordofanian	nic
+spa	Spanish	500	Italic	itc	Italic	itc	Indo-European	ine
+sqi	Albanian	16	Albanian	sqj	Indo-European (other)	z-ine	Indo-European	ine
+srd	Sardinian	2	Italic	itc	Italic	itc	Indo-European	ine
+srn	Sranan Tongo	0.3	Creole (English)	cpe	Creoles and pidgins	crp	Creoles and pidgins	crp
+ssw	Swati	3	Niger-Kordofanian	nic	Niger-Kordofanian	nic	Niger-Kordofanian	nic
+stq	Saterfriesisch	0.002	Germanic	gem	Germanic	gem	Indo-European	ine
+sun	Sundanese	27	Malayo-Polynesian	poz	Malayo-Polynesian	poz	Austronesian	map
+swa	Swahili	50	Niger-Kordofanian	nic	Niger-Kordofanian	nic	Niger-Kordofanian	nic
+swe	Swedish	10	Germanic	gem	Germanic	gem	Indo-European	ine
+syr	Syriac	0	Semitic	sem	Afro-Asiatic	afa	Afro-Asiatic	afa
+szl	Silesian	0.056	Slavic	sla	Balto-Slavic	z-bsl	Indo-European	ine
+tah	Tahitian	0.12	Malayo-Polynesian	poz	Malayo-Polynesian	poz	Austronesian	map
+tam	Tamil	66	Dravidian	dra	Dravidian	dra	Dravidian	dra
+tat	Tatar	8	Turkic	trk	Turkic	trk	Altaic	tut
+tel	Telugu	80	Dravidian	dra	Dravidian	dra	Dravidian	dra
+tet	Tetum	0.8	Malayo-Polynesian	poz	Malayo-Polynesian	poz	Austronesian	map
+tgk	Tajik	4	Iranian	ira	Iranian	ira	Indo-European	ine
+tha	Thai	73	Tai	tai	Tai	tai	Tai	tai
+tir	Tigrinya	7	Semitic	sem	Afro-Asiatic	afa	Afro-Asiatic	afa
+ton	Tonga (Tonga Islands)	0.105	Malayo-Polynesian	poz	Malayo-Polynesian	poz	Austronesian	map
+tpi	Tok Pisin	0	Creole (English)	cpe	Creoles and pidgins	crp	Creoles and pidgins	crp
+tsn	Tswana	4	Niger-Kordofanian	nic	Niger-Kordofanian	nic	Niger-Kordofanian	nic
+tso	Tsonga	3	Niger-Kordofanian	nic	Niger-Kordofanian	nic	Niger-Kordofanian	nic
+tuk	Turkmen	9	Turkic	trk	Turkic	trk	Altaic	tut
+tum	Tumbuka	2	Niger-Kordofanian	nic	Niger-Kordofanian	nic	Niger-Kordofanian	nic
+tur	Turkish	70	Turkic	trk	Turkic	trk	Altaic	tut
+udm	Udmurt	0.55	Uralic	urj	Uralic	urj	Uralic	urj
+uig	Uighur	10	Turkic	trk	Turkic	trk	Altaic	tut
+ukr	Ukrainian	45	Slavic	sla	Balto-Slavic	z-bsl	Indo-European	ine
+urd	Urdu	60	Indic	inc	Indic	inc	Indo-European	ine
+uzb	Uzbek	24	Turkic	trk	Turkic	trk	Altaic	tut
+vec	Venetian	2	Italic	itc	Italic	itc	Indo-European	ine
+ven	Venda	0.875	Niger-Kordofanian	nic	Niger-Kordofanian	nic	Niger-Kordofanian	nic
+vep	Veps	6.00E-06	Uralic	urj	Uralic	urj	Uralic	urj
+vie	Vietnamese	80	Austro-Asiatic	aav	Other	#N/A	Austro-Asiatic	aav
+vls	Vlaams	1	Germanic	gem	Germanic	gem	Indo-European	ine
+vol	Volapük	2.00E-05	Constructed	#N/A	Indo-European (other)	z-ine	Indo-European	ine
+war	Waray-Waray	3	Malayo-Polynesian	poz	Malayo-Polynesian	poz	Austronesian	map
+wln	Walloon	0.6	Italic	itc	Italic	itc	Indo-European	ine
+wol	Wolof	4	Niger-Kordofanian	nic	Niger-Kordofanian	nic	Niger-Kordofanian	nic
+xal	Kalmyk	0.174	Mongolian	xgn	Altaic (other)	z-tut	Altaic	tut
+xho	Xhosa	8	Niger-Kordofanian	nic	Niger-Kordofanian	nic	Niger-Kordofanian	nic
+xmf	Mingrelian	0.5	Caucasian	cau	Caucasian	cau	Caucasian	cau
+yid	Yiddish	3	Germanic	gem	Germanic	gem	Indo-European	ine
+yor	Yoruba	25	Niger-Kordofanian	nic	Niger-Kordofanian	nic	Niger-Kordofanian	nic
+zea	Zeeuws	0.22	Germanic	gem	Germanic	gem	Indo-European	ine
+zha	Zhuang	14	Tai	tai	Tai	tai	Tai	tai
+zho	Chinese	1575	Sino-Tibetan	sit	Sino-Tibetan	sit	Sino-Tibetan	sit
+zul	Zulu	26	Niger-Kordofanian	nic	Niger-Kordofanian	nic	Niger-Kordofanian	nic
+zza	Zaza	2	Iranian	ira	Iranian	ira	Indo-European	ine

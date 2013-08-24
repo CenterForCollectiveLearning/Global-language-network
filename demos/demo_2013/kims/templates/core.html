@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>Global Language Network / {% block title %}{% endblock %}</title>
+
+		<!-- Meta -->
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+
+		<!-- Style Sheets -->
+		<link href="http://fonts.googleapis.com/css?family=Yellowtail" rel="stylesheet" type="text/css">
+		<link href="http://fonts.googleapis.com/css?family=Flamenco:300,400" rel="stylesheet" type="text/css">
+		<link href="/static/css/bootstrap.css" rel="stylesheet">
+		<link href="/static/css/bootstrap-responsive.css" rel="stylesheet">
+		<link href="/static/css/jquery-ui-1.8.16.custom.css" rel="stylesheet">
+		<link href="/static/css/style.css" rel="stylesheet">
+
+		<!-- Javascript -->
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
+		<script src="/static/js/jquery-ui-1.8.16.custom.min.js" type="text/javascript"></script>
+		<script src="/static/js/bootstrap.js" type="text/javascript"></script>
+
+                <!-- Twitter -->
+                <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+		<!-- Navigation Bar -->
+		<div class="header-view">
+		  <div class="navbar navbar-fixed-top navbar-inverse">
+		    <div class="navbar-inner">
+		      <div class="container-fluid">
+			<div class="container pull-left">
+			  <a class="brand" href="/">Global Language Network</a>
+			  <div class="nav-collapse">
+			    <ul class="nav">
+			      <li class="divider-vertical"></li>
+			      <li class><a href="about">About</a>
+				<!--<li class="dropdown">
+				    <li>
+				      <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+					About<b class="caret"></b>
+				      </a>
+				      <ul class="dropdown-menu">
+					<li id="aboutNL"><a href="about">About this project</a></li>
+					<li id="aboutMC">
+					  <a target="_blank" href="http://macroconnections.media.mit.edu">About Macro Connections</a>
+					</li>
+					<li class="divider"></li>
+					<li>
+					  <a target="_blank" href="http://www.media.mit.edu/">MIT Media Lab</a>
+					</li>
+				      </ul>
+				    </li>
+				    -->
+			      <li class="divider-vertical"></li>
+			      <li class="dropdown">
+				<a class="dropdown-toggle" data-toggle="dropdown" href="#">
+				  Share<b class="caret"></b>
+				</a>
+				<ul class="dropdown-menu">
+				  <li id="shareLink">
+				    <a href="#">Link or embed</a>
+				  </li>
+				  <li id="postTwitter">
+                                    <a href="https://twitter.com/share" data-lang="en">Post to Twitter</a>
+				    <!-- <a href="#">Post to Twitter</a> -->
+				  </li>
+				  <li id="postFacebook">
+				    <a href="#">Share on Facebook</a>
+				  </li>
+				</ul>
+			      </li>
+			      <li class="divider-vertical"></li>
+
+
+			    </ul>
+			    <div class="search">
+			      <input type="text" id="search" class="search-query" placeholder="Search" type="text">
+			    </div>
+			  </div>
+			</div>
+		      </div>
+		    </div>
+		  </div>
+
+
+		<!-- Left Navbar -->
+		{% block left_navbar %}
+		<div id="left-navbar" class="sidebar-nav sidebar-nav-fixed">
+		    <div id="vis_options" class="btn-group-vertical">
+		      <a href="/network">
+			<button id="network_btn" class="btn btn-inverse top_btn">
+			  Network
+			</button>
+		      </a>
+		      <a href="/heatmap">
+			<button id="heatmap_btn" class="btn btn-inverse bottom_btn">
+			  Heatmap
+			</button>
+		      </a>
+		    </div>
+		    <div id="diff_inf_options" class="btn-group-vertical">
+		      <button id="diffusion_btn" class="btn btn-inverse top_btn" value="diffusion">
+			Diffusion
+		      </button>
+		      <button id="influence_btn" class="btn btn-inverse bottom_btn" value="influence">
+			Influence
+		      </button>
+		    </div>
+		</div>
+		{% endblock %}
+
+		<!-- Right Navbar -->
+		{% block right_navbar %}
+		<div id="right-navbar" class="sidebar-nav sidebar-nav-fixed">
+
+		  <div id="company_nobel_options" class="btn-group-vertical">
+		    <button id="company_btn" class="btn btn-inverse top_btn" value="company">
+		      Companies
+		    </button>
+		    <button id="nobel_btn" class="btn btn-inverse bottom_btn" value="nobel">
+		      Laureates
+		    </button>
+		  </div>
+
+		  <div id="dataset_options" class="btn-group-vertical">
+		    <button id="twitter_btn" class="btn btn-inverse top_btn" value="twitter"><img src="/static/img/twitter_white_bird.png" id="twitter_icon" class="icon"></button>
+		    <button id="wikipedia_btn" class="btn btn-inverse middle_btn" value="wikipedia"><img src="/static/img/wiki_logo_inverse.png" id="wiki_icon" class="icon"></button>
+		    <button id="unesco_btn" class="btn btn-inverse bottom_btn" value="unesco"><img src="/static/img/UNESCO_logo_inverse.png" id="unesco_icon" class="icon"></button>
+		    <!--<button id="merged_btn" class="btn btn-inverse bottom_btn" value="merged">Merged</button>-->
+		  </div>
+
+		  <div id="row_options" class="btn-group-vertical">
+		    <button id="name_btn" class="btn btn-inverse top_btn" value="name">Name</button>
+		    <button id="count_btn" class="btn btn-inverse middle_btn" value="count">Count</button>
+		    <button id="reach_btn" class="btn btn-inverse middle_btn" value="reach">Reach</button>
+		    <button id="inf_btn" class="btn btn-inverse bottom_btn" value="influence">Influence</button>
+		  </div>
+
+                  <div id="column_options" class="btn-group-vertical">
+                    <button id="c_name_btn" class="btn btn-inverse top_btn" value="name">Name</button>
+                    <button id="c_count_btn" class="btn btn-inverse middle_btn" value="count">Count</button>
+                  </div>
+                </div>
+		{% endblock %}
+	</head>
+
+	<body>
+	  <!-- Content -->
+	  {% block content %}
+	  {% endblock %}
+	</body>
+
+	<script type="text/javascript">
+	// Google Analytics
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-36201557-1']);
+	  _gaq.push(['_trackPageview']);
+
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+
+	</script>
+</html>

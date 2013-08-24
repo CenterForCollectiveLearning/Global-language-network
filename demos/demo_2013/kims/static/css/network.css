@@ -1,0 +1,65 @@
+body {
+    left: 0px !important;
+    right: 0px;
+    bottom: 0px;
+}
+
+svg {
+    left: 0;
+    top: 0px; #40
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+div#left-navbar {
+    margin-left: 30px !important;
+}
+
+div#bottom_navbar {
+    background: none;
+}
+
+#slider {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 3%;
+    width: 400px;
+}
+
+#network {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+}
+
+path.link {
+  fill: none;
+  stroke: #666;
+  stroke-width: 1.5px;
+}
+
+marker#defaultMarker {
+}
+
+path.link.default {
+  stroke:#f3f3f3;
+}
+
+circle {
+  fill: #fff;
+  stroke: #aaa;
+  stroke-width: 3.5px;
+}
+
+text {
+  font: 14px sans-serif;
+  pointer-events: none;
+}
+
+text.shadow {
+  stroke: #fff;
+  stroke-width: 3px;
+  stroke-opacity: .8;
+}
