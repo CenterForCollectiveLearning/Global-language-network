@@ -1,0 +1,3 @@
+# store compressed files instead of large SQL files
+.sqlite3
+
