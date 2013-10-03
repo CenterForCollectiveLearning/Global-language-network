@@ -16,9 +16,9 @@ def network(viz_type='diffusion', data_src='merged', meme_src='none', meme_name=
 	# select the data source for the network visualization
     return render_template('network.html', data_src=data_src, meme_src=meme_src, meme_name=meme_name)
 
-@app.route('/network/<viz_type>/<data_src>/<meme_src>/<meme_name>')
-def network(viz_type='diffusion', data_src='merged', meme_src='none', meme_name='none'):
-    return render_template('network.html', data_src=data_src, meme_src=meme_src, meme_name=meme_name)
+#@app.route('/network/<viz_type>/<data_src>/<meme_src>/<meme_name>')
+#def network(viz_type='diffusion', data_src='merged', meme_src='none', meme_name='none'):
+#    return render_template('network.html', data_src=data_src, meme_src=meme_src, meme_name=meme_name)
 
 @app.route('/heatmap')
 @app.route('/heatmap/<viz_type>')
