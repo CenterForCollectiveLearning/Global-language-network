@@ -1,5 +1,9 @@
 '''
-Breakdown of languages in each country accoding to CIA World Fact Book, or, if missing, from Wikipedia articles.
+Breakdown of languages in each country accoding to CIA World Fact Book, 
+or, if missing, from Wikipedia articles.
+
+Using two-letter country codes and three-letter language codes.
+
 
 -Percentages may not add to 100, and may be missing altogehter in certain cases. I wouldn't trust it with my life...
 '''
