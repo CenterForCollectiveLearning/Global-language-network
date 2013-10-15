@@ -22,8 +22,8 @@ WIKI.STD.LANGINFO <- file.path(GLN.STRUCT.DIR, "wikipedia/wikipedia_langinfo_std
 BOOKS.STD.LANGINFO <- file.path(GLN.STRUCT.DIR, "translations/books_langinfo_std.tsv")
 
 # GLN SETTINGS
-MIN.COMMON.USERS <- 60 # Was 500 in V29
-MIN.COMMON.TRANS <- 40 # Was 300 in V29
+MIN.COMMON.USERS <- 500 #60 # Was 500 in V29
+MIN.COMMON.TRANS <- 300 #40 # Was 300 in V29
 MIN.EXPOSURE <- 0.001
 DESIRED.P.VAL <- 99999 # A value of 99999 should not filter anything
 DISCARD.LANGS <- c() # c("grc", "gmh", "fro") # Languages to drop
