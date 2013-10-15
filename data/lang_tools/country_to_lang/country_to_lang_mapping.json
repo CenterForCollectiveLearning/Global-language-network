@@ -178,7 +178,7 @@
 "TN": {"name": "Tunisia", "langs": {"ara": 100}},
 "TR": {"name": "Turkey", "langs": {"tur": 85.4, "kur": 12, "ara": 1.2}},
 "TM": {"name": "Turkmenistan", "langs": {"tuk": 72, "rus": 12, "uzb": 9}},
-"UG": {"name": "Uganda", "langs": {"eng": 8, "lug": }},
+"UG": {"name": "Uganda", "langs": {"eng": 8, "lug":14 }},
 "UA": {"name": "Ukraine", "langs": {"ukr": 67, "rus": 24}},
 "AE": {"name": "United Arab Emirates", "langs": {"ara": 100}},
 "GB": {"name": "United Kingdom", "langs": {"eng": 100}},
@@ -192,3 +192,4 @@
 "YE": {"name": "Yemen", "langs": {"ara": 100}},
 "ZM": {"name": "Zambia", "langs": {"bem": 30.1, "nya": 10.7, "toi": 10.6, "loz": 5.7, "eng": 16}},
 "ZW": {"name": "Zimbabwe", "langs": {"sna": 70, "nde":20, "eng": 2.5}}
+}
