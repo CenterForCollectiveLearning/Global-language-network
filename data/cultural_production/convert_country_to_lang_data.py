@@ -27,11 +27,11 @@ COUNTRY_TO_LANGS = \
 
 
 # Convert # of illustrious people
-COUNTRY_INPUT_PATH = "../../cultural_production/wikipedia/wiki_observ_langs26_{0}_country_exports.tsv".format("1800_1950")
-LANG_OUTPUT_PATH = "../../cultural_production/wikipedia/wiki_observ_langs26_{0}_language_exports.tsv".format("1800_1950")
+WIKI_COUNTRY_INPUT_PATH = "wikipedia/wiki_observ_langs26_{0}_country_exports.tsv"
+WIKI_LANG_OUTPUT_PATH = "wikipedia/wiki_observ_langs26_{0}_language_exports.tsv"
 
-
-FILTER_CODE = 99999 # Use this number as start year and end year to avoid year filtering
+MURRAY_COUNTRY_INPUT_PATH = "murray/HA_unique_countries_resolved_{0}_country_exports.tsv"
+MURRAY_COUNTRY_INPUT_PATH = "murray/HA_unique_countries_resolved_{0}_country_exports.tsv"
 
 
 def convert_country_data(country_data):
@@ -88,4 +88,13 @@ def write_lang_exports_table(infile, outfile):
 
 if __name__ == '__main__':
     # Convert countries to languages:
-    write_lang_exports_table(COUNTRY_INPUT_PATH, LANG_OUTPUT_PATH)
+    for year in ["all", "1800_1950"]:
+        write_lang_exports_table(
+            WIKI_COUNTRY_INPUT_PATH.format(year), 
+            WIKI_LANG_OUTPUT_PATH.format(year)
+            )
+
+        write_lang_exports_table(
+            MURRAY_COUNTRY_INPUT_PATH.format(year),
+            MURRAY_COUNRY_LANG_OUTPUT_PATH.format(year)
+            )
