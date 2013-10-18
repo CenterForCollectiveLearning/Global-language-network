@@ -191,5 +191,16 @@
 "VI": {"name": "Virgin Islands", "langs": {"eng": 74.7, "spa": 16.8, "fra": 6.6}},
 "YE": {"name": "Yemen", "langs": {"ara": 100}},
 "ZM": {"name": "Zambia", "langs": {"bem": 30.1, "nya": 10.7, "toi": 10.6, "loz": 5.7, "eng": 16}},
-"ZW": {"name": "Zimbabwe", "langs": {"sna": 70, "nde":20, "eng": 2.5}}
+"ZW": {"name": "Zimbabwe", "langs": {"sna": 70, "nde":20, "eng": 2.5}},
+"PG": {"name": "Papua New Guinea", "langs":{"eng":2, "tpi":1.8}},
+"BS": {"name": "Bahamas, The", "langs": {"eng":100}},
+"BZ": {"name": "Belize", "langs": {"eng":41, "spa":32}},
+"GD": {"name": "Grenada", "langs": {"eng":87, "fra":2}},
+"FJ": {"name": "Fiji", "langs": {"hif":45.3, "fij":39.3}},
+"KI": {"name": "Kiribati", "langs": {"gil":62.6}},
+"KM": {"name": "Comoros", "langs": {}},
+"DM": {"name": "Dominica", "langs": {}},
+"VC": {"name": "Saint Vincent and the Grenadines", "langs": {}},
+"AG": {"name": "Antigua and Barbuda", "langs": {}},
+"ST": {"name": "Sao Tome and Principe", "langs": {}}
 }
