@@ -1,13 +1,13 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-### gln/data/cultural_production/generate_cultural_exports.py
+### gln/data/cultural_production/convert_country_to_lang_data.py
 
 """
 Convert per-country data to per-language data (cultural exports, etc.)
 Usage: python convert_country_data_to_lang infile outfiley
 
-Uses the conversion table in ../lang_tools/country_to_lang/,
+Uses the conversion table in ../../lang_tools/country_to_lang/,
 which lists for each country (2-letter code) its languages (by 3-letter code)
 their shares
 """
@@ -31,7 +31,7 @@ WIKI_COUNTRY_INPUT_PATH = "wikipedia/wiki_observ_langs26_{0}_country_exports.tsv
 WIKI_LANG_OUTPUT_PATH = "wikipedia/wiki_observ_langs26_{0}_language_exports.tsv"
 
 MURRAY_COUNTRY_INPUT_PATH = "murray/HA_unique_countries_resolved_{0}_country_exports.tsv"
-MURRAY_COUNTRY_INPUT_PATH = "murray/HA_unique_countries_resolved_{0}_country_exports.tsv"
+MURRAY_LANG_OUTPUT_PATH = "murray/HA_unique_countries_resolved_{0}_language_exports.tsv"
 
 
 def convert_country_data(country_data):
@@ -39,17 +39,16 @@ def convert_country_data(country_data):
     language_data = dict()
 
     for country_name, country_value in country_data.iteritems():
-        #for country_code, vals in COUNTRY_TO_LANGS.iteritems():
-            langs_proportions = COUNTRY_TO_LANGS[country_name]['langs']
-            print country_name, country_value, langs_proportions # debug print
-            for lang, proportion in langs_proportions.iteritems():
-                if lang in language_data:
-                    language_data[lang] += (proportion / 100.) * country_value
-                else:
-                    language_data[lang] = (proportion / 100.) * country_value        
-                #debug print 
-                print "{0}-->{1}: {2}-->{3}".format(country_name, lang, country_value,language_data[lang])
-            print # debug print
+        langs_proportions = COUNTRY_TO_LANGS[country_name]['langs']
+        print country_name, country_value, langs_proportions # debug print
+        for lang, proportion in langs_proportions.iteritems():
+            if lang in language_data:
+                language_data[lang] += (proportion / 100.) * country_value
+            else:
+                language_data[lang] = (proportion / 100.) * country_value        
+            #debug print 
+            print "{0}-->{1}: {2}-->{3}".format(country_name, lang, country_value,language_data[lang])
+        print # debug print
     return language_data
 
 
@@ -96,5 +95,5 @@ if __name__ == '__main__':
 
         write_lang_exports_table(
             MURRAY_COUNTRY_INPUT_PATH.format(year),
-            MURRAY_COUNRY_LANG_OUTPUT_PATH.format(year)
+            MURRAY_LANG_OUTPUT_PATH.format(year)
             )
