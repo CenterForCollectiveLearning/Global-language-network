@@ -35,8 +35,8 @@ COUNTRY_TO_LANGS = \
 
 
 # Convert # of illustrious people
-COUNTRY_INPUT_PATH = "../lang_demog/gdp_pop_combined.tsv"
-LANG_OUTPUT_PATH = "../lang_demog/gdp_language.tsv"
+COUNTRY_INPUT_PATH = "../lang_demog/country_gdp_pop.tsv"
+LANG_OUTPUT_PATH = "../lang_demog/language_gdp.tsv"
 
 def calc_lang_gdps(infile, outfile):
     country_gdps = defaultdict()
@@ -74,6 +74,7 @@ def calc_lang_gdps(infile, outfile):
 
     for lang in agg_lang_income:
         lang_gdp[lang] = agg_lang_income[lang] / agg_lang_pop[lang]
+        # print lang, agg_lang_income[lang], agg_lang_pop[lang], lang_gdp[lang] # debug printout
     
     # Sort dictionary by values: returns a list of tuples
     lang_gdp = sorted(lang_gdp.iteritems(), 
@@ -82,10 +83,10 @@ def calc_lang_gdps(infile, outfile):
     
     # Write sorted table
     output_dataset = codecs.open(outfile, "w")
-    output_dataset.write("lagnuage\tgdp\n")
+    output_dataset.write("lagnuage\tgdp\taggregated_speakers\n")
 
     for lang, gdp in lang_gdp:
-        output_dataset.write('{0}\t{1}\n'.format(lang, gdp))
+        output_dataset.write('{0}\t{1}\t{2}\n'.format(lang, gdp, agg_lang_pop[lang]))
     output_dataset.close()
 
 
