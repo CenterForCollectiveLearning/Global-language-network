@@ -202,5 +202,8 @@
 "DM": {"name": "Dominica", "langs": {}},
 "VC": {"name": "Saint Vincent and the Grenadines", "langs": {}},
 "AG": {"name": "Antigua and Barbuda", "langs": {}},
-"ST": {"name": "Sao Tome and Principe", "langs": {}}
+"ST": {"name": "Sao Tome and Principe", "langs": {}},
+"Arab World": {"name": "Arab World", "langs": {"ara":100}},
+"Rome": {"name": "Rome", "langs": {"lat":100}},
+"Anc. Greece": {"name": "Anc. Greece", "langs": {"grc":100}}
 }
