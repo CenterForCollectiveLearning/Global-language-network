@@ -19,10 +19,9 @@ Where Gc is the GDP of country c, Nlc is the number of speakers of language_data
 in coutnry c, and Nc is the total population of c. 
 """
 
-import os
-import sys
+import os, sys, codecs
 import simplejson
-import codecs
+import csv
 from collections import defaultdict
 from collections import Counter
 import operator # for dict sorting
@@ -33,10 +32,12 @@ COUNTRY_TO_LANGS_CONVERSION_FILE = "../../data/lang_tools/country_to_lang/countr
 COUNTRY_TO_LANGS = \
     simplejson.load(open(COUNTRY_TO_LANGS_CONVERSION_FILE, "rU"))
 
+# Number of speakers by language, to be added to output
+LANG_POPULATION = "population/gold/speakers_families_iso639-3.tsv"
 
 # Convert # of illustrious people
 COUNTRY_INPUT_PATH = "../lang_demog/country_gdp_pop.tsv"
-LANG_OUTPUT_PATH = "../lang_demog/language_gdp.tsv"
+LANG_OUTPUT_PATH = "../lang_demog/language_gdp_pop.tsv"
 
 def calc_lang_gdps(infile, outfile):
     country_gdps = defaultdict()
@@ -45,7 +46,7 @@ def calc_lang_gdps(infile, outfile):
     input_dataset = codecs.open(infile, "rU")
     input_dataset.readline() # skip header
 
-    # Aggregating country exports for legit years
+    # Aggregating country GDP and population
     for line in input_dataset:
         c_name, c_gdp, c_pop = line.strip().split('\t')
         #print c_name, c_gdp, c_pop # debug print
@@ -83,10 +84,18 @@ def calc_lang_gdps(infile, outfile):
     
     # Write sorted table
     output_dataset = codecs.open(outfile, "w")
-    output_dataset.write("lagnuage\tgdp\taggregated_speakers\n")
+    output_dataset.write("lagnuage\tgdp\taggregated_speakers\tactual_speakers\n")
+
+    # Add population for language
+    pop_data = codecs.open(LANG_POPULATION, "rU")
+    dr = csv.DictReader(pop_data, delimiter="\t")
+    act_lang_pop = defaultdict(float)
+    for row in dr:
+        act_lang_pop[row['Lang_Code']] = row['Num_Speakers_M']
 
     for lang, gdp in lang_gdp:
-        output_dataset.write('{0}\t{1}\t{2}\n'.format(lang, gdp, agg_lang_pop[lang]))
+        output_dataset.write('{0}\t{1}\t{2}\t{3}\n'.format(
+            lang, gdp, agg_lang_pop[lang]/1e6, act_lang_pop[lang]))
     output_dataset.close()
 
 
