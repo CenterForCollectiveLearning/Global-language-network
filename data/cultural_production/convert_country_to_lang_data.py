@@ -27,11 +27,11 @@ COUNTRY_TO_LANGS = \
 
 
 # Convert # of illustrious people
-WIKI_COUNTRY_INPUT_PATH = "wikipedia/wiki_observ_langs26_{0}_country_exports.tsv"
-WIKI_LANG_OUTPUT_PATH = "wikipedia/wiki_observ_langs26_{0}_language_exports.tsv"
+WIKI_COUNTRY_INPUT_PATH = "wikipedia/2013-10/wiki_observ_langs26_{0}_country_exports.tsv"
+WIKI_LANG_OUTPUT_PATH = "wikipedia/2013-10/wiki_observ_langs26_{0}_language_exports.tsv"
 
-MURRAY_COUNTRY_INPUT_PATH = "murray/HA_unique_countries_resolved_{0}_country_exports.tsv"
-MURRAY_LANG_OUTPUT_PATH = "murray/HA_unique_countries_resolved_{0}_language_exports.tsv"
+MURRAY_COUNTRY_INPUT_PATH = "murray/2013-10/HA_unique_countries_resolved_{0}_country_exports.tsv"
+MURRAY_LANG_OUTPUT_PATH = "murray/2013-10/HA_unique_countries_resolved_{0}_language_exports.tsv"
 
 
 def convert_country_data(country_data):
@@ -78,7 +78,7 @@ def write_lang_exports_table(infile, outfile):
     
     # Write sorted table
     output_dataset = codecs.open(outfile, "w")
-    output_dataset.write("lagnuage\tvals\n")
+    output_dataset.write("lagnuage\total_exports\n")
 
     for lang, total_exports in language_data_sorted:
         output_dataset.write('{0}\t{1}\n'.format(lang, total_exports))
