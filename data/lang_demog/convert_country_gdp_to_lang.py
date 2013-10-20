@@ -84,7 +84,7 @@ def calc_lang_gdps(infile, outfile):
     
     # Write sorted table
     output_dataset = codecs.open(outfile, "w")
-    output_dataset.write("lagnuage\tgdp\taggregated_speakers\tactual_speakers\n")
+    output_dataset.write("lang\tgdp_pc\taggregated_speakers_m\tactual_speakers_m\n")
 
     # Add population for language
     pop_data = codecs.open(LANG_POPULATION, "rU")
