@@ -8,4 +8,4 @@ Number of people:
 
 2013-05/: using old country-lang conversion. These are the values used for the May Science submission.
 
-2013-10/: using new country-lang conversion. These are the values used for the November submission.
+2013-10/: using new country-lang conversion. These are the values used for the November submission. Note that the exports-by-country files haven't changes: they're copied here for compatibility with other scripts.
