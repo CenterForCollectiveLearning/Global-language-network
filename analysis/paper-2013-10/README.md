@@ -11,9 +11,10 @@ VV Calculate regressions for new people table. Remove English.
 VV Re-do Fig 4 (correlations)
 VV Tables 1 & 2 (regression)
 VV Table S5 (gdp pc for langs)
--- Tables S7-S11 (ppl by country and ppl by lang)
+-- Table S7
+-- Tables S8-S11 (ppl by country and ppl by lang)
 VV Tables S12-14 (alternative regression)
--- Figures S3 (num people on "Wikipedia N" vs. N)
+VV Figure S3 (num people on "Wikipedia N" vs. N)
 -- Updates online SOM tables: Added some countries to GDP-pop  
 
 
