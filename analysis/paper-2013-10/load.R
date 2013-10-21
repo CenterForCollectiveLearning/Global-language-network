@@ -40,6 +40,9 @@ LANG.DEMOG.DIR <- file.path(DATA.ROOT.DIR, "lang_demog")
 SPEAKER.STATS.FILE <- file.path(LANG.DEMOG.DIR, "population/gold/speakers_families_iso639-3.tsv")
 LANG.STATS.FILE <- file.path(LANG.DEMOG.DIR, "language_gdp_pop.tsv")
 
+# Country code conversion
+COUNTRY.CODE.CONV.FILE <- file.path(DATA.ROOT.DIR, "lang_demog/country_codes.tsv")
+
 # CULTURAL PRODUCTION SETTINGS
 CULT.PRODUCTION.DIR <- file.path(DATA.ROOT.DIR, "cultural_production")
 MURRAY.PRODUCTION.DIR <- file.path(CULT.PRODUCTION.DIR, "murray/2013-10")

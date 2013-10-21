@@ -1,0 +1,251 @@
+ENTITY	GEC	ISO_3166-2	ISO_3166-3	ISO_3166-num	STANAG	INTERNET	COMMENT
+Aruba	AA	AW	ABW	533	ABW	.aw	
+Afghanistan	AF	AF	AFG	4	AFG	.af	
+Angola	AO	AO	AGO	24	AGO	.ao	
+Anguilla	AV	AI	AIA	660	AIA	.ai	
+Albania	AL	AL	ALB	8	ALB	.al	
+Andorra	AN	AD	AND	20	AND	.ad	
+United Arab Emirates	AE	AE	ARE	784	ARE	.ae	
+Argentina	AR	AR	ARG	32	ARG	.ar	
+Armenia	AM	AM	ARM	51	ARM	.am	
+American Samoa	AQ	AS	ASM	16	ASM	.as	
+Antarctica	AY	AQ	ATA	10	ATA	.aq	ISO defines as the territory south of 60 degrees south latitude
+French Southern and Antarctic Lands	FS	TF	ATF	260	ATF	.tf	FIPS 10-4 does not include the French-claimed portion of Antarctica (Terre Adelie)
+Antigua and Barbuda	AC	AG	ATG	28	ATG	.ag	
+Australia	AS	AU	AUS	36	AUS	.au	ISO includes Ashmore and Cartier Islands, Coral Sea Islands
+Austria	AU	AT	AUT	40	AUT	.at	
+Azerbaijan	AJ	AZ	AZE	31	AZE	.az	
+Burundi	BY	BI	BDI	108	BDI	.bi	
+Belgium	BE	BE	BEL	56	BEL	.be	
+Benin	BN	BJ	BEN	204	BEN	.bj	
+Burkina Faso	UV	BF	BFA	854	BFA	.bf	
+Bangladesh	BG	BD	BGD	50	BGD	.bd	
+Bulgaria	BU	BG	BGR	100	BGR	.bg	
+Bahrain	BA	BH	BHR	48	BHR	.bh	
+Bahamas, The	BF	BS	BHS	44	BHS	.bs	
+Bosnia and Herzegovina	BK	BA	BIH	70	BIH	.ba	
+Saint Barthelemy	TB	BL	BLM	652	-	.bl	ccTLD .fr and .gp may also be used
+Belarus	BO	BY	BLR	112	BLR	.by	
+Belize	BH	BZ	BLZ	84	BLZ	.bz	
+Bermuda	BD	BM	BMU	60	BMU	.bm	
+Bolivia	BL	BO	BOL	68	BOL	.bo	
+Brazil	BR	BR	BRA	76	BRA	.br	
+Barbados	BB	BB	BRB	52	BRB	.bb	
+Brunei	BX	BN	BRN	96	BRN	.bn	
+Bhutan	BT	BT	BTN	64	BTN	.bt	
+Bouvet Island	BV	BV	BVT	74	BVT	.bv	
+Botswana	BC	BW	BWA	72	BWA	.bw	
+Central African Republic	CT	CF	CAF	140	CAF	.cf	
+Canada	CA	CA	CAN	124	CAN	.ca	
+Cocos (Keeling) Islands	CK	CC	CCK	166	AUS	.cc	
+Switzerland	SZ	CH	CHE	756	CHE	.ch	
+Chile	CI	CL	CHL	152	CHL	.cl	
+China	CH	CN	CHN	156	CHN	.cn	see also Taiwan
+Cote d'Ivoire	IV	CI	CIV	384	CIV	.ci	
+Cameroon	CM	CM	CMR	120	CMR	.cm	
+Congo, Democratic Republic of the	CG	CD	COD	180	COD	.cd	formerly Zaire
+Congo, Republic of the	CF	CG	COG	178	COG	.cg	
+Cook Islands	CW	CK	COK	184	COK	.ck	
+Colombia	CO	CO	COL	170	COL	.co	
+Comoros	CN	KM	COM	174	COM	.km	
+Cape Verde	CV	CV	CPV	132	CPV	.cv	
+Costa Rica	CS	CR	CRI	188	CRI	.cr	
+Cuba	CU	CU	CUB	192	CUB	.cu	
+Curacao	UC	CW	CUW	531	-	.cw	
+Christmas Island	KT	CX	CXR	162	CXR	.cx	
+Cayman Islands	CJ	KY	CYM	136	CYM	.ky	
+Cyprus	CY	CY	CYP	196	CYP	.cy	
+Czech Republic	EZ	CZ	CZE	203	CZE	.cz	
+Germany	GM	DE	DEU	276	DEU	.de	
+Djibouti	DJ	DJ	DJI	262	DJI	.dj	
+Dominica	DO	DM	DMA	212	DMA	.dm	
+Denmark	DA	DK	DNK	208	DNK	.dk	
+Dominican Republic	DR	DO	DOM	214	DOM	.do	
+Algeria	AG	DZ	DZA	12	DZA	.dz	
+Ecuador	EC	EC	ECU	218	ECU	.ec	
+Egypt	EG	EG	EGY	818	EGY	.eg	
+Eritrea	ER	ER	ERI	232	ERI	.er	
+Western Sahara	WI	EH	ESH	732	ESH	.eh	
+Spain	SP	ES	ESP	724	ESP	.es	
+Estonia	EN	EE	EST	233	EST	.ee	
+Ethiopia	ET	ET	ETH	231	ETH	.et	
+Finland	FI	FI	FIN	246	FIN	.fi	
+Fiji	FJ	FJ	FJI	242	FJI	.fj	
+Falkland Islands (Islas Malvinas)	FK	FK	FLK	238	FLK	.fk	
+France	FR	FR	FRA	250	FRA	.fr	ISO includes metropolitan France along with the dependencies of Clipperton Island, French Guiana, French Polynesia, French Southern and Antarctic Lands, Guadeloupe, Martinique, Mayotte, New Caledonia, Reunion, Saint Pierre and Miquelon, Wallis and Futuna
+Faroe Islands	FO	FO	FRO	234	FRO	.fo	
+Micronesia, Federated States of	FM	FM	FSM	583	FSM	.fm	
+France, Metropolitan	-	FX	FXX	249	-	.fx	ISO limits to the European part of France
+Gabon	GB	GA	GAB	266	GAB	.ga	
+United Kingdom	UK	GB	GBR	826	GBR	.uk	for its internal communications, the European Union recommends the use of the code UK in lieu of the ISO 3166-2 code of GB
+Georgia	GG	GE	GEO	268	GEO	.ge	
+Guernsey	GK	GG	GGY	831	UK	.gg	
+Ghana	GH	GH	GHA	288	GHA	.gh	
+Gibraltar	GI	GI	GIB	292	GIB	.gi	
+Guinea	GV	GN	GIN	324	GIN	.gn	
+Guadeloupe	GP	GP	GLP	312	GLP	.gp	
+Gambia, The	GA	GM	GMB	270	GMB	.gm	
+Guinea-Bissau	PU	GW	GNB	624	GNB	.gw	
+Equatorial Guinea	EK	GQ	GNQ	226	GNQ	.gq	
+Greece	GR	GR	GRC	300	GRC	.gr	For its internal communications, the European Union recommends the use of the code EL in lieu of the ISO 3166-2 code of GR
+Grenada	GJ	GD	GRD	308	GRD	.gd	
+Greenland	GL	GL	GRL	304	GRL	.gl	
+Guatemala	GT	GT	GTM	320	GTM	.gt	
+French Guiana	FG	GF	GUF	254	GUF	.gf	
+Guam	GQ	GU	GUM	316	GUM	.gu	
+Guyana	GY	GY	GUY	328	GUY	.gy	
+Hong Kong	HK	HK	HKG	344	HKG	.hk	
+Heard Island and McDonald Islands	HM	HM	HMD	334	HMD	.hm	
+Honduras	HO	HN	HND	340	HND	.hn	
+Croatia	HR	HR	HRV	191	HRV	.hr	
+Haiti	HA	HT	HTI	332	HTI	.ht	
+Hungary	HU	HU	HUN	348	HUN	.hu	
+Indonesia	ID	ID	IDN	360	IDN	.id	
+Isle of Man	IM	IM	IMN	833	UK	.im	
+India	IN	IN	IND	356	IND	.in	
+British Indian Ocean Territory	IO	IO	IOT	86	IOT	.io	
+Ireland	EI	IE	IRL	372	IRL	.ie	
+Iran	IR	IR	IRN	364	IRN	.ir	
+Iraq	IZ	IQ	IRQ	368	IRQ	.iq	
+Iceland	IC	IS	ISL	352	ISL	.is	
+Israel	IS	IL	ISR	376	ISR	.il	
+Italy	IT	IT	ITA	380	ITA	.it	
+Jamaica	JM	JM	JAM	388	JAM	.jm	
+Jersey	JE	JE	JEY	832	UK	.je	
+Jordan	JO	JO	JOR	400	JOR	.jo	
+Japan	JA	JP	JPN	392	JPN	.jp	
+Kazakhstan	KZ	KZ	KAZ	398	KAZ	.kz	
+Kenya	KE	KE	KEN	404	KEN	.ke	
+Kyrgyzstan	KG	KG	KGZ	417	KGZ	.kg	
+Cambodia	CB	KH	KHM	116	KHM	.kh	
+Kiribati	KR	KI	KIR	296	KIR	.ki	
+Saint Kitts and Nevis	SC	KN	KNA	659	KNA	.kn	
+Korea, South	KS	KR	KOR	410	KOR	.kr	
+Kuwait	KU	KW	KWT	414	KWT	.kw	
+Laos	LA	LA	LAO	418	LAO	.la	
+Lebanon	LE	LB	LBN	422	LBN	.lb	
+Liberia	LI	LR	LBR	430	LBR	.lr	
+Libya	LY	LY	LBY	434	LBY	.ly	
+Saint Lucia	ST	LC	LCA	662	LCA	.lc	
+Liechtenstein	LS	LI	LIE	438	LIE	.li	
+Sri Lanka	CE	LK	LKA	144	LKA	.lk	
+Lesotho	LT	LS	LSO	426	LSO	.ls	
+Lithuania	LH	LT	LTU	440	LTU	.lt	
+Luxembourg	LU	LU	LUX	442	LUX	.lu	
+Latvia	LG	LV	LVA	428	LVA	.lv	
+Macau	MC	MO	MAC	446	MAC	.mo	
+Saint Martin	RN	MF	MAF	663	-	.mf	ccTLD .fr and .gp may also be used
+Morocco	MO	MA	MAR	504	MAR	.ma	
+Monaco	MN	MC	MCO	492	MCO	.mc	
+Moldova	MD	MD	MDA	498	MDA	.md	
+Madagascar	MA	MG	MDG	450	MDG	.mg	
+Maldives	MV	MV	MDV	462	MDV	.mv	
+Mexico	MX	MX	MEX	484	MEX	.mx	
+Marshall Islands	RM	MH	MHL	584	MHL	.mh	
+Macedonia	MK	MK	MKD	807	FYR	.mk	
+Mali	ML	ML	MLI	466	MLI	.ml	
+Malta	MT	MT	MLT	470	MLT	.mt	
+Burma	BM	MM	MMR	104	MMR	.mm	ISO uses the name Myanmar
+Montenegro	MJ	ME	MNE	499	MNE	.me	
+Mongolia	MG	MN	MNG	496	MNG	.mn	
+Northern Mariana Islands	CQ	MP	MNP	580	MNP	.mp	
+Mozambique	MZ	MZ	MOZ	508	MOZ	.mz	
+Mauritania	MR	MR	MRT	478	MRT	.mr	
+Montserrat	MH	MS	MSR	500	MSR	.ms	
+Martinique	MB	MQ	MTQ	474	MTQ	.mq	
+Mauritius	MP	MU	MUS	480	MUS	.mu	
+Malawi	MI	MW	MWI	454	MWI	.mw	
+Malaysia	MY	MY	MYS	458	MYS	.my	
+Mayotte	MF	YT	MYT	175	FRA	.yt	
+Namibia	WA	NA	NAM	516	NAM	.na	
+New Caledonia	NC	NC	NCL	540	NCL	.nc	
+Niger	NG	NE	NER	562	NER	.ne	
+Norfolk Island	NF	NF	NFK	574	NFK	.nf	
+Nigeria	NI	NG	NGA	566	NGA	.ng	
+Nicaragua	NU	NI	NIC	558	NIC	.ni	
+Niue	NE	NU	NIU	570	NIU	.nu	
+Netherlands	NL	NL	NLD	528	NLD	.nl	
+Norway	NO	NO	NOR	578	NOR	.no	
+Nepal	NP	NP	NPL	524	NPL	.np	
+Nauru	NR	NR	NRU	520	NRU	.nr	
+New Zealand	NZ	NZ	NZL	554	NZL	.nz	
+Oman	MU	OM	OMN	512	OMN	.om	
+Pakistan	PK	PK	PAK	586	PAK	.pk	
+Panama	PM	PA	PAN	591	PAN	.pa	
+Pitcairn Islands	PC	PN	PCN	612	PCN	.pn	
+Peru	PE	PE	PER	604	PER	.pe	
+Philippines	RP	PH	PHL	608	PHL	.ph	
+Palau	PS	PW	PLW	585	PLW	.pw	
+Papua New Guinea	PP	PG	PNG	598	PNG	.pg	
+Poland	PL	PL	POL	616	POL	.pl	
+Puerto Rico	RQ	PR	PRI	630	PRI	.pr	
+Korea, North	KN	KP	PRK	408	PRK	.kp	
+Portugal	PO	PT	PRT	620	PRT	.pt	
+Paraguay	PA	PY	PRY	600	PRY	.py	
+Gaza Strip	GZ	PS	PSE	275	PSE	.ps	ISO identifies as Occupied Palestinian Territory
+West Bank	WE	PS	PSE	275	PSE	.ps	ISO identifies as Occupied Palestinian Territory
+French Polynesia	FP	PF	PYF	258	PYF	.pf	
+Qatar	QA	QA	QAT	634	QAT	.qa	
+Reunion	RE	RE	REU	638	REU	.re	
+Romania	RO	RO	ROU	642	ROU	.ro	
+Russia	RS	RU	RUS	643	RUS	.ru	
+Rwanda	RW	RW	RWA	646	RWA	.rw	
+Saudi Arabia	SA	SA	SAU	682	SAU	.sa	
+Sudan	SU	SD	SDN	729	SDN	.sd	
+Senegal	SG	SN	SEN	686	SEN	.sn	
+Singapore	SN	SG	SGP	702	SGP	.sg	
+South Georgia and the Islands	SX	GS	SGS	239	SGS	.gs	
+Saint Helena, Ascension, and Tristan da Cunha	SH	SH	SHN	654	SHN	.sh	includes Saint Helena Island, Ascension Island, and the Tristan da Cunha archipelago
+Svalbard	SV	SJ	SJM	744	SJM	.sj	ISO includes Jan Mayen
+Solomon Islands	BP	SB	SLB	90	SLB	.sb	
+Sierra Leone	SL	SL	SLE	694	SLE	.sl	
+El Salvador	ES	SV	SLV	222	SLV	.sv	
+San Marino	SM	SM	SMR	674	SMR	.sm	
+Somalia	SO	SO	SOM	706	SOM	.so	
+Saint Pierre and Miquelon	SB	PM	SPM	666	SPM	.pm	
+Serbia	RI	RS	SRB	688	-	.rs	
+South Sudan	OD	SS	SSD	728	-	-	IANA has designated .ss as the ccTLD for South Sudan, however it has not been activated in DNS root zone
+Sao Tome and Principe	TP	ST	STP	678	STP	.st	
+Suriname	NS	SR	SUR	740	SUR	.sr	
+Slovakia	LO	SK	SVK	703	SVK	.sk	
+Slovenia	SI	SI	SVN	705	SVN	.si	
+Sweden	SW	SE	SWE	752	SWE	.se	
+Swaziland	WZ	SZ	SWZ	748	SWZ	.sz	
+Sint Maarten	NN	SX	SXM	534	-	.sx	
+Seychelles	SE	SC	SYC	690	SYC	.sc	
+Syria	SY	SY	SYR	760	SYR	.sy	
+Turks and Caicos Islands	TK	TC	TCA	796	TCA	.tc	
+Chad	CD	TD	TCD	148	TCD	.td	
+Togo	TO	TG	TGO	768	TGO	.tg	
+Thailand	TH	TH	THA	764	THA	.th	
+Tajikistan	TI	TJ	TJK	762	TJK	.tj	
+Tokelau	TL	TK	TKL	772	TKL	.tk	
+Turkmenistan	TX	TM	TKM	795	TKM	.tm	
+Timor-Leste	TT	TL	TLS	626	TLS	.tl	
+Tonga	TN	TO	TON	776	TON	.to	
+Trinidad and Tobago	TD	TT	TTO	780	TTO	.tt	
+Tunisia	TS	TN	TUN	788	TUN	.tn	
+Turkey	TU	TR	TUR	792	TUR	.tr	
+Tuvalu	TV	TV	TUV	798	TUV	.tv	
+Taiwan	TW	TW	TWN	158	TWN	.tw	
+Tanzania	TZ	TZ	TZA	834	TZA	.tz	
+Uganda	UG	UG	UGA	800	UGA	.ug	
+Ukraine	UP	UA	UKR	804	UKR	.ua	
+United States Minor Outlying Islands	-	UM	UMI	581	-	.um	ISO includes Baker Island, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Islands, Navassa Island, Palmyra Atoll, Wake Island
+Uruguay	UY	UY	URY	858	URY	.uy	
+United States	US	US	USA	840	USA	.us	
+Uzbekistan	UZ	UZ	UZB	860	UZB	.uz	
+Holy See (Vatican City)	VT	VA	VAT	336	VAT	.va	
+Saint Vincent and the Grenadines	VC	VC	VCT	670	VCT	.vc	
+Venezuela	VE	VE	VEN	862	VEN	.ve	
+British Virgin Islands	VI	VG	VGB	92	VGB	.vg	
+Virgin Islands	VQ	VI	VIR	850	VIR	.vi	
+Vietnam	VM	VN	VNM	704	VNM	.vn	
+Vanuatu	NH	VU	VUT	548	VUT	.vu	
+Wallis and Futuna	WF	WF	WLF	876	WLF	.wf	
+Samoa	WS	WS	WSM	882	WSM	.ws	
+Kosovo	KV	XK	XKS	-	-	-	XK and XKS are ISO 3166 user assigned codes; ISO 3166 Maintenace Authority has not assigned codes
+Yemen	YM	YE	YEM	887	YEM	.ye	
+South Africa	SF	ZA	ZAF	710	ZAF	.za	
+Zambia	ZA	ZM	ZMB	894	ZMB	.zm	
+Zimbabwe	ZI	ZW	ZWE	716	ZWE	.zw	
