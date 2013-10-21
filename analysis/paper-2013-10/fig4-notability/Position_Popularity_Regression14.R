@@ -393,8 +393,9 @@ run.notability.regressions <- function(src.name, # "wiki" / "murray"
 
 #### MAIN ####
 
-# Three versions for each source (wiki/murray)
-# (1) 1800-1950 (2) all years (3) 1800-1950 w/o English
+# Six versions for each source (wiki/murray):
+# (1) 1800-1950 (2) all years (3) 1800-1950 w/o English,
+# all with no min. on number of ppl and with a min. of 1
 run.notability.regressions(src.name="wiki", 
                            min.exports=1,
                            date.range="1800_1950")
