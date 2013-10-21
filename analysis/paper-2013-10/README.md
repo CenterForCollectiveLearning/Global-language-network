@@ -6,12 +6,14 @@ To do:
 VV Convert country table to lang table (gln/data/lang_tools/country_to_lang/convert_country_to_lang_data.py)
 VV Convert GDP to language (using the same script)
 VV NO!: Consider: set a 5% minimum for conversion?
--- Combine population and GDP for language
--- Calculate regressions for new people table. Remove English.
--- Re-do Fig 4 (correlations)
--- Tables 1 & 2 (regression)
+VV Combine population and GDP for language
+VV Calculate regressions for new people table. Remove English.
+VV Re-do Fig 4 (correlations)
+VV Tables 1 & 2 (regression)
+VV Table S5 (gdp pc for langs)
 -- Tables S7-S11 (ppl by country and ppl by lang)
--- Tables S12-14 (alternative regression)
+VV Tables S12-14 (alternative regression)
+-- Figures S3 (num people on "Wikipedia N" vs. N)
 -- Updates online SOM tables: Added some countries to GDP-pop  
 
 

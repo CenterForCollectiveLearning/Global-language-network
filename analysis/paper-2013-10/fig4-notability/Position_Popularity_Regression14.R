@@ -189,7 +189,7 @@ plot.regressions <- function(df.all.metrics, outfile="") {
       oma=c(0,2.5,0,2.5), # outer margins
       pty="s") # square plotting region
   
-  plot.vars.twit <<- prep.plot.vars(df.all.metrics,
+  plot.vars.twit <- prep.plot.vars(df.all.metrics,
                                    indep="twit.eig", dep="cultexp",
                                    with.na="omit")
   
@@ -198,7 +198,7 @@ plot.regressions <- function(df.all.metrics, outfile="") {
                     x.title="Twitter EV cent.", y.title="log10(Popularity)",
                     plot.y.axis='s', plot.color="red")
   
-  plot.vars.wiki <<- prep.plot.vars(df.all.metrics,
+  plot.vars.wiki <- prep.plot.vars(df.all.metrics,
                                    indep="wiki.eig", dep="cultexp",
                                    with.na="omit")
   
@@ -207,7 +207,7 @@ plot.regressions <- function(df.all.metrics, outfile="") {
                     x.title="Wikipedia EV cent.", y.title="log10(Popularity)",
                     plot.y.axis='n', plot.color="forestgreen")
 
-  plot.vars.book <<- prep.plot.vars(df.all.metrics,
+  plot.vars.book <- prep.plot.vars(df.all.metrics,
                                    indep="book.eig", dep="cultexp",
                                    with.na="omit")
   p.book <- regress.one.indep(plot.vars.book,
@@ -377,8 +377,6 @@ run.notability.regressions <- function(src.name, # "wiki" / "murray"
                file=top10.file, append=T, quote=F, sep="\t")
   
   # write country exports
-  print(getwd())
-  print(country.cultural.exports.file)
   country.exports <- read.table(country.cultural.exports.file,
                                 #row.names=1, # use values from first column
                                 header=T, sep="\t", quote="")
@@ -393,17 +391,52 @@ run.notability.regressions <- function(src.name, # "wiki" / "murray"
   setwd(orig.dir)
 }
 
+#### MAIN ####
+
+# Three versions for each source (wiki/murray)
+# (1) 1800-1950 (2) all years (3) 1800-1950 w/o English
 run.notability.regressions(src.name="wiki", 
+                           min.exports=1,
                            date.range="1800_1950")
-#run.notability.regressions(src.name="wiki", 
-#                           date.range="all") # For SM
-run.notability.regressions(src.name="murray", 
+run.notability.regressions(src.name="wiki",
+                           min.exports=1,
+                           date.range="all") # For SM
+run.notability.regressions(src.name="wiki", 
+                           min.exports=1,
                            date.range="1800_1950",
-                           #add.note="nosqi",
-                           langs.to.remove=c()) # sqi Albanian WAS a major outlier
-exit()
-#run.notability.regressions(src.name="murray", 
-#                           date.range="all",
-#                           add.note="nosqi",
-#                           langs.to.remove=c("sqi")) # For SM
-run.notability.regressions(src.name="murray", date.range="1800_1950") # For SM, all langs
+                           langs.to.remove=c("eng"),
+                           add.note="noeng") # For SM
+run.notability.regressions(src.name="wiki", 
+                           min.exports=0,
+                           date.range="1800_1950")
+run.notability.regressions(src.name="wiki",
+                           min.exports=0,
+                           date.range="all") # For SM
+run.notability.regressions(src.name="wiki", 
+                           min.exports=0,
+                           date.range="1800_1950",
+                           langs.to.remove=c("eng"),
+                           add.note="noeng") # For SM
+
+run.notability.regressions(src.name="murray", 
+                           min.exports=1,
+                           date.range="1800_1950")
+run.notability.regressions(src.name="murray", 
+                           min.exports=1,
+                           date.range="all") # For SM
+run.notability.regressions(src.name="murray", 
+                           min.exports=1,
+                           date.range="1800_1950",
+                           langs.to.remove=c("eng"),
+                           add.note="noeng") # For SM
+run.notability.regressions(src.name="murray", 
+                           min.exports=0,
+                           date.range="1800_1950")
+run.notability.regressions(src.name="murray", 
+                           min.exports=0,
+                           date.range="all") # For SM
+run.notability.regressions(src.name="murray", 
+                           min.exports=0,
+                           date.range="1800_1950",
+                           langs.to.remove=c("eng"),
+                           add.note="noeng") # For SM

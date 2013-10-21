@@ -2,7 +2,7 @@ this folder: processed export table for regressions, from Wikipedia
 
 2013-05/
 	Used for the May submission to Science. L>=20.
-	Full country names, older country-to-lang mapping.
+	Full country names for input.
 
 	wiki_data/
 		culture.sqlite3: dump of people containing all 4 cultural exports criteria: DOB, POB, gender, occupation
@@ -16,13 +16,13 @@ this folder: processed export table for regressions, from Wikipedia
 
 
 2013-10/
-	Used for the November submission to Nature. L>=26 from Observatory.
-	Using two-letter country codes and new country-to-lang mapping.
+	L>=26 from Observatory, using two-letter country codes for input.
+	USE THESE FILES! THEY USE THE NEW COUNTRY-TO-LANG CONVERSION
 
 	wiki_data/
 		l26_observatory_manualcleaning2.sqlite3: File with L>25 (not >=!) people from the Global Culture Observatory (as of 9/27/2013). The relevant table is culture3.
 	
 		get_observatory_tables.R: convert the observatory dump to TSV files.
 
-		wiki_observ_langs26.tsv: list of people with Wikipedia articles in AT LEAST 26 langs. 10,163 total, X born 1800-1950. USED FOR NOV. SUBMISSION.
+		wiki_observ_langs26.tsv: list of people with Wikipedia articles in AT LEAST 26 langs. 10,163 total, X born 1800-1950.
 
