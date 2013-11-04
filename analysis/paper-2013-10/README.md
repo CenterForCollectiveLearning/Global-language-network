@@ -11,11 +11,12 @@ VV Calculate regressions for new people table. Remove English.
 VV Re-do Fig 4 (correlations) MURRAY
 VV Tables 1 & 2 (regression) and corresponding text
 VV Table S5 (gdp pc for langs)
--- Table S7
+VV Table S7
 VV Tables S8-S11 (ppl by country and ppl by lang)
 VV Tables S12-15 (alternative regression) MURRAY
 VV Figure S3 (num people on "Wikipedia N" vs. N)
 -- Updates online SOM tables: Added some countries to GDP-pop  
+-- Upload figures
 
 
 2) Robustness -- change network thresholds: 
