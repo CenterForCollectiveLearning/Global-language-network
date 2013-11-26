@@ -9,6 +9,7 @@ Arthur Schopenhauer	1788	Poland	PL	79
 Albert Einstein	1879	Germany	DE	166
 Alexander the Great	-356	Greece	GR	138
 Alfred Hitchcock	1899	United Kingdom	GB	100
+Attila the Hun	406	Hungary	HU	83
 Alfred Nobel	1833	Sweden	SE	109
 Alexander Graham Bell	1847	United Kingdom	GB	94
 Andy Warhol	1928	United States	US	100
@@ -21,6 +22,7 @@ Albert Speer	1905	Germany	DE	52
 Ada Lovelace	1815	United Kingdom	GB	61
 Albert Camus	1913	Algeria	DZ	95
 Agatha Christie	1890	United Kingdom	GB	91
+Aaron	0	Egypt	EG	59
 Allen Ginsberg	1926	United States	US	52
 Anatoly Karpov	1951	Kazakhstan	KZ	55
 Aristophanes	-446	Greece	GR	68
@@ -47,32 +49,51 @@ Abraham	0	Israel	IL	105
 Absalom	0	Palestine	PS	35
 Alfred Russel Wallace	1823	United Kingdom	GB	53
 Albert I, Duke of Prussia	1490	Germany	DE	28
+Ahmed I	1590	Turkey	TR	48
+Ahmed II	1643	Turkey	TR	42
+Ahmed III	1673	Bulgaria	BG	45
+Agesilaus II	-444	Greece	GR	30
 Agrippina the Younger	15	Germany	DE	34
 Ahmed Shah Abdali	1722	Pakistan	PK	37
+Alaric I	370	Romania	RO	52
+Alaric II	0	Romania	RO	36
 Albertus Magnus	1193	Germany	DE	57
 Alboin	530	Serbia	RS	31
-Alcaeus	620	Greece	GR	37
+Afonso de Albuquerque	1453	Portugal	PT	35
+Alcaeus	-620	Greece	GR	37
+Alexander Balas	-200	Turkey	TR	27
 Alexander II of Russia	1818	Russia	RU	62
 Alexander III of Russia	1845	Russia	RU	62
 Alexander I of Scotland	1078	United Kingdom	GB	27
+Alexander II of Scotland	1198	United Kingdom	GB	32
 Alexander I of Serbia	1876	Serbia	RS	28
+Alexander III of Scotland	1241	New Zealand	NZ	30
 Alexander Severus	208	Jordan	JO	50
+Alexios I Komnenos	1048	Turkey	TR	52
 Alexios II Komnenos	1169	Turkey	TR	31
+Alexios III Angelos	1153	Turkey	TR	34
 Andrew Jackson	1767	United States	US	93
 Andrew Johnson	1808	United States	US	85
 Aleksandr Solzhenitsyn	1918	Russia	RU	91
 Alfred the Great	849	United Kingdom	GB	59
 Ibn al-Haitham	965	Iraq	IQ	53
+Amalasuntha	495	Italy	IT	30
 Afonso I of Portugal	1109	Portugal	PT	45
 Afonso II of Portugal	1185	Portugal	PT	28
 Afonso III of Portugal	1210	Portugal	PT	29
 Afonso IV of Portugal	1291	Portugal	PT	31
+Afonso V of Portugal	1432	Portugal	PT	26
 Alfonso XII of Spain	1857	Spain	ES	43
+Alfonso XIII of Spain	1886	Spain	ES	53
 Alfonso V of Aragon	1396	Spain	ES	28
+Ambiorix	-100	Belgium	BE	27
 Abu Bakr	573	Saudi Arabia	SA	78
 Anaxagoras	-500	Turkey	TR	62
 Anaximenes of Miletus	-585	Turkey	TR	62
+Ancus Marcius	0	Italy	IT	34
 Andronikos III Palaiologos	1297	Turkey	TR	35
+Andronikos II Palaiologos	1259	Turkey	TR	37
+Andronikos I Komnenos	1118	Turkey	TR	40
 Ammianus Marcellinus	320	Turkey	TR	48
 Apuleius	120	Algeria	DZ	48
 Alexander Selkirk	1676	United Kingdom	GB	31
@@ -80,9 +101,10 @@ Arnold Schwarzenegger	1947	Austria	AT	87
 Adam Smith	1723	United Kingdom	GB	111
 Antoine Lavoisier	1743	France	FR	75
 Amitabh Bachchan	1942	India	IN	56
+Agathocles of Syracuse	-361	Italy	IT	26
 Augustin Louis Cauchy	1789	France	FR	50
 Archimedes	-287	Italy	IT	129
-Alfred Jarry	1873	Canada	CA	32
+Alfred Jarry	1873	France	FR	32
 Anthemius of Tralles	474	Turkey	TR	28
 Alessandro Volta	1745	Italy	IT	73
 Alexander Fleming	1881	United Kingdom	GB	81
@@ -107,6 +129,7 @@ Anton Drexler	1884	Germany	DE	26
 Ahmed Shah Massoud	1953	Pakistan	PK	43
 Arcadius	370	Spain	ES	54
 Aage Niels Bohr	1922	Denmark	DK	49
+Antipope John XXIII	1370	Italy	IT	30
 Antonio Salieri	1750	Italy	IT	52
 Arthur Stanley Eddington	1882	United Kingdom	GB	36
 Arthur Miller	1915	United States	US	63
@@ -122,16 +145,20 @@ Albrecht Altdorfer	1480	Germany	DE	38
 Anton Chekhov	1860	Russia	RU	110
 Alexander Kerensky	1881	Russia	RU	51
 Ansgar	801	France	FR	29
+Adam of Bremen	0	Germany	DE	33
 André the Giant	1946	France	FR	30
-Abbas II of Egypt	1874	United States	US	29
+Abbas II of Egypt	1874	Egypt	EG	29
 Abd ar-Rahman I	731	Syria	SY	37
+Abd-ar-Rahman III	912	Spain	ES	34
 Abdülâziz	1830	Turkey	TR	46
+‘Abdu’l-Hamid I	1725	Turkey	TR	48
+Abdur Rahman Khan	1844	Afghanistan	AF	26
 Anders Celsius	1701	Sweden	SE	63
 Andrei Sakharov	1921	Russia	RU	63
 Aron Nimzowitsch	1886	Latvia	LV	29
 Aung San Suu Kyi	1945	Myanmar [Burma]	MM	83
 Archduke Charles, Duke of Teschen	1771	Italy	IT	29
-Augustine of Canterbury	0	Italy	IT	36
+Augustine of Canterbury	630	Italy	IT	36
 Amr Diab	1961	Egypt	EG	26
 Anaïs Nin	1903	France	FR	33
 Ariel Sharon	1928	Israel	IL	65
@@ -170,10 +197,13 @@ Bobby Charlton	1937	United Kingdom	GB	47
 Berthe Morisot	1841	France	FR	46
 Bayezid I	1354	Turkey	TR	57
 Bayezid II	1447	Greece	GR	50
+Bodhidharma	0	India	IN	41
+Benjamin	-1000	Israel	IL	27
 Buddy Holly	1936	United States	US	50
 Babrak Karmal	1929	Afghanistan	AF	26
 Billy Bob Thornton	1955	United States	US	36
 Beatrix Potter	1866	United Kingdom	GB	36
+Boudica	0	United Kingdom	GB	43
 Béla Bartók	1881	Romania	RO	62
 Burt Lancaster	1913	United States	US	52
 Babur	1483	Uzbekistan	UZ	54
@@ -190,11 +220,12 @@ Robert Bellarmine	1542	Italy	IT	30
 Bohdan Khmelnytsky	1595	Ukraine	UA	36
 Bo Diddley	1928	United States	US	31
 Béla Lugosi	1882	Hungary	HU	37
+Brigham Young	1801	United States	US	36
 Bill Bryson	1951	United States	US	27
 Charlize Theron	1975	South Africa	ZA	62
 Charlie Chaplin	1889	United Kingdom	GB	145
 Carl Linnaeus	1707	Sweden	SE	123
-Charlemagne	742	France	FR	116
+Charlemagne	742	Belgium	BE	116
 Christopher Columbus	1451	Italy	IT	153
 Caspar David Friedrich	1774	Germany	DE	49
 Courtney Love	1964	United States	US	44
@@ -248,6 +279,7 @@ Carl Barks	1901	United States	US	28
 Casimir III of Poland	1310	Poland	PL	40
 Cyril of Alexandria	378	Egypt	EG	46
 Cyril of Jerusalem	313	Turkey	TR	28
+Charles I of England	1600	United Kingdom	GB	62
 Camille Pissarro	1830	US Virgin Islands	VI	55
 Carlo Collodi	1826	Italy	IT	48
 Catherine of Siena	1347	Italy	IT	43
@@ -292,7 +324,7 @@ Diego Maradona	1960	Argentina	AR	87
 David Brewster	1781	United Kingdom	GB	26
 Dmitri Shostakovich	1906	Russia	RU	62
 David	-1040	Palestine	PS	72
-Diocletian	244	Montenegro	ME	70
+Diocletian	244	Croatia	HR	70
 Domitian	1951	Italy	IT	65
 David Beckham	1975	United Kingdom	GB	81
 Donald Rumsfeld	1932	United States	US	42
@@ -345,6 +377,9 @@ Edvard Munch	1863	Norway	NO	73
 Euripides	-480	Greece	GR	65
 Emily Brontë	1818	United Kingdom	GB	62
 Évariste Galois	1811	France	FR	61
+Ennius	-239	Italy	IT	36
+Ezra	0	Iraq	IQ	35
+Elijah	0	Jordan	JO	55
 Esther	-1000	Italy	IT	29
 Ezekiel	-622	Israel	IL	37
 Erwin Schrödinger	1887	Austria	AT	92
@@ -356,6 +391,8 @@ Edsger Dijkstra	1930	Netherlands	NL	47
 Edmund Burke	1729	Ireland	IE	50
 Eric Clapton	1945	United Kingdom	GB	65
 Epicurus	-341	Ukraine	UA	68
+El Cid	1040	Spain	ES	53
+Ethelred the Unready	968	United Kingdom	GB	43
 Edward Elgar	1857	United Kingdom	GB	46
 Eugene Wigner	1902	Hungary	HU	45
 Elizabeth I of England	1533	United Kingdom	GB	106
@@ -374,6 +411,8 @@ Louis Mountbatten, 1st Earl Mountbatten of Burma	1900	United Kingdom	GB	36
 Elbridge Gerry	1744	United States	US	33
 Edward Gibbon	1737	United Kingdom	GB	51
 E. O. Wilson	1929	United States	US	32
+Evliya Çelebi	1611	Turkey	TR	36
+Edmund I of England	922	United Kingdom	GB	39
 Ephrem the Syrian	306	Pakistan	PK	40
 Epictetus	55	Turkey	TR	45
 Edward Lear	1812	United Kingdom	GB	27
@@ -391,7 +430,7 @@ Friedrich Wöhler	1800	Germany	DE	43
 Frédéric Chopin	1810	Poland	PL	109
 Frank Herbert	1920	United States	US	42
 Franco Baresi	1960	Italy	IT	40
-Franz Kafka	1883	Czechia	CZ	120
+Franz Kafka	1883	Czech Republic	CZ	120
 Francisco Goya	1746	Spain	ES	116
 Felix Bloch	1905	Switzerland	CH	50
 Francis Xavier	1506	Spain	ES	52
@@ -410,8 +449,10 @@ Frans Eemil Sillanpää	1888	Finland	FI	55
 Francis Bacon	1561	United Kingdom	GB	82
 Felix Wankel	1902	Germany	DE	27
 Frank Capra	1897	Italy	IT	44
+Fabius Maximus	-280	Italy	IT	30
 Freeman Dyson	1923	United Kingdom	GB	34
 Fernando Pessoa	1888	Portugal	PT	47
+Frederick William, Elector of Brandenburg	1620	Germany	DE	34
 Fra Angelico	1395	Italy	IT	50
 Fra Bartolommeo	1472	Italy	IT	26
 Francis Crick	1916	United Kingdom	GB	58
@@ -465,7 +506,7 @@ Gustav Klimt	1862	Austria	AT	70
 Groucho Marx	1890	United States	US	37
 Gough Whitlam	1916	Australia	AU	27
 Georg Agricola	1494	Germany	DE	38
-Germanicus	24	France	FR	40
+Germanicus	-15	France	FR	40
 Grover Cleveland	1837	United States	US	89
 Gregorio Allegri	1582	Italy	IT	27
 Geoff Hurst	1941	United Kingdom	GB	30
@@ -473,7 +514,7 @@ Gloria Gaynor	1949	United States	US	31
 George Peppard	1928	United States	US	26
 Gilles Deleuze	1925	France	FR	41
 Gene Hackman	1930	United States	US	51
-Gregor Mendel	1822	Czechia	CZ	79
+Gregor Mendel	1822	Czech Republic	CZ	79
 Galba	-3	Italy	IT	56
 George Stephenson	1781	United Kingdom	GB	53
 Gary Lineker	1960	United Kingdom	GB	43
@@ -481,7 +522,9 @@ Grace Hopper	1906	United States	US	33
 Georg Wilhelm Friedrich Hegel	1770	Germany	DE	95
 Gian Lorenzo Bernini	1598	Italy	IT	55
 Gerrit Rietveld	1888	Netherlands	NL	28
+Gregory the Illuminator	257	Armenia	AM	27
 Gustavus Adolphus of Sweden	1594	Sweden	SE	54
+Gallienus	218	Italy	IT	49
 Guy Fawkes	1570	United Kingdom	GB	46
 George Harrison	1943	United Kingdom	GB	78
 Giacomo Puccini	1858	Italy	IT	88
@@ -514,6 +557,7 @@ Glenn T. Seaborg	1912	United States	US	41
 Gaspard-Gustave Coriolis	1792	France	FR	37
 Gerolamo Cardano	1501	Italy	IT	42
 Gene Roddenberry	1921	United States	US	40
+Gilgamesh	0	Iraq	IQ	54
 Gro Harlem Brundtland	1939	Norway	NO	55
 Gregory of Nazianzus	330	Italy	IT	47
 Howard Hawks	1896	United States	US	33
@@ -537,11 +581,13 @@ Howard Carter	1874	United Kingdom	GB	53
 Hadrian	76	Italy	IT	64
 Herman Melville	1819	United States	US	64
 Heinrich Schliemann	1822	Germany	DE	48
-Homer	0	Greece	GR	141
+Homer	-800	Greece	GR	141
 Hermann Ebbinghaus	1850	Germany	DE	27
 Hans-Dietrich Genscher	1927	Germany	DE	34
 Herbert Hoover	1874	United States	US	88
 Hildegard of Bingen	1098	Germany	DE	60
+Horace	0	Italy	IT	76
+Hesiod	0	Greece	GR	61
 Halle Berry	1966	United States	US	65
 Robert Koch	1843	Germany	DE	81
 Henry Kissinger	1923	Germany	DE	64
@@ -561,9 +607,11 @@ Humphrey Bogart	1899	United States	US	70
 Humayun	1508	Afghanistan	AF	40
 Howard Hughes	1905	United States	US	41
 Hendrick Avercamp	1585	Netherlands	NL	30
+Hans Baldung	1480	Germany	DE	28
 Henry the Navigator	1394	Portugal	PT	44
 Henry Purcell	1659	United Kingdom	GB	48
-Henry I of England	1068	Germany	DE	58
+Henry I of England	1068	United Kingdom	GB	58
+Henry VII of England	1457	United Kingdom	GB	57
 Henry VIII of England	1491	United Kingdom	GB	77
 Herbert Simon	1916	United States	US	43
 Elagabalus	203	Italy	IT	54
@@ -574,6 +622,7 @@ Hafizullah Amin	1929	Afghanistan	AF	30
 Hergé	1907	Belgium	BE	50
 Hank Aaron	1934	United States	US	26
 Hunter S. Thompson	1937	United States	US	32
+Hammurabi	-1796	Iraq	IQ	82
 Humphry Davy	1778	United Kingdom	GB	59
 Harold Alexander, 1st Earl Alexander of Tunis	1891	United Kingdom	GB	27
 Henry Moseley	1887	United Kingdom	GB	29
@@ -587,15 +636,19 @@ Immanuel Kant	1724	Germany	DE	125
 Ice T	1958	United States	US	29
 Iain Banks	1954	United Kingdom	GB	26
 Italo Calvino	1923	United States	US	48
-Imhotep	0	Egypt	EG	56
+Imhotep	-2650	Egypt	EG	56
+Isaiah	0	Israel	IL	43
 I. M. Pei	1917	China	CN	65
 Indira Gandhi	1917	India	IN	98
+Isaac	0	Israel	IL	62
 Isaac Albéniz	1860	Spain	ES	43
 Ivar Aasen	1813	Norway	NO	36
 Ibn Battuta	1304	Morocco	MA	84
 Ian McKellen	1939	United Kingdom	GB	49
 Irving Langmuir	1881	United States	US	44
 Isoroku Yamamoto	1884	Japan	JP	52
+Irenaeus	130	Turkey	TR	43
+Ignatius of Antioch	100	Syria	SY	44
 Isidore of Seville	560	Spain	ES	50
 Isaac Bashevis Singer	1902	Poland	PL	63
 John Woo	1946	China	CN	28
@@ -623,16 +676,16 @@ Joseph Conrad	1857	Poland	PL	61
 John Updike	1932	United States	US	47
 John Steinbeck	1902	United States	US	78
 Joshua Reynolds	1723	United Kingdom	GB	37
-Joseph Schumpeter	1883	Czechia	CZ	42
+Joseph Schumpeter	1883	Czech Republic	CZ	42
 John Lee Hooker	1917	United States	US	36
-	1889	France	FR	60
+Jean Cocteau	1889	France	FR	60
 John Donne	1572	United Kingdom	GB	45
 John Lennon	1940	United Kingdom	GB	101
 John Cleese	1939	United Kingdom	GB	48
 J. R. R. Tolkien	1892	South Africa	ZA	110
 Jack Kerouac	1922	United States	US	53
 John Major	1943	United Kingdom	GB	59
-John A. Macdonald	1815	Canada	CA	33
+John A. Macdonald	1815	United Kingdom	GB	33
 John Diefenbaker	1895	Canada	CA	29
 Jean-Michel Basquiat	1960	United States	US	31
 John Wilkes Booth	1838	Belgium	BE	44
@@ -654,7 +707,7 @@ Jerome	347	Croatia	HR	57
 John Irving	1942	United States	US	26
 Justus von Liebig	1803	Germany	DE	44
 J. K. Rowling	1965	United Kingdom	GB	91
-Jan Hus	1372	Czechia	CZ	54
+Jan Hus	1372	Czech Republic	CZ	54
 J. Edgar Hoover	1895	United States	US	34
 James Cagney	1899	United States	US	46
 Johann Bayer	1572	Germany	DE	32
@@ -666,6 +719,8 @@ Johann Elert Bode	1747	Germany	DE	29
 John Wayne	1907	United States	US	75
 James Spader	1960	United States	US	28
 Jehoshaphat	-896	Israel	IL	29
+Joshua	-1550	Egypt	EG	41
+Jeroboam	0	Israel	IL	30
 John the Baptist	-5	Israel	IL	78
 Jefferson Davis	1808	United States	US	51
 James Watt	1736	United Kingdom	GB	102
@@ -678,6 +733,7 @@ Jackie Robinson	1919	United States	US	32
 Justinian I	483	Macedonia	MK	72
 John Milton	1608	United Kingdom	GB	64
 Jeffrey Dahmer	1960	United States	US	27
+Jonah	-800	Israel	IL	31
 Jim Henson	1936	United States	US	39
 Jawaharlal Nehru	1889	India	IN	93
 Janis Joplin	1943	United States	US	57
@@ -687,6 +743,7 @@ Jack Ruby	1911	United States	US	38
 James Randi	1928	United States	US	30
 Jürgen Habermas	1929	Germany	DE	55
 James D. Watson	1928	United States	US	60
+Jahangir	1569	India	IN	45
 Julian the Apostate	330	Turkey	TR	52
 Jackson Pollock	1912	United States	US	79
 Jet Li	1963	China	CN	54
@@ -721,6 +778,7 @@ Jon Voight	1938	United States	US	52
 Joseph Lister	1827	United Kingdom	GB	42
 James Lovelock	1919	United Kingdom	GB	33
 Joachim von Ribbentrop	1893	Germany	DE	51
+John of England	1166	United Kingdom	GB	56
 Julia Roberts	1967	United States	US	76
 John the Evangelist	0	Israel	IL	28
 Jack Kirby	1917	United States	US	26
@@ -733,7 +791,7 @@ Karl Popper	1902	Austria	AT	63
 Konrad Adenauer	1876	Germany	DE	71
 Kurt Cobain	1967	United States	US	68
 Kirk Hammett	1962	United States	US	45
-Kurt Gödel	1906	Czechia	CZ	72
+Kurt Gödel	1906	Czech Republic	CZ	72
 Karl Marx	1818	Germany	DE	148
 Kyle MacLachlan	1959	United States	US	34
 Kevin Spacey	1959	United States	US	51
@@ -768,10 +826,12 @@ Krzysztof Penderecki	1933	Poland	PL	31
 Karl Ferdinand Braun	1850	Germany	DE	59
 Kazimir Malevich	1879	Ukraine	UA	48
 Karl Ernst von Baer	1792	Estonia	EE	27
+Kenneth I of Scotland	810	United Kingdom	GB	29
 Constantin Stanislavski	1863	Russia	RU	42
 Klaus Barbie	1913	Germany	DE	30
 Kenneth Kaunda	1924	South Africa	ZA	41
 Konrad Emil Bloch	1912	Poland	PL	35
+Klement Gottwald	1896	Czech Republic	CZ	29
 Kate Bush	1958	United Kingdom	GB	40
 Kirsten Dunst	1982	United States	US	61
 Knut Hamsun	1859	Norway	NO	73
@@ -794,14 +854,17 @@ Lleyton Hewitt	1981	Australia	AU	45
 Lars von Trier	1956	Denmark	DK	55
 Leucippus	0	Greece	GR	50
 Leonardo Fibonacci	1170	Italy	IT	82
+Louis Leakey	1903	Kenya	KE	33
 Leon M. Lederman	1922	United States	US	38
 Louis the Pious	778	France	FR	56
 Laurence Sterne	1713	United Kingdom	GB	32
 Louisa May Alcott	1832	United States	US	43
+Leo III the Isaurian	685	Turkey	TR	46
 Louis Agassiz	1807	Switzerland	CH	30
 Li Bai	701	China	CN	102
 Leone Battista Alberti	1404	Italy	IT	43
-Tarquinius Priscus	0	Italy	IT	32
+Tarquinius Priscus	-700	Italy	IT	32
+Lucius Tarquinius Superbus	0	Italy	IT	38
 Livy	-59	Italy	IT	59
 Leonard Bloomfield	1887	United States	US	27
 Lise Meitner	1878	Austria	AT	49
@@ -818,11 +881,13 @@ Lee Marvin	1924	United States	US	43
 Lindsay Anderson	1923	India	IN	26
 Luca Pacioli	1445	Italy	IT	42
 Louis IX of France	1214	France	FR	60
+Louis XIV of France	1638	France	FR	89
 Lorenzo de' Medici	1449	Italy	IT	47
 Lucrezia Borgia	1480	Italy	IT	40
 Ian Fraser Kilmister	1945	United Kingdom	GB	29
 Lee Van Cleef	1925	United States	US	37
 Luigi Pirandello	1867	Italy	IT	68
+Luke the Evangelist	0	Turkey	TR	57
 Lodovico Ferrari	1522	Italy	IT	26
 Liv Ullmann	1938	Japan	JP	39
 Mary Pickford	1892	United States	US	49
@@ -869,8 +934,12 @@ Mario Botta	1943	Switzerland	CH	27
 Mark Antony	-83	Italy	IT	61
 Marsilio Ficino	1433	Italy	IT	37
 Muhammad ibn Abd-al-Wahhab	1703	Saudi Arabia	SA	27
+Murad I	1319	Turkey	TR	57
 Mehmed I	1382	Turkey	TR	49
+Murad II	1404	Turkey	TR	56
+Murad III	1546	Azerbaijan	AZ	54
 Mehmed III	1566	Turkey	TR	48
+Mustafa I	1591	Turkey	TR	46
 Murad IV	1612	Turkey	TR	47
 Mike Oldfield	1953	United Kingdom	GB	42
 Morihei Ueshiba	1883	Japan	JP	44
@@ -881,6 +950,7 @@ Marina Tsvetaeva	1892	Russia	RU	41
 Miranda Richardson	1958	United Kingdom	GB	31
 Murray Rothbard	1926	United States	US	29
 Mel Brooks	1926	United States	US	46
+Mehmet Ali Ağca	1958	Turkey	TR	43
 Mohammad Najibullah	1947	Afghanistan	AF	32
 Mary Cassatt	1844	United States	US	49
 Hayao Miyazaki	1941	Japan	JP	56
@@ -903,6 +973,8 @@ Macrinus	165	Algeria	DZ	50
 Martin Waldseemüller	1470	Germany	DE	38
 Michael Atiyah	1929	United Kingdom	GB	31
 Mary II of England	1662	United Kingdom	GB	53
+Mary I of England	1516	United Kingdom	GB	61
+Moctezuma II	1466	Mexico	MX	48
 Michael Crichton	1942	United States	US	47
 Menachem Begin	1913	France	FR	56
 Mary Magdalene	0	Germany	DE	65
@@ -950,6 +1022,8 @@ Otto von Bismarck	1815	Germany	DE	108
 Ole Rømer	1644	Denmark	DK	52
 Osama bin Laden	1957	Saudi Arabia	SA	123
 Otho	32	Italy	IT	56
+Osman I	1258	Turkey	TR	61
+Orhan I	1281	Turkey	TR	55
 Osman II	1604	Turkey	TR	48
 Oscar Peterson	1925	Canada	CA	39
 Oswald Spengler	1880	Germany	DE	47
@@ -973,8 +1047,9 @@ Patrick Rafter	1972	Australia	AU	37
 Paula Abdul	1962	United States	US	42
 Piri Reis	1465	Turkey	TR	34
 Paul Allen	1953	United States	US	51
+Pytheas	-380	France	FR	40
 Paul Valéry	1871	France	FR	38
-Parmenides	510	Italy	IT	58
+Parmenides	-510	Italy	IT	58
 Procopius	500	Turkey	TR	42
 Pierre Teilhard de Chardin	1881	France	FR	40
 Pachomius	292	Greece	GR	27
@@ -988,6 +1063,7 @@ Paul Keating	1944	Australia	AU	31
 Pope Alexander IV	1199	Italy	IT	49
 Pope Alexander VII	1599	Italy	IT	59
 Pope Alexander VIII	1610	Italy	IT	57
+Pope Alexander VI	1431	Spain	ES	61
 Pope Alexander II	0	Italy	IT	48
 Pope Alexander III	0	Germany	DE	54
 Pope Alexander I	0	Italy	IT	64
@@ -999,6 +1075,8 @@ Pope Pius XII	1876	Italy	IT	76
 Pope John II	0	Italy	IT	50
 Pope Agapetus I	0	Italy	IT	53
 Pope Agatho	577	Italy	IT	50
+Pope-elect Stephen	0	Italy	IT	32
+Pope Stephen II	0	Italy	IT	47
 Pope Adrian II	792	Italy	IT	47
 Pope Adrian III	0	Italy	IT	49
 Pope Agapetus II	0	Italy	IT	47
@@ -1009,13 +1087,16 @@ Pope Adrian VI	1459	Netherlands	NL	54
 Pope Anastasius III	0	Italy	IT	50
 Pope Anastasius IV	1073	Italy	IT	47
 Pope Anastasius II	0	Italy	IT	55
+Pope Anastasius I	0	Italy	IT	55
 Pope Damasus I	300	Portugal	PT	57
 Pope Honorius I	0	Italy	IT	50
+Pope Honorius II	0	Italy	IT	47
 Pope Honorius III	1148	Italy	IT	53
 Pope Honorius IV	1210	Italy	IT	43
 Pompey	-106	Germany	DE	60
 Patrick White	1912	United Kingdom	GB	56
 Pope Martin I	0	Italy	IT	50
+Pope Martin IV	1210	France	FR	46
 Pope Martin V	1368	Italy	IT	49
 Pope Marinus I	0	Italy	IT	48
 Pope Marinus II	932	Italy	IT	48
@@ -1082,7 +1163,10 @@ Pope Gregory VIII	1100	Italy	IT	51
 Pope Gregory X	1210	Italy	IT	51
 Paavo Lipponen	1941	Finland	FI	30
 Pope Gregory IX	1145	Italy	IT	53
+Pope Callixtus I	0	Italy	IT	60
 Pope Callixtus II	0	France	FR	49
+Pope Callixtus III	1378	Spain	ES	53
+Pope Gregory XI	1336	France	FR	48
 Pope Gregory XIV	1535	Finland	FI	48
 Pope Gregory XV	1554	Italy	IT	55
 Pope Gregory XII	1326	Italy	IT	49
@@ -1111,16 +1195,19 @@ Pope Stephen VIII	0	Germany	DE	45
 Pope Stephen IX	1020	Germany	DE	47
 Pope Sergius I	0	Italy	IT	49
 Pope Sergius II	0	Italy	IT	44
-Pope Sergius III	0	Italy	IT	49
+Pope Sergius III	860	Italy	IT	49
 Pope Sergius IV	0	Italy	IT	44
 Pope Zachary	679	Italy	IT	45
 Pope Valentine	0	Italy	IT	50
+Pope Victor I	0	Libya	LY	58
 Pope Victor II	1018	Germany	DE	46
 Pope Victor III	1026	Italy	IT	49
 Pope Innocent I	401	Italy	IT	55
 Victoria, Crown Princess of Sweden	1977	Sweden	SE	44
 Pope Innocent II	0	Italy	IT	49
+Pope Zosimus	0	Italy	IT	53
 Pope Innocent IV	0	Italy	IT	52
+Pope Innocent V	1225	France	FR	48
 Pope Felix I	0	Italy	IT	55
 Pope Innocent III	1161	Italy	IT	59
 Paul Cézanne	1839	France	FR	86
@@ -1144,12 +1231,14 @@ Pope Innocent IX	1519	Italy	IT	50
 Pope Innocent X	1574	Italy	IT	61
 Pope Innocent XI	1611	Italy	IT	58
 Pope Innocent XII	1615	Italy	IT	55
+Pope Innocent XIII	1655	Italy	IT	55
 Pope Julius I	0	Italy	IT	54
 Pope Julius III	1487	Italy	IT	49
 Pope Eugene I	654	Italy	IT	49
 Pope Eugene II	824	Italy	IT	49
-Pope Eugene III	0	Italy	IT	51
+Pope Eugene III	1080	Italy	IT	51
 Paul Dirac	1902	United Kingdom	GB	66
+Pope Julius II	1443	Italy	IT	63
 Pope Eusebius	0	Italy	IT	53
 Proclus	412	Turkey	TR	30
 Pope Sixtus IV	1414	Italy	IT	52
@@ -1214,11 +1303,13 @@ Ralph Waldo Emerson	1803	United States	US	66
 Ruhollah Khomeini	1902	Iran	IR	76
 Robin Wright	1966	United States	US	31
 Robert Nozick	1938	United States	US	35
+Richard III of England	1452	United Kingdom	GB	57
 Rudyard Kipling	1865	India	IN	89
 Ronald Coase	1910	United Kingdom	GB	41
 Richard R. Ernst	1933	Switzerland	CH	34
+Richard I of England	1157	United Kingdom	GB	70
 Robert Jordan	1948	United States	US	28
-Rainer Maria Rilke	1875	Czechia	CZ	58
+Rainer Maria Rilke	1875	Czech Republic	CZ	58
 Robert Louis Stevenson	1850	United Kingdom	GB	68
 Rosa Parks	1913	United States	US	71
 Roman Jakobson	1896	Russia	RU	38
@@ -1232,7 +1323,7 @@ Robert Moog	1934	United States	US	37
 Robert I of Scotland	1274	United Kingdom	GB	41
 Stanley Kubrick	1928	United States	US	89
 Sean Connery	1930	United Kingdom	GB	80
-Sigmund Freud	1856	Czechia	CZ	134
+Sigmund Freud	1856	Czech Republic	CZ	134
 Stendhal	1783	France	FR	59
 Stanisław Lem	1921	Ukraine	UA	58
 Steve Reich	1936	United States	US	28
@@ -1267,10 +1358,12 @@ Saint Agnes	291	Italy	IT	34
 Susan B. Anthony	1820	United States	US	30
 Saint Boniface	672	United Kingdom	GB	33
 Nicolas Léonard Sadi Carnot	1796	France	FR	44
+Selim II	1524	Turkey	TR	52
 Steve Biko	1946	South Africa	ZA	35
 Solomon	-1000	Israel	IL	79
 Saul the King	0	Israel	IL	47
 Sergei Eisenstein	1898	Latvia	LV	87
+Stefan Batory	1533	Romania	RO	36
 Septimius Severus	145	Croatia	HR	61
 Shaka	1787	South Africa	ZA	64
 Sergei Diaghilev	1872	Russia	RU	29
@@ -1281,10 +1374,13 @@ Salman Rushdie	1947	India	IN	69
 Shah Jahan	1592	Pakistan	PK	59
 Saul Bellow	1915	Canada	CA	63
 Sofonisba Anguissola	1532	Italy	IT	27
+Lawrence Alma-Tadema	1836	Netherlands	NL	31
 Saki	1870	United Kingdom	GB	26
 Stéphane Mallarmé	1842	France	FR	47
 William Jones	1746	United Kingdom	GB	30
 Stephen of England	1092	France	FR	50
+Saint George	280	Palestine	PS	65
+Sun Myung Moon	1920	North Korea	KP	28
 Saint Cyril	827	Greece	GR	33
 Sigrid Undset	1882	Denmark	DK	62
 Sojourner Truth	1797	United States	US	44
@@ -1312,16 +1408,20 @@ Terence Hill	1939	Italy	IT	32
 Tom Stoppard	1937	Czech Republic	CZ	29
 Theodor W. Adorno	1903	Germany	DE	51
 Terry Gilliam	1940	United States	US	41
+Tutankhamun	-1341	Egypt	EG	75
 Ted Turner	1938	United States	US	33
 Thomas More	1478	United Kingdom	GB	69
 Thomas Cranmer	1489	United Kingdom	GB	39
 Tom Waits	1949	United States	US	42
 Theodore Roosevelt	1858	United States	US	97
 Tiberius	-42	Italy	IT	75
+Trajan	53	Spain	ES	72
+Terence	0	Tunisia	TN	47
 Thomas Paine	1737	United States	US	57
 Tarja Halonen	1943	Finland	FI	70
 Thucydides	-460	Greece	GR	71
 Thomas Pynchon	1937	United States	US	41
+Timothy	0	Turkey	TR	33
 Ted Hughes	1930	United Kingdom	GB	31
 Thomas Cardinal Wolsey	1473	United Kingdom	GB	33
 Tomaso Albinoni	1671	Italy	IT	46
@@ -1339,6 +1439,7 @@ Theodoric the Great	454	Serbia	RS	47
 Tupac Shakur	1971	United States	US	69
 Thabo Mbeki	1942	South Africa	ZA	58
 Thomas R. Marshall	1854	United States	US	29
+Thomas the Apostle	100	Israel	IL	57
 Tom Cruise	1962	United States	US	82
 Thomas Malthus	1766	United Kingdom	GB	61
 Tori Amos	1963	United States	US	38
@@ -1350,6 +1451,7 @@ Ulysses S. Grant	1822	United States	US	88
 Umberto Eco	1932	Italy	IT	74
 Ursula K. Le Guin	1929	United States	US	43
 Urho Kekkonen	1900	Finland	FI	45
+Virgil	-70	Italy	IT	114
 Voltaire	1694	France	FR	112
 Vittorio de Sica	1901	Italy	IT	47
 Vidkun Quisling	1887	Norway	NO	48
@@ -1414,9 +1516,10 @@ Wole Soyinka	1934	Nigeria	NG	61
 William Wallace	1270	United Kingdom	GB	61
 Willard Van Orman Quine	1908	United States	US	35
 Walt Whitman	1819	United States	US	63
-Wenceslaus I, Duke of Bohemia	907	Czechia	CZ	32
+Wenceslaus I, Duke of Bohemia	907	Czech Republic	CZ	32
 William Bligh	1754	United Kingdom	GB	29
 Wallace Shawn	1943	United States	US	27
+William the Lion	1143	United Kingdom	GB	26
 William the Conqueror	1027	France	FR	79
 William II of England	1056	France	FR	57
 William Wordsworth	1770	United Kingdom	GB	67
@@ -1428,6 +1531,7 @@ Walter Gilbert	1932	United States	US	35
 Whitney Houston	1963	United States	US	95
 Witold Gombrowicz	1904	Poland	PL	31
 Winona Ryder	1971	United States	US	56
+Wilma Rudolph	1940	United States	US	28
 William Lipscomb	1919	United States	US	35
 Wacław Sierpiński	1882	Poland	PL	28
 William Golding	1911	United Kingdom	GB	68
@@ -1442,6 +1546,7 @@ Yngwie J. Malmsteen	1963	Sweden	SE	37
 Yevgeny Zamyatin	1884	Russian Federation	RU	35
 Zheng He	1371	China	CN	106
 Zhang Heng	78	China	CN	42
+Clovis I	466	Belgium	BE	61
 Svante Arrhenius	1859	Sweden	SE	62
 Gus Grissom	1926	United States	US	28
 Edward Higgins White	1930	United States	US	26
@@ -1451,6 +1556,7 @@ Milan Kundera	1929	Czech Republic	CZ	59
 Magic Johnson	1959	United States	US	53
 Ilona Staller	1951	Hungary	HU	30
 Pope Gregory I	540	Italy	IT	70
+Saint Matthias	0	Chile	CL	44
 Pericles	-495	Greece	GR	63
 Laetitia Casta	1978	France	FR	37
 Henry Dunant	1828	Switzerland	CH	67
@@ -1503,6 +1609,7 @@ Ovid	-43	Italy	IT	88
 Pope Leo XI	1535	Italy	IT	54
 Pope Leo X	1475	Italy	IT	57
 August Ferdinand Möbius	1790	Germany	DE	41
+Cyprian	0	Tunisia	TN	41
 Pietro Mascagni	1863	Italy	IT	44
 Gaetano Donizetti	1797	Italy	IT	53
 Ruggero Leoncavallo	1857	Italy	IT	40
@@ -1525,11 +1632,14 @@ Oskar Schindler	1908	Germany	DE	51
 John Carmack	1970	United States	US	30
 Hypatia of Alexandria	370	Egypt	EG	58
 Plotinus	204	Egypt	EG	53
-Albert I of Germany	1255	Switzerland	CH	31
+Albert I of Germany	1255	Germany	DE	31
 Albert II of Germany	1397	Austria	AT	37
 Imre Lakatos	1922	Hungary	HU	30
 Natalie Portman	1981	United States	US	78
+Princess Margaret, Countess of Snowdon	1930	United Kingdom	GB	31
 Charles XIV John of Sweden	1763	France	FR	50
+Louis I of Hungary	1326	Hungary	HU	35
+Oscar I of Sweden	1799	France	FR	38
 Sergio Leone	1929	Italy	IT	51
 Otto Preminger	1905	Ukraine	UA	27
 Louis IV, Holy Roman Emperor	1282	Germany	DE	36
@@ -1537,17 +1647,22 @@ Wenceslaus, King of the Romans	1361	Germany	DE	34
 Michael Bloomberg	1942	United States	US	44
 Georgy Zhukov	1896	Russia	RU	60
 Sigismund, Holy Roman Emperor	1368	Germany	DE	46
-Charles IV, Holy Roman Emperor	1316	Czechia	CZ	50
+Charles IV, Holy Roman Emperor	1316	Czech Republic	CZ	50
 Otto III, Holy Roman Emperor	980	Belgium	BE	40
+John the Apostle	6	Israel	IL	45
 Michelangelo Antonioni	1912	Italy	IT	58
 Roberto Rossellini	1906	Italy	IT	41
 Cary Grant	1904	United Kingdom	GB	57
+Boleslaw I of Poland	967	Poland	PL	44
 Robbie Williams	1974	United Kingdom	GB	65
 Mike Tyson	1966	United States	US	63
 Robert Oppenheimer	1904	United States	US	56
 Robert S. Mulliken	1896	United States	US	35
+Casimir IV Jagiellon	1427	Poland	PL	30
 Maximilian I, Holy Roman Emperor	1459	Austria	AT	52
+Samuel de Champlain	1574	France	FR	45
 Spiro Agnew	1918	United States	US	38
+Mark the Evangelist	0	Libya	LY	59
 Philipp Melanchthon	1497	Germany	DE	46
 Wilhelm Busch	1832	Germany	DE	37
 Robert Graves	1895	United Kingdom	GB	36
@@ -1569,6 +1684,7 @@ Norman Rockwell	1894	United States	US	30
 Jacques Chirac	1932	France	FR	96
 Erich Honecker	1912	Germany	DE	49
 William Rowan Hamilton	1805	Ireland	IE	48
+Sigismund II Augustus	1520	Poland	PL	33
 Charles I of Naples	1226	France	FR	37
 Margaret, Maid of Norway	1283	Norway	NO	26
 Alan Rickman	1946	United Kingdom	GB	44
@@ -1576,8 +1692,10 @@ Jennifer Aniston	1969	United States	US	70
 Charles XV of Sweden	1826	Sweden	SE	40
 Salvador Dalí	1904	Spain	ES	122
 William Makepeace Thackeray	1811	India	IN	51
+Harold Godwinson	1022	United Kingdom	GB	53
 Joseph Priestley	1733	United Kingdom	GB	53
 George IV of the United Kingdom	1762	United Kingdom	GB	56
+Edward the Confessor	1003	United Kingdom	GB	50
 Harthacanute	1018	United Kingdom	GB	39
 Harold Harefoot	1015	United Kingdom	GB	40
 Ole Einar Bjørndalen	1974	Norway	NO	34
@@ -1590,11 +1708,12 @@ Niki Lauda	1949	Austria	AT	47
 Howard Walter Florey	1898	Australia	AU	36
 Canute the Great	990	Denmark	DK	54
 Ian Curtis	1956	United Kingdom	GB	35
+Paul von Hindenburg	1847	Poland	PL	58
 Vladimir I of Kiev	958	Russian Federation	RU	44
 Alexander Hamilton	1755	United States	US	45
 Carl Woese	1928	United States	US	27
 Otto II, Holy Roman Emperor	955	Germany	DE	43
-Sviatoslav I of Kiev	0	Ukraine	UA	43
+Sviatoslav I of Kiev	942	Ukraine	UA	43
 Luc Besson	1959	France	FR	46
 Stanisław Marcin Ulam	1909	Ukraine	UA	35
 Duke Ellington	1899	United States	US	55
@@ -1609,6 +1728,7 @@ Bernhard Riemann	1826	Germany	DE	71
 Bonnie Tyler	1951	United Kingdom	GB	29
 Anton van Leeuwenhoek	1632	Netherlands	NL	68
 Amedeo Avogadro	1776	Italy	IT	68
+George III of the United Kingdom	1738	United Kingdom	GB	57
 Carl Jung	1875	Switzerland	CH	72
 Freddie Mercury	1946	Tanzania	TZ	75
 Brian May	1947	United Kingdom	GB	46
@@ -1617,6 +1737,8 @@ George S. Patton	1885	United States	US	42
 John Dillinger	1903	United States	US	32
 Christopher Lambert	1957	United States	US	39
 Cameron Diaz	1972	United States	US	68
+Paul Reuter	1816	Germany	DE	27
+Haile Selassie I of Ethiopia	1892	Ethiopia	ET	73
 Christiaan Huygens	1629	Netherlands	NL	76
 Victor Hugo	1802	France	FR	123
 Dustin Hoffman	1937	United States	US	70
@@ -1633,6 +1755,7 @@ Rollo of Normandy	860	Sweden	SE	30
 Nikita Khrushchev	1894	Russia	RU	86
 Leopoldo Galtieri	1926	Argentina	AR	34
 Sigismund I the Old	1467	Poland	PL	34
+Władysław III of Poland	1424	Poland	PL	34
 Jogaila	1362	Lithuania	LT	44
 Grace Kelly	1929	United States	US	65
 Gwyneth Paltrow	1972	United States	US	92
@@ -1647,7 +1770,7 @@ Murasaki Shikibu	973	Japan	JP	61
 Sophie Marceau	1966	France	FR	51
 Elia Kazan	1909	Turkey	TR	45
 John Flamsteed	1646	United Kingdom	GB	33
-Alexander Dubček	1921	Czechia	CZ	47
+Alexander Dubček	1921	Czech Republic	CZ	47
 Jacobus Henricus van 't Hoff	1852	Netherlands	NL	55
 John of Damascus	676	Syria	SY	45
 Jack London	1876	United States	US	68
@@ -1661,6 +1784,7 @@ Alice Walker	1944	United States	US	35
 Toni Morrison	1931	United States	US	65
 Alex Ferguson	1941	United Kingdom	GB	66
 Pope Soter	0	Italy	IT	58
+William IV of the United Kingdom	1765	United Kingdom	GB	58
 Leonard Bernstein	1918	United States	US	48
 Johannes Vermeer	1632	Netherlands	NL	74
 Barbara Stanwyck	1907	United States	US	35
@@ -1668,12 +1792,13 @@ Katharine Hepburn	1907	United States	US	64
 Tiger Woods	1975	United States	US	56
 Hokusai	1760	Japan	JP	104
 Clint Eastwood	1930	United States	US	75
+Zenobia	240	Syria	SY	34
 Alfred North Whitehead	1861	United States	US	43
 Thomas à Kempis	1380	Germany	DE	32
-Aurelian	214	Croatia	HR	62
+Aurelian	214	Bulgaria	BG	62
 Henry David Thoreau	1817	United States	US	59
 T. E. Lawrence	1888	United Kingdom	GB	52
-Karel Čapek	1890	Czechia	CZ	51
+Karel Čapek	1890	Czech Republic	CZ	51
 William Lamb, 2nd Viscount Melbourne	1779	United Kingdom	GB	28
 Edith Stein	1891	Poland	PL	39
 Tom Hanks	1956	United States	US	78
@@ -1706,6 +1831,7 @@ François Villon	1431	France	FR	46
 Theodore Dreiser	1871	United States	US	38
 Mel Gibson	1956	United States	US	70
 Arthur Evans	1851	United Kingdom	GB	40
+Catherine I of Russia	1684	Russia	RU	54
 Catherine II of Russia	1729	Poland	PL	82
 Michel de Montaigne	1533	France	FR	59
 Edward Albee	1928	United States	US	31
@@ -1722,6 +1848,7 @@ Anna of Russia	1693	Russia	RU	53
 Andrzej Wajda	1926	Poland	PL	40
 Claudius II	213	Serbia	RS	48
 Conrad II, Holy Roman Emperor	990	Germany	DE	35
+Zoroaster	0	Afghanistan	AF	86
 Thora Birch	1982	United States	US	27
 Glenn Close	1947	United States	US	43
 Sophia Loren	1934	Italy	IT	70
@@ -1746,6 +1873,7 @@ Luchino Visconti	1906	Italy	IT	43
 Manuel I Komnenos	1118	Turkey	TR	49
 Manuel II Palaiologos	1350	Turkey	TR	42
 Alessandro Manzoni	1785	Italy	IT	47
+Edward II of England	1284	United Kingdom	GB	52
 Brad Pitt	1963	United States	US	86
 Pope Sixtus V	1520	Italy	IT	54
 Robert Alexander Schumann	1810	Germany	DE	76
@@ -1789,6 +1917,7 @@ Pope Lucius I	253	Italy	IT	55
 Lynn Margulis	1938	United States	US	29
 Dennis Bergkamp	1969	Netherlands	NL	42
 Bartolomeu Dias	1451	Portugal	PT	57
+Henry V of England	1386	United Kingdom	GB	56
 Mata Hari	1876	Netherlands	NL	61
 Bal Gangadhar Tilak	1856	India	IN	28
 Sarvepalli Radhakrishnan	1888	India	IN	44
@@ -1803,7 +1932,9 @@ Tom Jones	1940	United Kingdom	GB	44
 Joan Crawford	1905	United States	US	46
 Victoria Beckham	1974	United Kingdom	GB	48
 George Michael	1963	United Kingdom	GB	51
+Alexander John Cuza	1820	Romania	RO	29
 Jeremy Bentham	1748	United Kingdom	GB	51
+Pope Evaristus	0	Palestine	PS	66
 Sidney Poitier	1927	United States	US	49
 Pope Telesphorus	0	Greece	GR	62
 Pope Nicholas IV	1227	Italy	IT	48
@@ -1817,52 +1948,75 @@ Karl Brandt	1904	Germany	DE	26
 Charlton Heston	1923	United States	US	62
 Louis II of Hungary	1506	Hungary	HU	39
 Henry Fonda	1905	United States	US	57
-Xerxes I of Persia	519	Iran	IR	57
+Peter III of Russia	1728	Germany	DE	49
+Xerxes I of Persia	-519	Iran	IR	57
 Roberto Benigni	1952	Italy	IT	49
 Edward I of England	1239	United Kingdom	GB	58
+Edward III of England	1312	United Kingdom	GB	57
 Jan van Eyck	1395	Belgium	BE	55
+Jane Seymour	1508	United Kingdom	GB	43
 Richard Cromwell	1626	United Kingdom	GB	35
 George II of Great Britain	1683	Germany	DE	55
+Edward IV of England	1442	France	FR	52
 Ramsay MacDonald	1866	United Kingdom	GB	46
 John Stuart, 3rd Earl of Bute	1713	United Kingdom	GB	29
 Jane Seymour	1951	United Kingdom	GB	33
 Wilfred Owen	1893	United Kingdom	GB	28
 Richard II of England	1367	France	FR	50
+Henry III of England	1207	United Kingdom	GB	52
 Demosthenes	-384	Greece	GR	51
 Catiline	-108	Italy	IT	35
 Nicholas I of Russia	1796	Russia	RU	55
 Enrico Berlinguer	1922	Italy	IT	27
 Anne of Great Britain	1665	United Kingdom	GB	54
+Charles II of England	1630	United Kingdom	GB	59
 William Tecumseh Sherman	1820	United States	US	40
 Edward VII of the United Kingdom	1841	United Kingdom	GB	61
 Pope Paul I	0	Italy	IT	48
 Elizabeth Bowes-Lyon	1900	United Kingdom	GB	42
+George VI of the United Kingdom	1895	United Kingdom	GB	71
 Alfred Marshall	1842	United Kingdom	GB	39
 François Quesnay	1694	France	FR	33
 Daniel Bernoulli	1700	Netherlands	NL	56
 Jean-Baptiste Say	1767	France	FR	30
+George V of the United Kingdom	1865	United Kingdom	GB	62
 Otto Hahn	1879	Germany	DE	60
 Jesse Owens	1913	United States	US	56
 David Lloyd George	1863	United Kingdom	GB	53
+George I of Great Britain	1660	Germany	DE	54
 Wallis, The Duchess of Windsor	1896	United States	US	33
+Henry VI of England	1421	United Kingdom	GB	52
 Henry IV of England	1366	United Kingdom	GB	52
 Marcus Licinius Crassus	-115	Germany	DE	47
 Lucius Cornelius Cinna	-100	Italy	IT	27
 Pope Anicetus	0	Syria	SY	60
+Catherine of Valois	1401	France	FR	27
+Edmund Ironside	980	United Kingdom	GB	41
 Friedrich Engels	1820	Germany	DE	91
-Darius II of Persia	475	Iran	IR	36
+Edwy of England	941	United Kingdom	GB	38
+Darius I of Persia	-549	Iran	IR	67
+Darius II of Persia	-475	Iran	IR	36
 Darius III of Persia	-380	Iran	IR	54
 Shirley Bassey	1937	The Netherlands	NL	31
 Pope Paul II	1417	Italy	IT	49
+Æthelred of Wessex	840	United Kingdom	GB	29
 Charles the Bald, Holy Roman Emperor	823	Germany	DE	59
 Edward the Martyr	962	United Kingdom	GB	37
-William III of England	1650	The Netherlands	NL	56
+William III of England	1650	Netherlands	NL	56
+Edgar the Peaceful of England	943	United Kingdom	GB	37
+Anne of Cleves	1515	Germany	DE	46
 Catherine Parr	1512	United Kingdom	GB	37
 Gabriele D'Annunzio	1863	Italy	IT	40
 Pope Paul III	1468	Italy	IT	56
+Isabella of France	1292	France	FR	32
 Michel Foucault	1926	France	FR	69
 Srinivasa Ramanujan	1887	India	IN	61
+Philippa of Hainault	1314	France	FR	29
 Averroes	1126	Spain	ES	77
+Elizabeth Woodville	1437	United Kingdom	GB	26
+Elizabeth of York	1466	United Kingdom	GB	34
+Queen Victoria	1819	United Kingdom	GB	94
+Justin I	450	Serbia	RS	44
 Jean Auguste Dominique Ingres	1780	France	FR	114
 Saul Kripke	1940	United States	US	27
 Maurice Ravel	1875	France	FR	61
@@ -1887,6 +2041,7 @@ Juan Manuel Fangio	1911	Argentina	AR	49
 Charles Maurice de Talleyrand-Périgord	1754	France	FR	52
 Irvine Welsh	1958	United Kingdom	GB	30
 Shimon Peres	1923	Belarus	BY	63
+Egbert of Wessex	770	United Kingdom	GB	36
 Æthelwulf of Wessex	795	Germany	DE	27
 Samuel Johnson	1709	United Kingdom	GB	44
 Douglas MacArthur	1880	United States	US	59
@@ -1897,8 +2052,11 @@ Joe DiMaggio	1914	United States	US	27
 Alexandra of Denmark	1844	Denmark	DK	35
 Simon de Montfort, 6th Earl of Leicester	1208	France	FR	26
 Camille Saint-Saëns	1835	France	FR	51
+Empress Matilda	1102	United Kingdom	GB	43
 Robert Andrews Millikan	1868	United States	US	56
 José Ramos-Horta	1949	Timor-Leste	TL	48
+Magnus Maximus	335	Spain	ES	34
+Carlos Filipe Ximenes Belo	1948	Timor-Leste	TL	36
 Pope Eugene IV	1383	Italy	IT	51
 Francis Galton	1822	United Kingdom	GB	39
 Pablo Casals	1876	Spain	ES	35
@@ -1934,7 +2092,7 @@ Robert Hooke	1635	United Kingdom	GB	65
 Alonzo Church	1903	United States	US	35
 Emil Nolde	1867	Denmark	DK	34
 Pope Clement I	0	Italy	IT	72
-Pope Zephyrinus	0	Italy	IT	58
+Pope Zephyrinus	150	Italy	IT	58
 Gary Becker	1930	United States	US	39
 Otto von Guericke	1602	Germany	DE	38
 Alexandra Feodorovna	1872	Germany	DE	34
@@ -1944,6 +2102,7 @@ Caracalla	188	France	FR	60
 Pierre-Joseph Proudhon	1809	France	FR	51
 William Vickrey	1914	United States	US	29
 Jean-Marie Le Pen	1928	France	FR	42
+Carlos Menem	1930	Argentina	AR	43
 Francis I of France	1494	France	FR	56
 Alfred Rosenberg	1893	Estonia	EE	43
 Yuri Andropov	1914	Russia	RU	68
@@ -1968,7 +2127,7 @@ Robert Walpole	1676	United Kingdom	GB	50
 Caroline of Ansbach	1683	Germany	DE	26
 James V of Scotland	1512	United Kingdom	GB	38
 James IV of Scotland	1473	United Kingdom	GB	35
-Pope Leo XIII	1810	Brazil	BR	67
+Pope Leo XIII	1810	Italy	IT	67
 Matthias Jakob Schleiden	1804	Germany	DE	35
 Sinclair Lewis	1885	United States	US	61
 Sully Prudhomme	1839	France	FR	70
@@ -1999,8 +2158,9 @@ Molière	1622	France	FR	106
 Salvador Allende	1908	Chile	CL	71
 Eva Perón	1919	Argentina	AR	73
 Robert Fisk	1946	United Kingdom	GB	31
-Thomas Young	1773	Canada	CA	46
+Thomas Young	1773	United Kingdom	GB	46
 Thornton Wilder	1897	United States	US	29
+Franz Joseph I of Austria	1830	Austria	AT	53
 Fabien Barthez	1971	France	FR	38
 Melinda Gates	1964	United States	US	27
 Marco van Basten	1964	Netherlands	NL	52
@@ -2008,13 +2168,13 @@ Sidney Altman	1939	Canada	CA	34
 James Gosling	1955	United States	US	31
 Meg Ryan	1961	United States	US	49
 Terry Jones	1942	United Kingdom	GB	30
-Sun Tzu	544	China	CN	81
+Sun Tzu	-544	China	CN	81
 Pope Dionysius	0	Greece	GR	57
 Ritchie Valens	1941	United States	US	26
 Gamal Abdel Nasser	1918	United States	US	76
 Hosni Mubarak	1928	Egypt	EG	96
 Henry Mancini	1924	United States	US	38
-Pope Fabian	0	Italy	IT	57
+Pope Fabian	200	Italy	IT	57
 Farouk of Egypt	1920	Egypt	EG	36
 Eric Idle	1943	United Kingdom	GB	34
 Joseph Louis Gay-Lussac	1778	France	FR	49
@@ -2031,6 +2191,7 @@ Edward Heath	1916	United Kingdom	GB	43
 Harold Wilson	1916	United Kingdom	GB	52
 Richard Rodgers	1902	United States	US	27
 James Callaghan	1912	United Kingdom	GB	53
+Nebuchadrezzar II	-634	Iraq	IQ	57
 Prince Maximilian of Baden	1867	Germany	DE	34
 Martha Argerich	1941	Argentina	AR	35
 Stephen Wolfram	1959	United Kingdom	GB	28
@@ -2060,11 +2221,13 @@ Robin Williams	1951	United States	US	60
 Jacques Derrida	1930	Algeria	DZ	56
 Olivia Newton-John	1948	United Kingdom	GB	42
 Sébastien Le Prestre de Vauban	1633	France	FR	38
+John of Gaunt, 1st Duke of Lancaster	1340	Belgium	BE	37
 Hermann von Helmholtz	1821	Germany	DE	48
 Val Kilmer	1959	United States	US	38
+Pope Caius	0	Croatia	HR	53
 Eero Saarinen	1910	Finland	FI	32
 Pope Marcellinus	0	Italy	IT	53
-Cole Porter	1891	Peru	PE	35
+Cole Porter	1891	United States	US	35
 Emil Adolf von Behring	1854	Poland	PL	52
 Camillo Golgi	1843	Austria	AT	49
 Harry Houdini	1874	Hungary	HU	55
@@ -2078,7 +2241,7 @@ Edmond Rostand	1868	France	FR	36
 David Livingstone	1813	United Kingdom	GB	64
 John Coltrane	1926	United States	US	50
 Leonard Nimoy	1931	United States	US	33
-Adolf Loos	1870	Czechia	CZ	36
+Adolf Loos	1870	Czech Republic	CZ	36
 Richard Meier	1934	United States	US	33
 Robert Venturi	1925	United States	US	33
 Louis Kahn	1901	United States	US	32
@@ -2098,6 +2261,7 @@ Robert Ludlum	1927	United States	US	30
 Olof Palme	1927	Sweden	SE	59
 Pope Pius IX	1792	Italy	IT	66
 John Travolta	1954	United States	US	64
+Philip II of Macedon	-382	Greece	GR	57
 Edgar Ætheling	1051	Hungary	HU	35
 Louis XV of France	1710	France	FR	60
 John Paul Jones	1946	United Kingdom	GB	39
@@ -2131,9 +2295,9 @@ Barbara McClintock	1902	United States	US	44
 Titus	39	Italy	IT	64
 Francisco Pizarro	1471	Spain	ES	67
 James Dewar	1842	United Kingdom	GB	32
-Ernst Mach	1838	Czechia	CZ	44
+Ernst Mach	1838	Czech Republic	CZ	44
 Jean-François Champollion	1790	France	FR	54
-Bertha von Suttner	1843	Czechia	CZ	50
+Bertha von Suttner	1843	Czech Republic	CZ	50
 Peter Greenaway	1942	United Kingdom	GB	26
 Roald Dahl	1916	United Kingdom	GB	51
 Elizabeth Gaskell	1810	United Kingdom	GB	30
@@ -2151,6 +2315,7 @@ Leó Szilárd	1898	Hungary	HU	32
 Barry White	1944	United States	US	35
 Jeff Bridges	1949	United States	US	46
 Antonio Stradivari	1644	Italy	IT	44
+Leopold I of Belgium	1790	Germany	DE	51
 Benjamin Netanyahu	1949	Israel	IL	70
 Anne of Denmark	1574	Denmark	DK	26
 Mick Jagger	1943	United Kingdom	GB	58
@@ -2161,6 +2326,7 @@ Abraham de Moivre	1667	France	FR	37
 Aaron Burr	1756	United States	US	45
 James M. Buchanan	1919	United States	US	41
 Yehudi Menuhin	1916	United States	US	40
+Charles Edward Stuart	1720	Italy	IT	27
 Sachin Tendulkar	1973	India	IN	29
 Nursultan Nazarbayev	1940	Kazakhstan	KZ	63
 Carl Orff	1895	Germany	DE	45
@@ -2169,6 +2335,7 @@ Richard Freiherr von Krafft-Ebing	1840	Germany	DE	27
 Leopold II of Belgium	1835	Belgium	BE	52
 Stephen Crane	1871	United States	US	32
 Wilhelm Canaris	1887	Germany	DE	35
+Henry IV of France	1553	France	FR	61
 Fritz Walter	1920	Germany	DE	34
 Vitus Bering	1681	Denmark	DK	57
 Ian Fleming	1908	United Kingdom	GB	61
@@ -2182,6 +2349,8 @@ Solon	-638	Greece	GR	54
 Carl Philipp Emanuel Bach	1714	Germany	DE	47
 Sergey Kirov	1886	Russia	RU	34
 Zbigniew Brzezinski	1928	Poland	PL	37
+Edred of England	920	United Kingdom	GB	38
+Athelstan of England	895	United Kingdom	GB	50
 Walter Ulbricht	1893	Germany	DE	42
 John Denver	1943	United States	US	38
 Alan Shearer	1970	United Kingdom	GB	52
@@ -2238,10 +2407,15 @@ Kevin Smith	1970	United States	US	30
 Iris Murdoch	1919	Ireland	IE	33
 Alanis Morissette	1974	United States	US	54
 Jean-Luc Godard	1930	France	FR	46
+Pope Theodore I	0	Palestine	PS	49
 Emmeline Pankhurst	1858	United Kingdom	GB	33
 Johann Pachelbel	1653	Germany	DE	43
 Dmitri Mendeleev	1834	Russia	RU	109
 Lucy Maud Montgomery	1874	Canada	CA	30
+Bolesław III Wrymouth	1086	Poland	PL	29
+Casimir I of Poland	1016	Poland	PL	31
+Cleopatra VII of Egypt	-69	Egypt	EG	100
+Hatshepsut	1508	Egypt	EG	57
 Robert Baden-Powell, 1st Baron Baden-Powell	1857	United Kingdom	GB	56
 Lev Yashin	1929	Russia	RU	49
 Larry Page	1973	United States	US	59
@@ -2270,6 +2444,7 @@ John Milnor	1931	United States	US	28
 René Thom	1923	France	FR	30
 Lars Ahlfors	1907	Finland	FI	30
 Charles Laughton	1899	United Kingdom	GB	34
+Theodosius II	401	Turkey	TR	52
 Yul Brynner	1920	Russia	RU	50
 Michael Ondaatje	1943	Canada	CA	27
 Muddy Waters	1915	United States	US	33
@@ -2304,6 +2479,7 @@ Charles X of France	1757	France	FR	55
 Joseph Bonaparte	1768	Spain	ES	49
 Lucien Bonaparte	1775	France	FR	26
 Napoleon III of France	1808	France	FR	76
+Joséphine de Beauharnais	1763	Martinique	MQ	49
 Eugène de Beauharnais	1781	France	FR	27
 Marie Louise, Duchess of Parma	1791	Austria	AT	37
 Michelle Pfeiffer	1958	United States	US	54
@@ -2313,10 +2489,12 @@ Walter Matthau	1920	United States	US	37
 Claus Schenk Graf von Stauffenberg	1907	Germany	DE	57
 Pope Adeodatus I	0	Italy	IT	50
 Pope Mark	0	Italy	IT	55
+Pope Simplicius	0	Italy	IT	52
 Pope Felix III	0	Italy	IT	50
 Pope Symmachus	0	Italy	IT	53
 Pope Hormisdas	450	Italy	IT	54
 Pope John I	470	Italy	IT	54
+Pope Felix IV	0	Italy	IT	53
 Pope Vigilius	0	Italy	IT	50
 Pope Pelagius I	556	Italy	IT	50
 Pope John III	0	Italy	IT	51
@@ -2344,9 +2522,10 @@ Linda Hamilton	1956	United States	US	34
 Erich Maria Remarque	1898	Germany	DE	68
 Arthur Schnitzler	1862	Austria	AT	38
 Boris Spassky	1937	Russia	RU	45
-Václav Havel	1936	Czechia	CZ	83
-Jaroslav Seifert	1901	Czechia	CZ	53
+Václav Havel	1936	Czech Republic	CZ	83
+Jaroslav Seifert	1901	Czech Republic	CZ	53
 Peter O'Toole	1932	Ireland	IE	45
+James I of Aragon	1208	France	FR	32
 P. G. Wodehouse	1881	United Kingdom	GB	32
 Frederick Sanger	1918	United Kingdom	GB	47
 Jacques-Bénigne Bossuet	1627	France	FR	29
@@ -2402,6 +2581,7 @@ Paul Gauguin	1848	France	FR	82
 Jacob Bernoulli	1654	Switzerland	CH	51
 Alva Myrdal	1902	Sweden	SE	39
 Maurice Utrillo	1883	France	FR	32
+Bartholomäus	0	Palestine	PS	63
 Haakon VII of Norway	1872	Norway	NO	43
 Fred Astaire	1899	United States	US	59
 Édith Piaf	1915	France	FR	91
@@ -2410,15 +2590,15 @@ Maria Callas	1923	United States	US	57
 Lee Kuan Yew	1923	Singapore	SG	58
 Laozi	-400	China	CN	105
 Bertel Thorvaldsen	1770	Denmark	DK	33
-Jaroslav Hašek	1883	Czechia	CZ	47
-Bohumil Hrabal	1914	Czechia	CZ	31
+Jaroslav Hašek	1883	Czech Republic	CZ	47
+Bohumil Hrabal	1914	Czech Republic	CZ	31
 Karen Blixen	1885	Denmark	DK	45
 Johannes Vilhelm Jensen	1873	Denmark	DK	53
 Lawrence Durrell	1912	India	IN	34
 H. Rider Haggard	1856	United Kingdom	GB	33
 Samuel Richardson	1689	United Kingdom	GB	28
 Paulo Coelho	1947	Brazil	BR	69
-Gustav Mahler	1860	Czechia	CZ	76
+Gustav Mahler	1860	Czech Republic	CZ	76
 Franco Modigliani	1918	Italy	IT	36
 Edward Hopper	1882	United States	US	34
 Jiang Qing	1914	China	CN	27
@@ -2428,7 +2608,9 @@ Aleksandr Lyapunov	1857	Russia	RU	27
 Glenn Gould	1932	Canada	CA	34
 Graham Greene	1904	United Kingdom	GB	58
 Lao She	1899	China	CN	26
+Peter III of Aragon	1239	Spain	ES	26
 Anton Webern	1883	Austria	AT	40
+Óscar Romero	1917	El Salvador	SV	29
 Georges Clémenceau	1841	France	FR	48
 Buzz Aldrin	1930	United States	US	67
 Vladimir Komarov	1927	Russia	RU	43
@@ -2440,6 +2622,7 @@ Cathy Freeman	1973	Australia	AU	31
 Vo Nguyen Giap	1911	Vietnam	VN	45
 Harald III of Norway	1015	Norway	NO	35
 Bao Dai	1913	Vietnam	VN	31
+Olav V of Norway	1903	United Kingdom	GB	38
 Harald V of Norway	1937	Norway	NO	59
 Philippe Pétain	1856	France	FR	56
 Marie-José Pérec	1968	Guadeloupe	GP	26
@@ -2456,6 +2639,7 @@ Golda Meir	1898	Ukraine	UA	69
 Pierre Boulez	1925	France	FR	28
 Hugo Grotius	1583	Netherlands	NL	49
 Arnold J. Toynbee	1889	United Kingdom	GB	42
+Richard Francis Burton	1821	United Kingdom	GB	38
 Philip José Farmer	1918	United States	US	29
 Maria Mutola	1972	Mozambique	MZ	26
 Alfonso X of Castile	1221	Spain	ES	40
@@ -2471,6 +2655,7 @@ Arnold Schoenberg	1874	Austria	AT	50
 Errol Flynn	1909	United States	US	59
 Carl Lewis	1961	United States	US	55
 Carlos Castaneda	1925	United States	US	35
+Kamehameha I	1758	United States	US	29
 Ken Follett	1949	United Kingdom	GB	31
 Apollonius of Tyana	15	Italy	IT	29
 Boris Karloff	1887	United Kingdom	GB	37
@@ -2479,6 +2664,7 @@ Jennifer Jones	1919	United States	US	40
 Pope Leo IX	1002	France	FR	49
 Ho Chi Minh	1890	Vietnam	VN	87
 Franz Liszt	1811	Germany	DE	72
+Pope Damasus II	0	Germany	DE	47
 Steven Seagal	1952	United States	US	54
 Richard Strauss	1864	Germany	DE	58
 Hugo von Hofmannsthal	1874	Austria	AT	31
@@ -2497,6 +2683,8 @@ Isabella Rossellinni	1952	Italy	IT	36
 John Barrymore	1882	United States	US	28
 Count Basie	1904	United States	US	33
 Martin Sheen	1940	United States	US	45
+Göran Persson	1949	Sweden	SE	41
+Gottfried Benn	1886	Germany	DE	29
 Paul Éluard	1895	France	FR	40
 Hero of Alexandria	10	Egypt	EG	51
 Faye Dunaway	1941	United States	US	52
@@ -2519,6 +2707,7 @@ Victor Amadeus II of Sardinia	1666	Italy	IT	31
 Victor Amadeus III of Sardinia	1726	Italy	IT	26
 Ferdinand I of Bulgaria	1861	Austria	AT	36
 Charles Albert of Sardinia	1798	Italy	IT	27
+Alfonso VI of Castile	1040	Spain	ES	33
 Nicolas Steno	1638	Denmark	DK	37
 Ramon Llull	1232	Spain	ES	31
 Herbert Kitchener, 1st Earl Kitchener	1850	Ireland	IE	35
@@ -2539,8 +2728,11 @@ Joseph John Thomson	1856	United Kingdom	GB	66
 Leopold Mozart	1719	Germany	DE	45
 Joe Satriani	1956	United States	US	37
 Henri Barbusse	1873	France	FR	35
+Lady Margaret Beaufort	1443	United Kingdom	GB	28
+Charles I of Hungary	1288	Italy	IT	32
 Debbie Reynolds	1932	United States	US	29
 Cyrano de Bergerac	1619	France	FR	36
+Mary Tudor	1496	United Kingdom	GB	35
 Louis XI of France	1423	France	FR	52
 Robert Southey	1774	United Kingdom	GB	28
 Margaret Tudor	1489	United Kingdom	GB	30
@@ -2553,11 +2745,12 @@ Ferdinand III of Castile	1199	Spain	ES	31
 Alfonso VII of León	1105	Spain	ES	26
 Alfred Binet	1857	France	FR	33
 Yves Montand	1921	Italy	IT	41
+Francis II of France	1544	France	FR	54
 Henry the Lion	1129	Germany	DE	36
-Charles V, Holy Roman Emperor	1500	Spain	ES	78
+Charles V, Holy Roman Emperor	1500	Belgium	BE	78
 Ivan IV of Russia	1530	Russia	RU	68
 Larry Flynt	1942	United States	US	31
-Idi Amin	0	Uganda	UG	66
+Idi Amin	1925	Uganda	UG	66
 Hafez al-Assad	1930	Syria	SY	45
 François Duvalier	1907	Haiti	HT	42
 Nathuram Godse	1910	India	IN	29
@@ -2590,6 +2783,7 @@ Henri Fantin-Latour	1836	France	FR	26
 Alexander Alekhine	1892	Russia	RU	55
 Arminius	0	Germany	DE	52
 Simon Stevin	1548	Belgium	BE	30
+Frederick I of Prussia	1657	Russia	RU	43
 Jean Giraudoux	1882	France	FR	26
 Eugène Ionesco	1909	Romania	RO	51
 Pierre de Marivaux	1688	France	FR	27
@@ -2607,21 +2801,25 @@ Frédéric Auguste Bartholdi	1834	France	FR	31
 Carl von Ossietzky	1889	Germany	DE	42
 Fernandel	1903	France	FR	38
 Amadeo I of Spain	1845	Italy	IT	40
+Mary	0	Israel	IL	100
 Sandro Botticelli	1445	Italy	IT	70
 Totila	0	Italy	IT	31
 Edmund Hillary	1919	New Zealand	NZ	96
 Christopher Reeve	1952	United States	US	46
 M. Night Shyamalan	1970	India	IN	39
 Larissa Latynina	1934	Ukraine	UA	38
-Věra Čáslavská	1942	Czechia	CZ	29
+Věra Čáslavská	1942	Czech Republic	CZ	29
+Basil I	811	Turkey	TR	42
 Justinian II	669	Turkey	TR	44
 Nikephoros II	912	Italy	IT	38
 Nikephoros III Botaneiates	1002	Turkey	TR	30
+Romanos I	870	Turkey	TR	37
 James McNeill Whistler	1834	United States	US	35
 John II Komnenos	1087	Turkey	TR	41
 Irene	752	Greece	GR	37
 Theodora	984	Turkey	TR	32
 Theodore I Laskaris	1174	Turkey	TR	30
+Theodore II Laskaris	1220	Turkey	TR	29
 John III Doukas Vatatzes	1192	Greece	GR	33
 John V Palaiologos	1332	Greece	GR	32
 John VI Kantakouzenos	1292	Turkey	TR	33
@@ -2632,6 +2830,9 @@ Yongle Emperor	1360	China	CN	31
 Nadia Comaneci	1961	Romania	RO	53
 William the Silent	1533	Germany	DE	49
 Michael III	840	Turkey	TR	41
+Michael II	770	Turkey	TR	37
+Michael IV the Paphlagonian	1010	Turkey	TR	33
+Michael V	1015	Turkey	TR	34
 Michael VII	1050	Turkey	TR	33
 James Mason	1909	United Kingdom	GB	33
 Joe Lieberman	1942	United States	US	28
@@ -2640,6 +2841,7 @@ Verner von Heidenstam	1859	Sweden	SE	57
 Jenna Jameson	1974	United States	US	48
 Galerius	260	Serbia	RS	49
 Probus	232	Croatia	HR	43
+Licinius	250	Serbia	RS	44
 George Gamow	1904	United States	US	39
 Valentinian III	419	Italy	IT	48
 Gratian	359	Croatia	HR	41
@@ -2654,8 +2856,10 @@ Frederick Banting	1891	Canada	CA	46
 Maximian	250	Croatia	HR	52
 Archibald Hill	1886	United Kingdom	GB	34
 Jean-Baptiste Biot	1774	France	FR	32
+Jeremiah	-655	Israel	IL	35
 Decius	201	Serbia	RS	50
 Seneca the Younger	-4	Spain	ES	62
+Hugh Capet of France	940	France	FR	54
 Hilary Putnam	1926	United States	US	31
 Grand Duchess Anastasia Nikolaevna of Russia	1901	Russia	RU	39
 Jean Chrétien	1934	Canada	CA	39
@@ -2671,16 +2875,22 @@ Amilcare Ponchielli	1834	Italy	IT	33
 Charles IX of France	1550	France	FR	54
 Henry II of France	1519	France	FR	54
 Luciano Berio	1925	Italy	IT	32
+Henry III of France	1551	France	FR	57
+Marie de' Medici	1575	Italy	IT	43
 John Hanning Speke	1827	United Kingdom	GB	27
+Louis the Child	893	Germany	DE	31
 Felix Mendelssohn-Bartholdy	1809	Germany	DE	68
 Max von Sydow	1929	Sweden	SE	37
-Antonín Dvořák	1841	Czechia	CZ	91
+Antonín Dvořák	1841	Czech Republic	CZ	91
 John Ruskin	1819	United Kingdom	GB	45
 Charles VII of France	1403	France	FR	53
 Bono	1960	Ireland	IE	53
+Albert of Saxe-Coburg and Gotha	1819	Germany	DE	35
 Louis Althusser	1918	France	FR	41
 Giovanni da Verrazano	1485	Italy	IT	38
+Maximinus Daia	270	Serbia	RS	41
 Kabir	1440	India	IN	29
+Louis XIII of France	1601	France	FR	61
 Vere Gordon Childe	1892	Australia	AU	33
 John I of France	1316	France	FR	43
 Philip IV of France	1268	France	FR	56
@@ -2690,7 +2900,9 @@ Louis-Philippe I of France	1773	France	FR	49
 Luís de Camões	1524	Portugal	PT	64
 Natalie Wood	1938	United States	US	45
 Charles VI of France	1368	France	FR	52
+Antinous	111	Greece	GR	29
 Diego Velázquez	1599	Spain	ES	103
+Charles V of France	1338	France	FR	50
 Gregory Peck	1916	United States	US	60
 Philip VI of France	1293	France	FR	48
 John II of France	1319	France	FR	49
@@ -2699,10 +2911,12 @@ Mario Puzo	1920	United States	US	43
 Louis XII of France	1462	France	FR	60
 Juan Antonio Samaranch	1920	Spain	ES	47
 Albert Uderzo	1927	France	FR	35
+Pope Nicholas II	990	France	FR	47
 Pope Vitalian	0	Italy	IT	46
 Gaspard Monge	1746	France	FR	33
 John Entwistle	1944	United Kingdom	GB	27
 Zinedine Zidane	1972	France	FR	84
+Zeno	425	Turkey	TR	44
 Emilio Butragueño	1963	Spain	ES	33
 Brian Boru	941	Ireland	IE	30
 Kevin Mitnick	1963	United States	US	39
@@ -2728,6 +2942,7 @@ Samuel Barber	1910	United States	US	33
 Francisco Gento	1933	Spain	ES	27
 Roger II of Sicily	1095	Italy	IT	34
 Harvey Keitel	1939	United States	US	39
+Robert II of France	972	France	FR	46
 Hans Christian Gram	1853	Denmark	DK	28
 Ralph Vaughan Williams	1872	United Kingdom	GB	34
 William Pitt the Younger	1759	United Kingdom	GB	43
@@ -2735,6 +2950,7 @@ Valéry Giscard d'Estaing	1926	Germany	DE	56
 Alphonse Daudet	1840	France	FR	42
 Serge Gainsbourg	1928	France	FR	36
 Louis VIII of France	1187	France	FR	51
+Pindar	-522	Greece	GR	55
 Lucas Cranach the Elder	1472	Germany	DE	40
 Giovanni Gabrieli	1554	Italy	IT	36
 Giuseppe Piazzi	1746	Italy	IT	45
@@ -2752,11 +2968,13 @@ William Westmoreland	1914	United States	US	27
 Robert McNamara	1916	United States	US	38
 Lev Landau	1908	Azerbaijan	AZ	54
 Helena Bonham Carter	1966	United Kingdom	GB	47
+Philippe II, Duke of Orléans	1674	France	FR	27
 Anne of Austria	1601	Spain	ES	40
 Paul Klee	1879	Switzerland	CH	52
 Statius	45	Italy	IT	32
 Decimius Magnus Ausonius	310	France	FR	33
 Juliana of the Netherlands	1909	Netherlands	NL	44
+Beatrix of the Netherlands	1938	Netherlands	NL	70
 Nick Drake	1948	Myanmar [Burma]	MM	30
 Hussein of Jordan	1935	Jordan	JO	44
 Elliott Smith	1969	United States	US	29
@@ -2766,7 +2984,7 @@ Uthman ibn Affan	579	Saudi Arabia	SA	56
 Umar	586	Saudi Arabia	SA	92
 Ahmed Yassin	1937	Israel	IL	41
 François Rabelais	1483	France	FR	57
-Ahmose I	1560	Greece	GR	41
+Ahmose I	-1560	Greece	GR	41
 Billie Joe Armstrong	1972	United States	US	44
 Harold Macmillan	1894	United Kingdom	GB	50
 Hamid Karzai	1957	Afghanistan	AF	68
@@ -2778,10 +2996,12 @@ William H. Seward	1801	United States	US	28
 Brian Jones	1942	United Kingdom	GB	35
 Paul Hindemith	1895	Germany	DE	39
 Pedro II of Brazil	1825	Brazil	BR	43
+Pedro I of Brazil	1798	Portugal	PT	44
 Rainer Werner Fassbinder	1945	Germany	DE	38
 Alfred Adler	1870	Austria	AT	52
 Claude Lorrain	1600	France	FR	29
 Gaius Marius	-157	Italy	IT	46
+Thomas Newcomen	1664	United Kingdom	GB	37
 James Prescott Joule	1818	United Kingdom	GB	83
 Denis Papin	1647	France	FR	36
 Melvil Dewey	1851	United States	US	29
@@ -2792,7 +3012,9 @@ Heinrich Böll	1917	Germany	DE	71
 Boris Vian	1920	France	FR	37
 Friedrich Wilhelm Murnau	1888	Germany	DE	31
 Dino Buzzati	1906	Italy	IT	32
+Epaminondas	-410	Greece	GR	34
 Fernando Henrique Cardoso	1931	Brazil	BR	37
+Myron	0	Greece	GR	34
 Romain Gary	1914	Lithuania	LT	35
 Maggie Smith	1934	United Kingdom	GB	47
 George C. Scott	1927	United States	US	38
@@ -2810,12 +3032,15 @@ Jessica Tandy	1909	United Kingdom	GB	35
 Ricky Martin	1971	Puerto Rico	PR	57
 Ptolemy I Soter	-367	Macedonia	MK	50
 Ptolemy II Philadelphus	-309	Egypt	EG	41
+Manfred von Richthofen	1892	Poland	PL	43
 Dietrich Bonhoeffer	1906	Poland	PL	41
 Thelonious Monk	1917	United States	US	36
 John Kenneth Galbraith	1908	United States	US	39
 Ansel Adams	1902	United States	US	37
 Oliver Hardy	1892	United States	US	33
 Josef Mengele	1911	Germany	DE	48
+Antiochus III the Great	-241	Iraq	IQ	41
+Seleucus I Nicator	-358	Greece	GR	43
 Marguerite Duras	1914	Vietnam	VN	40
 Arrigo Boito	1842	Italy	IT	32
 Louis-Ferdinand Céline	1894	France	FR	52
@@ -2836,7 +3061,9 @@ Pope Nicholas I	820	Italy	IT	51
 Ozzy Osbourne	1948	United Kingdom	GB	54
 Judi Dench	1934	United Kingdom	GB	47
 Christian IX of Denmark	1818	Denmark	DK	39
+Catherine of Alexandria	287	Egypt	EG	46
 Theodor Mommsen	1817	Germany	DE	70
+Erik the Red	950	Iceland	IS	47
 Mohammed Omar	1959	Afghanistan	AF	38
 James Naismith	1861	Canada	CA	40
 Nadar	1820	France	FR	44
@@ -2868,6 +3095,7 @@ Posidonius	-135	Syria	SY	42
 Neil Young	1945	Canada	CA	43
 Claudia Schiffer	1970	Germany	DE	45
 Joseph Fiennes	1970	United Kingdom	GB	30
+Camille Claudel	1864	France	FR	29
 Hendrik Lorentz	1853	Netherlands	NL	72
 Sven-Göran Eriksson	1948	Sweden	SE	32
 Tony Adams	1966	United Kingdom	GB	26
@@ -2896,6 +3124,7 @@ Thomas A. Hendricks	1819	United States	US	27
 Levi P. Morton	1824	United States	US	29
 Liu Shaoqi	1898	China	CN	27
 Jean-Claude Van Damme	1960	Belgium	BE	58
+Antigonus I Monophthalmus	-382	Greece	GR	39
 Michael Curtiz	1886	Hungary	HU	35
 Carl Michael Bellman	1740	Sweden	SE	27
 Ingvar Carlsson	1934	Sweden	SE	30
@@ -2903,6 +3132,7 @@ Bridget of Sweden	1303	Sweden	SE	35
 Chow Yun-Fat	1955	Hong Kong	HK	44
 Harold Pinter	1930	United Kingdom	GB	74
 Patsy Cline	1932	United States	US	27
+Akhenaten	-1380	Egypt	EG	62
 Alain Resnais	1922	France	FR	29
 Paul Morphy	1837	United States	US	39
 Aratus	-315	Italy	IT	27
@@ -2953,6 +3183,7 @@ Arvo Pärt	1935	Estonia	EE	40
 Hamilcar Barca	-275	Tunisia	TN	42
 César Vallejo	1892	Peru	PE	31
 Athanasius Kircher	1601	Germany	DE	32
+Leonidas I	0	Greece	GR	57
 Sally Ride	1951	United States	US	38
 Lev Vygotsky	1896	Belarus	BY	44
 Hannah Arendt	1906	Germany	DE	50
@@ -3007,11 +3238,13 @@ Andy Kaufman	1949	United States	US	26
 Johnny Carson	1925	United States	US	26
 Bertrand Delanoë	1950	Tunisia	TN	33
 Federico García Lorca	1898	Spain	ES	72
+Philip V of Macedon	-238	Greece	GR	32
 Damon Albarn	1968	United Kingdom	GB	30
 Florence Nightingale	1820	Italy	IT	81
 Prince Claus of the Netherlands	1926	Germany	DE	26
 Ravi Shankar	1920	India	IN	61
 Stefan Zweig	1881	Austria	AT	61
+Willem-Alexander, Prince of Orange	1967	Netherlands	NL	41
 Josemaría Escrivá de Balaguer	1902	Spain	ES	41
 Robert Plant	1948	United Kingdom	GB	47
 Hua Guofeng	1921	China	CN	35
@@ -3027,6 +3260,7 @@ Pieter van den Hoogenband	1978	Netherlands	NL	26
 Isabelle Adjani	1955	France	FR	47
 Liev Schreiber	1967	United States	US	27
 Kenneth Branagh	1960	United Kingdom	GB	37
+Arrian	92	Turkey	TR	39
 Mira Furlan	1955	Croatia	HR	28
 Yukio Mishima	1925	Japan	JP	54
 Atal Bihari Vajpayee	1924	India	IN	36
@@ -3040,6 +3274,7 @@ Dionysius Exiguus	470	United Kingdom	GB	30
 Robert Hofstadter	1915	United States	US	43
 Jimmy Page	1944	United Kingdom	GB	51
 Gustav Vigeland	1869	Norway	NO	28
+Princess Máxima of the Netherlands	1971	Argentina	AR	30
 Wilhelmina of the Netherlands	1880	Netherlands	NL	44
 Thomas Eakins	1844	United States	US	30
 Henry Cavendish	1731	United Kingdom	GB	55
@@ -3054,7 +3289,7 @@ George Armstrong Custer	1839	United States	US	41
 Abigail Adams	1744	United States	US	34
 Steve Martin	1945	United States	US	44
 Roger Wolcott Sperry	1913	United States	US	35
-Alfons Mucha	1860	Czechia	CZ	44
+Alfons Mucha	1860	Czech Republic	CZ	44
 Bill Murray	1950	United States	US	50
 William Hogarth	1697	United Kingdom	GB	48
 Mike Myers	1963	United Kingdom	GB	39
@@ -3070,6 +3305,8 @@ Gustav IV Adolf of Sweden	1778	Sweden	SE	33
 Jerry Seinfeld	1954	United States	US	34
 Heinrich Heine	1797	Germany	DE	60
 Oscar II of Sweden	1829	Sweden	SE	38
+Gustaf V of Sweden	1858	Sweden	SE	40
+Carl XVI Gustaf of Sweden	1946	Sweden	SE	66
 Charles XIII of Sweden	1748	Sweden	SE	28
 Adolf Frederick of Sweden	1710	Germany	DE	29
 Ulrika Eleonora, Queen of Sweden	1688	Sweden	SE	29
@@ -3078,6 +3315,7 @@ Charles X Gustav of Sweden	1622	Sweden	SE	35
 Charles XI of Sweden	1655	Sweden	SE	38
 Charles XII of Sweden	1682	Sweden	SE	48
 Eric XIV of Sweden	1533	Sweden	SE	31
+John III of Sweden	1537	Sweden	SE	32
 Larry David	1947	United States	US	27
 Henry Morgan	1635	United Kingdom	GB	35
 Imre Kertész	1929	Hungary	HU	64
@@ -3090,6 +3328,7 @@ Danny Boyle	1956	United Kingdom	GB	54
 Sofia Kovalevskaya	1850	Russia	RU	43
 Dorothy Crowfoot Hodgkin	1910	Egypt	EG	44
 Samuel P. Huntington	1927	United States	US	47
+Lady Godiva	980	United Kingdom	UA	41
 Dési Bouterse	1945	Suriname	SR	32
 Bud Abbott	1895	United States	US	26
 Clotaire I	497	France	FR	42
@@ -3107,6 +3346,7 @@ Georg Simmel	1858	Germany	DE	38
 Pierre Bourdieu	1930	France	FR	45
 Max Stirner	1806	Germany	DE	37
 Sean Astin	1971	United States	US	34
+Pontius Pilate	0	United Kingdom	GB	54
 Billie Jean King	1943	United States	US	34
 Carus	230	France	FR	43
 Julie Kavner	1950	United States	US	26
@@ -3127,6 +3367,7 @@ Henry Norris Russell	1877	United States	US	30
 Larry Mullen, Jr.	1961	Ireland	IE	33
 Sophie, The Countess of Wessex	1965	United Kingdom	GB	29
 Prince Edward, Earl of Wessex	1964	United Kingdom	GB	35
+Anne, Princess Royal	1950	United Kingdom	GB	37
 Charles, Prince of Wales	1948	United Kingdom	GB	70
 Prince Andrew, Duke of York	1960	United Kingdom	GB	36
 Gregory Palamas	1296	Turkey	TR	32
@@ -3143,7 +3384,7 @@ Paul Giamatti	1967	United States	US	33
 Richie Sambora	1959	United States	US	30
 Auguste Comte	1798	France	FR	65
 William III of the Netherlands	1817	Belgium	BE	33
-Leoš Janáček	1854	Czechia	CZ	41
+Leoš Janáček	1854	Czech Republic	CZ	41
 Madeleine Albright	1937	United States	US	46
 Johann Strauss II	1825	Austria	AT	61
 Johann Strauss I	1804	Austria	AT	42
@@ -3158,7 +3399,7 @@ Toshiro Mifune	1920	China	CN	109
 Nikolai Vasilievich Gogol	1809	Ukraine	UA	70
 Alice Cooper	1948	United States	US	46
 Tadeusz Kościuszko	1746	Poland	PL	39
-Bedřich Smetana	1824	Czechia	CZ	64
+Bedřich Smetana	1824	Czech Republic	CZ	64
 Khosrau II	590	Iraq	IQ	34
 Maria Göppert-Mayer	1906	Poland	PL	47
 Tokugawa Yoshinobu	1837	Japan	JP	26
@@ -3175,12 +3416,14 @@ Francesco Redi	1626	Italy	IT	27
 Ronald Fisher	1890	United Kingdom	GB	35
 Sviatoslav Richter	1915	Ukraine	UA	33
 Cai Lun	50	China	CN	40
+Arthur de Gobineau	1816	France	FR	30
 Oriana Fallaci	1929	Italy	IT	43
 Henryk Górecki	1933	Poland	PL	30
 Pete Seeger	1919	United States	US	32
 Anthemius	420	Turkey	TR	33
 Arthur Honegger	1892	France	FR	33
 Charles-Marie Widor	1845	France	FR	27
+Constantius III	0	Serbia	RS	38
 J. M. Barrie	1860	United Kingdom	GB	40
 Toussaint Louverture	1743	France	FR	35
 Madonna	1958	United States	US	94
@@ -3216,9 +3459,10 @@ Robert Mundell	1932	Canada	CA	32
 Zeno of Elea	-490	Italy	IT	55
 Juan Ponce de León	1474	Spain	ES	42
 Ted Bundy	1946	United States	US	38
+Paramahansa Yogananda	1893	India	IN	26
 Alexander Borodin	1833	Russia	RU	53
 Tera Patrick	1976	United States	US	33
-Jaroslav Heyrovský	1890	Czechia	CZ	34
+Jaroslav Heyrovský	1890	Czech Republic	CZ	34
 Mily Balakirev	1837	Russia	RU	43
 Albert II of Belgium	1934	Belgium	BE	64
 Abraham ibn Ezra	1089	Spain	ES	31
@@ -3267,6 +3511,7 @@ Nas	1973	United States	US	38
 Trebonianus Gallus	206	Italy	IT	49
 Aemilianus	207	Tunisia	TN	48
 Edmund Barton	1849	Australia	AU	32
+George Meade	1815	Spain	ES	27
 Olivier Messiaen	1908	France	FR	41
 Al-Ghazzali	1058	Iran	IR	78
 Ayrton Senna	1960	Brazil	BR	64
@@ -3275,6 +3520,7 @@ Patrick Hillery	1923	Ireland	IE	27
 Mary McAleese	1951	United Kingdom	GB	46
 Max Schmeling	1905	Germany	DE	26
 Honoré Gabriel Riqueti, comte de Mirabeau	1749	France	FR	33
+Leif Ericson	970	Iceland	IS	70
 Jean-Baptiste Colbert	1619	France	FR	40
 Philip III of Spain	1578	Spain	ES	53
 Raquel Welch	1940	United States	US	30
@@ -3283,10 +3529,13 @@ Manu Ginóbili	1977	Argentina	AR	32
 Richard Simmons	1948	United States	US	28
 Little Richard	1932	United States	US	29
 John Searle	1932	United States	US	28
+John III of Portugal	1502	Portugal	PT	34
+John II of Portugal	1455	Portugal	PT	33
 Stéphane Grappelli	1908	France	FR	33
 Robert Ley	1890	Germany	DE	26
 Zhao Ziyang	1919	China	CN	32
 Christian Dior	1905	France	FR	52
+Philip the Apostle	0	Israel	IL	60
 Laurent Gbagbo	1945	Ivory Coast	CI	45
 Nancy Pelosi	1940	United States	US	48
 Ray Charles	1930	United States	US	66
@@ -3307,7 +3556,7 @@ Paolo Maldini	1968	Italy	IT	59
 Shaquille O'Neal	1972	United States	US	50
 Herennius Etruscus	227	Serbia	RS	31
 Hostilian	230	Croatia	HR	37
-Tomáš Masaryk	1850	Czechia	CZ	49
+Tomáš Masaryk	1850	Czech Republic	CZ	49
 Galeazzo Ciano	1903	Italy	IT	33
 Pope Benedict XV	1854	Italy	IT	71
 Pope Pius XI	1857	Italy	IT	72
@@ -3316,6 +3565,7 @@ Joe Louis	1914	United States	US	30
 George Clinton	1739	United States	US	37
 Michelle Yeoh	1963	Malaysia	MY	35
 Robert II of Scotland	1316	United Kingdom	GB	28
+Robert III of Scotland	1337	United Kingdom	GB	29
 David II of Scotland	1324	United Kingdom	GB	32
 David I of Scotland	1083	United Kingdom	GB	30
 Duncan I of Scotland	1001	United Kingdom	GB	28
@@ -3346,14 +3596,17 @@ Carlos Santana	1947	Mexico	MX	51
 William Styron	1925	United States	US	30
 Gottfried Keller	1819	Switzerland	CH	29
 Lucky Luciano	1897	United States	US	34
+Francis I, Holy Roman Emperor	1708	France	FR	47
 Stanisław I Leszczyński	1677	Ukraine	UA	34
 Alberto Fujimori	1938	Peru	PE	54
 Donald Pleasence	1919	United Kingdom	GB	28
 Helena of Constantinople	240	Italy	IT	50
 Pertinax	126	United Kingdom	GB	51
 Didius Julianus	137	Italy	IT	53
+Clodius Albinus	150	Tunisia	TN	32
 Leopold II, Holy Roman Emperor	1747	Austria	AT	42
 Queen Latifah	1970	United States	US	35
+Quintillus	220	Serbia	RS	42
 Jaco Pastorius	1951	United States	US	29
 Leopold I, Holy Roman Emperor	1640	Austria	AT	46
 Philip IV of Spain	1605	Spain	ES	55
@@ -3375,6 +3628,7 @@ Charles IV of Spain	1748	Italy	IT	43
 Charles III of Spain	1716	Spain	ES	52
 Ferdinand VI of Spain	1713	Spain	ES	37
 Farinelli	1705	Italy	IT	32
+John V of Portugal	1689	Portugal	PT	26
 Lys Assia	1926	Switzerland	CH	37
 Donna Summer	1948	United States	US	60
 Pafnuty Chebyshev	1821	Russia	RU	34
@@ -3400,8 +3654,10 @@ David Suchet	1946	United Kingdom	GB	35
 Olaf II of Norway	995	Norway	NO	33
 Christian II of Denmark	1481	Sweden	SE	29
 Christian III of Denmark	1503	Germany	DE	28
+Christian IV of Denmark	1577	Denmark	DK	31
 Christian V of Denmark	1646	Germany	DE	26
 Christian VII of Denmark	1749	Denmark	DK	29
+Christian VIII of Denmark	1786	Denmark	DK	27
 Frederick III of Denmark	1609	Denmark	DK	27
 Frederick VIII of Denmark	1843	Denmark	DK	34
 Catherine Zeta-Jones	1969	United Kingdom	GB	65
@@ -3414,6 +3670,7 @@ William I	1797	Germany	DE	52
 Frederick III, German Emperor	1831	Germany	DE	45
 Hu Jintao	1942	China	CN	86
 Alfonso VIII of Castile	1155	Spain	ES	29
+Joanna of Castile	1479	Spain	ES	48
 Philip I of Castile	1478	Belgium	BE	38
 Charles I, Duke of Burgundy	1433	France	FR	42
 Mary of Burgundy	1457	Belgium	BE	31
@@ -3430,6 +3687,7 @@ Blanche of Castile	1188	Spain	ES	33
 Billy the Kid	1859	United States	US	34
 Sir Stanley Matthews	1915	United Kingdom	GB	34
 Vincent Price	1911	United States	US	33
+Buffalo Bill	1846	United States	US	36
 Eddy Merckx	1945	Belgium	BE	52
 Don Rickles	1926	United States	US	30
 Jane Addams	1860	United States	US	44
@@ -3461,6 +3719,7 @@ Charles I of Austria	1887	Austria	AT	45
 Phil Collins	1951	United Kingdom	GB	50
 Arturo Toscanini	1867	Italy	IT	41
 John I of Portugal	1358	Portugal	PT	37
+John IV of Portugal	1603	Portugal	PT	31
 John VI of Portugal	1767	Portugal	PT	33
 Ferdinand I of Portugal	1345	Portugal	PT	31
 Joe Frazier	1944	United States	US	53
@@ -3491,6 +3750,7 @@ Alfred de Vigny	1797	France	FR	27
 Rocky Marciano	1923	United States	US	37
 Rainier III, Prince of Monaco	1923	Monaco	MC	43
 Anouk Aimée	1932	France	FR	33
+Aristotle Onassis	1906	Turkey	TR	45
 Míkis Theodorakis	1925	Greece	GR	36
 Odysseas Elytis	1911	Greece	GR	52
 George Seferis	1900	Greece	GR	56
@@ -3508,6 +3768,7 @@ Ma Ying-jeou	1950	Taiwan	TW	43
 Max Bruch	1838	Germany	DE	35
 Truman Capote	1924	United States	US	54
 Vladimir Ashkenazy	1937	Russia	RU	27
+Heinrich Schütz	1585	Germany	DE	38
 Jean-Louis Trintignant	1930	France	FR	27
 Frederick Reines	1918	United States	US	38
 Moritz Leuenberger	1946	Switzerland	CH	27
@@ -3546,6 +3807,7 @@ Karl Schwarzschild	1873	Germany	DE	33
 Peter the Hermit	0	France	FR	26
 Anna Komnene	1083	Turkey	TR	45
 Raymond IV of Toulouse	1052	France	FR	28
+Bohemund I of Antioch	1058	Italy	IT	34
 Fulk of Jerusalem	1092	France	FR	26
 Joseph Merrick	1862	United Kingdom	GB	33
 Victor Fleming	1889	United States	US	35
@@ -3592,6 +3854,7 @@ Mansa Musa	1280	Mali	ML	29
 Italo Svevo	1861	Italy	IT	34
 Gustav Meyrink	1868	Austria	AT	26
 Billy Boyd	1968	United Kingdom	GB	29
+Dio Cassius	0	Turkey	TR	41
 Ludacris	1977	United States	US	37
 Otto Klemperer	1885	Poland	PL	26
 Cate Blanchett	1969	Australia	AU	61
@@ -3633,6 +3896,8 @@ Rock Hudson	1925	United States	US	43
 Maximilian Schell	1930	Austria	AT	40
 Martha Washington	1731	United States	US	40
 Pablo Escobar	1949	Colombia	CO	43
+Ladislas the Posthumous	1440	Slovakia	SK	31
+Ladislaus I of Hungary	1040	Poland	PL	28
 Giovanni Battista Piranesi	1720	Belarus	BY	26
 Marcello Mastroianni	1924	Italy	IT	54
 Carl Czerny	1791	Austria	AT	34
@@ -3652,6 +3917,8 @@ Frida Kahlo	1907	Mexico	MX	112
 Samantha Smith	1972	United States	US	33
 Georges Cuvier	1769	France	FR	47
 Sveinn Björnsson	1881	Denmark	DK	33
+Ásgeir Ásgeirsson	1894	Iceland	IS	26
+Kristján Eldjárn	1916	Iceland	IS	27
 Vigdís Finnbogadóttir	1930	Iceland	IS	40
 Ólafur Ragnar Grímsson	1943	Iceland	IS	50
 Paul-Henri Spaak	1899	Belgium	BE	31
@@ -3697,6 +3964,7 @@ John Hume	1937	United Kingdom	GB	38
 Georg Solti	1912	Hungary	HU	26
 Joseph Addison	1672	United Kingdom	GB	35
 Aldus Manutius	1450	Italy	IT	30
+Joachim du Bellay	1525	France	FR	31
 Tommaso Campanella	1568	Italy	IT	40
 Clément Marot	1496	France	FR	29
 Viggo Mortensen	1958	United States	US	47
@@ -3747,9 +4015,10 @@ Cyrus Vance	1917	United States	US	28
 Bernard le Bovier de Fontenelle	1657	France	FR	27
 Nicolas Boileau-Despréaux	1636	France	FR	40
 Giambattista Vico	1668	Italy	IT	46
-Karl Renner	1870	Czechia	CZ	37
+Karl Renner	1870	Czech Republic	CZ	37
 Pierre de Ronsard	1524	France	FR	38
 Baron Münchhausen	1720	Germany	DE	35
+Wolfram von Eschenbach	1170	Germany	DE	28
 Paul Signac	1863	France	FR	37
 Inigo Jones	1573	United Kingdom	GB	28
 Lucian	125	Turkey	TR	46
@@ -3796,7 +4065,7 @@ Alan Sillitoe	1928	United Kingdom	GB	26
 Christopher Walken	1943	United States	US	43
 Gwen Stefani	1969	United States	US	53
 John Russell, 1st Earl Russell	1792	United Kingdom	GB	31
-Wilhelm Steinitz	1836	Czechia	CZ	48
+Wilhelm Steinitz	1836	Czech Republic	CZ	48
 John Gielgud	1904	United Kingdom	GB	35
 Peter Ustinov	1921	United Kingdom	GB	44
 Cecil John Rhodes	1853	United Kingdom	GB	61
@@ -3849,6 +4118,7 @@ Eugène Delacroix	1798	France	FR	69
 Tracy Chapman	1964	United States	US	42
 Bob Geldof	1951	Ireland	IE	33
 Karl May	1842	Germany	DE	36
+George Curzon, 1st Marquess Curzon of Kedleston	1859	United Kingdom	GB	31
 Robert Clive, 1st Baron Clive	1725	United Kingdom	GB	31
 Lisa Kudrow	1963	United States	US	46
 David Schwimmer	1966	United States	US	41
@@ -3874,6 +4144,7 @@ Daniel Day-Lewis	1957	Ireland	IE	52
 Sam Shepard	1943	United States	US	29
 Robert Downey Jr.	1965	United States	US	51
 Leelee Sobieski	1983	United States	US	27
+Esau	0	Israel	IL	32
 Erich Kästner	1899	Germany	DE	40
 Comenius	1592	Czech Republic	CZ	46
 Ian Holm	1931	United Kingdom	GB	31
@@ -3882,12 +4153,14 @@ Chris Rock	1965	United States	US	34
 Arcesilaus	-316	Turkey	TR	27
 Cleanthes	-301	Turkey	TR	26
 Jan van Riebeeck	1619	Netherlands	NL	29
+Henry Pelham	1694	United Kingdom	GB	31
 Geoffrey Rush	1951	Australia	AU	50
 Ralph Fiennes	1962	United Kingdom	GB	43
 Woody Harrelson	1961	United States	US	37
 Peter Fonda	1940	United States	US	33
 Javier Bardem	1969	Spain	ES	52
 Ed Harris	1950	United States	US	42
+Saint James the Great	0	Israel	IL	66
 Tom Wilkinson	1948	United Kingdom	GB	32
 Raoul Wallenberg	1912	Sweden	SE	37
 Mohamed ElBaradei	1942	Egypt	EG	54
@@ -3900,10 +4173,10 @@ David Alfaro Siqueiros	1896	Mexico	MX	26
 Léopold Sédar Senghor	1906	Senegal	SN	51
 Linda McCartney	1941	United States	US	27
 Cannonball Adderley	1928	United States	US	26
+Gerd Müller	1945	Germany	DE	52
 Sienna Guillory	1975	United Kingdom	GB	28
 Larry Ellison	1944	United States	US	29
 Jean Buridan	1295	France	FR	31
-Kaspar Hauser	1812	United States	US	27
 Harold Lloyd	1893	United States	US	36
 Walther Funk	1890	Bulgaria	BG	30
 Elias James Corey	1928	United States	US	35
@@ -3927,7 +4200,7 @@ Roger Waters	1943	United Kingdom	GB	45
 Edward G. Robinson	1893	Romania	RO	28
 David Baltimore	1938	United States	US	34
 Étienne Bonnot de Condillac	1715	France	FR	30
-Bohuslav Martinů	1890	Czechia	CZ	31
+Bohuslav Martinů	1890	Czech Republic	CZ	31
 Nicolas Malebranche	1638	France	FR	27
 James Mill	1773	United States	US	30
 Yamagata Aritomo	1838	Japan	JP	29
@@ -3935,6 +4208,7 @@ Matsukata Masayoshi	1835	Japan	JP	26
 Okuma Shigenobu	1838	Japan	JP	32
 Hayato Ikeda	1899	Japan	JP	27
 Eisaku Sato	1901	Japan	JP	45
+Kakuei Tanaka	1918	Japan	JP	29
 Yasuhiro Nakasone	1918	Japan	JP	30
 Benjamin Thompson	1753	United States	US	27
 James Chadwick	1891	United Kingdom	GB	63
@@ -3943,6 +4217,7 @@ Henri, Comte de Chambord	1820	France	FR	26
 Fritz Haber	1868	Poland	PL	56
 Carl Bosch	1874	Germany	DE	37
 Christian I of Denmark	1426	Denmark	DK	31
+Frederick I of Denmark	1471	Denmark	DK	26
 Roger Moore	1927	United Kingdom	GB	54
 Heather Locklear	1961	United States	US	29
 Dudley R. Herschbach	1932	United States	US	33
@@ -3952,6 +4227,7 @@ Al-Farabi	870	Iran	IR	52
 Abai Kunanbaiuli	1845	Kazakhstan	KZ	30
 Basil of Caesarea	330	Turkey	TR	52
 Rudolf Clausius	1822	Germany	DE	46
+Anton Ivanovich Denikin	1872	Poland	PL	34
 Jerry Brown	1938	United States	US	27
 Zog of Albania	1895	Albania	AL	41
 John Malkovich	1953	United States	US	47
@@ -4088,7 +4364,9 @@ Joseph Pulitzer	1847	Hungary	HU	47
 Adolphe Quetelet	1796	Belgium	BE	28
 Ibn Saud of Saudi Arabia	1880	Saudi Arabia	SA	46
 Heinz Guderian	1888	Poland	PL	45
+Valdemar I of Denmark	1131	Denmark	DK	27
 Samuel Hahnemann	1755	Germany	DE	40
+Joseph	0	Israel	IL	45
 Norah Jones	1979	United States	US	48
 Bernard Lewis	1916	United Kingdom	GB	28
 Pete Conrad	1930	United States	US	29
@@ -4112,6 +4390,7 @@ Ryunosuke Akutagawa	1892	Japan	JP	39
 Steve Fossett	1944	United States	US	26
 Robin Cook	1946	United Kingdom	GB	27
 Polykleitos	0	Greece	GR	31
+Frederick VI of Denmark	1768	Denmark	DK	28
 Jules Cardinal Mazarin	1602	Italy	IT	50
 Judy Holliday	1921	United States	US	26
 Anne Baxter	1923	United States	US	28
@@ -4127,7 +4406,9 @@ Joseph Henry	1797	United States	US	38
 Hermann Weyl	1885	Germany	DE	28
 Hideki Yukawa	1907	Japan	JP	49
 Soseki Natsume	1867	Japan	JP	37
-Chandragupta Maurya	340	India	IN	43
+Charles VIII of Sweden	1409	Sweden	SE	26
+Chandragupta Maurya	-340	India	IN	43
+Emperor Komei	1831	Japan	JP	26
 Demi Moore	1962	United States	US	70
 Giacomo Meyerbeer	1791	Germany	DE	40
 Nikolaas Tinbergen	1907	Netherlands	NL	37
@@ -4141,6 +4422,7 @@ Alberto Sordi	1920	Italy	IT	29
 John Ellis Bush	1953	United States	US	31
 Ion Iliescu	1930	Romania	RO	40
 Chaim Weizmann	1874	Belarus	BY	47
+Jacques de Molay	1240	France	FR	33
 Patrick Moore	1923	United Kingdom	GB	26
 Hughes de Payens	1070	France	FR	27
 Juan Sebastián Elcano	1476	Spain	ES	37
@@ -4177,6 +4459,7 @@ Bertil Ohlin	1899	Sweden	SE	32
 George Akerlof	1940	United States	US	31
 Aristide Briand	1862	France	FR	46
 Émile Loubet	1838	France	FR	26
+Patrice de Mac-Mahon, Duke of Magenta	1808	France	FR	37
 Joe Pantoliano	1951	United States	US	27
 Einar Gerhardsen	1897	Norway	NO	26
 50 Cent	1975	United States	US	67
@@ -4198,6 +4481,7 @@ Ferdowsi	940	Iran	IR	68
 Jean Simmons	1929	United Kingdom	GB	37
 Eric R. Kandel	1929	Austria	AT	27
 Otto of Greece	1815	Austria	AT	37
+Maximilian I of Mexico	1832	Austria	AT	46
 Benazir Bhutto	1953	Pakistan	PK	92
 Charlotte of Belgium	1840	Belgium	BE	27
 Joanne Woodward	1930	United States	US	39
@@ -4216,6 +4500,7 @@ Svetlana Alliluyeva	1926	United States	US	32
 Saint Margaret of Scotland	1045	United Kingdom	GB	27
 Margaret the Virgin	-350	Turkey	TR	29
 Ole Gunnar Solskjær	1973	Norway	NO	37
+Faisal I of Iraq	1883	Saudi Arabia	SA	32
 Sammy Davis, Jr.	1925	United States	US	27
 Leonid Kantorovich	1912	Russia	RU	41
 Anja Pärson	1981	Sweden	SE	29
@@ -4225,6 +4510,7 @@ Harper Lee	1926	United States	US	44
 Adolfo Pérez Esquivel	1931	Argentina	AR	36
 Liliʻuokalani	1838	United States	US	40
 Zoran Đinđić	1952	Serbia	RS	40
+Marcion of Sinope	85	Turkey	TR	37
 Harvey Milk	1930	United States	US	34
 Charles Le Brun	1619	France	FR	31
 Aleksei Leonov	1934	Russia	RU	44
@@ -4242,12 +4528,14 @@ Alexis Clairault	1713	France	FR	32
 Alija Izetbegović	1925	Bosnia and Herzegovina	BA	40
 Zara Phillips	1981	United Kingdom	GB	28
 Asaph Hall	1829	United States	US	35
+Mozi	-470	China	CN	33
 Óscar Arias	1940	Costa Rica	CR	48
 Christian VI of Denmark	1699	Denmark	DK	27
 Frederick IV of Denmark	1671	Denmark	DK	28
 Frederick V of Denmark	1723	Denmark	DK	27
 Sir John Richard Hicks	1904	United Kingdom	GB	42
 Ali Daei	1969	Iran	IR	30
+Abbot Suger	1081	France	FR	30
 Eduardo Duhalde	1941	Argentina	AR	29
 Gordon Moore	1929	United States	US	31
 Isidor Isaac Rabi	1898	Poland	PL	50
@@ -4258,12 +4546,14 @@ Padmasambhava	0	Pakistan	PK	36
 Rachel Corrie	1979	United States	US	37
 B. R. Ambedkar	1891	India	IN	37
 José María Aznar	1953	Spain	ES	47
+Ferdinand Lassalle	1825	Poland	PL	37
 Lillian Gish	1893	United States	US	37
 Johan Ludvig Runeberg	1804	Finland	FI	28
 Pyrrhus of Epirus	-319	Greece	GR	47
 Petula Clark	1932	United Kingdom	GB	27
+Hans-Adam II, Prince of Liechtenstein	1945	Switzerland	CH	46
 Romano Prodi	1939	Italy	IT	77
-Martina Navratilova	1956	Czechoslovakia	CZ	56
+Martina Navratilova	1956	Czech Republic	CZ	56
 Ananda Mahidol	1925	Germany	DE	26
 Wilhelm Reich	1897	Austria	AT	42
 Ngũgĩ wa Thiong'o	1938	Kenya	KE	31
@@ -4319,6 +4609,7 @@ Princess Stéphanie of Monaco	1965	Monaco	MC	27
 Diane Keaton	1946	United States	US	49
 Leonid Andreyev	1871	Russia	RU	28
 Jack Kevorkian	1928	United States	US	31
+Valdemar IV Atterdag of Denmark	1320	Denmark	DK	27
 Kurt Wüthrich	1938	Switzerland	CH	34
 Léon Gambetta	1838	France	FR	29
 Richard Evelyn Byrd	1888	United States	US	29
@@ -4328,7 +4619,7 @@ Amanda Bynes	1986	United States	US	37
 Gustav Fechner	1801	Germany	DE	30
 Abdullah I of Jordan	1882	Saudi Arabia	SA	38
 Bhumibol Adulyadej	1927	United States	US	56
-Franz Werfel	1890	Czechia	CZ	28
+Franz Werfel	1890	Czech Republic	CZ	28
 Christoph Martin Wieland	1733	Germany	DE	34
 Mohammad Amin al-Husayni	1895	Israel	IL	28
 Christian Wolff	1679	Poland	PL	34
@@ -4359,6 +4650,7 @@ James Fenimore Cooper	1789	United States	US	44
 Steven Weinberg	1933	United States	US	45
 Francis Bacon	1909	Ireland	IE	35
 Oliver E. Williamson	1932	United States	US	37
+Toni Sailer	1935	Austria	AT	28
 Aaron Sorkin	1961	United States	US	27
 Johann Gottfried Galle	1812	Germany	DE	36
 Colin Farrell	1976	Ireland	IE	48
@@ -4370,6 +4662,8 @@ Twiggy	1949	United Kingdom	GB	28
 William Stanley Jevons	1835	United Kingdom	GB	27
 Ali Hassan al-Majid	1941	Iraq	IQ	35
 Muawiyah I	602	Saudi Arabia	SA	46
+Władysław IV Vasa	1595	Poland	PL	38
+John II Casimir of Poland	1609	Poland	PL	31
 Faisal of Saudi Arabia	1904	Saudi Arabia	SA	35
 Moritz Schlick	1882	Germany	DE	28
 Albert Lebrun	1871	France	FR	30
@@ -4382,6 +4676,7 @@ Arkady Strugatsky	1925	Georgia	GE	28
 Jacqueline du Pré	1945	United Kingdom	GB	27
 Caroline Herschel	1750	Germany	DE	26
 Henry Fuseli	1741	Switzerland	CH	28
+Emperor Taizong of Tang	599	China	CN	30
 Brandon Lee	1965	United States	US	35
 Charles Bronson	1921	United States	US	51
 Mohammed V of Morocco	1909	Morocco	MA	31
@@ -4392,6 +4687,7 @@ Osman III	1699	Turkey	TR	42
 Selim III	1761	Turkey	TR	44
 Mahmud II	1785	Turkey	TR	47
 Mustafa IV	1779	Turkey	TR	41
+Mehmed V	1844	Turkey	TR	46
 Jean-Baptiste Camille Corot	1796	France	FR	41
 Reba McEntire	1955	United States	US	28
 Ahmed Hassan al-Bakr	1914	Iraq	IQ	31
@@ -4403,6 +4699,7 @@ Gustave Courbet	1819	France	FR	50
 Nicolas Jean de Dieu Soult	1769	France	FR	28
 Julian Barnes	1946	United Kingdom	GB	29
 Hiroo Onoda	1922	Japan	JP	28
+Ælfweard of Wessex	904	United Kingdom	GB	30
 Peter II of Yugoslavia	1923	Serbia	RS	32
 Philo	-20	Egypt	EG	43
 Patricia Neal	1926	United States	US	40
@@ -4461,6 +4758,7 @@ Johann Adolph Hasse	1699	Germany	DE	28
 Pyotr Stolypin	1862	Germany	DE	34
 Giovanni Bellini	1430	Italy	IT	40
 Mary J. Blige	1971	United States	US	28
+Andrea Mantegna	1431	Italy	IT	43
 Umm Kulthum	1904	Egypt	EG	64
 Nina Simone	1933	United States	US	46
 Piero della Francesca	1415	Italy	IT	41
@@ -4491,7 +4789,7 @@ Magnentius	303	France	FR	32
 Heinrich von Kleist	1777	Germany	DE	48
 Ron Wood	1947	United Kingdom	GB	30
 Friedrich Gottlieb Klopstock	1724	Germany	DE	28
-Silvia Saint	1976	Czechia	CZ	36
+Silvia Saint	1976	Czech Republic	CZ	36
 Paul Samuelson	1915	United States	US	54
 Layne Staley	1967	United States	US	26
 Giovanni Battista Tiepolo	1696	Italy	IT	42
@@ -4516,6 +4814,7 @@ Yves Klein	1928	France	FR	30
 Christina Ricci	1980	United States	US	39
 Leo Esaki	1925	Japan	JP	45
 Rob Schneider	1963	United States	US	34
+Andrew Bonar Law	1858	Canada	CA	40
 Gus Van Sant	1952	United States	US	31
 Rafael Caldera	1916	Mexico	MX	26
 Kate Hudson	1979	United States	US	49
@@ -4526,6 +4825,7 @@ James Connolly	1868	United States	US	29
 Takeshi Kitano	1947	Japan	JP	40
 Thierry Henry	1977	France	FR	68
 Aubrey Beardsley	1872	United Kingdom	GB	31
+Hecataeus	-550	Greece	GR	33
 Frederick William III of Prussia	1770	Germany	DE	41
 Carol I of Romania	1839	Germany	DE	36
 Cory Doctorow	1971	Canada	CA	26
@@ -4534,10 +4834,11 @@ Tadao Ando	1941	Japan	JP	35
 Heinrich Brüning	1885	Germany	DE	34
 Johannes Hevelius	1611	Poland	PL	39
 Charlotte Corday	1768	France	FR	34
-Anton Raphael Mengs	1728	Czechia	CZ	28
+Anton Raphael Mengs	1728	Czech Republic	CZ	28
 Giambologna	1529	France	FR	32
 Cosimo I de' Medici, Grand Duke of Tuscany	1519	Italy	IT	33
 Kurt Russell	1951	United States	US	48
+Frederick North, Lord North	1732	United Kingdom	GB	28
 Christian Lous Lange	1869	Norway	NO	35
 Niccolò Piccinni	1728	Italy	IT	26
 Rod Laver	1938	Australia	AU	35
@@ -4556,6 +4857,7 @@ Rob Lowe	1964	United States	US	28
 Chris Evert	1954	United States	US	46
 Igor Kurchatov	1903	Russia	RU	40
 Pasquale Paoli	1725	France	FR	30
+Ishmael	0	Israel	IL	40
 Lata Mangeshkar	1929	India	IN	31
 Olga Korbut	1955	Belarus	BY	31
 Hidetoshi Nakata	1977	Japan	JP	56
@@ -4582,14 +4884,15 @@ John Arne Riise	1980	Norway	NO	39
 Mohammed VI of Morocco	1963	Morocco	MA	52
 Nora Ephron	1941	United States	US	36
 Guido van Rossum	1956	Netherlands	NL	30
+Minamoto no Yoshitsune	1159	Japan	JP	26
 Willy Messerschmitt	1898	Germany	DE	28
 Walter Benjamin	1892	Germany	DE	49
 Nicolaus Otto	1832	Germany	DE	47
 Jan Steen	1626	Netherlands	NL	35
 Petter Solberg	1974	Norway	NO	26
-Arthur Seyss-Inquart	1892	Czechia	CZ	40
+Arthur Seyss-Inquart	1892	Czech Republic	CZ	40
 Luciano Pavarotti	1935	Italy	IT	78
-Robert Bosch	1861	Germany	DE	27
+Robert Bosch	1861	Austria	AT	27
 Antonio José de Sucre	1795	Venezuela	VE	40
 Eleanor of Provence	1223	France	FR	26
 Nigel Mansell	1953	United Kingdom	GB	38
@@ -4611,6 +4914,7 @@ David Seaman	1963	United Kingdom	GB	36
 Charles Augustin Sainte-Beuve	1804	France	FR	27
 Elio Di Rupo	1951	Belgium	BE	47
 Néstor Kirchner	1950	Argentina	AR	49
+Keke Rosberg	1948	Sweden	SE	31
 Ayub Khan	1907	Pakistan	PK	36
 Robert K. Merton	1910	United States	US	26
 Janet Leigh	1927	United States	US	35
@@ -4618,6 +4922,7 @@ Helen Mirren	1945	United Kingdom	GB	47
 Johannes Diderik van der Waals	1837	Netherlands	NL	55
 Charles Francis Richter	1900	United States	US	43
 Gerhart Hauptmann	1862	Poland	PL	71
+Jimmy Greaves	1940	United Kingdom	GB	26
 Pierre Messmer	1916	France	FR	30
 Richard Pryor	1940	United States	US	28
 Jean Baudrillard	1929	France	FR	43
@@ -4631,13 +4936,17 @@ Austen Chamberlain	1863	United Kingdom	GB	43
 Fuad I of Egypt	1868	Egypt	EG	28
 Michael Stipe	1960	United States	US	27
 Giuseppe Tomasi di Lampedusa	1896	Italy	IT	38
+Salome	14	Israel	IL	27
 Edward Smith-Stanley, 14th Earl of Derby	1799	United Kingdom	GB	32
+Charles Grey, 2nd Earl Grey	1764	United Kingdom	GB	29
+Robert Cecil, 3rd Marquess of Salisbury	1830	United Kingdom	GB	31
 Mitch Mitchell	1947	United Kingdom	GB	26
 Mahmoud Abbas	1935	Israel	IL	59
 Archibald Primrose, 5th Earl of Rosebery	1847	United Kingdom	GB	31
 Henry Addington, 1st Viscount Sidmouth	1757	United Kingdom	GB	28
 Tony Bennett	1926	United States	US	28
 Mungo Park	1771	United Kingdom	GB	32
+William Wyndham Grenville, 1st Baron Grenville	1759	United Kingdom	GB	27
 William Cavendish-Bentinck, 3rd Duke of Portland	1738	United Kingdom	GB	28
 Aram Khachaturian	1903	Georgia	GE	48
 Spencer Perceval	1762	United Kingdom	GB	34
@@ -4647,7 +4956,7 @@ Heinrich Ignaz Franz von Biber	1644	Poland	PL	31
 Matthew Perry	1969	United States	US	47
 Niels Ryberg Finsen	1860	Faroe Islands	FO	44
 Jostein Gaarder	1952	Norway	NO	44
-Valmiki	0	India	IN	32
+Valmiki	-400	India	IN	32
 Maurice Wilkins	1916	New Zealand	NZ	42
 Diogenes of Sinope	-412	Turkey	TR	62
 Charlie Watts	1941	United Kingdom	GB	28
@@ -4684,11 +4993,13 @@ Mahavira	-599	India	IN	47
 Frederick William IV of Prussia	1795	Germany	DE	41
 Paolo Veronese	1528	Italy	IT	51
 Friedrich Mohs	1773	Germany	DE	30
+Alfred von Tirpitz	1849	Germany	DE	28
 Simeon Saxe-Coburg-Gotha	1937	Bulgaria	BG	40
 Charles Fourier	1772	France	FR	42
 Albert Bandura	1925	Canada	CA	33
 Emile Berliner	1851	Germany	DE	36
 Joe Dassin	1938	United States	US	32
+Pocahontas	1595	United States	US	40
 Megawati Sukarnoputri	1947	Indonesia	ID	51
 Leopold von Ranke	1795	Germany	DE	34
 J. L. Austin	1911	United Kingdom	GB	30
@@ -4756,10 +5067,11 @@ Paul Celan	1920	France	FR	37
 Grant Wood	1891	United States	US	26
 Theda Bara	1885	United States	US	27
 Jean-Antoine Watteau	1684	France	FR	43
-Hana Mandlíková	1962	Czechia	CZ	26
+Hana Mandlíková	1962	Czech Republic	CZ	26
 Jody Scheckter	1950	South Africa	ZA	29
 Moshe Katsav	1945	Iran	IR	44
 Lara Flynn Boyle	1970	United States	US	41
+Pope John IV	0	Croatia	HR	49
 Pope John V	0	Syria	SY	47
 Álvaro Uribe	1952	Colombia	CO	43
 Julianne Moore	1960	United States	US	62
@@ -4776,8 +5088,10 @@ Emanuel Lasker	1868	Poland	PL	49
 Frits Zernike	1888	Netherlands	NL	42
 Josh Hartnett	1978	United States	US	39
 Paul Walker	1973	United States	US	35
+Cao Pi	187	China	CN	26
 Carrie-Anne Moss	1967	Canada	CA	35
 André Chénier	1762	Turkey	TR	30
+Saint Christopher	0	Israel	IL	38
 Vasily Smyslov	1921	Russia	RU	44
 Władysław Gomułka	1905	Poland	PL	33
 Willard Libby	1908	United States	US	39
@@ -4807,7 +5121,7 @@ Michail Aleksandrovich Sholokhov	1905	Russia	RU	72
 Sonny Rollins	1930	United States	US	26
 Herbert Spencer	1820	United Kingdom	GB	51
 Lysimachus	-360	Greece	GR	35
-Mother Jones	1837	United States	US	35
+Mother Jones	1837	Ireland	IE	35
 Elmer Bernstein	1922	United States	US	27
 Keira Knightley	1985	United Kingdom	GB	69
 Virginia Apgar	1909	United States	US	26
@@ -4824,7 +5138,7 @@ Emil Cioran	1911	Romania	RO	39
 Claudio Abbado	1933	Italy	IT	39
 Herbert von Karajan	1908	Austria	AT	51
 John Venn	1834	United Kingdom	GB	28
-Venceslaus II of Bohemia	1271	Czechia	CZ	26
+Venceslaus II of Bohemia	1271	Czech Republic	CZ	26
 Zahi Hawass	1947	Egypt	EG	31
 Georges Pompidou	1911	France	FR	82
 Juan Rulfo	1917	Mexico	MX	37
@@ -4837,6 +5151,7 @@ Adolf Galland	1912	Germany	DE	31
 Matti Vanhanen	1955	Finland	FI	44
 Sade Adu	1959	Nigeria	NG	38
 Aristippus	-435	Libya	LY	37
+Tiberius II Constantine	540	Turkey	TR	42
 Carl Ferdinand Cori	1896	Czech Republic	CZ	32
 Gerty Cori	1896	United States	US	37
 Bernardo Houssay	1887	Argentina	AR	33
@@ -4844,6 +5159,7 @@ Edward Calvin Kendall	1886	United States	US	35
 Philip Showalter Hench	1896	United States	US	28
 Constantine IV	652	Turkey	TR	46
 Leontios	0	Turkey	TR	36
+Tiberios III	0	Turkey	TR	36
 Yuan T. Lee	1936	Taiwan	TW	32
 Marty Friedman	1962	United States	US	28
 Carlos I of Portugal	1863	Portugal	PT	31
@@ -4871,6 +5187,8 @@ Henry of Portugal	1512	Portugal	PT	28
 Dale Carnegie	1888	United States	US	38
 Louis Spohr	1784	Germany	DE	27
 Mikhail Kasyanov	1957	Russia	RU	28
+Peter II of Portugal	1648	Portugal	PT	27
+Joseph I of Portugal	1714	Portugal	PT	30
 Mary I of Portugal	1734	Portugal	PT	29
 Louis Antoine de Bougainville	1729	France	FR	31
 Maria II of Portugal	1819	Brazil	BR	31
@@ -4881,10 +5199,10 @@ Louis Eugène Félix Néel	1904	France	FR	43
 Antonello da Messina	1430	Italy	IT	37
 Mikhail Glinka	1804	Russia	RU	44
 Alexander Glazunov	1865	Russia	RU	36
+Vasily Grigoryevich Zaitsev	1915	Russia	RU	43
 Josephine Baker	1906	United States	US	42
 Alan Jones	1946	Australia	AU	29
-Zodiac Killer	1940	United States	US	29
-Jaromir Jagr	1972	Czechia	CZ	28
+Jaromir Jagr	1972	Czech Republic	CZ	28
 James Van Allen	1914	United States	US	31
 Anerood Jugnauth	1930	Mauritius	MU	27
 Robin Tunney	1972	United States	US	33
@@ -4911,6 +5229,7 @@ Leo Baekeland	1863	Belgium	BE	31
 Lee De Forest	1873	United States	US	27
 Antonio Negri	1933	Italy	IT	26
 Apollonius of Perga	-262	Turkey	TR	43
+Samudragupta	335	India	IN	26
 Katarina Witt	1965	Germany	DE	26
 Evonne Goolagong	1951	Australia	AU	31
 John Dos Passos	1896	United States	US	29
@@ -4934,6 +5253,7 @@ Plácido Domingo	1941	Spain	ES	53
 Hermann Hoth	1885	Germany	DE	31
 Tim Henman	1974	United Kingdom	GB	31
 William John Macquorn Rankine	1820	United Kingdom	GB	36
+Roxana	-344	Australia	AU	39
 Muhammad al-Bukhari	810	Uzbekistan	UZ	32
 Arthur Adamov	1908	Russia	RU	30
 Steve Vai	1960	United States	US	38
@@ -4959,7 +5279,9 @@ Tarkan	1972	Turkey	TR	41
 Toto Cutugno	1943	Italy	IT	36
 Bill Maher	1956	United States	US	31
 Jonas Savimbi	1934	Angola	AO	30
+Stephen III of Moldavia	1432	Romania	RO	33
 Violeta Chamorro	1929	Nicaragua	NI	31
+Georg Michaelis	1857	Poland	PL	31
 Empress Dowager Cixi	1835	China	CN	66
 Kenny Rogers	1938	United States	US	34
 Telly Savalas	1922	United States	US	33
@@ -4980,8 +5302,10 @@ John Goodman	1952	United States	US	35
 Fritz Sauckel	1894	Germany	DE	28
 Nick Mason	1944	United Kingdom	GB	37
 Johann Bernoulli	1667	Switzerland	CH	47
+James I of England	1566	United Kingdom	GB	65
 Tim Robbins	1958	United States	US	41
 Eoin Colfer	1965	Ireland	IE	32
+Luis de Góngora	1561	Spain	ES	33
 James Hetfield	1963	United States	US	49
 Alexander I of Yugoslavia	1888	Montenegro	ME	34
 Julian Schwinger	1918	United States	US	42
@@ -4995,6 +5319,7 @@ Al-Kindī	801	Iraq	IQ	43
 Ibn Taymiya	1263	Turkey	TR	30
 Matthias Corvinus of Hungary	1443	Romania	RO	41
 Sweyn II of Denmark	1019	United Kingdom	GB	26
+Aristides	-530	Greece	GR	28
 Umberto Giordano	1867	Italy	IT	28
 Michael Spence	1943	United States	US	27
 Ali Karimi	1978	Iran	IR	27
@@ -5063,9 +5388,11 @@ Ibrahim Pasha of Egypt	1789	Greece	GR	26
 Gary Moore	1952	United Kingdom	GB	43
 Thorbjörn Fälldin	1926	Lithuania	LT	27
 John Ford	1894	United States	US	49
+Tage Erlander	1901	Sweden	SE	30
 Fernand Braudel	1902	France	FR	40
 David Copperfield	1956	United States	US	40
 Viswanathan Anand	1969	India	IN	66
+Norman Angell	1872	United Kingdom	GB	35
 Nicholas of Cusa	1401	Germany	DE	43
 Evo Morales	1959	Bolivia	BO	72
 Jan Ullrich	1973	Germany	DE	33
@@ -5074,7 +5401,7 @@ Leo Fender	1909	United States	US	28
 Bernard Hinault	1954	France	FR	31
 Maurice Sendak	1928	United States	US	30
 Camilo Cienfuegos	1932	Cuba	CU	31
-John Hunyadi	0	Hungary	HU	31
+John Hunyadi	1407	Hungary	HU	31
 Jennifer Beals	1963	United States	US	28
 Jean Dubuffet	1901	France	FR	26
 Frederick Chiluba	1943	Zambia	ZM	29
@@ -5099,11 +5426,13 @@ Maya Angelou	1928	United States	US	26
 Michael Shanks	1970	Canada	CA	29
 Iajuddin Ahmed	1931	Bangladesh	BD	30
 Wolfgang Schüssel	1945	Austria	AT	35
+Blaise Compaoré	1951	Burkina Faso	BF	44
 George Emil Palade	1912	Romania	RO	32
 Pat Metheny	1954	United States	US	28
 Betty Ford	1918	United States	US	36
 Joseph-Ignace Guillotin	1738	France	FR	32
 José Carreras	1946	Spain	ES	43
+Semyon Timoshenko	1895	Ukraine	UA	38
 Alejo Carpentier	1904	Switzerland	CH	34
 Prince Joachim of Denmark	1969	Denmark	DK	26
 Khan Abdul Ghaffar Khan	1890	Pakistan	PK	27
@@ -5111,6 +5440,7 @@ Francisco de Quevedo	1580	Spain	ES	37
 Mischa Barton	1986	United Kingdom	GB	34
 Ali Pasha	1740	Albania	AL	27
 Yasunari Kawabata	1899	Japan	JP	70
+Kālidāsa	0	India	IN	88
 Alfred Sisley	1839	France	FR	46
 Domenico Modugno	1928	Italy	IT	37
 Abdülmecid II	1868	Turkey	TR	37
@@ -5136,6 +5466,7 @@ Jackie Stewart	1939	United Kingdom	GB	37
 Owen Wilson	1968	United States	US	51
 Erich von Stroheim	1885	United States	US	26
 Anthony van Dyck	1599	Belgium	BE	52
+Saint Lucy	283	Italy	IT	44
 Chris Columbus	1958	United States	US	34
 Jean-Luc Dehaene	1940	Belgium	BE	28
 Imelda Marcos	1929	Philippines	PH	29
@@ -5164,15 +5495,15 @@ Menelek II of Ethiopia	1844	Pakistan	PK	32
 Giuliano de' Medici	1453	Italy	IT	26
 Georgi Plekhanov	1857	Russia	RU	42
 Ashikaga Takauji	1305	Japan	JP	27
-Nikolai Chernyshevsky	1828	Russia	RU	33
 Aryabhata	476	India	IN	50
 Brahmagupta	598	India	IN	37
 Lin Biao	1907	China	CN	26
 Arthur Rubinstein	1887	Poland	PL	43
 Antônio Carlos Jobim	1927	Brazil	BR	39
-Jan Neruda	1834	Czechia	CZ	31
-Camilo José Cela	1916	Chile	CL	58
+Jan Neruda	1834	Czech Republic	CZ	31
+Camilo José Cela	1916	Spain	ES	58
 Max Reger	1873	Germany	DE	37
+Vladislav Ardzinba	1945	Georgia	GE	29
 Roman Herzog	1934	Germany	DE	47
 Walter Scheel	1919	Germany	DE	39
 Heinrich Lübke	1894	Germany	DE	35
@@ -5211,7 +5542,7 @@ Abraham Maslow	1908	United States	US	44
 Abbé Pierre	1912	France	FR	28
 Salman Khan	1965	India	IN	41
 Lapu-Lapu	1491	Philippines	PH	28
-Bernard Bolzano	1781	Czechia	CZ	40
+Bernard Bolzano	1781	Czech Republic	CZ	40
 Laurie Holden	1969	United States	US	34
 Wyclef Jean	1969	Haiti	HT	36
 Ivan Lendl	1960	United States	US	45
@@ -5219,8 +5550,8 @@ Hugh Jackman	1968	Australia	AU	57
 Steve Harris	1956	United Kingdom	GB	40
 Fran Drescher	1957	United States	US	29
 Bret Hart	1957	United States	US	33
-Bernardo O'Higgins	1778	Ecuador	EC	38
-Václav Klaus	1941	Czechia	CZ	59
+Bernardo O'Higgins	1778	Chile	CL	38
+Václav Klaus	1941	Czech Republic	CZ	59
 Triple H	1969	United States	US	38
 Johan Christian Fabricius	1745	Denmark	DK	27
 Vyasa	-1500	India	IN	29
@@ -5265,7 +5596,7 @@ Jean-Pierre Léaud	1944	France	FR	28
 Adam Copeland	1973	Canada	CA	35
 Eddie Guerrero	1967	United States	US	30
 Chick Corea	1941	United States	US	38
-Jana Novotná	1968	Czechia	CZ	31
+Jana Novotná	1968	Czech Republic	CZ	31
 Karl Friedrich Schinkel	1781	Germany	DE	37
 Ruslan Ponomariov	1983	Ukraine	UA	32
 Max Frisch	1911	Switzerland	CH	43
@@ -5281,7 +5612,9 @@ France Gall	1947	France	FR	33
 Mario Benedetti	1920	Uruguay	UY	30
 John Turturro	1957	United States	US	31
 Sarah Brightman	1960	United Kingdom	GB	37
+Jan Železný	1966	Czech Republic	CZ	37
 Thomas Pelham-Holles, 1st Duke of Newcastle-upon-Tyne	1693	United Kingdom	GB	30
+William Petty, 2nd Earl of Shelburne	1737	Ireland	IE	26
 Ornella Muti	1955	Italy	IT	37
 Alain Delon	1935	Switzerland	CH	53
 Arthur Henderson	1863	United Kingdom	GB	31
@@ -5325,6 +5658,7 @@ Hassan Nasrallah	1960	Lebanon	LB	44
 Candice Bergen	1946	United States	US	37
 Charles Albert Gobat	1843	Switzerland	CH	45
 Richard Holbrooke	1941	United States	US	41
+Akechi Mitsuhide	1528	Japan	JP	26
 Paul Krugman	1953	United States	US	54
 Edward Burnett Tylor	1832	United Kingdom	GB	35
 Gaspard de Coligny	1519	France	FR	29
@@ -5332,10 +5666,12 @@ Charles Trenet	1913	France	FR	29
 Juscelino Kubitschek de Oliveira	1902	Brazil	BR	39
 Date Masamune	1567	Japan	JP	27
 Jody Williams	1950	United States	US	32
+Apollonius of Rhodes	-270	Egypt	EG	39
 Carrie Fisher	1956	United States	US	29
 Ferdinand de Lesseps	1805	France	FR	34
 Dost Mohammad Khan	1793	Afghanistan	AF	27
 Dennis Quaid	1954	United States	US	36
+Simon the Zealot	0	Israel	IL	51
 Ferdinand Tönnies	1855	Germany	DE	40
 Herbert Kroemer	1928	Germany	DE	33
 José Luis Chilavert	1965	Paraguay	PY	33
@@ -5363,6 +5699,7 @@ Sergiu Celibidache	1912	Romania	RO	26
 Samora Machel	1933	Mozambique	MZ	32
 August von Mackensen	1849	Germany	DE	30
 Philip Noel-Baker, Baron Noel-Baker	1889	United Kingdom	GB	34
+Jeppe Aakjær	1866	Denmark	DK	30
 Mairead Corrigan	1944	United Kingdom	GB	36
 Aimé Césaire	1913	Martinique	MQ	31
 Zubin Mehta	1936	India	IN	35
@@ -5411,6 +5748,7 @@ Guillaume Dufay	1397	Belgium	BE	32
 James Irwin	1930	United States	US	27
 John Boyd Orr, 1st Baron Boyd-Orr	1880	United Kingdom	GB	27
 Emily Greene Balch	1867	United States	US	36
+John Mott	1865	United States	US	32
 Scottie Pippen	1965	United States	US	38
 Toni Kukoč	1968	Croatia	HR	31
 Atom Egoyan	1960	Egypt	EG	26
@@ -5440,6 +5778,7 @@ John McEnroe	1959	United States	US	47
 Cormac McCarthy	1933	United States	US	31
 Robert Cecil, 1st Viscount Cecil of Chelwood	1864	United Kingdom	GB	29
 Carlos Fuentes	1928	United States	US	46
+John Dunstable	1390	United Kingdom	GB	27
 Jennifer Capriati	1976	United States	US	38
 Jamie Foxx	1967	United States	US	47
 Georges Brassens	1921	France	FR	34
@@ -5461,18 +5800,21 @@ David Scott	1932	United States	US	26
 Kirstie Alley	1951	United States	US	29
 Adrian Mutu	1979	Romania	RO	36
 John McLaughlin	1942	United Kingdom	GB	27
+Hanno the Navigator	-500	Tunisia	TN	28
 Robert Carlyle	1961	United Kingdom	GB	34
 Rosanna Arquette	1959	United States	US	33
 Fernando Álvarez de Toledo, 3rd Duke of Alba	1507	Spain	ES	29
 Aleksandr Kuprin	1870	Russian Federation	RU	32
 Maud of Wales	1869	United Kingdom	GB	28
 Christian de Duve	1917	United Kingdom	GB	34
+Max Müller	1823	Germany	DE	41
 DJ Shadow	1972	United States	US	26
 David Moyes	1963	United Kingdom	GB	27
 Louis-Nicolas Davout	1770	France	FR	33
 Jean Lannes	1769	France	FR	31
 Karolina Gočeva	1980	Macedonia (FYROM)	MK	26
 Étienne-Jacques-Joseph-Alexandre MacDonald	1765	France	FR	28
+Auguste de Marmont	1774	France	FR	26
 Louis Alexandre Berthier	1753	France	FR	28
 John Franklin	1786	United Kingdom	GB	28
 Marc Anthony	1968	United States	US	33
@@ -5555,6 +5897,7 @@ Vitaly Ginzburg	1916	Russia	RU	47
 Alexei Alexeyevich Abrikosov	1928	United States	US	41
 Fernando de la Rúa	1937	Argentina	AR	29
 Raúl Alfonsín	1927	Argentina	AR	38
+Reynaldo Bignone	1928	Argentina	AR	28
 Simeon I of Bulgaria	866	Bulgaria	BG	39
 Alexander Suvorov	1730	Russia	RU	44
 Mena Suvari	1979	United States	US	31
@@ -5573,6 +5916,7 @@ Joseph Liouville	1809	France	FR	29
 Bruno Kreisky	1911	Austria	AT	34
 Lena Olin	1955	Sweden	SE	27
 Victor Garber	1949	Canada	CA	30
+Gheorghe Gheorghiu-Dej	1901	Romania	RO	29
 Léon Blum	1872	France	FR	39
 Karl Malden	1912	United States	US	38
 Howard Aiken	1900	United States	US	26
@@ -5613,6 +5957,7 @@ Steve Nash	1974	South Africa	ZA	38
 Robbie Fowler	1975	United Kingdom	GB	34
 Kurt Angle	1968	United States	US	36
 Chaka Khan	1953	United States	US	27
+Coloman of Hungary	1074	Hungary	HU	27
 Jelena Dokić	1983	Serbia	RS	30
 Hernán Crespo	1975	Argentina	AR	52
 Gianfranco Zola	1966	Italy	IT	37
@@ -5623,14 +5968,18 @@ Levi Strauss	1829	Germany	DE	38
 Raúl González	1977	Spain	ES	61
 Oliver Kahn	1969	Germany	DE	52
 Abdullah Ahmad Badawi	1939	Malaysia	MY	30
+Kubrat	605	Bulgaria	BG	28
 Michio Kaku	1947	United States	US	35
 Henri, Grand Duke of Luxembourg	1955	Luxembourg	LU	50
 Veselin Topalov	1975	Bulgaria	BG	46
 Konstantinos Stephanopoulos	1926	Greece	GR	34
 Gladwyn Jebb, 1st Baron Gladwyn	1900	United Kingdom	GB	31
 John Millington Synge	1871	Ireland	IE	28
+Louis Auguste Blanqui	1805	France	FR	27
 Tomás Luis de Victoria	1548	Spain	ES	27
+Stanisław August Poniatowski	1732	Belarus	BY	33
 Muhammad Naguib	1901	Sudan	SD	35
+Joseph Fouché	1759	France	FR	36
 Debra Messing	1968	United States	US	31
 Roxelana	1506	Ukraine	UA	35
 Conrad Bain	1923	Canada	CA	58
@@ -5664,6 +6013,8 @@ Matt Hardy	1974	United States	US	31
 Albert Lortzing	1801	Germany	DE	28
 Rauf Denktaş	1924	Cyprus	CY	39
 Jules Massenet	1842	France	FR	36
+Rose of Lima	1586	Peru	PE	31
+Giovanni Giolitti	1842	Italy	IT	28
 Boris Berezovsky	1946	United Kingdom	GB	28
 Dennis Rodman	1961	United States	US	37
 Camille Jordan	1838	France	FR	26
@@ -5673,10 +6024,13 @@ Steven Williams	1964	United States	US	36
 Keizo Obuchi	1937	Japan	JP	28
 Ambrogio Lorenzetti	1290	Italy	IT	30
 Pietro Lorenzetti	1280	Italy	IT	26
+Herod Antipas	-20	Israel	IL	38
 Ambroise Thomas	1811	France	FR	27
 Charles Goodyear	1800	United States	US	34
 Othniel Charles Marsh	1831	United States	US	26
 Cleomenes I	-550	Greece	GR	27
+Guadalupe Victoria	1786	Mexico	MX	27
+Queen of Sheba	-1000	Yemen	YE	52
 Andreas Papandreou	1919	Greece	GR	33
 George Papandreou jr.	1952	United States	US	47
 George Papandreou	1888	Greece	GR	26
@@ -5695,9 +6049,11 @@ Alex Jones	1974	United States	US	26
 Spencer Tunick	1967	United States	US	26
 Robert Wadlow	1918	United States	US	39
 Jean-Claude Trichet	1942	France	FR	31
+Victoriano Huerta	1850	Mexico	MX	26
 Michael Adams	1971	United Kingdom	GB	26
 Georges-Louis Leclerc, Comte de Buffon	1707	France	FR	41
 Charles-Marie-René Leconte de Lisle	1818	France	FR	27
+José de San Martín	1778	Argentina	AR	53
 Eiichiro Oda	1975	Japan	JP	29
 Thaksin Shinawatra	1949	Thailand	TH	51
 Otto Lilienthal	1848	Germany	DE	35
@@ -5713,6 +6069,7 @@ Sandra Oh	1971	Canada	CA	26
 Thalía	1971	Mexico	MX	49
 Toni Collette	1972	Australia	AU	27
 Lee Hsien Loong	1952	Singapore	SG	43
+Sor Juana	1651	Mexico	MX	30
 Lina Medina	1933	Peru	PE	35
 Pope John XIV	0	Italy	IT	45
 Pope John XV	974	Italy	IT	42
@@ -5720,7 +6077,9 @@ Pope John XII	937	Italy	IT	48
 George Takei	1937	United States	US	27
 Pope John XI	910	Italy	IT	45
 Pope John X	0	France	FR	46
+Pope John IX	0	Italy	IT	45
 Pope John VII	0	Italy	IT	48
+Pope John VI	0	Turkey	TR	49
 Pope John XVII	0	Italy	IT	44
 Pope John XVIII	0	Italy	IT	46
 Eduard Buchner	1860	Germany	DE	51
@@ -5731,6 +6090,7 @@ Joseph Dalton Hooker	1817	United Kingdom	GB	28
 Bashar al-Assad	1965	Syria	SY	70
 Lǐ Xiānniàn	1909	China	CN	26
 Antonio Meucci	1808	United States	US	30
+Chaim Herzog	1918	Ireland	IE	30
 Naoto Kan	1946	Japan	JP	64
 Matt Stone	1971	United States	US	32
 Trey Parker	1969	United States	US	31
@@ -5770,6 +6130,7 @@ Ursula Andress	1936	Switzerland	CH	35
 Emilio G. Segrè	1905	Italy	IT	48
 Recep Tayyip Erdoğan	1954	Turkey	TR	76
 Mikheil Saakashvili	1967	Georgia	GE	68
+Claude Bernard	1813	France	FR	35
 Joan Sutherland	1926	Australia	AU	34
 Adam Brody	1979	United States	US	29
 Prachanda	1954	Nepal	NP	29
@@ -5813,6 +6174,7 @@ Seth MacFarlane	1973	United States	US	46
 Tim Roth	1961	United Kingdom	GB	36
 Alain Robert	1962	France	FR	26
 Kurt Alder	1902	Poland	PL	40
+Friedrich Bergius	1884	Poland	PL	38
 Marcia Gay Harden	1959	United States	US	30
 Wu Cheng'en	1506	China	CN	41
 Ahmet Necdet Sezer	1941	Turkey	TR	50
@@ -5841,6 +6203,7 @@ Mswati III of Swaziland	1968	Swaziland	SZ	42
 Mikuláš Dzurinda	1955	Slovakia	SK	30
 Ramon Magsaysay	1907	Philippines	PH	28
 Wanli Emperor	1563	China	CN	27
+Vincent de Paul	1581	France	FR	31
 Zine El Abidine Ben Ali	1936	Tunisia	TN	57
 Hjalmar Schacht	1877	Denmark	DK	36
 Manuel de Falla	1876	Spain	ES	37
@@ -5860,6 +6223,7 @@ Joan Enric Vives Sicília	1949	Spain	ES	33
 José Eduardo dos Santos	1942	Angola	AO	53
 Antoine François Prévost	1697	France	FR	26
 Hamad bin Isa Al Khalifah	1950	Bahrain	BH	38
+Mathieu Kérékou	1933	Benin	BJ	33
 Jigme Singye Wangchuck	1955	Bhutan	BT	38
 Georgi Parvanov	1957	Bulgaria	BG	53
 Paul Biya	1933	Cameroon	CM	44
@@ -5882,6 +6246,7 @@ Letsie III of Lesotho	1963	Lesotho	LS	36
 Álvaro Obregón	1880	Mexico	MX	35
 Vladimir Zhirinovsky	1946	Kazakhstan	KZ	42
 Luis Federico Leloir	1906	France	FR	34
+Jan Matejko	1838	Poland	PL	39
 Emil Constantinescu	1939	Romania	RO	28
 William Friedkin	1935	United States	US	26
 Marc Ravalomanana	1949	Madagascar	MG	35
@@ -5905,10 +6270,11 @@ Fernando da Piedade Dias dos Santos	1950	Angola	AO	28
 Denzil Douglas	1953	Saint Kitts and Nevis	KN	26
 Khaleda Zia	1945	Bangladesh	BD	26
 Sergey Sidorsky	1954	Belarus	BY	29
+Lyonpo Jigme Thinley	1952	Bhutan	BT	27
 Hun Sen	1952	Cambodia	KH	32
 José Maria Neves	1960	Cape Verde	CV	29
 Maktoum bin Rashid Al Maktoum	1943	United Arab Emirates	AE	27
-Vladimír Špidla	1951	Czechia	CZ	27
+Vladimír Špidla	1951	Czech Republic	CZ	27
 Dileita Mohamed Dileita	1958	Djibouti	DJ	26
 Viktor Yanukovych	1950	Ukraine	UA	58
 Meles Zenawi	1955	Ethiopia	ET	52
@@ -6010,14 +6376,18 @@ Grand Ayatollah Hossein-Ali Montazeri	1922	Iran	IR	26
 Timbaland	1972	United States	US	44
 Zulfikar Ali Bhutto	1928	Pakistan	PK	55
 Aleksandr Ivanovich Pokryshkin	1913	Russia	RU	27
+Franz Graf Conrad von Hötzendorf	1852	Austria	AT	26
 Yemelyan Pugachev	1740	Russia	RU	41
 José Antonio Primo de Rivera	1903	Spain	ES	29
+Erwin von Witzleben	1881	Poland	PL	29
 Khalid of Saudi Arabia	1913	Saudi Arabia	SA	32
 Ioan Gruffudd	1973	United Kingdom	GB	28
+Jacques Hébert	1757	France	FR	30
 William Forsyth Sharpe	1934	United States	US	30
 Gaston Doumergue	1863	France	FR	29
 Louis Barthou	1862	France	FR	30
 Saud of Saudi Arabia	1902	Kuwait	KW	33
+Husayn ibn Ali	626	Saudi Arabia	SA	44
 Andy Serkis	1964	United Kingdom	GB	33
 Kajol	1974	India	IN	40
 Adolfo Suárez, 1st Duke of Suárez	1932	Spain	ES	36
@@ -6025,9 +6395,13 @@ Sultan, Crown Prince of Saudi Arabia	1928	Saudi Arabia	SA	26
 Chris Benoit	1967	Canada	CA	41
 Orhan Pamuk	1952	Turkey	TR	90
 Lisa Gerrard	1961	Australia	AU	73
+Philip Miller	1691	United Kingdom	GB	26
 A. P. de Candolle	1778	Switzerland	CH	30
 Mark Viduka	1975	Australia	AU	32
+Santiago Carrillo	1915	Spain	ES	26
+Hud	0	Yemen	YE	31
 Saleh	0	Yemen	YE	29
+Pérotin	1160	France	FR	33
 Dennis Tito	1940	United States	US	30
 James Cromwell	1940	United States	US	26
 Ali	598	Saudi Arabia	SA	84
@@ -6036,10 +6410,11 @@ Chris Martin	1977	United Kingdom	GB	49
 Quett Masire	1925	Botswana	BW	30
 Franz Berwald	1796	Sweden	SE	27
 Henri Cartier-Bresson	1908	France	FR	36
+George Papadopoulos	1919	Greece	GR	30
 Ante Gotovina	1955	Croatia	HR	27
 Eric Allin Cornell	1961	United States	US	36
 Giorgio Armani	1934	Italy	IT	39
-Karl Kraus	1874	Czechia	CZ	30
+Karl Kraus	1874	Czech Republic	CZ	30
 Carl Schmitt	1888	Germany	DE	29
 René Coty	1882	France	FR	34
 Olympe de Gouges	1748	France	FR	36
@@ -6096,6 +6471,7 @@ Gabriel Narutowicz	1865	Lithuania	LT	28
 Paul Tillich	1886	Poland	PL	31
 Maurice Allais	1911	France	FR	40
 Vincente Minnelli	1903	United States	US	27
+Elisabeth of Hungary	1207	Slovakia	SK	32
 John Kendrew	1917	United Kingdom	GB	35
 Olivier Panis	1966	France	FR	30
 Corey Taylor	1973	United States	US	28
@@ -6114,7 +6490,7 @@ Erich Wolfgang Korngold	1897	Czech Republic	CZ	26
 Frank Macfarlane Burnet	1899	Australia	AU	32
 Benedict Arnold	1741	United Kingdom	GB	29
 Alejandro Amenábar	1972	Spain	ES	30
-Félix Houphouët-Boigny	1905	CÃ´te d'Ivoire	CI	36
+Félix Houphouët-Boigny	1905	Côte d'Ivoire	CI	36
 Daniel Carleton Gajdusek	1923	United States	US	35
 Verne Troyer	1969	United States	US	30
 Martin Lawrence	1965	Germany	DE	45
@@ -6123,6 +6499,7 @@ Abu Hanifa an-Nu‘man	699	Iraq	IQ	36
 Ahmad ibn Hanbal	780	Turkmenistan	TM	31
 Tony Shalhoub	1953	United States	US	33
 David Cameron	1966	United Kingdom	GB	86
+Hasan ibn Ali	625	Saudi Arabia	SA	43
 James Stirling	1926	United Kingdom	GB	29
 Alexander Berkman	1870	Lithuania	LT	30
 Muhammad al-Idrisi	1100	Spain	ES	46
@@ -6134,6 +6511,7 @@ Petar Stoyanov	1952	Bulgaria	BG	26
 Ahmadou Ahidjo	1924	Cameroon	CM	27
 David IV of Georgia	1073	Georgia	GE	27
 Joseph Kony	1961	Uganda	UG	42
+Norbert Elias	1897	Poland	PL	30
 Victor Horta	1861	Belgium	BE	33
 Jorge Amado	1912	Brazil	BR	40
 Pope Benedict IV	0	Italy	IT	45
@@ -6141,6 +6519,7 @@ Joe Mantegna	1947	United States	US	29
 Takuma Sato	1977	Japan	JP	34
 George Minot	1885	United States	US	32
 Ramakrishna	1836	India	IN	45
+Har Gobind Khorana	1922	India	IN	42
 Käthe Kollwitz	1867	Germany	DE	35
 Matt Dillon	1964	United States	US	37
 Tim Howard	1979	United States	US	37
@@ -6156,6 +6535,7 @@ Cyaxares	0	Iran	IR	31
 Mitt Romney	1947	United States	US	71
 Dino De Laurentiis	1919	Italy	IT	27
 George Best	1946	United Kingdom	GB	51
+Roger Milla	1952	Cameroon	CM	37
 Kareena Kapoor	1980	India	IN	40
 John Fenn	1917	United States	US	36
 Mikhail Baryshnikov	1948	Latvia	LV	29
@@ -6170,12 +6550,17 @@ Willi Stoph	1914	Germany	DE	29
 Milan Kučan	1941	Croatia	HR	36
 Ja'far al-Sadiq	702	Saudi Arabia	SA	29
 Edward B. Lewis	1918	United States	US	30
+Muhammad al-Baqir	676	Saudi Arabia	SA	26
 Gene Wilder	1933	United States	US	38
+Ali al-Rida	766	Saudi Arabia	SA	27
 Muhammad al-Mahdi	868	Iraq	IQ	26
 Calvin Klein	1942	United States	US	29
 Giuseppe Tornatore	1956	Italy	IT	36
 George Habash	1926	Israel	IL	28
 Jim Belushi	1954	United States	US	35
+Paul Breitner	1951	Germany	DE	38
+Chlodwig, Prince of Hohenlohe-Schillingsfürst	1819	Germany	DE	28
+Bernhard von Bülow	1849	Germany	DE	32
 Georg von Hertling	1843	Germany	DE	26
 Joseph Wirth	1879	Germany	DE	32
 Wilhelm Cuno	1876	Germany	DE	31
@@ -6207,6 +6592,7 @@ Sirimavo Bandaranaike	1916	Sri Lanka	LK	38
 Pope Conon	630	Italy	IT	49
 Andrija Mohorovičić	1857	Croatia	HR	31
 Erik Erikson	1902	Germany	DE	34
+Umar II	682	Saudi Arabia	SA	30
 Jens Christian Skou	1918	Denmark	DK	34
 Philip Zimbardo	1933	United States	US	28
 Annette Bening	1958	United States	US	40
@@ -6240,6 +6626,7 @@ Norman Schwarzkopf, Jr.	1934	United States	US	33
 Dan Brown	1964	United States	US	65
 Sergei Mikhailovich Prokudin-Gorskii	1863	Russia	RU	39
 Aleksei Grigorievich Stakhanov	1906	Russia	RU	29
+Miklós Fehér	1979	Hungary	HU	26
 Agostinho Neto	1922	Angola	AO	42
 Bon Scott	1946	United Kingdom	GB	34
 Velupillai Prabhakaran	1954	Sri Lanka	LK	35
@@ -6258,15 +6645,22 @@ Zakir Hussain	1897	India	IN	31
 Maria Leszczyńska	1703	Poland	PL	27
 Gustáv Husák	1913	Slovakia	SK	34
 Teresa Teng	1953	Taiwan	TW	26
+Fedor von Bock	1880	Germany	DE	39
 Józef Antoni Poniatowski	1763	Austria	AT	30
 Andrea Bocelli	1958	Italy	IT	71
+Francisco Solano López	1826	Paraguay	PY	28
 Abdul Qadeer Khan	1935	India	IN	27
 Bourvil	1917	France	FR	26
 Lavoslav Ružička	1887	Croatia	HR	37
+Pachacuti	1438	Peru	PE	29
 Bona Sforza	1494	Italy	IT	27
 Josh Groban	1981	United States	US	34
 Hermann Maier	1972	Austria	AT	29
 Harold Urey	1893	United States	US	47
+Atahualpa	1497	Peru	PE	43
+Huayna Capac	1464	Ecuador	EC	26
+Roberto Carlos da Silva	1973	Brazil	BR	56
+Saint Blaise	0	Colombia	CO	38
 Stanley Tucci	1960	United States	US	31
 Polycrates	0	Greece	GR	30
 Piper Perabo	1976	United States	US	28
@@ -6280,6 +6674,7 @@ Paul Ricœur	1913	France	FR	38
 Yusuf al-Qaradawi	1926	Turkey	TR	28
 Heinrich Louis d'Arrest	1822	Germany	DE	29
 Shohei Imamura	1926	Japan	JP	27
+Jakob Böhme	1575	Germany	DE	34
 Freddie Prinze, Jr.	1976	United States	US	27
 Richard Clayderman	1953	France	FR	31
 Jackie Joyner-Kersee	1962	United States	US	30
@@ -6326,15 +6721,18 @@ Vladimir Prelog	1906	Bosnia and Herzegovina	BA	43
 Nâzım Hikmet	1902	Greece	GR	40
 António Guterres	1949	Portugal	PT	27
 Adolphe-Charles Adam	1803	France	FR	40
+Ctesibius of Alexandria	0	Egypt	EG	30
 Robert Kiyosaki	1947	United States	US	26
 Mylène Farmer	1961	Canada	CA	40
 Sophie Ellis-Bextor	1979	United Kingdom	GB	33
 Jan Kochanowski	1530	Poland	PL	27
 Gerard Debreu	1921	United States	US	33
+Martin de Porres	1579	Peru	PE	29
 Gerhard Domagk	1895	Poland	PL	36
 Robert F. Furchgott	1916	United States	US	29
 Otto Fritz Meyerhof	1884	Germany	DE	35
 Giovanni Alfonso Borelli	1608	Italy	IT	29
+Grigori Alexandrovich Potemkin	1739	Russia	RU	31
 Lothar Matthäus	1961	Germany	DE	51
 Antonio Segni	1891	Italy	IT	30
 Sylvia Kristel	1952	Netherlands	NL	35
@@ -6347,6 +6745,7 @@ Mercedes Sosa	1935	Argentina	AR	34
 Walter Brennan	1894	United States	US	32
 Maurice Béjart	1927	France	FR	33
 Robert Wagner	1930	United States	US	26
+Gennady Zyuganov	1944	Russia	RU	40
 Nikolai Mikhailovich Karamzin	1766	Russia	RU	35
 Dwight Howard	1985	United States	US	38
 Ryan Giggs	1973	United Kingdom	GB	61
@@ -6364,6 +6763,7 @@ Marjane Satrapi	1969	Iran	IR	29
 Vissarion Belinsky	1811	Finland	FI	33
 Gustavo Kuerten	1976	Brazil	BR	39
 Valery Chkalov	1904	Russia	RU	27
+Emil Zátopek	1922	Czech Republic	CZ	39
 Jared Leto	1971	United States	US	47
 Martin Freeman	1971	United Kingdom	GB	30
 Marcelo Ríos	1975	Chile	CL	30
@@ -6373,8 +6773,10 @@ Vito Volterra	1860	Italy	IT	28
 Melanie Griffith	1957	United States	US	38
 Otto Wagner	1841	Austria	AT	34
 Fredrik Ljungberg	1977	Sweden	SE	36
+Matti Nykänen	1963	Finland	FI	27
 Wladimir Köppen	1846	Russia	RU	32
 Peter MacNicol	1954	United States	US	26
+Mehmed-paša Sokolović	1506	Bosnia and Herzegovina	BA	26
 Syed Ahmed Khan	1817	India	IN	26
 Richard Rogers	1933	Italy	IT	33
 Eliezer Ben-Yehuda	1858	Russia	RU	39
@@ -6396,6 +6798,7 @@ Joseph Freiherr von Eichendorff	1788	Poland	PL	31
 Henry van de Velde	1863	Belgium	BE	31
 Gerardus 't Hooft	1946	Netherlands	NL	42
 Martinus J. G. Veltman	1931	Netherlands	NL	36
+Ernesto Geisel	1907	Brazil	BR	29
 Hans-Ulrich Rudel	1916	Germany	DE	31
 Hicham El Guerrouj	1974	Morocco	MA	32
 Warwick Davis	1970	United Kingdom	GB	33
@@ -6451,6 +6854,7 @@ Mary McDonnell	1952	United States	US	27
 Hans Sachs	1494	Germany	DE	26
 Julia Stiles	1981	United States	US	33
 Pappus of Alexandria	290	Egypt	EG	29
+Evgeni Plushenko	1982	Russia	RU	29
 Paul D. Boyer	1918	United States	US	30
 James Newton Howard	1951	United States	US	28
 Hayden Panettiere	1989	United States	US	47
@@ -6508,6 +6912,7 @@ Barry Manilow	1943	United States	US	29
 Michael York	1942	United Kingdom	GB	27
 Rudolf Bultmann	1884	Germany	DE	32
 Andy Williams	1927	United States	US	36
+Michael E. Brown	1965	United States	US	27
 Gloria Stuart	1910	United States	US	40
 Wesley Snipes	1962	United States	US	40
 Françoise Sagan	1935	France	FR	37
@@ -6527,6 +6932,7 @@ Stellan Skarsgård	1951	Sweden	SE	33
 Tahmasp I	1514	India	IN	28
 Lila Downs	1968	Mexico	MX	103
 Uwe Seeler	1936	Germany	DE	36
+Tommi Mäkinen	1964	Finland	FI	27
 Ibn Bajjah	1095	Spain	ES	30
 Charlie Kaufman	1958	United States	US	26
 Otto Loewi	1873	Germany	DE	31
@@ -6555,6 +6961,7 @@ Georg von Küchler	1881	Germany	DE	28
 Jay Chou	1979	Taiwan	TW	27
 Ludwig Boltzmann	1844	Austria	AT	51
 Boris Tadić	1958	Bosnia and Herzegovina	BA	54
+William IX, Duke of Aquitaine	1071	France	FR	26
 Ferdinand Schörner	1892	Germany	DE	27
 Ismail I	1487	Iran	IR	35
 Rick Perry	1950	United States	US	34
@@ -6572,7 +6979,7 @@ Gaston Bachelard	1884	France	FR	31
 Zlatko Zahovič	1971	Slovenia	SI	26
 Gérard Philipe	1922	France	FR	37
 Mario Monti	1943	Italy	IT	67
-Emil Hácha	1872	Czechia	CZ	27
+Emil Hácha	1872	Czech Republic	CZ	27
 Maximilian von Weichs	1881	Germany	DE	26
 Wolfram von Richthofen	1895	Germany	DE	28
 Dietmar Hamann	1973	Germany	DE	27
@@ -6593,7 +7000,9 @@ Robert Pirès	1973	France	FR	39
 Chris O'Donnell	1970	United States	US	34
 Yakov Sverdlov	1885	Russia	RU	26
 John of Nepomuk	1345	Czech Republic	CZ	32
+Manetho	0	Egypt	EG	46
 Vitali Klitschko	1971	Ukraine	UA	29
+Baldwin Spencer	1948	Antigua and Barbuda	AG	29
 Famke Janssen	1965	Netherlands	NL	39
 Jimmy Floyd Hasselbaink	1972	United Kingdom	GB	31
 Laurent Fignon	1960	France	FR	27
@@ -6604,11 +7013,12 @@ Richard Adolf Zsigmondy	1865	Austria	AT	37
 Andy Cole	1971	United Kingdom	GB	34
 Nicolas Sarkozy	1955	France	FR	125
 Danny Murphy	1977	United Kingdom	GB	27
-Milan Baroš	1981	Czechia	CZ	44
+Milan Baroš	1981	Czech Republic	CZ	44
 Gabriel Batistuta	1969	Argentina	AR	49
 Agatha of Sicily	0	Italy	IT	37
 Aloysius Gonzaga	1568	Italy	IT	26
 Malcolm Young	1953	United Kingdom	GB	26
+John Zápolya	1487	Slovakia	SK	32
 Scatman John	1942	United States	US	31
 Zhelyu Zhelev	1935	Bulgaria	BG	29
 Karl Ziegler	1898	Germany	DE	38
@@ -6642,6 +7052,8 @@ Johann Deisenhofer	1943	Germany	DE	32
 Carl Ditters von Dittersdorf	1739	Austria	AT	26
 Jigme Dorji Wangchuck	1928	Bhutan	BT	26
 Ernst Bloch	1885	Germany	DE	32
+Eduardo Chillida	1924	Spain	ES	26
+Queen Rania of Jordan	1970	Kuwait	KW	38
 Kim Gu	1876	South Korea	KR	29
 Lee Strasberg	1901	United States	US	28
 Henri Rousseau	1844	France	FR	48
@@ -6662,7 +7074,7 @@ Nicholas M. Butler	1862	United States	US	30
 Feodor Chaliapin	1873	Russia	RU	37
 Léon M'ba	1902	Gabon	GA	26
 Ivan Gašparovič	1941	Slovakia	SK	52
-Eva Herzigová	1973	Czechia	CZ	29
+Eva Herzigová	1973	Czech Republic	CZ	29
 Charles Thomson Rees Wilson	1869	United Kingdom	GB	51
 William Alfred Fowler	1911	United States	US	41
 Mikhail Bakhtin	1895	Russia	RU	40
@@ -6675,6 +7087,7 @@ João Havelange	1916	Brazil	BR	34
 David Bryan	1962	United States	US	28
 Georg von Békésy	1899	Hungary	HU	33
 Otto Nicolai	1810	Germany	DE	29
+Toğrül	990	Iran	IR	29
 Chris Cooper	1951	United States	US	30
 Alexander Beliaev	1884	Russia	RU	26
 Vasily Chuikov	1900	Russia	RU	39
@@ -6700,6 +7113,7 @@ Jacques Chaban-Delmas	1915	France	FR	26
 Michel Debré	1912	France	FR	30
 Paul van Dyk	1971	Germany	DE	37
 Balthasar Neumann	1687	Germany	DE	27
+Rasmus Christian Rask	1787	Denmark	DK	26
 Walter Baade	1893	Germany	DE	29
 Hans Küng	1928	Switzerland	CH	28
 Walter Rudolf Hess	1881	Switzerland	CH	32
@@ -6711,6 +7125,7 @@ Karl Wilhelm Reinmuth	1892	Germany	DE	27
 Henrietta Swan Leavitt	1868	United States	US	30
 Robert Trujillo	1964	United States	US	37
 Allison Mack	1982	Germany	DE	28
+Mikalojus Konstantinas Čiurlionis	1875	Lithuania	LT	27
 Munshi Premchand	1880	India	IN	46
 Haldan Keffer Hartline	1903	United States	US	27
 William Henry Pickering	1858	United States	US	26
@@ -6718,6 +7133,7 @@ Jacques Maritain	1882	France	FR	29
 Michael E. Porter	1947	United States	US	30
 Robert Englund	1947	United States	US	26
 Demis Roussos	1946	Egypt	EG	35
+Hasdrubal Barca	-245	Tunisia	TN	29
 Nicolas Oresme	1320	France	FR	27
 Natasha Richardson	1963	United Kingdom	GB	38
 Henri Louis Le Chatelier	1850	France	FR	30
@@ -6755,7 +7171,9 @@ Anne Hathaway	1982	United States	US	59
 Bulat Okudzhava	1924	Russia	RU	33
 Mark Shuttleworth	1973	South Africa	ZA	48
 Guido Reni	1575	Italy	IT	37
+Andrés Escobar	1967	Colombia	CO	33
 Jean-Honoré Fragonard	1732	France	FR	42
+Johann Heinrich Pestalozzi	1746	Switzerland	CH	43
 Manmohan Singh	1932	Pakistan	IN	72
 Vittorio Alfieri	1749	Italy	IT	30
 Philip III, Duke of Burgundy	1396	France	FR	32
@@ -6785,10 +7203,13 @@ Montserrat Caballé	1933	Spain	ES	39
 Edward Smith	1850	United Kingdom	GB	34
 Patrick Kluivert	1976	Netherlands	NL	41
 Daniel Passarella	1953	Argentina	AR	34
+Omar Sivori	1935	Argentina	AR	32
 Alfredo Di Stéfano	1926	Argentina	AR	52
 Javier Zanetti	1973	Argentina	AR	48
 Carlos Alberto Torres	1944	Brazil	BR	30
+Cafu	1970	Brazil	BR	45
 Romário	1966	Brazil	BR	45
+Djalma Santos	1929	Brazil	BR	28
 Zico	1953	Brazil	BR	44
 Teófilo Cubillas	1949	Peru	PE	27
 Enzo Francescoli	1961	Uruguay	UY	34
@@ -6800,6 +7221,7 @@ Raymond Kopa	1931	France	FR	36
 Jean-Pierre Papin	1963	France	FR	38
 Lilian Thuram	1972	Guadeloupe	GP	45
 David Trézéguet	1977	France	FR	46
+Karl-Heinz Rummenigge	1955	Germany	DE	43
 Giuseppe Bergomi	1963	Italy	IT	33
 Giampiero Boniperti	1928	Italy	IT	26
 Giacinto Facchetti	1942	Italy	IT	32
@@ -6819,13 +7241,18 @@ Johan Neeskens	1951	Netherlands	NL	35
 Rob Rensenbrink	1947	Netherlands	NL	26
 Frank Rijkaard	1962	Netherlands	NL	49
 Clarence Seedorf	1976	Suriname	SR	43
-Josef Masopust	1931	Czechia	CZ	31
+Luís Enrique Martínez García	1970	Spain	ES	31
+Josef Masopust	1931	Czech Republic	CZ	31
+Pavel Nedvěd	1972	Czech Republic	CZ	47
+Rinat Dasaev	1957	Russia	RU	29
 Emre Belözoğlu	1980	Turkey	TR	36
 Andriy Shevchenko	1976	Ukraine	UA	60
 Abédi Pelé	1964	Ghana	GH	29
 George Weah	1966	Liberia	LR	46
+Kenan Evren	1917	Turkey	TR	34
 Ambroise Paré	1510	France	FR	29
 Frank Wedekind	1864	Germany	DE	26
+Stephen Hendry	1969	United Kingdom	GB	29
 Tandja Mamadou	1938	Niger	NE	32
 Wilson Kipketer	1972	Kenya	KE	26
 Horst Wessel	1907	Germany	DE	27
@@ -6836,9 +7263,11 @@ Ronnie O'Sullivan	1975	United Kingdom	GB	38
 John Higgins	1975	United Kingdom	GB	28
 Bert Sakmann	1942	Germany	DE	32
 Yitzhak Ben-Zvi	1884	Ukraine	UA	29
+Jan Palach	1948	Czech Republic	CZ	38
 Julius Axelrod	1912	United States	US	33
 Qu Yuan	-340	China	CN	30
 Guillermo Coria	1982	Argentina	AR	31
+Philip Jaisohn	1864	South Korea	KR	26
 Michael Bublé	1975	Canada	CA	41
 Boris Shaposhnikov	1882	Russia	RU	29
 Viktor Hambardzumyan	1908	Georgia	GE	28
@@ -6874,6 +7303,7 @@ Abdullah Gül	1950	Turkey	TR	69
 Aden Abdullah Osman Daar	1908	Somalia	SO	31
 Mani	216	Iraq	IQ	37
 Christopher Clavius	1538	Germany	DE	27
+Ka'ahumanu	1768	United States	US	29
 Forest Whitaker	1961	United States	US	46
 Halford John Mackinder	1861	United Kingdom	GB	26
 Ellen Barkin	1954	United States	US	26
@@ -6886,10 +7316,12 @@ Bobby Farrell	1949	Aruba	AW	30
 Eduard Limonov	1943	Russia	RU	30
 Ian McShane	1942	United Kingdom	GB	34
 Charles Durning	1923	United States	US	27
+Scott S. Sheppard	1976	United States	US	27
 Ignacy Mościcki	1867	Poland	PL	26
 Anne of Brittany	1477	France	FR	37
 Michael Madsen	1957	United States	US	31
 Ragnar Granit	1900	Finland	FI	33
+Johann Martin Schleyer	1831	Germany	DE	31
 Glenn Ford	1916	United States	US	33
 Augusto César Sandino	1895	Nicaragua	NI	31
 Chauncey Billups	1976	United States	US	27
@@ -6952,6 +7384,7 @@ Edgar Adrian, 1st Baron Adrian	1889	United Kingdom	GB	36
 Amílcar Cabral	1924	Guinea-Bissau	GW	31
 Fabio Capello	1946	Italy	IT	43
 Alexander Blok	1880	Russia	RU	49
+Craterus	-370	Macedonia	MK	27
 John Franklin Enders	1897	United States	US	27
 Pranab Mukherjee	1935	India	IN	41
 Hugo de Vries	1848	Netherlands	NL	31
@@ -6970,11 +7403,13 @@ Klaus von Klitzing	1943	Poland	PL	42
 Hipólito Yrigoyen	1852	Argentina	AR	27
 Sami Hyypiä	1973	Finland	FI	39
 David Strathairn	1949	United States	US	26
+Vítor Baía	1969	Portugal	PT	28
 Ibrahim Ferrer	1927	Cuba	CU	26
+Al Oerter	1936	United States	US	30
 Abebe Bikila	1932	Ethiopia	ET	45
 Mahesh Bhupathi	1974	India	IN	29
 Alain Robbe-Grillet	1922	France	FR	35
-Miloš Zeman	1944	Czechia	CZ	44
+Miloš Zeman	1944	Czech Republic	CZ	44
 Ezer Weizman	1924	Israel	IL	31
 Zalman Shazar	1889	Israel	IL	27
 Cecilia Bartoli	1966	Italy	IT	32
@@ -6986,12 +7421,14 @@ Jessica Biel	1982	United States	US	51
 Lasse Virén	1949	Finland	FI	32
 Klara Hitler	1860	Austria	AT	27
 Friedrich von Flotow	1812	Germany	DE	26
+Franz Halder	1884	Germany	DE	28
 Mary Leakey	1913	United Kingdom	GB	31
 Ruslana	1973	Ukraine	UA	56
 Nicholas Sparks	1965	United States	US	32
 Dražen Petrović	1964	Croatia	HR	34
 Arvydas Sabonis	1964	Lithuania	LT	28
 Alexander Stepanovich Popov	1859	Russia	RU	35
+Tewodros II of Ethiopia	1818	Ethiopia	ET	26
 Bingu wa Mutharika	1934	Malawi	MW	44
 Paul Langevin	1872	France	FR	26
 Edward Hallett Carr	1892	United Kingdom	GB	30
@@ -7010,6 +7447,7 @@ Edwin van der Sar	1970	Netherlands	NL	57
 Jason Bateman	1969	United States	US	47
 Frank de Boer	1970	Netherlands	NL	32
 Dick Advocaat	1947	Netherlands	NL	33
+Mary Dyer	1611	United Kingdom	GB	27
 Casey Affleck	1975	United States	US	30
 Jeff Hardy	1977	United States	US	40
 Josh Duhamel	1972	United States	US	114
@@ -7018,6 +7456,7 @@ Rafael Alberti	1902	Spain	ES	30
 Ali Larter	1976	United States	US	37
 Hans Morgenthau	1904	Germany	DE	28
 Diane Kruger	1976	Germany	DE	45
+David C. Jewitt	1958	United Kingdom	GB	27
 Paul Hogan	1939	Australia	AU	27
 Thích Quảng Đức	1897	Vietnam	VN	31
 Egas Moniz	1874	Portugal	PT	30
@@ -7030,9 +7469,12 @@ Francesco Guicciardini	1483	Italy	IT	31
 Quentin Bryce	1942	Australia	AU	26
 Aleksei Brusilov	1853	Georgia	GE	35
 Stanley Cohen	1922	United States	US	37
+Antonín Novotný	1904	Czech Republic	CZ	27
 Terry O'Quinn	1952	United States	US	30
 Ashlee Simpson-Wentz	1984	United States	US	36
+Garrincha	1933	Brazil	BR	47
 Hideki Shirakawa	1936	Japan	JP	34
+Rivelino	1946	Brazil	BR	31
 Rajendra Prasad	1884	India	IN	38
 Thomas Andrews	1873	United Kingdom	GB	29
 Maurice de Vlaminck	1876	France	FR	31
@@ -7051,6 +7493,7 @@ Celeste Holm	1917	United States	US	31
 Ignacy Jan Paderewski	1860	Poland	PL	38
 Patrick Dempsey	1966	United States	US	37
 John E. Sulston	1942	United Kingdom	GB	30
+Deco	1977	Brazil	BR	48
 Wolfgang Ketterle	1957	Germany	DE	36
 Galina Vishnevskaya	1926	Russia	RU	27
 Nikita Mikhalkov	1945	Russia	RU	34
@@ -7066,7 +7509,7 @@ Vlad III the Impaler	1431	Romania	RO	58
 Amália Rodrigues	1920	Portugal	PT	36
 Tomislav Nikolić	1952	Serbia	RS	42
 Jay Mohr	1970	United States	US	29
-Karel Poborský	1972	Czechia	CZ	30
+Karel Poborský	1972	Czech Republic	CZ	30
 Roberto Bolaño	1953	Chile	CL	27
 Alcide De Gasperi	1881	Austria	AT	41
 Sergei Bagapsh	1949	Georgia	GE	44
@@ -7076,6 +7519,7 @@ Miranda Cosgrove	1993	United States	US	37
 Hippolytus	170	Italy	IT	36
 Paolo Di Canio	1968	Italy	IT	28
 Ruy López de Segura	1530	Spain	ES	29
+Sergei Yesenin	1895	Russia	RU	53
 Filip Vujanović	1954	Serbia	RS	42
 Amintore Fanfani	1908	Italy	IT	32
 George Paget Thomson	1892	United Kingdom	GB	53
@@ -7084,6 +7528,7 @@ Alpha Oumar Konaré	1946	Mali	ML	28
 Fernando Belaúnde Terry	1912	Peru	PE	29
 Rosalyn Sussman Yalow	1921	United States	US	40
 Robert Prosinečki	1969	Germany	DE	28
+Yun Bo-seon	1897	South Korea	KR	39
 Brad Renfro	1982	United States	US	26
 Nick Clegg	1967	United Kingdom	GB	40
 Adolf Butenandt	1903	Germany	DE	41
@@ -7102,6 +7547,7 @@ Zach Braff	1975	United States	US	33
 Rafael Benítez	1960	Spain	ES	40
 Benedict Anderson	1936	China	CN	29
 Gennaro Gattuso	1978	Italy	IT	48
+Amon of Judah	0	Israel	IL	27
 Angelos Charisteas	1980	Greece	GR	36
 Fernando Morientes	1976	Spain	ES	35
 Maniche	1977	Portugal	PT	29
@@ -7118,8 +7564,9 @@ Hiram Bingham III	1875	United States	US	32
 Stiliyan Petrov	1979	Bulgaria	BG	34
 Jesper Grønkjær	1977	Greenland	GL	27
 Giulio Romano	1499	Italy	IT	27
+Dzhokhar Dudayev	1944	Russia	RU	46
 Antonio Cassano	1982	Italy	IT	45
-Jerzy Buzek	1940	Czechia	CZ	40
+Jerzy Buzek	1940	Czech Republic	CZ	40
 Wilfred Bouma	1978	Netherlands	NL	29
 Jeff Daniels	1955	United States	US	28
 Nuno Gomes	1976	Portugal	PT	38
@@ -7133,6 +7580,7 @@ Olof Mellberg	1977	Sweden	SE	38
 Severiano Ballesteros	1957	Spain	ES	30
 Edgard Varèse	1883	France	FR	28
 Mark Harmon	1951	United States	US	30
+Niko Kovač	1971	Germany	DE	29
 Gael García Bernal	1978	Mexico	MX	43
 Masahiko Kimura	1917	Japan	JP	30
 Gunnar Myrdal	1898	Sweden	SE	41
@@ -7147,6 +7595,7 @@ Renato Dulbecco	1914	Italy	IT	34
 Jochi	1180	Mongolia	MN	38
 Isla Fisher	1976	Oman	OM	30
 Geraldine Chaplin	1944	United States	US	26
+Attila József	1905	Hungary	HU	27
 Manuel Roxas	1892	Philippines	PH	31
 Ivan Franko	1856	Ukraine	UA	27
 Giovanni Trapattoni	1939	Italy	IT	34
@@ -7167,6 +7616,7 @@ Sol Campbell	1974	United Kingdom	GB	34
 Tansu Çiller	1946	Turkey	TR	34
 Laura Prepon	1980	United States	US	47
 Doug Savant	1964	United States	US	34
+John Robert Vane	1927	United Kingdom	GB	28
 Otto Rehhagel	1938	Germany	DE	35
 Nikolai Fyodorovich Vatutin	1901	Russia	RU	26
 R. Venkataraman	1910	India	IN	31
@@ -7194,6 +7644,7 @@ Georgy L'vov	1861	Germany	DE	29
 Miloš Obrenović I, Prince of Serbia	1780	Serbia	RS	28
 Heinz-Harald Frentzen	1967	Germany	DE	30
 Gerard Butler	1969	United Kingdom	GB	48
+Milovan Đilas	1911	Montenegro	ME	32
 Leon Panetta	1938	United States	US	30
 Richard Laurence Millington Synge	1914	United Kingdom	GB	35
 Francis William Aston	1877	United Kingdom	GB	48
@@ -7201,6 +7652,7 @@ Lara Dutta	1978	India	IN	28
 Aaron Klug	1926	Lithuania	LT	39
 George Andrew Olah	1927	Hungary	HU	38
 Sylvanus Olympio	1902	Togo	TG	28
+Werner von Blomberg	1878	Poland	PL	31
 Chingiz Aĭtmatov	1928	Kazakhstan	KZ	50
 Rachel McAdams	1978	Canada	CA	41
 Hans von Seeckt	1866	Germany	DE	27
@@ -7231,6 +7683,8 @@ Sofia Rotaru	1947	Ukraine	UA	68
 Alyson Michalka	1989	United States	US	26
 Walther von Brauchitsch	1881	Germany	DE	30
 John Boehner	1949	United States	US	34
+Ptolemy Keraunos	-300	Egypt	EG	26
+Ludvík Svoboda	1895	Czech Republic	CZ	28
 George Wells Beadle	1903	United States	US	34
 Marcel Mauss	1872	France	FR	29
 Shaukat Aziz	1949	Pakistan	PK	31
@@ -7242,9 +7696,11 @@ Fritz Pregl	1869	Slovenia	SI	42
 Katherine Moennig	1977	United States	US	29
 Sextus Propertius	0	Italy	IT	34
 Giulio Andreotti	1919	Italy	IT	39
+Werner Arber	1929	Switzerland	CH	37
 Pietro Aretino	1492	Italy	IT	31
 Emmanuel Petit	1970	France	FR	31
 Susilo Bambang Yudhoyono	1949	Indonesia	ID	58
+Roscellinus	1050	France	FR	27
 Maria Sharapova	1987	Russia	RU	73
 Charles Scott Sherrington	1857	United Kingdom	GB	37
 Ricardo Carvalho	1978	Portugal	PT	51
@@ -7261,6 +7717,7 @@ Giovanni Gentile	1875	Italy	IT	26
 Bixente Lizarazu	1969	France	FR	32
 Zvonimir Boban	1968	Croatia	HR	30
 Giorgos Karagounis	1977	Greece	GR	39
+Eric IX of Sweden	1120	Sweden	SE	26
 Joseph Erlanger	1874	United States	US	33
 Giovanni Leone	1908	Italy	IT	31
 Otto Diels	1876	Germany	DE	37
@@ -7276,6 +7733,7 @@ Alejandro Sanz	1968	Spain	ES	29
 Nikolai Leskov	1831	Russian Federation	RU	32
 Lauren Graham	1967	United States	US	29
 Günther von Kluge	1882	Poland	PL	32
+Wilhelm List	1880	Germany	DE	28
 Paul Ludwig Ewald von Kleist	1881	Germany	DE	35
 Eduard Freiherr von Böhm-Ermolli	1856	Italy	IT	26
 Girija Prasad Koirala	1925	India	IN	32
@@ -7287,6 +7745,8 @@ Hermann Staudinger	1881	Germany	DE	40
 William Howard Stein	1911	United States	US	34
 Jack Steinberger	1921	Germany	DE	37
 Angelos Basinas	1976	Greece	GR	31
+Peter Abrahams	1919	South Africa	ZA	27
+Ivan Mazepa	1639	Ukraine	UA	28
 Marin Marais	1656	France	FR	29
 Emilio Salgari	1862	Italy	IT	26
 Porphyry	234	Lebanon	LB	36
@@ -7298,13 +7758,13 @@ Ronald Koeman	1963	Netherlands	NL	37
 Ferdinand von Wrangel	1796	Russia	RU	28
 Sher Shah Suri	1486	India	IN	28
 Alexander Rodchenko	1891	Russia	RU	26
-Cyrus the Great	-576	China	CN	89
+Cyrus the Great	-576	Iran	IR	89
 Jeanne Moreau	1928	France	FR	37
 Marc Gené	1974	Spain	ES	26
 Ricardo Quaresma	1983	Portugal	PT	41
 George Stigler	1911	United States	US	31
 Mayumi Iizuka	1977	Japan	JP	35
-Ahmed Nazif	1952	United States	US	32
+Ahmed Nazif	1952	Egypt	EG	32
 Torsten Wiesel	1924	Sweden	SE	32
 Vittore Carpaccio	1460	Italy	IT	27
 Anne Frank	1929	Germany	DE	77
@@ -7313,7 +7773,9 @@ Alain-Fournier	1886	France	FR	27
 Cadel Evans	1977	Australia	AU	39
 Bjørn Dæhlie	1967	Norway	NO	27
 Stepan Bandera	1909	Spain	ES	34
+Charles of Valois	1270	France	FR	30
 Alexander Khalifman	1966	Russia	RU	35
+Carlos Gamarra	1971	Paraguay	PY	28
 Cevdet Sunay	1899	Turkey	TR	32
 Gideon Sundback	1880	Sweden	SE	42
 François Ozon	1967	France	FR	29
@@ -7326,9 +7788,11 @@ Fernando Redondo	1969	Argentina	AR	28
 Wesley Sneijder	1984	Netherlands	NL	58
 Bronisław Geremek	1932	Poland	PL	27
 Louis Saha	1978	France	FR	43
+Nicholas I of Montenegro	1841	Montenegro	ME	26
 Rafael van der Vaart	1983	Netherlands	NL	51
 John Cazale	1936	United States	US	27
 Adrian Smith	1957	United Kingdom	GB	32
+Willy Sagnol	1977	France	FR	29
 Hermann Emil Fischer	1852	Germany	DE	59
 Stefka Kostadinova	1965	Bulgaria	BG	26
 Giovanni Ribisi	1974	United States	US	32
@@ -7357,6 +7821,7 @@ Pherecydes of Syros	-580	Greece	GR	26
 Takeshi Kaneshiro	1973	Taiwan	TW	27
 Said Aouita	1959	Morocco	MA	26
 Diego Forlán	1979	Uruguay	UY	54
+Saint Jude	0	Israel	IL	51
 Igor Smirnov	1941	Russia	RU	26
 Mir-Hossein Mousavi	1942	Iran	IR	33
 Yves Leterme	1960	Belgium	BE	52
@@ -7420,6 +7885,7 @@ Jean-Alain Boumsong	1979	Cameroon	CM	27
 Carmelo Anthony	1984	United States	US	40
 Dwyane Wade	1982	United States	US	43
 Kal Penn	1977	United States	US	32
+Andrzej W. Schally	1926	Poland	PL	31
 Maria of Austria	1505	Belgium	BE	26
 Alessandro Baricco	1958	Italy	IT	29
 Jean-Marie Gustave Le Clézio	1940	France	FR	71
@@ -7439,6 +7905,7 @@ Genevieve	419	France	FR	27
 Rhys Ifans	1967	United Kingdom	GB	27
 Ryan Gosling	1980	Canada	CA	37
 Albert Sabin	1906	Poland	PL	28
+Manuel Pinto da Costa	1937	São Tomé and Príncipe	ST	29
 Amanda Peet	1972	United States	US	55
 Modibo Keïta	1915	Mali	ML	28
 Tiësto	1969	Netherlands	NL	44
@@ -7544,6 +8011,7 @@ Washington Luís Pereira de Sousa	1869	Brazil	BR	28
 Eddie Fatu	1973	United States	US	26
 Naser al-Din Shah Qajar	1831	Iran	IR	30
 Jamal al-Din al-Afghani	1838	Afghanistan	AF	29
+Emílio Garrastazu Médici	1905	Brazil	BR	26
 João Baptista de Oliveira Figueiredo	1918	Brazil	BR	30
 Anacreon	-570	Finland	FI	36
 José Antonio Reyes	1983	Spain	ES	29
@@ -7556,9 +8024,11 @@ Gaius Lucilius	-160	Italy	IT	26
 Cesc Fàbregas	1987	Spain	ES	69
 Margaret of Austria, Duchess of Savoy	1480	Belgium	BE	30
 Suryavarman II	0	Cambodia	KH	29
+Antigonus III Doson	-263	Macedonia	MK	27
 January Jones	1978	United States	US	30
 Saint Mesrob	362	Armenia	AM	45
 Clive Owen	1964	United Kingdom	GB	40
+Oleg Salenko	1969	Russia	RU	27
 Oleg Blokhin	1952	Ukraine	UA	43
 Richard Kuhn	1900	Austria	AT	39
 Yakubu Aiyegbeni	1982	Nigeria	NG	35
@@ -7567,7 +8037,7 @@ Emily Deschanel	1976	United States	US	36
 Victoria Abril	1959	Spain	ES	32
 Harry Redknapp	1947	United Kingdom	GB	32
 Matthias Sammer	1967	Germany	DE	34
-Igor Belanov	1960	United States	US	26
+Igor Belanov	1960	Ukraine	UA	26
 JoJo	1990	United States	US	35
 Felix Magath	1953	Germany	DE	30
 Rodion Malinovsky	1898	Ukraine	UA	38
@@ -7578,6 +8048,7 @@ Johan Huizinga	1872	Netherlands	NL	30
 Jordana Brewster	1980	United States	US	29
 Fyodor Tolbukhin	1894	Russia	RU	28
 Kirill Meretskov	1897	Russia	RU	30
+Ivan Vladimirovich Michurin	1855	Russia	RU	26
 Michelle Bachelet	1951	Chile	CL	63
 Narain Karthikeyan	1977	India	IN	36
 Salvatore Schillaci	1964	Italy	IT	28
@@ -7641,6 +8112,7 @@ Bernard Kouchner	1939	France	FR	34
 Peter Behrens	1868	Germany	DE	27
 Youri Djorkaeff	1968	France	FR	32
 Henri Moissan	1852	France	FR	51
+Andreas Brehme	1960	Germany	DE	33
 Gyula Horn	1932	Hungary	HU	26
 Ryan Nelsen	1977	New Zealand	NZ	31
 Evan Rachel Wood	1987	United States	US	30
@@ -7688,6 +8160,7 @@ Marie-Thérèse-Charlotte of France	1778	France	FR	26
 Imelda Staunton	1956	United Kingdom	GB	28
 Abdullahi Yusuf Ahmed	1934	Somalia	SO	34
 Ben Gazzara	1930	United States	US	29
+Parmenion	-400	Macedonia	MK	27
 Finn E. Kydland	1943	Norway	NO	30
 Dominic Howard	1977	United Kingdom	GB	29
 Chris Wolstenholme	1978	United Kingdom	GB	29
@@ -7709,6 +8182,7 @@ Phillip Allen Sharp	1944	United States	US	27
 Oscar Luigi Scalfaro	1918	Italy	IT	42
 Paul J. Crutzen	1933	Netherlands	NL	36
 George Davis Snell	1903	United States	US	29
+Eric Prydz	1976	Sweden	SE	26
 Marcia Cross	1962	United States	US	41
 Carneades	-214	Libya	LY	29
 Anthony Davidson	1979	United Kingdom	GB	36
@@ -7725,6 +8199,7 @@ Ian Somerhalder	1978	United States	US	45
 Naveen Andrews	1969	United States	US	34
 Kim Yoon-jin	1973	South Korea	KR	28
 Ajay Devgan	1969	India	IN	27
+Günter Netzer	1944	Germany	DE	30
 Carla Bruni	1967	Italy	IT	51
 Tomas Tranströmer	1931	Sweden	SE	72
 Sienna Miller	1981	United States	US	38
@@ -7744,6 +8219,8 @@ Gabriel Heinze	1978	Argentina	AR	42
 Viktor Yushchenko	1954	Ukraine	UA	71
 Jacob Zuma	1942	South Africa	ZA	57
 Ibn Tufail	1105	Spain	ES	27
+Gunnar Nordahl	1921	Sweden	SE	30
+Ali ibn Hussayn	659	Saudi Arabia	SA	26
 Alexander Vinokourov	1973	Kazakhstan	KZ	28
 Hasan Salihamidžić	1977	Bosnia and Herzegovina	BA	32
 Miguel Najdorf	1910	Poland	PL	26
@@ -7751,6 +8228,7 @@ Francisco Varallo	1910	Argentina	AR	29
 Colin McRae	1968	United Kingdom	GB	37
 Luigi Riva	1944	Italy	IT	29
 Guillermo Stábile	1905	Argentina	AR	26
+Giovanni Battista Belzoni	1778	Italy	IT	29
 John O'Shea	1981	Ireland	IE	46
 Jean Gabin	1904	France	FR	38
 Eiður Guðjohnsen	1978	Iceland	IS	41
@@ -7767,6 +8245,7 @@ Ciara	1985	United States	US	36
 Theo van Gogh	1957	Netherlands	NL	35
 Martin Rodbell	1925	United States	US	27
 Antonio Pigafetta	1491	Italy	IT	30
+Leonardo Araújo	1969	Brazil	BR	32
 Bebeto	1964	Brazil	BR	36
 Oliver Bierhoff	1968	Germany	DE	34
 Laurent Blanc	1965	France	FR	34
@@ -7776,6 +8255,7 @@ Mariana of Austria	1634	Austria	AT	26
 Subutai	1176	Mongolia	MN	28
 Sándor Kocsis	1929	Hungary	HU	29
 Cemal Gürsel	1895	Turkey	TR	38
+Celal Bayar	1883	Turkey	TR	38
 Eugen d'Albert	1864	United Kingdom	GB	26
 Bobby Jindal	1971	United States	US	29
 Lloyd Shapley	1923	United States	US	30
@@ -7797,6 +8277,7 @@ Claudio Pizarro	1978	Peru	PE	34
 Muhammad Abduh	1849	Egypt	EG	28
 Stephen Warnock	1981	United Kingdom	GB	31
 Robert Robinson	1886	United Kingdom	GB	35
+Alessandro Costacurta	1966	Italy	IT	35
 Andreas Ivanschitz	1983	Austria	AT	27
 Robert F. Engle	1942	United States	US	29
 Peter Doherty	1940	Australia	AU	27
@@ -7804,9 +8285,12 @@ Alberto Tomba	1966	Italy	IT	28
 Robert Fogel	1926	United States	US	32
 Andrew Johnson	1981	United Kingdom	GB	29
 Djibril Cissé	1981	France	FR	39
+Robinho	1984	Brazil	BR	54
 Alassane Ouattara	1942	Ivory Coast	CI	39
+Cristian Chivu	1980	Romania	RO	34
 Yoshiki	1965	Japan	JP	27
 Alan MacDiarmid	1927	New Zealand	NZ	33
+Paul-Henri-Benjamin d'Estournelles de Constant	1852	France	FR	33
 Paul Flory	1910	United States	US	33
 Alfred Werner	1866	Switzerland	CH	45
 Logan Lerman	1992	United States	US	31
@@ -7853,6 +8337,7 @@ Derek Harold Richard Barton	1918	United Kingdom	GB	31
 Željko Joksimović	1972	Serbia	RS	36
 Bar Refaeli	1985	Israel	IL	28
 Cyril Norman Hinshelwood	1897	United Kingdom	GB	34
+Walter Samuel	1978	Argentina	AR	40
 Juan Román Riquelme	1978	Argentina	AR	38
 Zucchero	1955	Italy	IT	26
 Theodore William Richards	1868	United States	US	41
@@ -7887,6 +8372,7 @@ Peter D. Mitchell	1920	United Kingdom	GB	35
 Robert Bruce Merrifield	1921	United States	US	32
 Yelena Bonner	1923	Armenia	AM	27
 Karl Briullov	1799	Russia	RU	33
+Claudio López	1974	Argentina	AR	27
 Santiago Bernabéu Yeste	1895	Spain	ES	31
 Herbert A. Hauptman	1917	United States	US	37
 Yaşar Kemal	1923	Turkey	TR	27
@@ -7918,7 +8404,7 @@ Kaká	1982	Brazil	BR	71
 César Milstein	1927	Argentina	AR	30
 Lesya Ukrainka	1871	Ukraine	UA	31
 Philippe Senderos	1985	Switzerland	CH	42
-Alois Senefelder	1771	Czechia	CZ	26
+Alois Senefelder	1771	Czech Republic	CZ	26
 Iván Helguera	1975	Spain	ES	26
 Alexandr Ostrovsky	1823	Russia	RU	28
 Manuel Almunia	1977	Spain	ES	44
@@ -7944,6 +8430,7 @@ Freddie Highmore	1992	United Kingdom	GB	28
 Morten Olsen	1949	Denmark	DK	26
 Robert Huber	1937	Germany	DE	34
 Hartmut Michel	1948	Germany	DE	31
+Flórián Albert	1941	Hungary	HU	36
 J. Michael Bishop	1936	United States	US	26
 Sebastian Larsson	1985	Sweden	SE	37
 Steve Carell	1962	United States	US	35
@@ -7961,13 +8448,14 @@ Guillermo Cañas	1977	Argentina	AR	26
 Benni McCarthy	1977	South Africa	ZA	28
 Guus Hiddink	1946	Netherlands	NL	45
 Anggun	1974	Indonesia	ID	33
-Johan Djourou	1987	CÃ´te dÂ´Ivoire	CI	34
+Johan Djourou	1987	Côte d´Ivoire	CI	34
 Walter Zenga	1960	Italy	IT	29
 Lucas Neill	1978	Australia	AU	28
 André Rieu	1949	Netherlands	NL	26
 Shia LaBeouf	1986	United States	US	44
 Carles Puyol	1978	Spain	ES	58
 Nick Carter	1980	United States	US	28
+John Bauer	1882	Sweden	SE	30
 Connie Nielsen	1965	Denmark	DK	28
 Morten Gamst Pedersen	1981	Norway	NO	31
 Rufus Sewell	1967	United Kingdom	GB	26
@@ -7986,12 +8474,14 @@ Janne Ahonen	1977	Finland	FI	26
 Bipasha Basu	1979	India	IN	30
 Miloš Krasić	1984	Serbia	RS	38
 Carla Del Ponte	1947	Switzerland	CH	27
+Ariel Ortega	1974	Argentina	AR	27
 John Pantsil	1981	Ghana	GH	28
 Stephen Appiah	1980	Ghana	GH	30
 Asamoah Gyan	1985	Ghana	GH	39
 Guillermo Ochoa	1985	Mexico	MX	26
 Francisco Javier Rodríguez	1981	Mexico	MX	27
 Vitantonio Liuzzi	1981	Italy	IT	33
+Luis Suárez Miramontes	1935	Spain	ES	31
 Obafemi Martins	1984	Nigeria	NG	32
 Giovanni Battista Sammartini	1700	Italy	IT	26
 Khaled Hosseini	1965	Afghanistan	AF	39
@@ -8002,9 +8492,11 @@ Darin	1987	Sweden	SE	29
 Yanka Kupala	1882	Slovakia	SK	62
 Aaron Mokoena	1980	South Africa	ZA	30
 André Maurois	1885	France	FR	33
+Amos	-800	Israel	IL	29
 Mikhail Vrubel	1856	Russia	RU	28
 Ferry Corsten	1973	Netherlands	NL	26
 Thomas Johansson	1975	Sweden	SE	27
+Daniel Bovet	1907	Switzerland	CH	30
 Cristiano Lucarelli	1975	Italy	IT	26
 Mario Ančić	1984	Croatia	HR	27
 Carlo Cudicini	1973	Italy	IT	34
@@ -8022,6 +8514,7 @@ Julia Ormond	1965	United Kingdom	GB	27
 Clara Zetkin	1857	Germany	DE	48
 Roberto Mancini	1964	Italy	IT	40
 Sławomir Mrożek	1930	Poland	PL	26
+Grigoriy Ordzhonikidze	1886	Georgia	GE	26
 Olga Constantinovna of Russia	1851	Russia	RU	28
 Mikel Arteta	1982	Spain	ES	39
 Baruj Benacerraf	1920	Venezuela	VE	36
@@ -8038,15 +8531,17 @@ Maria Alexandrovna of Hesse	1824	Germany	DE	26
 Konstantinos Chalkias	1974	Greece	GR	29
 Stipe Pletikosa	1979	Croatia	HR	32
 Dario Šimić	1975	Croatia	HR	31
+Robert Kovač	1974	Germany	DE	30
 Josip Šimunić	1978	Australia	AU	28
 Darijo Srna	1982	Bosnia and Herzegovina	BA	44
 Ivica Olić	1979	Croatia	HR	43
 Ivan Klasnić	1980	Germany	DE	36
 Zdeněk Grygera	1980	Czech Republic	CZ	30
 Tomáš Hübschman	1981	Czech Republic	CZ	29
-Marek Jankulovski	1977	Czechia	CZ	36
-David Rozehnal	1980	Czechia	CZ	26
-Jaroslav Plašil	1982	Czechia	CZ	37
+Marek Jankulovski	1977	Czech Republic	CZ	36
+David Rozehnal	1980	Czech Republic	CZ	26
+Tomáš Ujfaluši	1978	Czech Republic	CZ	31
+Jaroslav Plašil	1982	Czech Republic	CZ	37
 Arthur Penn	1922	United States	US	28
 `Abd Allah ibn `Abbas	620	Saudi Arabia	SA	28
 Guy Berryman	1978	United Kingdom	GB	28
@@ -8057,6 +8552,7 @@ Scott Carson	1985	United Kingdom	GB	27
 Arnold Vosloo	1962	South Africa	ZA	26
 Christian Ziege	1972	Germany	DE	27
 Thomas Häßler	1966	United States	US	29
+Andreas Möller	1967	Germany	DE	28
 Predrag Mijatović	1969	Montenegro	ME	31
 Brad Guzan	1984	United States	US	26
 Giovanni van Bronckhorst	1975	Netherlands	NL	46
@@ -8089,6 +8585,7 @@ Nelson de Jesus Silva	1973	Brazil	BR	40
 Alyona Bondarenko	1984	Ukraine	UA	30
 Ahmed Hossam	1983	Egypt	EG	29
 Vincent Kompany	1986	Belgium	BE	38
+Demetrio Albertini	1971	Italy	IT	30
 Albert Claude	1899	Belgium	BE	34
 Robert W. Holley	1922	United States	US	30
 Vincent Candela	1973	France	FR	28
@@ -8110,7 +8607,7 @@ Corneille Heymans	1892	Belgium	BE	31
 Edward Adelbert Doisy	1893	United States	US	37
 Max Theiler	1899	South Africa	ZA	37
 Thomas Huckle Weller	1915	United States	US	28
-André Frédéric Cournand	1895	France	US	30
+André Frédéric Cournand	1895	France	FR	30
 Charles Brenton Huggins	1901	Canada	CA	31
 Chris Evans	1981	United States	US	44
 Carrie Underwood	1983	United States	US	35
@@ -8131,6 +8628,7 @@ Flavia Pennetta	1982	Italy	IT	34
 Robin Söderling	1984	Sweden	SE	37
 Xavier Malisse	1980	Belgium	BE	26
 Viktor Vasnetsov	1848	Russia	RU	36
+Ivan Shishkin	1832	Russia	RU	38
 Dirk Kuyt	1980	Netherlands	NL	47
 Roberto Di Matteo	1970	Switzerland	CH	37
 Jean Tigana	1955	Mali	ML	28
@@ -8140,6 +8638,7 @@ Adam Savage	1967	United States	US	27
 James Franco	1978	United States	US	43
 Salomon Kalou	1985	Ivory Coast	CI	45
 Gino Bartali	1914	Italy	IT	27
+Hamilton O. Smith	1931	United States	US	30
 John Legend	1978	United States	US	28
 Cosimo II de' Medici, Grand Duke of Tuscany	1590	Italy	IT	26
 Ferdinando I de' Medici, Grand Duke of Tuscany	1549	Italy	IT	27
@@ -8151,6 +8650,7 @@ Aiden McGeady	1986	United Kingdom	GB	32
 Mario Capecchi	1937	Italy	IT	35
 Panaetius	-185	Greece	GR	27
 Nguyễn Tấn Dũng	1949	Vietnam	VN	34
+Aldair	1965	Brazil	BR	27
 Luís Fabiano	1980	Brazil	BR	37
 Mariano José de Larra	1809	Spain	ES	26
 Ladislao Kubala	1927	Hungary	HU	27
@@ -8182,6 +8682,7 @@ Scott Speed	1983	United States	US	30
 Nico Rosberg	1985	Germany	DE	46
 Baltasar Gracián y Morales	1601	Spain	ES	26
 Roza Otunbayeva	1950	Kyrgyzstan	KG	44
+Gotthard Heinrici	1886	Russia	RU	27
 Tyson Chandler	1982	United States	US	26
 Mir Ali Shir Nava'i	1441	Afghanistan	AF	26
 Kakha Kaladze	1978	United States	US	38
@@ -8191,6 +8692,7 @@ Cristina Fernández de Kirchner	1953	Argentina	AR	73
 Kurmanbek Bakiyev	1949	Kyrgyzstan	KG	47
 Vicente Blasco Ibáñez	1867	Spain	ES	33
 Arto Paasilinna	1942	Finland	FI	31
+René Higuita	1966	Colombia	CO	33
 Nicolás Burdisso	1981	Argentina	AR	33
 Elle Fanning	1998	United States	US	27
 CM Punk	1978	United States	US	35
@@ -8251,13 +8753,14 @@ Katarina Srebotnik	1981	Slovenia	SI	28
 Emilia Plater	1806	Lithuania	LT	29
 H. Jon Benjamin	1966	United States	US	29
 Jaume Bartumeu	1954	Andorra	AD	27
-Karolína Kurková	1984	Czechia	CZ	31
+Karolína Kurková	1984	Czech Republic	CZ	31
 Edmund Phelps	1933	United States	US	38
 Elisabeth of France	1602	France	FR	26
 Ottmar Hitzfeld	1949	Germany	DE	38
 George Tupou V	1948	Tonga	TO	45
 Paul di Resta	1986	United Kingdom	GB	30
 Richard Gasquet	1986	France	FR	35
+Thubten Gyatso, 13th Dalai Lama	1876	China	CN	27
 Rodrigo Santoro	1975	Brazil	BR	28
 Hugo van der Goes	1440	Belgium	BE	28
 Seth Rogen	1982	Canada	CA	32
@@ -8279,12 +8782,12 @@ Lhasa de Sela	1972	United States	US	27
 Julien Gracq	1910	France	FR	28
 Pierre Nkurunziza	1963	Burundi	BI	40
 Tom Hardy	1977	United Kingdom	GB	36
-Jiří Paroubek	1952	Czechia	CZ	27
+Jiří Paroubek	1952	Czech Republic	CZ	27
 Klaus Meine	1948	Germany	DE	28
 Pál Schmitt	1942	Hungary	HU	42
 Li Na	1982	China	CN	46
 Petrus Canisius	1521	Netherlands	NL	26
-Peter Grünberg	1939	Czechia	CZ	45
+Peter Grünberg	1939	Czech Republic	CZ	45
 John Atta-Mills	1944	Ghana	GH	49
 Yuri Nikulin	1921	Russia	RU	26
 Vikash Dhorasoo	1973	France	FR	27
@@ -8325,10 +8828,11 @@ Sebastián Piñera	1949	Chile	CL	56
 John E. Walker	1941	United Kingdom	GB	33
 William Standish Knowles	1917	United States	US	34
 Raymond Davis Jr.	1914	United States	US	36
-Tomáš Berdych	1985	Czechia	CZ	37
+Tomáš Berdych	1985	Czech Republic	CZ	37
 Lúcio	1978	Brazil	BR	41
 Assia Djebar	1936	Algeria	DZ	28
 José Bosingwa	1982	Democratic Republic of Congo	CD	37
+Stanisław Konarski	1700	Poland	PL	28
 Artur Boruc	1980	Poland	PL	35
 Jonny Buckland	1977	United Kingdom	GB	29
 Zoltán Gera	1979	Hungary	HU	27
@@ -8337,7 +8841,7 @@ Nikolay Davydenko	1981	Ukraine	UA	38
 Elisa Bonaparte	1777	France	FR	28
 John Roberts	1955	United States	US	33
 Robert Sean Leonard	1969	United States	US	37
-Antonín Panenka	1948	Czechia	CZ	29
+Antonín Panenka	1948	Czech Republic	CZ	29
 Taylor Momsen	1993	United States	US	37
 Jennifer Morrison	1979	United States	US	37
 Taro Aso	1940	Japan	JP	54
@@ -8349,11 +8853,13 @@ Dalip Singh	1972	India	IN	35
 Markus Rosenberg	1982	Sweden	SE	29
 Will Champion	1978	United Kingdom	GB	29
 Jonas Björkman	1972	Sweden	SE	27
+Kevin Kurányi	1982	Brazil	BR	38
 Neil deGrasse Tyson	1958	United States	US	29
 Kurt Lewin	1890	Poland	PL	29
 Felipe Calderón	1962	Mexico	MX	56
 Will.i.am	1975	United States	US	41
 David Morse	1953	United States	US	27
+Al-Ma'arri	973	Syria	SY	28
 AnnaSophia Robb	1993	United States	US	37
 Russell Brand	1975	United Kingdom	GB	30
 Gianni Rodari	1920	Italy	IT	38
@@ -8363,6 +8869,8 @@ David Lee	1931	United States	US	38
 Andrey Voznesensky	1933	Russia	RU	32
 Hans Georg Dehmelt	1922	Germany	DE	36
 Nanni Moretti	1953	Italy	IT	27
+Alexandra Fyodorovna	1798	Germany	DE	28
+Cleopatra III of Egypt	-161	Egypt	EG	27
 Xi Jinping	1953	China	CN	55
 Ricardo Zamora	1901	Spain	ES	29
 Shyla Stylez	1982	Canada	CA	27
@@ -8376,9 +8884,11 @@ Michael Dawson	1983	United Kingdom	GB	33
 Archduke Karl of Austria	1961	Austria	AT	27
 Anna Maria Jopek	1970	Poland	PL	73
 Marco Materazzi	1973	Italy	IT	42
+Robert Guérin	1876	France	FR	30
 Stanley Rous	1895	United Kingdom	GB	32
 Jarkko Nieminen	1981	Finland	FI	29
-Lucie Šafářová	1987	Czechia	CZ	26
+Míchel Salgado	1975	Spain	ES	33
+Lucie Šafářová	1987	Czech Republic	CZ	26
 Stanisław Moniuszko	1819	Poland	PL	33
 Michele Bachmann	1956	United States	US	30
 Markus Merk	1962	Germany	DE	26
@@ -8387,6 +8897,7 @@ Bobby Fischer	1943	United States	US	72
 Émile Friant	1863	France	FR	34
 Bella Akhmadulina	1937	Russia	RU	27
 Vicente Rodríguez	1981	Spain	ES	27
+Andrew I of Hungary	1013	Hungary	HU	26
 David Ferrer	1982	Spain	ES	39
 Mary Blair	1911	United States	US	26
 Luca Toni	1977	Italy	IT	42
@@ -8398,7 +8909,7 @@ Boris Gelfand	1968	Belarus	BY	36
 Jesse Spencer	1979	United States	US	30
 Channing Tatum	1980	United States	US	36
 Sonia Sotomayor	1954	United States	US	26
-Radek Štěpánek	1978	Czechia	CZ	29
+Radek Štěpánek	1978	Czech Republic	CZ	29
 Ben Foster	1980	United States	US	27
 Feliciano López	1981	Spain	ES	30
 Xavi	1980	Spain	ES	64
@@ -8407,6 +8918,7 @@ Diego Ribas da Cunha	1985	Brazil	BR	33
 Rihanna	1988	Barbados	BB	85
 Ferenc Molnár	1878	Hungary	HU	28
 Bastian Schweinsteiger	1984	Germany	DE	52
+Michael Rensing	1984	Germany	DE	28
 Nicole Vaidišová	1989	Germany	DE	31
 José Paolo Guerrero	1984	Peru	PE	27
 Camilla Belle	1986	United States	US	27
@@ -8414,6 +8926,7 @@ Sergey Stanishev	1966	Ukraine	UA	36
 Per Mertesacker	1984	Germany	DE	44
 Lisa Edelstein	1967	United States	US	30
 Anna Popplewell	1988	United Kingdom	GB	28
+Arne Friedrich	1979	Germany	DE	41
 Deron Williams	1984	United States	US	28
 Júlio Baptista	1981	Brazil	BR	35
 Wentworth Miller	1972	United Kingdom	GB	43
@@ -8424,6 +8937,7 @@ Bobby Zamora	1981	United Kingdom	GB	27
 Darren Bent	1984	United Kingdom	GB	36
 Jason Segel	1980	United States	US	36
 Mark González	1984	South Africa	ZA	28
+Maciej Żurawski	1976	Poland	PL	26
 Carla Gugino	1971	United States	US	29
 Lionel Messi	1987	Argentina	AR	95
 Daniel Brühl	1978	Spain	ES	27
@@ -8458,6 +8972,7 @@ Zemfira	1976	Russia	RU	32
 Parmigianino	1503	Italy	IT	34
 Patricia Kaas	1966	France	FR	33
 Alejandro Valverde	1980	Spain	ES	27
+Niamh Kavanagh	1968	Ireland	IE	26
 Peter Wentz	1979	United States	US	27
 Daniel Van Buyten	1978	Belgium	BE	39
 Anatoliy Tymoschuk	1979	Ukraine	UA	39
@@ -8485,8 +9000,12 @@ Anna Netrebko	1971	Russian Federation	RU	29
 Bob Sinclar	1969	France	FR	32
 Dejan Stanković	1978	Serbia	RS	39
 Dragan Stojković	1965	Serbia	RS	26
+Hans-Jörg Butt	1974	Germany	DE	34
+Béla II of Hungary	1108	Hungary	HU	26
 Christoph Metzelder	1980	Germany	DE	37
+Clemens Fritz	1980	Germany	DE	30
 Kevin Michael Richardson	1964	United States	US	34
+Dragan Džajić	1946	Serbia	RS	27
 Vicente Del Bosque	1950	Spain	ES	44
 Oguchi Onyewu	1982	United States	US	33
 Daniella Monet	1989	United States	US	26
@@ -8504,6 +9023,7 @@ Mary Elizabeth Winstead	1984	United States	US	35
 Joey Jordison	1975	United States	US	29
 Dimitris Salpigidis	1981	Greece	GR	36
 Lassana Diarra	1985	France	FR	41
+John Bosco	1815	Italy	IT	51
 Ban Ki-moon	1944	South Korea	KR	90
 Anton Ferdinand	1985	United Kingdom	GB	26
 Werner Mölders	1913	Germany	DE	28
@@ -8515,6 +9035,7 @@ Michael Essien	1982	Ghana	GH	49
 Leighton Baines	1984	United Kingdom	GB	35
 Salva Kiir Mayardit	1951	Chad	TD	44
 Mads Mikkelsen	1965	Denmark	DK	28
+Massimo Moratti	1945	Italy	IT	28
 David Pizarro	1979	Chile	CL	29
 Adolf Dassler	1900	Germany	DE	30
 Alexander Grin	1880	Russia	RU	29
@@ -8549,6 +9070,7 @@ Alexandre Song	1987	Cameroon	CM	43
 Justin Long	1978	United States	US	27
 Andrés Iniesta	1984	Spain	ES	69
 Vedad Ibišević	1984	Bosnia and Herzegovina	BA	26
+Timo Hildebrand	1979	Germany	DE	30
 Samantha Stosur	1984	Australia	AU	39
 Francesca Schiavone	1980	Italy	IT	41
 Juan Silveira dos Santos	1979	Brazil	BR	35
@@ -8559,6 +9081,7 @@ Mario Yepes	1976	Colombia	CO	26
 William Kvist	1985	Denmark	DK	27
 Michael Carrick	1981	United Kingdom	GB	52
 Stéphane Lambiel	1985	Switzerland	CH	26
+Michael the Brave	1558	Romania	RO	30
 Synyster Gates	1981	United States	US	27
 Matt Sydal	1983	United States	US	28
 Anabel Medina Garrigues	1982	Spain	ES	32
@@ -8630,6 +9153,7 @@ Joseph Yobo	1980	Nigeria	NG	32
 Kostas Katsouranis	1979	Greece	GR	31
 Gerd Kanter	1979	Estonia	EE	27
 Yukio Hatoyama	1947	Japan	JP	55
+Euzebiusz Smolarek	1981	Poland	PL	30
 Agota Kristof	1935	Hungary	HU	27
 Vera Farmiga	1973	United States	US	29
 Leon Osman	1981	United Kingdom	GB	26
@@ -8673,6 +9197,7 @@ Yves Chauvin	1930	France	FR	36
 Sulley Muntari	1984	Ghana	GH	37
 Mark Zuckerberg	1984	United States	US	85
 Riccardo Montolivo	1985	Italy	IT	36
+Nikola Žigić	1980	Serbia	RS	36
 Aaron Swartz	1986	United States	US	45
 Tim Krul	1988	Netherlands	NL	26
 Joey Barton	1982	United Kingdom	GB	35
@@ -8684,7 +9209,9 @@ Marit Bjørgen	1980	Norway	NO	26
 Robert Aumann	1930	Germany	DE	35
 Theo Walcott	1989	United Kingdom	GB	51
 Antoni Tàpies	1923	Spain	ES	29
+Joshua A. Norton	1819	United Kingdom	GB	26
 Blanka Vlašić	1983	Croatia	HR	32
+Roberto Abbondanzieri	1972	Argentina	AR	28
 Frank-Walter Steinmeier	1956	Germany	DE	40
 Raila Odinga	1945	Kenya	KE	27
 Florentino Pérez	1947	Spain	ES	30
@@ -8692,10 +9219,12 @@ Miranda Kerr	1983	Australia	AU	37
 Horst Seehofer	1949	Germany	DE	29
 Rosso Fiorentino	1494	Italy	IT	26
 Sarah Palin	1964	United States	US	70
+Jens Nowotny	1974	Germany	DE	31
 Nuri Şahin	1988	Germany	DE	41
 Christopher A. Pissarides	1948	Cyprus	CY	30
 Sheamus O'Shaunessy	1978	Ireland	IE	31
 Tim Wiese	1981	Germany	DE	36
+Tim Borowski	1980	Germany	DE	35
 Sam Worthington	1976	United Kingdom	GB	49
 Selim I	1465	Turkey	TR	55
 Ernst Happel	1925	Austria	AT	29
@@ -8704,6 +9233,7 @@ Micah Richards	1988	United Kingdom	GB	34
 Volkan Demirel	1981	Turkey	TR	31
 Toše Proeski	1981	Macedonia	MK	34
 Cobie Smulders	1982	Canada	CA	37
+Semih Şentürk	1983	Turkey	TR	36
 Franck Ribéry	1983	France	FR	61
 Michael Emerson	1954	United States	US	29
 Joel McHale	1971	Italy	IT	27
@@ -8736,6 +9266,8 @@ Luciano Spalletti	1959	Italy	IT	27
 Juninho Pernambucano	1975	Brazil	BR	35
 Elano Blumer	1981	Brazil	BR	32
 Valon Behrami	1985	Serbia	RS	33
+Nehemiah	0	Iraq	IQ	26
+Grafite	1979	Brazil	BR	31
 Luisão	1981	Brazil	BR	30
 Maite Perroni	1983	Mexico	MX	26
 Daniel Agger	1984	Denmark	DK	42
@@ -8754,6 +9286,7 @@ Vavá	1934	Brazil	BR	28
 Dmitry Medvedev	1965	Russia	RU	109
 Josh Hutcherson	1992	United States	US	34
 Eduardo da Silva	1983	Brazil	BR	44
+Chun Doo-hwan	1931	South Korea	KR	44
 Sergei Sokolov	1911	Ukraine	UA	27
 Christian Abbiati	1977	Italy	IT	34
 Eric Dane	1972	United States	US	26
@@ -8787,6 +9320,7 @@ Oleksandr Shovkovsky	1975	Ukraine	UA	31
 Goodluck Jonathan	1957	Nigeria	NG	44
 Marat Izmailov	1982	Russia	RU	28
 Sergio Agüero	1988	Argentina	AR	48
+Marcell Jansen	1985	Germany	DE	37
 George Bush	1946	United States	US	143
 Harry S. Truman	1884	United States	US	100
 Venki Ramakrishnan	1952	United States	US	42
@@ -8828,6 +9362,7 @@ Dimitris Christofias	1946	Cyprus	CY	44
 Morgan De Sanctis	1977	Italy	IT	33
 Kevin Doyle	1983	Ireland	IE	28
 Dan Shechtman	1941	Israel	IL	44
+Jigme Khesar Namgyal Wangchuck	1980	Bhutan	BT	60
 Yiruma	1978	South Korea	KR	26
 Jimmy Wales	1966	United States	US	123
 Abou Diaby	1986	France	FR	41
@@ -8848,11 +9383,12 @@ Nilmar	1984	Brazil	BR	31
 Sarah Wayne Callies	1977	United States	US	39
 Bertie Ahern	1951	Ireland	IE	44
 Jackson Rathbone	1984	Singapore	SG	30
-Guy Demel	1981	CÃ´te dÂ´Ivoire	CI	26
+Guy Demel	1981	Côte d´Ivoire	CI	26
 Amy Adams	1974	Italy	IT	47
 Lee Myung-bak	1941	South Korea	KR	57
 Ismail Haniya	1963	Saudi Arabia	SA	32
 Hadise	1985	Belgium	BE	30
+Roman Weidenfeller	1980	Germany	DE	30
 Juan Martin Del Potro	1988	Argentina	AR	44
 Evanna Lynch	1991	Ireland	IE	29
 Kaia Kanepi	1985	Estonia	EE	29
@@ -8864,6 +9400,7 @@ Katie Holmes	1978	United States	US	47
 Fatmir Sejdiu	1951	Albania	AL	39
 Adrian Sutil	1983	Germany	DE	39
 Diego Milito	1979	Argentina	AR	46
+Abdul Qadir Jelani	1077	Iran	IR	27
 Uli Hoeneß	1952	Germany	DE	28
 Philipp Kohlschreiber	1983	Germany	DE	26
 Michael Greis	1976	Germany	DE	26
@@ -8883,16 +9420,19 @@ Kiran Desai	1971	India	IN	31
 Kisan Baburao Hazare	1937	India	IN	39
 Yu-Na Kim	1990	South Korea	KR	29
 Robert Fico	1964	Slovakia	SK	38
-Viktor Dyk	1877	Czechia	CZ	38
+Viktor Dyk	1877	Czech Republic	CZ	38
 Phil Jagielka	1982	United Kingdom	GB	32
 Jeremy Renner	1971	United States	US	113
 David Albelda	1977	Spain	ES	28
 Nicolas Hülkenberg	1987	Germany	DE	34
+Andranik Ozanian	1865	Turkey	TR	29
 Brett Holman	1984	Australia	AU	30
+Sebastian Kehl	1980	Germany	DE	35
 Chad Michael Murray	1981	United States	US	36
 Fabio Grosso	1977	Italy	IT	37
 Andrey Arshavin	1981	Russia	RU	54
 Cristian Zaccardo	1981	Italy	IT	29
+Simone Barone	1978	Italy	IT	26
 Daniel Schneidermann	1958	France	FR	38
 Suzanne Collins	1962	United States	US	34
 Portia Simpson-Miller	1945	Jamaica	JM	31
@@ -8902,6 +9442,7 @@ Hande Yener	1973	Turkey	TR	66
 Conan O'Brien	1963	United States	US	38
 Fat Joe	1970	United States	US	27
 Marco Amelia	1982	Italy	IT	34
+Maria Kaczyńska	1942	Belarus	BY	35
 Bruno Senna	1983	Brazil	BR	36
 Rembrandt	1606	Netherlands	NL	125
 Victor Nsofor Obinna	1987	Nigeria	NG	27
@@ -8926,9 +9467,12 @@ Winston Reid	1988	New Zealand	NZ	29
 Agnieszka Radwańska	1989	Poland	PL	36
 Slaven Bilić	1968	Croatia	HR	32
 Stephanie Rice	1988	Australia	AU	31
+Addys D'Mercedes	0	Cuba	CU	31
 Eminem	1972	United States	US	83
+Robert Enke	1977	Germany	DE	40
 Mark Cavendish	1985	Isle of Man	IM	33
 Donieber Alexander Marangon	1979	Brazil	BR	31
+Rodrigo Taddei	1980	Brazil	BR	27
 Vera Mukhina	1889	Latvia	LV	28
 Choummaly Sayasone	1936	Laos	LA	36
 Giorgio Chiellini	1984	Italy	IT	43
@@ -8940,8 +9484,9 @@ Luciano Floridi	1964	Italy	IT	36
 Jürgen Melzer	1981	Austria	AT	31
 Jason Earles	1977	United States	US	27
 Jessica Simpson	1980	United States	US	50
-Casey Stoner	1985	United Kingdom	GB	28
-Mirek Topolánek	1956	Czechia	CZ	41
+Casey Stoner	1985	Australia	AU	28
+Mirek Topolánek	1956	Czech Republic	CZ	41
+David Odonkor	1984	Germany	DE	29
 Heurelho da Silva Gomes	1981	Brazil	BR	32
 Alex Rodrigo Dias da Costa	1982	Brazil	BR	36
 Grégory Lemarchal	1983	France	FR	27
@@ -8949,7 +9494,7 @@ Grégory Lemarchal	1983	France	FR	27
 Mitchel Musso	1991	United States	US	30
 Karim Benzema	1987	France	FR	59
 Bob Dylan	1941	United States	US	88
-David Jarolím	1979	Czechia	CZ	26
+David Jarolím	1979	Czech Republic	CZ	26
 Rajon Rondo	1986	United States	US	29
 Alberto Aquilani	1984	Italy	IT	39
 Elvira Lindo	1962	Spain	ES	28
@@ -8959,9 +9504,12 @@ Ezequiel Garay	1986	Argentina	AR	27
 Jeff Dunham	1962	United States	US	27
 Hu Jia	1973	China	CN	29
 Roman Pavlyuchenko	1981	Russia	RU	49
+Bernd Schneider	1973	Germany	DE	32
+Dmitri Torbinsky	1984	Russia	RU	28
 Nouri al-Maliki	1950	Iraq	IQ	38
 Jim Kim	1959	United States	US	26
 Syd Barrett	1946	United Kingdom	GB	47
+Václav Svěrkoš	1983	Czech Republic	CZ	29
 Vasco Núñez de Balboa	1475	Spain	ES	42
 Lisandro López	1983	Argentina	AR	32
 Raul Meireles	1983	Portugal	PT	45
@@ -9014,15 +9562,18 @@ Dick Cheney	1941	United States	US	64
 Ollanta Humala	1962	Peru	PE	47
 Aleksandr Anyukov	1982	Russia	RU	37
 Steve Mandanda	1985	Democratic Republic of Congo	CD	32
+Marcos Senna	1976	Brazil	BR	36
 John F. Kennedy	1917	United States	US	116
 John Kerry	1943	United States	US	51
 Wade Williams	1961	United States	US	29
 Joris Mathijsen	1980	Netherlands	NL	34
+Dmytro Chygrynskyy	1986	Ukraine	UA	29
 Libor Sionko	1977	Czech Republic	CZ	26
 Leonardo Bonucci	1987	Italy	IT	33
 Marko Pantelić	1978	Serbia	RS	33
 Cristian Riveros	1982	Paraguay	PY	26
 Andriy Pyatov	1984	Ukraine	UA	28
+Mike Hanke	1983	Germany	DE	31
 Pascal Zuberbühler	1971	Switzerland	CH	26
 Vladimir Stojković	1983	Serbia	RS	27
 Gaël Givet	1981	France	FR	26
@@ -9030,7 +9581,7 @@ Federico Balzaretti	1981	Italy	IT	31
 Samuel Sánchez	1978	Spain	ES	26
 Pablo Zabaleta	1985	Argentina	AR	31
 Abdul Kader Keïta	1981	Ivory Coast	CI	27
-Koffi Ndri Romaric	1983	CÃ´te dÂ´Ivoire	CI	28
+Koffi Ndri Romaric	1983	Côte d´Ivoire	CI	28
 Pedro Almodóvar	1949	Spain	ES	60
 Bojan Krkić	1990	Spain	ES	44
 Giovanni Domenico Cassini	1625	Italy	IT	47
@@ -9041,6 +9592,7 @@ Cosmin Contra	1975	Romania	RO	27
 Simon Busk Poulsen	1984	Denmark	DK	27
 James II of England	1633	United Kingdom	GB	58
 Gareth Bale	1989	United Kingdom	GB	42
+Ivica Vastic	1969	Croatia	HR	29
 Denílson Pereira Neves	1988	Brazil	BR	35
 Lorenzo Da Ponte	1749	Italy	IT	30
 Luis Antonio Valencia	1985	Ecuador	EC	46
@@ -9069,6 +9621,7 @@ Felix Baumgartner	1969	Austria	AT	57
 Philippe Gilbert	1982	Belgium	BE	30
 Joyce Banda	1950	Malawi	MW	38
 Haris Silajdžić	1945	Bosnia and Herzegovina	BA	36
+Marguerite de Valois	1553	France	FR	32
 El Lissitzky	1890	Russia	RU	33
 Henry Moore	1898	United Kingdom	GB	40
 Roberto Rosetti	1967	United States	US	27
@@ -9089,7 +9642,7 @@ Goran Hadžić	1958	Croatia	HR	28
 Dokka Umarov	1964	Russia	RU	28
 David Henrie	1989	United States	US	27
 Cédric Carrasso	1981	France	FR	27
-Michal Kadlec	1984	Czechia	CZ	28
+Michal Kadlec	1984	Czech Republic	CZ	28
 Juan Carlos Navarro	1980	Spain	ES	26
 Mladen Petrić	1981	Bosnia and Herzegovina	BA	29
 Gilles Simon	1984	France	FR	32
@@ -9115,6 +9668,7 @@ Jérémy Toulalan	1983	France	FR	34
 Gediminas Kirkilas	1951	Lithuania	LT	33
 Hugo Almeida	1984	Portugal	PT	37
 Yoann Gourcuff	1986	France	FR	37
+Chen Guangcheng	1971	China	CN	27
 Sean St Ledger	1984	United Kingdom	GB	28
 Alexis Sánchez	1988	Chile	CL	45
 Luca Antonini	1982	Italy	IT	26
@@ -9154,6 +9708,7 @@ Itumeleng Khune	1987	South Africa	ZA	27
 Mesut Özil	1988	Germany	DE	59
 Philippe Mexès	1982	France	FR	37
 Ryan Bertrand	1989	United Kingdom	GB	30
+Johann Karl Ehrenfried Kegel	1784	Germany	DE	26
 Theofanis Gekas	1980	Greece	GR	36
 Sokratis Papastathopoulos	1988	Greece	GR	37
 Dmitri Borisovich Kabalevsky	1904	Russia	RU	33
@@ -9194,6 +9749,7 @@ Selena Gomez	1992	United States	US	96
 Amauri	1980	Brazil	BR	27
 Antonio Adán	1987	Spain	ES	33
 Marcelo Vieira	1988	Brazil	BR	43
+Jack the Ripper	0	United Kingdom	GB	55
 Steve Irwin	1962	Australia	AU	57
 Andrius Kubilius	1956	Lithuania	LT	35
 Edin Džeko	1986	Bosnia and Herzegovina	BA	47
@@ -9238,6 +9794,7 @@ Pavel Pogrebnyak	1983	Russia	RU	35
 Mario Gomez	1985	Germany	DE	49
 Rinko Kikuchi	1981	Japan	JP	27
 Rupiah Banda	1937	Zimbabwe	ZW	33
+Juvenal	100	Italy	IT	37
 Dimitris P. Kraniotis	1966	Greece	GR	35
 Fethullah Gülen	1941	Turkey	TR	34
 Claudio Marchisio	1986	Italy	IT	42
@@ -9276,6 +9833,7 @@ Gerd Binnig	1947	Germany	DE	36
 Heinrich Rohrer	1933	Switzerland	CH	39
 Karl Alexander Müller	1927	Switzerland	CH	38
 Jan Mucha	1982	Slovakia	SK	28
+Dos Caras Jr.	1977	Mexico	MX	29
 Eljero Elia	1987	Netherlands	NL	36
 Royston Drenthe	1987	Netherlands	NL	30
 Luis Suárez	1987	Uruguay	UY	50
@@ -9313,6 +9871,7 @@ Charles Darwin	1809	United Kingdom	GB	148
 Carol W. Greider	1961	United States	US	41
 Brendan Rodgers	1973	United Kingdom	GB	26
 Jonás Gutiérrez	1983	Argentina	AR	32
+Saint Patrick	390	New Caledonia	NC	51
 Avraam Papadopoulos	1984	Australia	AU	29
 Katlego Mphela	1984	South Africa	ZA	28
 Theodor Herzl	1860	Hungary	HU	56
@@ -9350,8 +9909,11 @@ Yuri Zhirkov	1983	Russia	RU	44
 Diniyar Bilyaletdinov	1985	Russia	RU	33
 Heiko Westermann	1983	Germany	DE	31
 Sotiris Ninis	1990	Albania	AL	26
+Stefan Kießling	1984	Germany	DE	33
 André Le Nôtre	1613	France	FR	31
+Hovhannes Baghramian	1897	Azerbaijan	AZ	34
 Nina Dobrev	1989	Bulgaria	BG	45
+Yochanan Vollach	1945	Palestine	PS	47
 Ángel Di María	1988	Argentina	AR	50
 Taio Cruz	1985	United Kingdom	GB	28
 Jo-Wilfried Tsonga	1985	France	FR	38
@@ -9379,6 +9941,7 @@ Ben Barnes	1981	United Kingdom	GB	26
 Mohammed Waheed Hassan	1953	Maldives	MV	26
 Patriarch Kirill I of Moscow	1946	Russia	RU	39
 Calvin Harris	1984	United Kingdom	GB	32
+Serdar Tasci	1987	Germany	DE	31
 Sami Khedira	1987	Tunisia	TN	52
 Manuel Neuer	1986	Germany	DE	49
 LaShawn Merritt	1986	United States	US	28
@@ -9393,6 +9956,7 @@ Sander Boschker	1970	Netherlands	NL	26
 Harel Skaat	1981	Israel	IL	30
 Hayley Williams	1988	United States	US	36
 Juan Manuel Santos	1951	Colombia	CO	45
+Roger Guerreiro	1982	Brazil	BR	28
 Johann Sebastian Bach	1685	Germany	DE	144
 Marija Šerifović	1984	Serbia	RS	48
 Diego Godín	1986	Uruguay	UY	30
@@ -9404,6 +9968,7 @@ Verka Serduchka	1973	Ukraine	UA	31
 Stevan Jovetić	1989	Montenegro	ME	28
 Bamir Topi	1957	Albania	AL	49
 Éver Banega	1988	Argentina	AR	26
+Edward the Elder	870	United Kingdom	GB	41
 Ali al-Masudi	896	Iraq	IQ	41
 Konstantin Zyryanov	1977	Russia	RU	40
 Leonid Hurwicz	1917	United States	US	38
@@ -9416,7 +9981,7 @@ Blake Griffin	1989	United States	US	29
 Diego Cavalieri	1982	Brazil	BR	26
 Wouter Weylandt	1984	Belgium	BE	27
 Seung-Hui Cho	1984	South Korea	KR	27
-Skanderbeg	1405	China	CN	53
+Skanderbeg	1405	Albania	AL	53
 Billy Mays	1958	United States	US	32
 Makoto Kobayashi	1944	Japan	JP	36
 Toshihide Maskawa	1940	Japan	JP	35
@@ -9426,10 +9991,11 @@ Lea Michele	1986	United States	US	30
 Sergio Romero	1987	Argentina	AR	28
 Aaron Ramsey	1990	United Kingdom	GB	37
 Antolín Alcaraz	1982	Paraguay	PY	28
-Józef Gosławski	1908	United States	US	46
+Józef Gosławski	1908	Poland	PL	46
 Vladimir Lenin	1870	Russia	RU	137
 Saoirse Ronan	1994	United States	US	31
 Ngo Bao Chau	1972	Vietnam	VN	33
+Manny Mori	1948	Micronesia	FM	26
 Sebastian Giovinco	1987	Italy	IT	33
 Paris Hilton	1981	United States	US	64
 Stieg Larsson	1954	Sweden	SE	43
@@ -9524,7 +10090,7 @@ ATB	1973	Germany	DE	32
 Taylor Lautner	1992	United States	US	111
 Ramires	1987	Brazil	BR	35
 Homare Sawa	1978	Japan	JP	26
-Gervais Yao Kouassi	1987	CÃ´te dÂ´Ivoire	CI	32
+Gervais Yao Kouassi	1987	Côte d´Ivoire	CI	32
 Roger Y. Tsien	1952	United States	US	38
 Ralph M. Steinman	1943	Canada	CA	44
 Jim Parsons	1973	United States	US	39
@@ -9552,6 +10118,7 @@ Lola Pagnani	1972	Italy	IT	47
 Shinya Yamanaka	1962	Japan	JP	38
 Bruce Beutler	1957	United States	US	42
 Jules A. Hoffmann	1941	Luxembourg	LU	38
+Aleksandr Dedyushko	1962	Belarus	BY	42
 Sebastian Boenisch	1987	Poland	PL	26
 Atsuto Uchida	1988	Japan	JP	26
 Candice Swanepoel	1988	South Africa	ZA	26
@@ -9594,15 +10161,17 @@ Debbie Harry	1945	United States	US	27
 Ei-ichi Negishi	1935	China	CN	37
 David Archuleta	1990	United States	US	35
 César Azpilicueta	1989	Spain	ES	29
-Petra Kvitová	1990	Czechia	CZ	42
-Doumbia Seydou	1987	CÃ´te dÂ´Ivoire	CI	26
+Petra Kvitová	1990	Czech Republic	CZ	42
+Doumbia Seydou	1987	Côte d´Ivoire	CI	26
 Novak Djokovic	1987	Serbia	RS	108
 Ashley Greene	1987	United States	US	35
+Charles Pic	1990	France	FR	26
 Eden Hazard	1991	Belgium	BE	37
 Mame Biram Diouf	1987	Senegal	SN	26
 James Harden	1989	United States	US	27
 Jason Derulo	1989	United States	US	30
 Jack Rodwell	1991	United Kingdom	GB	27
+Mihai Ghimpu	1951	Moldova	MD	29
 Jean Dujardin	1972	France	FR	42
 Omar Suleiman	1936	Egypt	EG	31
 Iveta Radičová	1956	Slovakia	SK	32
@@ -9626,6 +10195,7 @@ Daniel	-623	Israel	IL	48
 Jessica Chastain	1977	United States	US	29
 David Rudisha	1988	Kenya	KE	29
 Zlatan Ljubijankič	1983	Slovenia	SI	26
+Robert Mugabe	1924	Zimbabwe	ZW	84
 Genghis Khan	1162	Mongolia	MN	121
 Kaspar Capparoni	1964	Italy	IT	48
 Jürgen Klopp	1967	Germany	DE	27
@@ -9640,6 +10210,7 @@ Yuto Nagatomo	1986	Japan	JP	26
 Richard F. Heck	1931	United States	US	40
 Joe Jonas	1989	United States	US	39
 Alvin E. Roth	1951	United States	US	30
+Federico Franco	1962	Paraguay	PY	31
 Holly Hunter	1958	United States	US	45
 Ken Livingstone	1945	United Kingdom	GB	31
 Edward Said	1935	United States	US	41
@@ -9650,6 +10221,7 @@ Daniel Ricciardo	1989	Australia	AU	27
 Nick Jonas	1992	United States	US	35
 Hans Martin Sutermeister	1907	Switzerland	CH	28
 Gabriella Cilmi	1991	Australia	AU	26
+Ram Baran Yadav	1948	Nepal	NP	38
 Liv Tyler	1977	United States	US	49
 Rose McGowan	1973	United States	US	33
 Arthur C. Clarke	1917	United Kingdom	GB	66
@@ -9666,8 +10238,11 @@ Leo Tolstoy	1828	Russia	RU	123
 James Dean	1931	United States	US	62
 Thomas Müller	1989	Germany	DE	53
 Aravind Adiga	1974	India	IN	28
+Petr Nečas	1964	Czech Republic	CZ	31
 Billy Idol	1955	United Kingdom	GB	32
+Stefanía Fernández	1990	Venezuela	VE	27
 Werner Faymann	1960	Austria	AT	41
+Laura Chinchilla	1959	Costa Rica	CR	44
 Carmen Electra	1972	United States	US	42
 Sergio Busquets	1988	Spain	ES	49
 Giovani dos Santos	1989	Spain	ES	37
@@ -9677,7 +10252,9 @@ Booker Huffman	1965	United States	US	27
 Sun Yang	1991	China	CN	26
 Mohamed Ould Abdel Aziz	1956	Mauritania	MR	28
 Bobby Moore	1941	United Kingdom	GB	39
-Mary Boleyn	1499	United Kingdom	GB	33
+Edward VIII of the United Kingdom	1894	United Kingdom	GB	68
+Mary Boleyn	1500	United Kingdom	GB	33
+Ferdinand II of Aragon	1452	Spain	ES	55
 Shelly-Ann Fraser	1986	Jamaica	JM	30
 Alan Moore	1953	United Kingdom	GB	33
 Björk	1965	Iceland	IS	70
@@ -9695,6 +10272,7 @@ Ang Lee	1954	Taiwan	TW	55
 Anthony Eden	1897	United Kingdom	GB	49
 Augustus De Morgan	1806	United Kingdom	GB	32
 Basil Liddell Hart	1895	France	FR	26
+Abdülmecid	1823	Turkey	TR	48
 ‘Abdu’l-Hamid II	1842	Turkey	TR	54
 Alan Baker	1939	United Kingdom	GB	26
 Arthur Koestler	1905	Hungary	HU	36
@@ -9712,7 +10290,8 @@ William Shatner	1931	Canada	CA	46
 Lisa Marie Presley	1968	United States	US	28
 Boris Johnson	1964	United States	US	45
 Michael Phelps	1985	United States	US	75
-Saint Joseph	0	Israel	IL	57
+Saint Joseph	0	Palestine	PS	57
+Behgjet Pacolli	1951	Kosovo	XK	27
 Abdullah of Saudi Arabia	1924	Saudi Arabia	SA	54
 Peter Jackson	1961	New Zealand	NZ	58
 Johann Wolfgang von Goethe	1749	Germany	DE	132
@@ -9759,6 +10338,7 @@ Martin Chalfie	1947	United States	US	41
 Alec Guinness	1914	United Kingdom	GB	52
 Ewan McGregor	1971	United Kingdom	GB	50
 Kim Il-sung	1912	North Korea	KP	76
+William Penn	1644	United Kingdom	GB	35
 Rutherford B. Hayes	1822	United States	US	86
 Franklin Pierce	1804	United States	US	89
 Millard Fillmore	1800	United States	US	89
@@ -9770,6 +10350,7 @@ Saparmurat Niyazov	1940	Turkmenistan	TM	61
 Linda Lovelace	1949	United States	US	33
 Anna Bergendahl	1991	Sweden	SE	35
 Sergio Pérez	1990	Mexico	MX	31
+Brian Kobilka	1955	United States	US	38
 Ferdinand Magellan	1480	Portugal	PT	120
 Lenka	1978	Australia	AU	30
 Leonard Cohen	1934	Canada	CA	56
@@ -9782,6 +10363,8 @@ Bobby Ray	1988	United States	US	29
 Alessandro Del Piero	1974	Italy	IT	61
 Nemanja Matić	1988	Serbia	RS	26
 Dalai Lama XIV Bstan-'dzin-rgya-mtsho	1935	China	CN	76
+Rachel	0	Iraq	IQ	36
+Javier Pastore	1989	Argentina	AR	29
 Oprah Winfrey	1954	United States	US	58
 Nick Griffin	1959	United Kingdom	GB	32
 Debby Ryan	1993	United States	US	34
@@ -9800,6 +10383,7 @@ Jennifer Connelly	1970	United States	US	45
 Bernard L. Madoff	1938	United States	US	42
 Elena Dementieva	1981	Russia	RU	43
 Muntadhar al Zaidi	1979	Iraq	IQ	35
+Kublai Khan	1215	China	CN	69
 Moussa Dadis Camara	1964	Guinea	GN	27
 Derrick Rose	1988	United States	US	35
 Diego Contento	1990	Germany	DE	26
@@ -9807,6 +10391,7 @@ Scarlett Johansson	1984	United States	US	91
 Robert De Niro	1943	United States	US	82
 Katherine Heigl	1978	United States	US	40
 Jennifer Garner	1972	United States	US	47
+Henrietta Maria of France	1609	France	FR	32
 Emperor Meiji	1852	Japan	JP	49
 Gianluca Ramazzotti	1970	Italy	IT	29
 Sarah Jessica Parker	1965	United States	US	48
@@ -9847,6 +10432,8 @@ Vukašin Brajić	1984	Bosnia and Herzegovina	BA	26
 Peter Paul Rubens	1577	Belgium	BE	99
 Karl-Theodor zu Guttenberg	1971	Germany	DE	36
 Aubrey Graham	1986	Canada	CA	38
+Ramesses II	-1303	Egypt	EG	59
+Sargon of Akkad	-2360	Iraq	IQ	46
 Clare of Assisi	1194	Italy	IT	43
 Giuseppe Garibaldi	1807	France	FR	78
 Oliver Stone	1946	United States	US	45
@@ -9857,16 +10444,19 @@ Olivia Wilde	1984	United States	US	37
 Anselm of Canterbury	1033	Italy	IT	53
 Morgan Tsvangirai	1952	Zimbabwe	ZW	45
 Nelson Mandela	1918	South Africa	ZA	133
+Zillur Rahman	1929	Bangladesh	BD	28
 Adam Lambert	1982	United States	US	39
 Gjorgje Ivanov	1960	Macedonia	MK	42
 Jóhanna Guðrún Jónsdóttir	1990	Denmark	DK	37
 Aisha bint Abu Bakr	613	Saudi Arabia	SA	51
 Prince Daniel, Duke of Västergötland	1973	Sweden	SE	32
 Marc Albrighton	1989	United Kingdom	GB	26
+Vladislaus II of Bohemia and Hungary	1456	Poland	PL	27
 Richard Owen	1804	United Kingdom	GB	38
 Langston Hughes	1902	United States	US	42
 John Jay	1745	United States	US	28
 John Marshall	1755	United States	US	26
+Stéphane Lannoy	1969	France	FR	26
 Aribert Heim	1914	Austria	AT	30
 Robin van Persie	1983	Netherlands	NL	57
 Johnny Knoxville	1971	United States	US	28
@@ -9875,7 +10465,7 @@ Pixie Lott	1991	United Kingdom	GB	35
 Gordon Bajnai	1968	Hungary	HU	36
 Henri Fayol	1841	Turkey	TR	28
 Federico Macheda	1991	Italy	IT	34
-Jan Fischer	1951	Czechia	CZ	38
+Jan Fischer	1951	Czech Republic	CZ	38
 Bérénice Bejo	1976	Argentina	AR	30
 Irina Bokova	1952	Bulgaria	BG	31
 Susan Boyle	1961	United Kingdom	GB	60
@@ -9911,12 +10501,15 @@ John Lydon	1956	United Kingdom	GB	36
 Ken Thompson	1943	United States	US	40
 Nader Shah	1688	Iran	IR	38
 Snorri Sturluson	1179	Iceland	IS	53
+Guru Nanak Dev	1469	Pakistan	PK	61
+John J. Pershing	1860	United States	US	31
 Günter Grass	1927	Poland	PL	76
 Jean-Baptiste Lully	1632	Italy	IT	51
 Richard Dedekind	1831	Germany	DE	40
 Sri Aurobindo	1872	India	IN	40
 Belisarius	500	Bulgaria	BG	47
 Juan Perón	1895	Argentina	AR	59
+William II of the Netherlands	1792	Netherlands	NL	29
 Leszek Engelking	1955	Poland	PL	32
 Eusébio	1942	Mozambique	MZ	51
 Khalid ibn al-Walid	592	Saudi Arabia	SA	37
@@ -9929,10 +10522,11 @@ Patrick Pearse	1879	Ireland	IE	30
 Amadeus VIII, Duke of Savoy	1383	France	FR	26
 Andrea del Sarto	1486	Italy	IT	34
 Justin Bieber	1994	Canada	CA	94
-/en/georges_melies	1861	France	FR	42
+Georges Méliès	1861	France	FR	42
 Gustav III of Sweden	1746	Sweden	SE	34
 Jöns Jacob Berzelius	1779	Sweden	SE	48
 Khadijah bint Khuwaylid	555	Saudi Arabia	SA	44
+Theodoric I	0	Romania	RO	32
 Michael I of Russia	1596	Russia	RU	44
 Roger Joseph Boscovich	1711	Croatia	HR	27
 Inna	1986	Romania	RO	39
@@ -9946,6 +10540,7 @@ Vlad Filat	1969	Moldova	MD	26
 Umberto I of Italy	1844	Italy	IT	45
 Isabella of Castile	1451	Spain	ES	66
 Nerva	2008	Italy	IT	60
+Sócrates	1954	Brazil	BR	48
 Christophe Lemaître	1990	France	FR	29
 Fränk Schleck	1980	Luxembourg	LU	27
 Viktor Korchnoi	1931	Russia	RU	30
@@ -9955,6 +10550,7 @@ Andreu Fontàs	1989	Spain	ES	33
 Robert Pattinson	1986	United Kingdom	GB	64
 Roh Moo-hyun	1946	South Korea	KR	57
 David Alaba	1992	Austria	AT	30
+Armand Fallières	1841	France	FR	28
 Jean Jaurès	1859	France	FR	38
 Henry I of France	1008	France	FR	45
 Antonio López de Santa Anna	1794	Mexico	MX	37
@@ -9965,6 +10561,7 @@ Wojciech Szczęsny	1990	Poland	PL	41
 Chris Colfer	1990	United States	US	29
 Rene Krhin	1990	Slovenia	SI	27
 Candice Accola	1987	United States	US	26
+Faustyna Kowalska	1905	Poland	PL	33
 Fabio Borini	1991	Italy	IT	30
 King Ludwig II of Bavaria	1845	Germany	DE	48
 IU	1993	South Korea	KR	26
@@ -9972,7 +10569,9 @@ Sergio Canales	1991	Spain	ES	32
 Ellie Goulding	1986	United Kingdom	GB	27
 Phil Jones	1992	United Kingdom	GB	35
 Jean-Eric Vergne	1990	France	FR	26
+Yun Chi-ho	1	South Korea	KR	39
 Thomas A. Steitz	1940	United States	US	36
+David J. Wineland	1944	United States	US	39
 Jonathan dos Santos	1990	Mexico	MX	28
 Olivier Giroud	1986	France	FR	33
 István Sándorfi	1948	Hungary	HU	42
@@ -10008,14 +10607,18 @@ Slobodan Milošević	1941	Serbia	RS	65
 Eric Saade	1990	Sweden	SE	33
 Joachim Gauck	1940	Germany	DE	59
 Julian Assange	1971	Australia	AU	83
+Henry II of England	1133	France	FR	57
 Nodar Kumaritashvili	1988	Georgia	GE	36
 Marc Bartra	1991	Spain	ES	26
 Fedor Emelianenko	1976	Ukraine	UA	35
+Valery Leontyev	1949	Russia	RU	98
 Eva Rivas	1987	Russia	RU	27
+Kim Seong-su	1891	South Korea	KR	32
 Geiseric	389	Hungary	HU	38
 Jeremy Irons	1948	United Kingdom	GB	51
 Johan Cruijff	1947	Netherlands	NL	61
 António de Oliveira Salazar	1889	Portugal	PT	52
+Kristina	1987	Slovakia	SK	26
 Baldassare Castiglione	1478	Italy	IT	29
 Alex Oxlade-Chamberlain	1993	United Kingdom	GB	31
 Eduard Khil	1934	Russia	RU	28
@@ -10076,6 +10679,7 @@ Emanuele Giaccherini	1985	Italy	IT	26
 Václav Pilař	1988	Czech Republic	CZ	34
 Konstantin Novoselov	1974	Russia	RU	45
 James Clerk Maxwell	1831	United Kingdom	GB	96
+Idris	0	Iraq	IQ	29
 Darren Criss	1987	United States	US	28
 Avicii	1989	Sweden	SE	27
 Jessie J	1988	United Kingdom	GB	40
@@ -10093,6 +10697,7 @@ Mohamed Bouazizi	1984	Tunisia	TN	36
 Fouad Mebazaa	1933	Tunisia	TN	32
 Moncef Marzouki	1945	Tunisia	TN	29
 Ed Sheeran	1991	United Kingdom	GB	26
+Truong Tan Sang	1949	Vietnam	VN	56
 Bujar Nishani	1966	Albania	AL	28
 Thibaut Courtois	1992	Belgium	BE	27
 Tawakel Karman	1979	Yemen	YE	42
@@ -10105,6 +10710,7 @@ Zheng Jie	1983	China	CN	36
 Isabella of Portugal	1503	Portugal	PT	29
 Yulia Volkova	1985	Russia	RU	28
 Richard E. Taylor	1929	Canada	CA	37
+Saint Barbara	0	Turkey	TR	39
 H. David Politzer	1949	United States	US	40
 Valdir Pereira	1928	Brazil	BR	27
 Luis Barragán	1902	Mexico	MX	32
@@ -10123,10 +10729,13 @@ Svetlana Kuznetsova	1985	Russia	RU	38
 Rebecca Black	1997	United States	US	36
 Paula Fernandes	1984	Brazil	BR	52
 Robert Bunsen	1811	Germany	DE	50
+Atifete Jahjaga	1975	Kosovo	XK	29
 Tré Cool	1972	Germany	DE	36
 Antoni Gaudí	1852	Spain	ES	75
+Saint Andrew	0	Israel	IL	68
 Saint Peter	0	Syria	SY	98
 Yingluck Shinawatra	1967	Thailand	TH	42
+Andris Bērziņš	1944	Latvia	LV	31
 Mohamed Morsi	1951	Egypt	EG	63
 Joseph Smith, Jr.	1805	United States	US	66
 Anders Behring Breivik	1979	Norway	NO	67
@@ -10151,7 +10760,9 @@ Skrillex	1988	United States	US	39
 Duns Scotus	1266	United Kingdom	GB	39
 Soluna Samay	1990	Guatemala	GT	32
 Muhammad Iqbal	1877	Pakistan	PK	52
-Tomáš Rosický	1980	Czechia	CZ	49
+Nicolae Timofti	1948	Moldova	MD	31
+Kim Young-sam	1927	South Korea	KR	51
+Tomáš Rosický	1980	Czech Republic	CZ	49
 Liu Yang	1978	China	CN	26
 PSY	1977	South Korea	KR	54
 Grand Duchess Olga Nikolaevna of Russia	1895	Russia	RU	27
@@ -10162,3 +10773,4 @@ Pierre Abélard	1079	France	FR	60
 Muhammad Ali Jinnah	1876	Pakistan	PK	54
 Leander Paes	1973	India	IN	28
 Muhammad Ali of Egypt	1769	Greece	GR	43
+Nikolai Chernyshevsky	1828	Russia	RU	33

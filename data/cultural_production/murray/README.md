@@ -1,4 +1,4 @@
-Processed export table for regressions, from Charles Murray's Human Accomplishment.
+Processed export table for regressions, from Charles Murray's Human Accomplishment. The full list with all the names is avaialble in the old repo.
 
 Two files in this folder contain cultural exports by country, after resolving and cleaning some of the Murray names.
 

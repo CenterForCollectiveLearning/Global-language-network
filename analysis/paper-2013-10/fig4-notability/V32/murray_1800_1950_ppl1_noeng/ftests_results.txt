@@ -1,0 +1,24 @@
+Pop+GDPpc+Twit.EV vs. Pop+GDPpc
+F(1,23) = 0.01, p=0.92
+ N=26 p1=2 p2=3 Rsq1=0.611 Rsq2=0.611
+
+Pop+GDPpc+Wiki.EV vs. Pop+GDPpc
+F(1,23) = 8.93, p=0.01
+ N=26 p1=2 p2=3 Rsq1=0.611 Rsq2=0.72
+
+Pop+GDPpc+Book.EV vs. Pop+GDPpc
+F(1,23) = 56.5, p=0
+ N=26 p1=2 p2=3 Rsq1=0.611 Rsq2=0.887
+
+Pop+GDPpc+Twit.EV vs. Twit.EV
+F(2,23) = 12.38, p=0
+ N=26 p1=1 p2=3 Rsq1=0.192 Rsq2=0.611
+
+Pop+GDPpc+Wiki.EV vs. Wiki.EV
+F(2,23) = 0.62, p=0.55
+ N=26 p1=1 p2=3 Rsq1=0.705 Rsq2=0.72
+
+Pop+GDPpc+Book.EV vs. Book
+F(2,23) = 6.67, p=0.01
+ N=26 p1=1 p2=3 Rsq1=0.822 Rsq2=0.887
+
