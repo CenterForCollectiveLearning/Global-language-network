@@ -17,7 +17,7 @@ VV Table S7
 -V Tables S8-S11 (ppl by country and ppl by lang) WIKI ONLY
 -V Tables S12-13 (alternative regression) WIKI ONLY
 
--- Updates online SOM tables: Added some countries to GDP-pop  
+-- Updates online SOM tables: Added some countries to GDP-pop, changed lang conversion
 -- Upload figures
 
 REMOVED: Figure S3 (num people on "Wikipedia N" vs. N)

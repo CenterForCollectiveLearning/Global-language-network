@@ -2,6 +2,8 @@ convert_country_gdp_to_lang.py: convert GDP by country to GDP by language (input
 
 language_gdp_pop.tsv: GDP per capita (PPP) by language, along with aggregated number of speakers per language (for testing purposes) and population by language. Last two may differ.
 
+language_gdp_pop_SOM.tsv: same as above, but without the aggreated number column. 
+
 language_gdp_pop_May.tsv: same as above, but with the data used for the May submission to Science. 
 
 country_gdp_pop.tsv: GDP per capita (PPP) and population by country. Values were retrieved mostly from IMF (2011 values from April 2012 WEO), with additions from CIA world factbook (mostly 2011 factbook).
