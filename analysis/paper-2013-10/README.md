@@ -1,24 +1,26 @@
+Nature sumbission (Nov. 2013)
+
 To do:
 
-0) VV Generate ppl table from Observatory (gln/data/cultural_production/get_observatory_tables.R)
+0) V Generate ppl table from Observatory (gln/data/cultural_production/get_observatory_tables.R)
 
 1) Use ppl table from observatory:
-VV Update country table to lang table (gln/data/lang_tools/country_to_lang/convert_country_to_lang_data.py)
-VV Convert GDP to language (using the same script)
-VV Combine population and GDP for language
--V Convert notablilty by country to lang
--V Calculate regressions for new people table. Remove English.
--V Re-do Fig 4 (correlations) WIKI
--V Update F-score in main text
--V Update total number of ppl in main text and SM
--V Tables 1 & 2 (regression) and corresponding text
-VV Table S5 (gdp pc for langs)
-VV Table S7
--V Tables S8-S11 (ppl by country and ppl by lang) WIKI ONLY
--V Tables S12-13 (alternative regression) WIKI ONLY
+V Update country table to lang table (gln/data/lang_tools/country_to_lang/convert_country_to_lang_data.py)
+V Convert GDP to language (using the same script)
+V Combine population and GDP for language
+V Convert notablilty by country to lang
+V Calculate regressions for new people table. Remove English.
+V Re-do Fig 4 (correlations) WIKI
+V Update F-score in main text
+V Update total number of ppl in main text and SM
+V Tables 1 & 2 (regression) and corresponding text
+V Table S5 (gdp pc for langs)
+V Table S7
+V Tables S8-S11 (ppl by country and ppl by lang) WIKI ONLY
+V Tables S12-13 (alternative regression) WIKI ONLY
 
--- Updates online SOM tables: Added some countries to GDP-pop, changed lang conversion
--- Upload figures
+V Update online SOM tables: Added some countries to GDP-pop, changed lang conversion
+V Upload figures to Dropbox
 
 REMOVED: Figure S3 (num people on "Wikipedia N" vs. N)
 
