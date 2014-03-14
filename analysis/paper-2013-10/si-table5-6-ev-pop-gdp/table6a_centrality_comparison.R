@@ -82,6 +82,52 @@ book.cent  <- get.cent.tables(in.file=BOOKS.STD.LANGLANG,
                    src.name="book", 
                    classif=lang.classif.table)
 
+
+library(ggplot2)
+
+\mbox{normal}(g(v)) = \frac{g(v) - \min(g)}{\max(g) - \min(g)}
+
+
+norm.bet <- (a$unw.bet - min(a$unw.bet)) / (max(a$unw.bet) - min(a$unw.bet))
+ggplot(a, aes(x=norm.bet, y=unw.eig, label=Code)) + geom_text()
+
+
+ggplot(a, aes(x=log(unw.bet), y=unw.eig, label=Code)) + geom_text()
+ggplot(a, aes(x=log(exposure.bet), y=exposure.eig, label=Code))  + geom_text()
+ggplot(a, aes(x=log(common.bet), y=common.eig, label=Code)) + geom_text()
+
+
+
+plot.ev.bet <- function(viz.df) {
+  # Returns a ggplot showing EV centrality vs. Betweenness
+  
+  p <- ggplot(viz.df, aes(factor(src), eig, #eig.rank, #eig
+                          group=Code, colour=Code, label=toupper(Code))) +
+    geom_line() +
+    #geom_point(shape=16, aes(size=popul)) + 
+    #scale_size(range = c(12, 35)) +
+    geom_text(data = viz.df, angle=45, #aes(size=popul, color=Code),
+              hjust = 0.5, vjust=0.5) #+ # language names
+  #geom_text(aes(label = viz.df$eig),
+  #          size = 4, hjust = 0.5, vjust=0.5, color="white") # ev cent. values
+  
+  #labels <- c("Twitter", "Wiki", "Trans","")
+  
+  p <- p + theme(legend.position = "none",
+                 axis.text.y=element_blank(), axis.ticks=element_blank(),
+                 axis.text.x=element_blank(),
+                 panel.grid.minor.x=element_blank(), panel.grid.major.x=element_blank(), # remove X gridlines
+                 panel.grid.minor.y=element_blank(), panel.grid.major.y=element_blank(), # remove Y gridlines
+                 panel.background = element_rect(fill="black"),
+                 panel.border = element_blank()) +
+    scale_x_discrete(breaks = c(levels(viz.df$src), "")) +
+    scale_y_continuous(breaks = NULL, trans = "reverse") +
+    #xlab(NULL) + ylab(NULL) +
+    #coord_flip() # flip X and Y
+  
+  return(p)
+}
+
 # Remove some languages and write
 twit.cent <- twit.cent[ ! twit.cent$Code %in% DISCARD.LANGS, ]
 write.table(twit.cent, file="table6a_cent_twit.tsv", 
