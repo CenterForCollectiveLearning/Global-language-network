@@ -97,7 +97,8 @@ read.filtered.edgelist <- function(infile,
                                    min.exposure=MIN.EXPOSURE, # exposure score
                                    desired.p.val=DESIRED.P.VAL, # max. p-value
                                    discard.langs=DISCARD.LANGS, # languages to remove
-                                   weighted.graph=USE.WEIGHTED.GRAPH, # rename "exposure" column to "weight", for graph.data.frame  
+                                   weighted.graph=USE.WEIGHTED.GRAPH, # rename a column to "weight", for graph.data.frame  
+                                   weight.column="exposure", # if weighted.graph is TRUE, use this column for the weight
                                    col.prefix="", # add a prefix to column names; just don't you did it!
                                    col.select="" # select only the passed columns 
                                    ) 
@@ -115,13 +116,13 @@ read.filtered.edgelist <- function(infile,
                                 exposure>=min.exposure &
                                 pval<p.val.thres &
                                 src.name %notin% discard.langs &
-                                tgt.name %notin% discard.langs,
-                              select=c('src.name','tgt.name','exposure','common.num' ))
+                                tgt.name %notin% discard.langs)#,
+                              #select=c('src.name','tgt.name','exposure','common.num','common.num.exp','exposure.exp' ))
   
   if (weighted.graph==T) {
     # igraph takes weights from a "weight" column.
     # Need to create one if we want to use it.
-    colnames(filtered.edgelist)[colnames(filtered.edgelist)=="exposure"] <- "weight"
+    colnames(filtered.edgelist)[colnames(filtered.edgelist)==weight.column] <- "weight"
   }
   
   # select desired columns only
