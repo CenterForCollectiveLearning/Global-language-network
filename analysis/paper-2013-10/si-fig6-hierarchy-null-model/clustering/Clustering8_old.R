@@ -354,24 +354,30 @@ main.directred.undirected <- function(output.dir, output.file="") {
     def.ylab = "Clustering coefficient (C)"
   
   clustering.figure(TWIT.STD.LANGLANG, outfile="", 
-                    min.common=MIN.COMMON.USERS, min.exposure=MIN.EXPOSURE, max.pval=DESIRED.P.VAL,
+                    min.common=MIN.COMMON.USERS, min.exposure=MIN.EXPOSURE, 
+                    max.pval=DESIRED.P.VAL,
                     x.lab=def.xlab, y.lab=def.ylab)
   clustering.figure(TWIT.STD.LANGLANG, outfile="", convert.to.undirected=F,
-                    min.common=MIN.COMMON.USERS, min.exposure=MIN.EXPOSURE, max.pval=DESIRED.P.VAL,
+                    min.common=MIN.COMMON.USERS, min.exposure=MIN.EXPOSURE, 
+                    max.pval=DESIRED.P.VAL,
                     x.lab=def.xlab, y.lab=def.ylab)
   
   clustering.figure(WIKI.STD.LANGLANG, outfile="", weight.column="exposure.exp",
-                    min.common=MIN.COMMON.USERS, min.exposure=MIN.EXPOSURE, max.pval=DESIRED.P.VAL,
+                    min.common=MIN.COMMON.USERS, min.exposure=MIN.EXPOSURE, 
+                    max.pval=DESIRED.P.VAL,
                     x.lab=def.xlab, y.lab=def.ylab)
   clustering.figure(WIKI.STD.LANGLANG, outfile="", convert.to.undirected=F,
-                   min.common=MIN.COMMON.USERS, min.exposure=MIN.EXPOSURE, max.pval=DESIRED.P.VAL,
+                   min.common=MIN.COMMON.USERS, min.exposure=MIN.EXPOSURE, 
+                    max.pval=DESIRED.P.VAL,
                    x.lab=def.xlab, y.lab=def.ylab)
   
   clustering.figure(BOOKS.STD.LANGLANG, outfile="", 
-                    min.common=MIN.COMMON.TRANS, min.exposure=MIN.EXPOSURE, max.pval=DESIRED.P.VAL,
+                    min.common=MIN.COMMON.TRANS, min.exposure=MIN.EXPOSURE, 
+                    max.pval=DESIRED.P.VAL,
                     x.lab=def.xlab, y.lab=def.ylab)
   clustering.figure(BOOKS.STD.LANGLANG, outfile="", convert.to.undirected=F,
-                    min.common=MIN.COMMON.TRANS, min.exposure=MIN.EXPOSURE, max.pval=DESIRED.P.VAL,
+                    min.common=MIN.COMMON.TRANS, min.exposure=MIN.EXPOSURE, 
+                    max.pval=DESIRED.P.VAL,
                     x.lab=def.xlab, y.lab=def.ylab)
   
   if (output.file!='') {
@@ -381,4 +387,4 @@ main.directred.undirected <- function(output.dir, output.file="") {
   setwd(orig.dir)
 }
 
-main.exposure.expected(CLUSTER.DIR, 'clustering_comparison.pnas.eps')
+main.exposure.expected(CLUSTER.DIR, 'clustering_comparison_pnas.eps')
