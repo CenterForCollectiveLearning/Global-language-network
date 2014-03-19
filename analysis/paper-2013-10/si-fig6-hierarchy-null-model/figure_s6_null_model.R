@@ -20,34 +20,25 @@ compute.null.model <- function(infile, src.name, keep.orig=T) {
   x.edgelist <- read.csv(infile, sep="\t",header=T)
   
   # expected number of common users / translations
-  common.null.model <- as.numeric(x.edgelist$src.num)*as.numeric(x.edgelist$tgt.num)/x.edgelist$total.num
+  common.expected <- as.numeric(x.edgelist$src.num)*as.numeric(x.edgelist$tgt.num)/x.edgelist$total.num
+  exposure.expected <- common.expected / x.edgelist$tgt.num
   
   if (keep.orig==T) {
-    x.edgelist$common.num.exp <- common.null.model
+    x.edgelist$common.num.exp <- common.expected
+    x.edgelist$exposure.exp <- as.numeric(exposure.expected)
   }
   else {
     # replace the observed values
-    x.edgelist$common.num <- common.null.model
+    x.edgelist$common.num <- common.expected
+    x.edgelist$exposure <- as.numeric(exposure.expected)
   }
-  
-  # expected exposure
-  exposure.null.model <- common.null.model / x.edgelist$tgt.num
-  
-  if (keep.orig==T) {
-    x.edgelist$exposure.exp <- as.numeric(exposure.null.model)
-  }
-  else {
-    # replace the observed values
-    x.edgelist$exposure <- as.numeric(exposure.null.model)
-  }
-  
   
   # write new table
   if (keep.orig==F) {
     tbl.filename <- sprintf("table3a_null_model_%s.tsv", src.name)
   }
   else {
-    tbl.filename <- sprintf("table3a_null_model_with_orig_%s2.tsv", src.name)
+    tbl.filename <- sprintf("table3a_null_model_with_orig_%s.tsv", src.name)
   }
   write.table(x.edgelist, file=tbl.filename,
               sep="\t", quote=F, row.names=F, na="")
