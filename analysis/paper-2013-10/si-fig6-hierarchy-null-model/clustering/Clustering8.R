@@ -97,7 +97,7 @@ clustering.figure <- function(infile,
                                       min.common=min.common, # common speakers/books
                                       min.exposure=min.exposure, # exposure score
                                       desired.p.val=max.pval,
-                                      weighted.graph=T) # max p-val
+                                      weighted.graph=F) # max p-val
 
   # Create the graph
   lgn.graph.directed <- graph.data.frame(edgelist)
@@ -111,6 +111,15 @@ clustering.figure <- function(infile,
   else {
     lgn.graph <- lgn.graph.directed
   }
+  
+  print(lgn.graph)
+  
+  # Use "weighted" clustering for weighted graph or "local" for unweighted
+  # TODO: to use weight, need to define which column holds weight information
+  # and pass it to this function. Also need to degine a boolean weighted.graph arg.
+  # -- can use clustering8_.R
+  # clustering.type <- if(weighted.graph==T) "weighted" else "local"
+  
   
   lgn.metrics <- data.frame(
     deg=degree(lgn.graph, mode=deg.type),
