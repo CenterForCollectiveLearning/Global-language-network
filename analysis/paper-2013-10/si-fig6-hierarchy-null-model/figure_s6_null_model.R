@@ -79,7 +79,7 @@ clustering.figure(WIKI.STD.LANGLANG,
                   plot.x.axis="s", deg.type="total", title.text="Wiki O")
 clustering.figure(BOOKS.STD.LANGLANG, 
                   min.common=MIN.COMMON.TRANS, min.exposure=MIN.EXPOSURE, 
-                  max.pval=DESIRED.P.VAL, plot.xlim=c(0,55),
+                  max.pval=DESIRED.P.VAL, plot.xlim=c(0,70),
                   plot.x.axis="s",
                   #x.lab="Connectivity (k)", y.lab="Clustering coefficient (C)",
                   deg.type="total", title.text="Books O")
@@ -96,7 +96,7 @@ clustering.figure(wiki.langlang.expected,
                   plot.x.axis="s", deg.type="total", title.text="Wiki E")
 clustering.figure(book.langlang.expected, 
                   min.common=MIN.COMMON.TRANS, min.exposure=MIN.EXPOSURE, 
-                  max.pval=DESIRED.P.VAL, plot.xlim=c(0,55),
+                  max.pval=DESIRED.P.VAL, plot.xlim=c(0,70),
                   plot.x.axis="s",
                   #x.lab="Connectivity (k)", y.lab="Clustering coefficient (C)",
                   deg.type="total", title.text="Books E")
@@ -113,7 +113,7 @@ clustering.figure.diff(WIKI.STD.LANGLANG, wiki.langlang.expected,
                   plot.x.axis="s", deg.type="total", title.text="Wiki")
 clustering.figure.diff(BOOKS.STD.LANGLANG, book.langlang.expected, 
                   min.common=MIN.COMMON.TRANS, min.exposure=MIN.EXPOSURE, 
-                  max.pval=DESIRED.P.VAL, plot.xlim=c(0,55),
+                  max.pval=DESIRED.P.VAL, plot.xlim=c(0,70),
                   plot.x.axis="s",
                   #x.lab="Connectivity (k)", y.lab="Clustering coefficient (C)",
                   deg.type="total", title.text="Books")
