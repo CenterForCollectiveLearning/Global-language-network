@@ -95,4 +95,22 @@ book.cent <- book.cent[ ! book.cent$Code %in% DISCARD.LANGS, ]
 write.table(book.cent, file="table6a_cent_book.tsv", 
             sep="\t", quote=F, row.names=F, na="")
 
+# merge the tabels into one
+all.cent <- merge(twit.cent[,c("Code", "Lang_Name", "unw.eig", "unw.bet")], 
+                  wiki.cent[,c("Code", "Lang_Name", "unw.eig", "unw.bet")], 
+                  by=c("Code", "Lang_Name"), suffixes=c(".twit", ".wiki"), all=T )
+all.cent <- merge(all.cent, 
+                  book.cent[,c("Code", "Lang_Name", "unw.eig", "unw.bet")], 
+                  by=c("Code", "Lang_Name"), suffixes=c("", ".book"), all=T )
+all.cent <- all.cent[ , c("Lang_Name", "Code", 
+                          "unw.eig.twit", "unw.eig.wiki", "unw.eig",
+                          "unw.bet.twit", "unw.bet.wiki", "unw.bet") ]
+names(all.cent) <- c("Language", "Code", 
+                     "ev.Twitter", "ev.Wikipedia", "ev.Book translations",
+                     "bet.Twitter", "bet.Wikipedia", "bet.Book translations")
+all.cent <- all.cent[with(all.cent, order(Language, decreasing=F)), ]
+all.cent[,c(-1,-2)] <- round(all.cent[, c(-1, -2)], digits=2)
+write.table(all.cent, file="table_s6_pnas_cent_full.tsv", 
+            sep="\t", quote=F, row.names=F, na="")
+
 print("TABLE 6 DONE - look for NA values")
