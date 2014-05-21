@@ -27,7 +27,7 @@ ANALYSIS.ROOT.DIR <- normalizePath(".") #
 #MIN.EXPOSURE <- 0.001
 #DESIRED.P.VAL <- 99999 # A value of 99999 should not filter anything
 #DISCARD.LANGS <- c() # c("grc", "gmh", "fro") # Languages to drop
-#USE.WEIGHTED.GRAPH <- F # Default is FALSE - otherwise results are even more anglo-centric
+USE.WEIGHTED.GRAPH <- T # Default is FALSE - otherwise results are even more anglo-centric
 
 # GLN FINAL LANGS - lists the languages we used in the final GLN
 # Generated manually from CytoScape, based on the GLN settings above
