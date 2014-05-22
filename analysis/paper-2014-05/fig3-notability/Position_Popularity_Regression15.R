@@ -11,82 +11,13 @@ POPULARITY.DIR <- paste0(ANALYSIS.ROOT.DIR, "/fig3-notability/")
 
 ALLOW.UNCOMMON.LANGS <- F # "True" to include languages that do not appear in ALL datasets.
 
-TWIT.STD.LANGLANG2 <- paste0(ANALYSIS.ROOT.DIR, "/TwitterNetwork.tsv")
-WIKI.STD.LANGLANG2 <- paste0(ANALYSIS.ROOT.DIR, "/WikiNetwork.tsv")
-BOOKS.STD.LANGLANG2 <- paste0(ANALYSIS.ROOT.DIR, "/BookNetwork.tsv")
-
-MIN.OCCUR <- 5 # minimum co-occurrences
-MIN.TSTAT <- 2.59 # minimum t-statistic
-
-read.filtered.edgelist2 <- function(infile,
-                                    min.occur=MIN.OCCUR, # common speakers/books
-                                    min.tstat=MIN.TSTAT, # minimum t-statistic
-                                    weighted.graph=USE.WEIGHTED.GRAPH, # rename a column to "weight", for graph.data.frame  
-                                    discard.langs=c(), # languages to remove
-                                    weight.column="occur", # if weighted.graph is TRUE, use this column for the weight
-                                    col.prefix="" # add a prefix to column names
-)  {
-  # Read the edgelist from given file and filter it according to given values.
-  edgelist <- read.csv(infile, sep="\t",header=T)
-  
-  # remove unnecessary columns and rename the rest
-  edgelist <- edgelist[ , c("SourceLanguageCode", 
-                            "TargetLanguageCode",
-                            "Coocurrences",
-                            "Tstatistic") ]
-  names(edgelist) <- c("src.name", "tgt.name", "occur", "tstat")
-  
-  # Use a source_target format for row names
-  row.names(edgelist) = paste0(edgelist$src.name, "_", edgelist$tgt.name)
-  
-  # now filter
-  filtered.edgelist <- subset(edgelist,
-                              occur>min.occur &
-                                tstat>min.tstat &
-                                src.name %notin% discard.langs &
-                                tgt.name %notin% discard.langs)
-
-  # igraph takes weights from a "weight" column.
-  # Need to create one if we want to use it.
-  if (weighted.graph==T) {
-    colnames(filtered.edgelist)[colnames(filtered.edgelist)==weight.column] <- "weight"
-  }
-    
-  # Prefix column names
-  if (col.prefix!="") {
-    colnames(filtered.edgelist) <- paste0(col.prefix, ".", colnames(filtered.edgelist))
-  }
-  
-  return(filtered.edgelist)
-}
+# Note: if you use Shahar's files, need to comment out the PopFrom regressions
+TWIT.CENT.FILE <- paste0(ANALYSIS.ROOT.DIR, "/Shahar_EigTwitterNetwork.tsv")
+WIKI.CENT.FILE <- paste0(ANALYSIS.ROOT.DIR, "/Shahar_EigWikiNetwork.tsv")
+BOOKS.CENT.FILE <- paste0(ANALYSIS.ROOT.DIR, "/Shahar_EigBookNetwork.tsv")
 
 
-get.lgn.metrics <- function(file.in, src.name) {
-  # Table of LGN graph metrics for each language from given source
-  # use default minimum values
-  filtered.edgelist <- read.filtered.edgelist2(file.in, 
-                                               weighted.graph=T, # use weighted graph
-                                               weight.column="occur")
-  
-  lgn.graph <- graph.data.frame(filtered.edgelist, directed=TRUE)
-
-  lgn.metrics <- data.frame(
-    total.deg=degree(lgn.graph),
-    bet=betweenness(lgn.graph),
-    eig=evcent(lgn.graph)$vector
-  )
-
-  # prefix column names. TODO: automate. Watch the order!
-  colnames(lgn.metrics) <- c( paste(src.name, "deg", sep = "."),
-                              paste(src.name, "bet", sep = "."),
-                              paste(src.name, "eig", sep = ".") )
-  
-  #lgn.metrics$language <- rownames(lgn.metrics)
-  
-  return(lgn.metrics)
-}
-
-prep.lgn.df <- function(twitter.edge.file, wiki.edge.file, books.edge.file,
+prep.lgn.df <- function(twitter.ev.file, wiki.ev.file, books.ev.file,
                         lang.stats.file,
                         cultural.exports.file,
                         langs.to.remove=NULL) {
@@ -96,27 +27,21 @@ prep.lgn.df <- function(twitter.edge.file, wiki.edge.file, books.edge.file,
   
   # Start with EV centralities - remove some unnecessary columns.
   # Use rownames as key for future merges
-  twitter.metrics <- read.table("../EigTwitterNetwork.tsv", header=T)
+  twitter.metrics <- read.table(twitter.ev.file, header=T)
   names(twitter.metrics) <- c("language", "eig", "popfrom", "popto")
   rownames(twitter.metrics) <- twitter.metrics$language
   twitter.metrics <- twitter.metrics[ ,c("language", "eig", "popfrom")] 
 
-  wiki.metrics <- read.table("../EigWikiNetwork.tsv", header=T)
+  wiki.metrics <- read.table(wiki.ev.file, header=T)
   names(wiki.metrics) <- c("language", "eig", "popfrom", "popto")
   rownames(wiki.metrics) <- wiki.metrics$language
   wiki.metrics <- wiki.metrics[ ,c("language", "eig", "popfrom")]
   
-  books.metrics <- read.table("../EigBookNetwork.tsv", header=T)
+  books.metrics <- read.table(books.ev.file, header=T)
   names(books.metrics) <- c("language", "eig", "popfrom", "popto")
   rownames(books.metrics) <- books.metrics$language
   books.metrics <- books.metrics[ ,c("language", "eig", "popfrom")]
   
-  # Find centrality measures for each network ---
-  # Not needed for May '14 as were loading the pre-calc EV centrality values.
-  #twitter.metrics <- get.lgn.metrics(twitter.edge.file, "twit")
-  #wiki.metrics <- get.lgn.metrics(wiki.edge.file, "wiki")
-  #books.metrics <- get.lgn.metrics(books.edge.file, "book")
-
   # Merge the tables
   tmp <- merge(twitter.metrics, wiki.metrics, by=0, all=ALLOW.UNCOMMON.LANGS)
   rownames(tmp) <- tmp$Row.names # Row.names is created unwillingly, rename...
@@ -324,8 +249,8 @@ my.ftest <- function(lmA, lmB) {
   f.string <- sprintf("F(%s,%s) = %s, p=%s\n", num.df, denom.df, 
                       round(f.stat,2), round(p.val,2))
   # Add debug params
-  f.string <- sprintf("%s N=%s p1=%s p2=%s Rsq1=%s Rsq2=%s\n",
-                    f.string, N, p1, p2, round(rsq1, 3), round(rsq2, 3))
+  f.string <- sprintf("%s N=%s p1=%s p2=%s Rsq1=%s Rsq2=%s margin=%s\n",
+                    f.string, N, p1, p2, round(rsq1, 3), round(rsq2, 3), round(rsq2-rsq1, 3))
   
   return(f.string)
 }
@@ -344,28 +269,53 @@ regression.table.multi.source <- function(reg.metrics,
   lm5 <<- lm(cultexp ~ pop + gdp.pc + twit.eig, reg.metrics)
   lm6 <<- lm(cultexp ~ pop + gdp.pc + wiki.eig, reg.metrics)
   lm7 <<- lm(cultexp ~ pop + gdp.pc + book.eig, reg.metrics)
-  lm8 <<- lm(cultexp ~ twit.popfrom, reg.metrics)
-  lm9 <<- lm(cultexp ~ wiki.popfrom, reg.metrics)
-  lm10 <<- lm(cultexp ~ book.popfrom, reg.metrics)
+  #lm8 <<- lm(cultexp ~ twit.popfrom, reg.metrics)
+  #lm9 <<- lm(cultexp ~ wiki.popfrom, reg.metrics)
+  #lm10 <<- lm(cultexp ~ book.popfrom, reg.metrics)
+  #lm11 <<- lm(cultexp ~ pop + gdp.pc + twit.popfrom, reg.metrics)
+  #lm12 <<- lm(cultexp ~ pop + gdp.pc + wiki.popfrom, reg.metrics)
+  #lm13 <<- lm(cultexp ~ pop + gdp.pc + book.popfrom, reg.metrics)
+  #lm14 <<- lm(cultexp ~ pop + gdp.pc + twit.eig + twit.popfrom, reg.metrics)
+  #lm15 <<- lm(cultexp ~ pop + gdp.pc + wiki.eig + wiki.popfrom, reg.metrics)
+  #lm16 <<- lm(cultexp ~ pop + gdp.pc + book.eig + book.popfrom, reg.metrics)
   
   mtable123 <<- mtable("Pop+GDPpc"=lm1,
                       "Twit.EV"=lm2, "Wiki.EV"=lm3, "Book.EV"=lm4,
-                      "Twit.PopFrom"=lm8,
-                      "Wiki.PopFrom"=lm9,
-                      "Book.PopFrom"=lm10,
-                      "Pop+GDPpc+Twit.EV"=lm5,"Pop+GDPpc+Wiki.EV"=lm6,"Pop+GDPpc+Book.EV"=lm7,
-                      #"Pop+GDPpc+Twit.PopFrom+Twit.EV"=lm8,
-                      #"Pop+GDPpc+Wiki.PopFrom+Wiki.EV"=lm9,
-                      #"Pop+GDPpc+Book.PopFrom+Book.EV"=lm10,
+#                       "Twit.PopFrom"=lm8,
+#                       "Wiki.PopFrom"=lm9,
+#                       "Book.PopFrom"=lm10,
+                      "Pop+GDPpc+Twit.EV"=lm5,
+                      "Pop+GDPpc+Wiki.EV"=lm6,
+                      "Pop+GDPpc+Book.EV"=lm7,
+#                       "Pop+GDPpc+Twit.PopFrom"=lm11,
+#                       "Pop+GDPpc+Wiki.PopFrom"=lm12,
+#                       "Pop+GDPpc+Book.PopFrom"=lm13,
+#                       "Pop+GDPpc+Twit.PopFrom+Twit.EV"=lm14,
+#                       "Pop+GDPpc+Wiki.PopFrom+Wiki.EV"=lm15,
+#                       "Pop+GDPpc+Book.PopFrom+Book.EV"=lm16,
                       summary.stats=c("sigma","R-squared", "adj. R-squared","F","p","N"))
 
   ### Report results of F-tests  
-  ftests.results <- c("Pop+GDPpc+Twit.EV vs. Pop+GDPpc", my.ftest(lm1, lm5),
-                    "Pop+GDPpc+Wiki.EV vs. Pop+GDPpc", my.ftest(lm1, lm6),
-                    "Pop+GDPpc+Book.EV vs. Pop+GDPpc", my.ftest(lm1, lm7),
-                    "Pop+GDPpc+Twit.EV vs. Twit.EV", my.ftest(lm2, lm5),
-                    "Pop+GDPpc+Wiki.EV vs. Wiki.EV", my.ftest(lm3, lm6), 
-                    "Pop+GDPpc+Book.EV vs. Book", my.ftest(lm4, lm7) )
+  ftests.results <- c(
+    "Twit.EV margin over Pop+GDPpc: Pop+GDPpc+Twit.EV vs. Pop+GDPpc", my.ftest(lm1, lm5),
+    "Wiki.EV margin over Pop+GDPpc: Pop+GDPpc+Wiki.EV vs. Pop+GDPpc", my.ftest(lm1, lm6),
+    "Book.EV margin over Pop+GDPpc: Pop+GDPpc+Book.EV vs. Pop+GDPpc", my.ftest(lm1, lm7),
+    "Pop+GDPpc margin over Twit.EV: Pop+GDPpc+Twit.EV vs. Twit.EV", my.ftest(lm2, lm5),
+    "Pop+GDPpc margin over Wiki.EV: Pop+GDPpc+Wiki.EV vs. Wiki.EV", my.ftest(lm3, lm6), 
+    "Pop+GDPpc margin over Book.EV: Pop+GDPpc+Book.EV vs. Book.EV", my.ftest(lm4, lm7)#,
+#     "Twit.PopFrom margin over Pop+GDPpc: Pop+GDPpc+Twit.PopFrom vs. Pop+GDPpc", my.ftest(lm1, lm11),
+#     "Wiki.PopFrom margin over Pop+GDPpc: Pop+GDPpc+Wiki.PopFrom vs. Pop+GDPpc", my.ftest(lm1, lm12),
+#     "Book.PopFrom margin over Pop+GDPpc: Pop+GDPpc+Book.PopFrom vs. Pop+GDPpc", my.ftest(lm1, lm13),
+#     "Pop+GDPpc margin over Twit.PopFrom: Pop+GDPpc+Twit.PopFrom vs. Twit.PopFrom", my.ftest(lm8, lm11),
+#     "Pop+GDPpc margin over Wiki.PopFrom: Pop+GDPpc+Wiki.PopFrom vs. Wiki.PopFrom", my.ftest(lm9, lm12),
+#     "Pop+GDPpc margin over Book.PopFrom: Pop+GDPpc+Book.PopFrom vs. Book.PopFrom", my.ftest(lm10, lm13),
+#     "Twit.EV margin over Pop+GDPpc+Twit.PopFrom: Pop+GDPpc+Twit.EV+Twit.PopFrom vs. Pop+GDPpc+Twit.PopFrom", my.ftest(lm11, lm14),
+#     "Wiki.EV margin over Pop+GDPpc+Wiki.PopFrom: Pop+GDPpc+Wiki.EV+Wiki.PopFrom vs. Pop+GDPpc+Wiki.PopFrom", my.ftest(lm12, lm15),
+#     "Book.EV margin over Pop+GDPpc+Book.PopFrom: Pop+GDPpc+Book.EV+Book.PopFrom vs. Pop+GDPpc+Book.PopFrom", my.ftest(lm13, lm16),
+#     "Twit.PopFrom margin over Pop+GDPpc+Twit.EV: Pop+GDPpc+Twit.EV+Twit.PopFrom vs. Pop+GDPpc+Twit.EV", my.ftest(lm5, lm14),
+#     "Wiki.PopFrom margin over Pop+GDPpc+Wiki.EV: Pop+GDPpc+Wiki.EV+Wiki.PopFrom vs. Pop+GDPpc+Wiki.EV", my.ftest(lm6, lm15),
+#     "Book.PopFrom margin over Pop+GDPpc+Book.EV: Pop+GDPpc+Book.EV+Book.PopFrom vs. Pop+GDPpc+Book.EV", my.ftest(lm7, lm16)
+    )
   
   if (outfile!="") {
     # Write to files
@@ -413,9 +363,9 @@ run.notability.regressions <- function(src.name, # "wiki" / "murray"
     scenario.settings <- sprintf("%s_%s", scenario.settings, add.note)
   }
   
-  all.metrics <- prep.lgn.df(TWIT.STD.LANGLANG2, 
-                             WIKI.STD.LANGLANG2, 
-                             BOOKS.STD.LANGLANG2,
+  all.metrics <- prep.lgn.df(TWIT.CENT.FILE, 
+                             WIKI.CENT.FILE, 
+                             BOOKS.CENT.FILE,
                              LANG.STATS.FILE,
                              lang.cultural.exports.file,
                              langs.to.remove=langs.to.remove)
@@ -456,7 +406,7 @@ run.notability.regressions <- function(src.name, # "wiki" / "murray"
   write.table( country.exports[order(-country.exports[2])[1:11],],
                file=top10.file, append=T, 
                quote=F, sep="\t", row.names=F)
-  
+    
   ### REGRESSIONS ###
   # Adjust all metrics by logging where necessary
   all.metrics.adj <- with(all.metrics, 
@@ -470,6 +420,10 @@ run.notability.regressions <- function(src.name, # "wiki" / "murray"
   # remove infinite values (log of zero)
   all.metrics.adj <- all.metrics.adj[is.finite(rowSums(all.metrics.adj)), ] 
   
+  ## ALL METRICS TABLE -- this is before removing 0 values
+  all.metrics$language <- row.names(all.metrics) 
+  write.table(all.metrics, file="all_metrics.tsv", quote=F, row.names=F, sep="\t" )
+  
   rm(all.metrics) # remove to avoid mistakes from now on
   
 #   all.metrics.adj <- with(all.metrics, 
@@ -480,7 +434,7 @@ run.notability.regressions <- function(src.name, # "wiki" / "murray"
 #                                      gdp.pc, pop, cultexp))
 #     
   # Draw the plots.
-  all.metrics.adj <<- all.metrics.adj
+  #all.metrics.adj <<- all.metrics.adj
   plot.regressions(all.metrics.adj, outfile)
   
   # Create a regression table for all sources
@@ -492,22 +446,29 @@ run.notability.regressions <- function(src.name, # "wiki" / "murray"
 
 #### MAIN ####
 
-#Six versions for each source (wiki/murray):
+
+#old.all.metrics <- read.table("../all_metrics.tsv", header=T, sep="\t")
+#new.all.metrics <- read.table("../all_metrics_new.tsv", header=T, sep="\t")
+#langs.added.in.may <- setdiff(new.all.metrics$language, old.all.metrics$language)
+
+#Three versions for each source (wiki/murray):
 #(1) 1800-1950 (2) all years (3) 1800-1950 w/o English,
 run.notability.regressions(src.name="wiki",
-                           date.range="1800_1950")
-run.notability.regressions(src.name="wiki",
-                           date.range="all") # For SM
-run.notability.regressions(src.name="wiki", 
-                           date.range="1800_1950",
-                           langs.to.remove=c("eng"),
-                           add.note="noeng") # For SM
+                           date.range="1800_1950"#,
+                           #langs.to.remove=langs.added.in.may
+                           )
+# run.notability.regressions(src.name="wiki",
+#                            date.range="all") # For SM
+# run.notability.regressions(src.name="wiki", 
+#                            date.range="1800_1950",
+#                            langs.to.remove=c("eng"),
+#                            add.note="noeng") # For SM
 
 run.notability.regressions(src.name="murray", 
                            date.range="1800_1950")
-run.notability.regressions(src.name="murray", 
-                           date.range="all") # For SM
-run.notability.regressions(src.name="murray", 
-                           date.range="1800_1950",
-                           langs.to.remove=c("eng"),
-                           add.note="noeng") # For SM
+# run.notability.regressions(src.name="murray", 
+#                            date.range="all") # For SM
+# run.notability.regressions(src.name="murray", 
+#                            date.range="1800_1950",
+#                            langs.to.remove=c("eng"),
+#                            add.note="noeng") # For SM
