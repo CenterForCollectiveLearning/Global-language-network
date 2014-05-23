@@ -387,6 +387,11 @@ run.notability.regressions <- function(src.name, # "wiki" / "murray"
                file=top10.file, append=T, 
                quote=F, sep="\t", row.names=F)
   
+  # Write the full table
+  all.metrics$language <- row.names(all.metrics) 
+  write.table(all.metrics, file="all_metrics.tsv", quote=F, row.names=F, sep="\t" )
+  
+  
   # Back to original dir
   setwd(orig.dir)
 }

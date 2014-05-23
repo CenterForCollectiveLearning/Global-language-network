@@ -12,14 +12,14 @@ POPULARITY.DIR <- paste0(ANALYSIS.ROOT.DIR, "/fig3-notability/")
 ALLOW.UNCOMMON.LANGS <- F # "True" to include languages that do not appear in ALL datasets.
 
 # Note: if you use Shahar's files, need to comment out the PopFrom regressions
-TWIT.CENT.FILE <- paste0(ANALYSIS.ROOT.DIR, "/Shahar_EigTwitterNetwork.tsv")
-WIKI.CENT.FILE <- paste0(ANALYSIS.ROOT.DIR, "/Shahar_EigWikiNetwork.tsv")
-BOOKS.CENT.FILE <- paste0(ANALYSIS.ROOT.DIR, "/Shahar_EigBookNetwork.tsv")
-
+TWIT.CENT.FILE <- paste0(ANALYSIS.ROOT.DIR, "/EigTwitterNetwork.tsv")
+WIKI.CENT.FILE <- paste0(ANALYSIS.ROOT.DIR, "/EigWikiNetwork.tsv")
+BOOKS.CENT.FILE <- paste0(ANALYSIS.ROOT.DIR, "/EigBookNetwork.tsv")
 
 prep.lgn.df <- function(twitter.ev.file, wiki.ev.file, books.ev.file,
                         lang.stats.file,
                         cultural.exports.file,
+                        min.exports=0,
                         langs.to.remove=NULL) {
   
   # Load the eigenvector centralities from the different sources, and add population
@@ -84,6 +84,11 @@ prep.lgn.df <- function(twitter.ev.file, wiki.ev.file, books.ev.file,
   # Remove specific languages if defined
   all.metrics <- all.metrics[!(row.names(all.metrics) %in% langs.to.remove),]
   
+  # Remove language with fewer than min.exports
+  all.metrics <- all.metrics[all.metrics$cultexp > min.exports,]
+  
+  all.metrics <<- all.metrics
+  stop("DFD")
   return(all.metrics)
 }
 
@@ -125,24 +130,25 @@ regress.one.indep <- function(plot.vars,
     geom_smooth(method="lm", se=FALSE, color=plot.color) + # regression line
     geom_text(hjust=sizes, vjust=sizes, color="black", size=3.2) + # data point label: position and color
     scale_size(
-      limits=c(0.05,1600), # Standardize population scale across plots: 50k to 1.6B
-      #limits=c(-0.5,3.2), # Standardize population scale across plots: 50k to 1.6B
+      limits=c(0.05,1600), # Standardize population scale across plots: 50k to 1.6B ## CHANGE UNLOGGED
+      #limits=c(-0.5,3.2), # Standardize population scale across plots: 50k to 1.6B ## CHANGE LOGGED
       range=c(4, 15), 
       name="Millions of Speakers") + 
     scale_color_gradient(
       limits=c(1000,60000), # Standardize GDPpc scale across plots: 1k to 60k
       low="grey91", high=plot.color, name="GDP per Capita") + 
     # axis ranges
-    xlim(c(-5,0)) + 
-    # ylim(c(-1,3.5)) + 
+    #scale_y_log10() + scale_x_log10(limits=c(0.001,1)) + ## CHANGE UNLOGGED
+    scale_y_continuous(limits=c(0,3.5)) + scale_x_continuous(limits=c(-6,0)) + ## CHANGE LOGGED
     labs(list(x=x.title, y=y.title, title=src.name)) +
-    geom_text(aes(-1.5, -0.5, label=sprintf("R\UB2 =%s\np-value < %s",
-                                             round(r.squared, 3),
-                                             round(p.val.cat, 3))),
-                                             data.frame(r.squared, p.val.cat)) +
+    geom_text(aes(-1, 0.5, ## CHANGE 
+                  label=sprintf("R\UB2 =%s\np-value < %s",
+                                round(r.squared, 3),
+                                round(p.val.cat, 3))),
+              data.frame(r.squared, p.val.cat)) +
     theme_bw() + 
     theme(panel.grid.major=element_blank(),panel.grid.minor=element_blank()) + # remove gridlines
-    theme(plot.margin = unit(c(0.2,0.2,0.2,0.2), "cm")) + # change margins
+    theme(plot.margin = unit(c(0.2,0.2,0.2,0.2), "cm")) + # `change margins
     theme(legend.position="none") #+ # Remove legend
     #coord_fixed(ratio=0.3) # maintain a square aspect ratio: make sure the squares are of the same size though 
   
@@ -160,8 +166,8 @@ prep.plot.vars <- function(df.all.metrics,
                       # get converts a variable's value to a variable's name
                       indeps=get(indep),  # indep. variable
                       deps=get(dep),# dep. variable
-                      sizes=10^pop, # data point size is population: reversing the log to show the population distribution
-                      colors=10^gdp.pc,# data point color is GDP pc: reversing the log too
+                      sizes=  10^pop, #pop, # 10^pop # data point size is population: reversing the log to show the population distribution ## CHANGE
+                      colors= 10^gdp.pc,# gdp.pc # 10^gdp.pc  # data point color is GDP pc: reversing the log too ## CHANGE
                       row.names=row.names(df.all.metrics)
                       )
                     )  
@@ -192,7 +198,7 @@ plot.regressions <- function(df.all.metrics, outfile="") {
                                    with.na="omit")
   p.twit <- regress.one.indep(plot.vars.twit,
                     src.name="Twitter",
-                    x.title="log10(Twitter EV cent.)", y.title="log10(Popularity)",
+                    x.title="log10(Twitter EV cent.)", y.title="log10(Popularity)", ## CHANGE
                     plot.y.axis='s', plot.color="red")
 
   plot.vars.wiki <- prep.plot.vars(df.all.metrics,
@@ -200,7 +206,7 @@ plot.regressions <- function(df.all.metrics, outfile="") {
                                    with.na="omit")  
   p.wiki <- regress.one.indep(plot.vars.wiki,
                     src.name="Wikipedia",
-                    x.title="log10(Wikipedia EV cent.)", y.title="log10(Popularity)",
+                    x.title="log10(Wikipedia EV cent.)", y.title="log10(Popularity)", ## CHANGE
                     plot.y.axis='n', plot.color="forestgreen")
 
   plot.vars.book <- prep.plot.vars(df.all.metrics,
@@ -208,7 +214,7 @@ plot.regressions <- function(df.all.metrics, outfile="") {
                                    with.na="omit")
   p.book <- regress.one.indep(plot.vars.book,
                     src.name="Books",
-                    x.title="log10(Books EV cent.)", y.title="log10(Popularity)",
+                    x.title="log10(Books EV cent.)", y.title="log10(Popularity)", ## CHANGE
                     plot.y.axis='n', plot.color="blue")
   
   PLOT.SIDE.SIZE = 9
@@ -269,30 +275,30 @@ regression.table.multi.source <- function(reg.metrics,
   lm5 <<- lm(cultexp ~ pop + gdp.pc + twit.eig, reg.metrics)
   lm6 <<- lm(cultexp ~ pop + gdp.pc + wiki.eig, reg.metrics)
   lm7 <<- lm(cultexp ~ pop + gdp.pc + book.eig, reg.metrics)
-  #lm8 <<- lm(cultexp ~ twit.popfrom, reg.metrics)
-  #lm9 <<- lm(cultexp ~ wiki.popfrom, reg.metrics)
-  #lm10 <<- lm(cultexp ~ book.popfrom, reg.metrics)
-  #lm11 <<- lm(cultexp ~ pop + gdp.pc + twit.popfrom, reg.metrics)
-  #lm12 <<- lm(cultexp ~ pop + gdp.pc + wiki.popfrom, reg.metrics)
-  #lm13 <<- lm(cultexp ~ pop + gdp.pc + book.popfrom, reg.metrics)
-  #lm14 <<- lm(cultexp ~ pop + gdp.pc + twit.eig + twit.popfrom, reg.metrics)
-  #lm15 <<- lm(cultexp ~ pop + gdp.pc + wiki.eig + wiki.popfrom, reg.metrics)
-  #lm16 <<- lm(cultexp ~ pop + gdp.pc + book.eig + book.popfrom, reg.metrics)
+  lm8 <<- lm(cultexp ~ twit.popfrom, reg.metrics)
+  lm9 <<- lm(cultexp ~ wiki.popfrom, reg.metrics)
+  lm10 <<- lm(cultexp ~ book.popfrom, reg.metrics)
+  lm11 <<- lm(cultexp ~ pop + gdp.pc + twit.popfrom, reg.metrics)
+  lm12 <<- lm(cultexp ~ pop + gdp.pc + wiki.popfrom, reg.metrics)
+  lm13 <<- lm(cultexp ~ pop + gdp.pc + book.popfrom, reg.metrics)
+  lm14 <<- lm(cultexp ~ pop + gdp.pc + twit.eig + twit.popfrom, reg.metrics)
+  lm15 <<- lm(cultexp ~ pop + gdp.pc + wiki.eig + wiki.popfrom, reg.metrics)
+  lm16 <<- lm(cultexp ~ pop + gdp.pc + book.eig + book.popfrom, reg.metrics)
   
   mtable123 <<- mtable("Pop+GDPpc"=lm1,
                       "Twit.EV"=lm2, "Wiki.EV"=lm3, "Book.EV"=lm4,
-#                       "Twit.PopFrom"=lm8,
-#                       "Wiki.PopFrom"=lm9,
-#                       "Book.PopFrom"=lm10,
+                      "Twit.PopFrom"=lm8,
+                      "Wiki.PopFrom"=lm9,
+                      "Book.PopFrom"=lm10,
                       "Pop+GDPpc+Twit.EV"=lm5,
                       "Pop+GDPpc+Wiki.EV"=lm6,
                       "Pop+GDPpc+Book.EV"=lm7,
-#                       "Pop+GDPpc+Twit.PopFrom"=lm11,
-#                       "Pop+GDPpc+Wiki.PopFrom"=lm12,
-#                       "Pop+GDPpc+Book.PopFrom"=lm13,
-#                       "Pop+GDPpc+Twit.PopFrom+Twit.EV"=lm14,
-#                       "Pop+GDPpc+Wiki.PopFrom+Wiki.EV"=lm15,
-#                       "Pop+GDPpc+Book.PopFrom+Book.EV"=lm16,
+                      "Pop+GDPpc+Twit.PopFrom"=lm11,
+                      "Pop+GDPpc+Wiki.PopFrom"=lm12,
+                      "Pop+GDPpc+Book.PopFrom"=lm13,
+                      "Pop+GDPpc+Twit.PopFrom+Twit.EV"=lm14,
+                      "Pop+GDPpc+Wiki.PopFrom+Wiki.EV"=lm15,
+                      "Pop+GDPpc+Book.PopFrom+Book.EV"=lm16,
                       summary.stats=c("sigma","R-squared", "adj. R-squared","F","p","N"))
 
   ### Report results of F-tests  
@@ -302,19 +308,19 @@ regression.table.multi.source <- function(reg.metrics,
     "Book.EV margin over Pop+GDPpc: Pop+GDPpc+Book.EV vs. Pop+GDPpc", my.ftest(lm1, lm7),
     "Pop+GDPpc margin over Twit.EV: Pop+GDPpc+Twit.EV vs. Twit.EV", my.ftest(lm2, lm5),
     "Pop+GDPpc margin over Wiki.EV: Pop+GDPpc+Wiki.EV vs. Wiki.EV", my.ftest(lm3, lm6), 
-    "Pop+GDPpc margin over Book.EV: Pop+GDPpc+Book.EV vs. Book.EV", my.ftest(lm4, lm7)#,
-#     "Twit.PopFrom margin over Pop+GDPpc: Pop+GDPpc+Twit.PopFrom vs. Pop+GDPpc", my.ftest(lm1, lm11),
-#     "Wiki.PopFrom margin over Pop+GDPpc: Pop+GDPpc+Wiki.PopFrom vs. Pop+GDPpc", my.ftest(lm1, lm12),
-#     "Book.PopFrom margin over Pop+GDPpc: Pop+GDPpc+Book.PopFrom vs. Pop+GDPpc", my.ftest(lm1, lm13),
-#     "Pop+GDPpc margin over Twit.PopFrom: Pop+GDPpc+Twit.PopFrom vs. Twit.PopFrom", my.ftest(lm8, lm11),
-#     "Pop+GDPpc margin over Wiki.PopFrom: Pop+GDPpc+Wiki.PopFrom vs. Wiki.PopFrom", my.ftest(lm9, lm12),
-#     "Pop+GDPpc margin over Book.PopFrom: Pop+GDPpc+Book.PopFrom vs. Book.PopFrom", my.ftest(lm10, lm13),
-#     "Twit.EV margin over Pop+GDPpc+Twit.PopFrom: Pop+GDPpc+Twit.EV+Twit.PopFrom vs. Pop+GDPpc+Twit.PopFrom", my.ftest(lm11, lm14),
-#     "Wiki.EV margin over Pop+GDPpc+Wiki.PopFrom: Pop+GDPpc+Wiki.EV+Wiki.PopFrom vs. Pop+GDPpc+Wiki.PopFrom", my.ftest(lm12, lm15),
-#     "Book.EV margin over Pop+GDPpc+Book.PopFrom: Pop+GDPpc+Book.EV+Book.PopFrom vs. Pop+GDPpc+Book.PopFrom", my.ftest(lm13, lm16),
-#     "Twit.PopFrom margin over Pop+GDPpc+Twit.EV: Pop+GDPpc+Twit.EV+Twit.PopFrom vs. Pop+GDPpc+Twit.EV", my.ftest(lm5, lm14),
-#     "Wiki.PopFrom margin over Pop+GDPpc+Wiki.EV: Pop+GDPpc+Wiki.EV+Wiki.PopFrom vs. Pop+GDPpc+Wiki.EV", my.ftest(lm6, lm15),
-#     "Book.PopFrom margin over Pop+GDPpc+Book.EV: Pop+GDPpc+Book.EV+Book.PopFrom vs. Pop+GDPpc+Book.EV", my.ftest(lm7, lm16)
+    "Pop+GDPpc margin over Book.EV: Pop+GDPpc+Book.EV vs. Book.EV", my.ftest(lm4, lm7),
+    "Twit.PopFrom margin over Pop+GDPpc: Pop+GDPpc+Twit.PopFrom vs. Pop+GDPpc", my.ftest(lm1, lm11),
+    "Wiki.PopFrom margin over Pop+GDPpc: Pop+GDPpc+Wiki.PopFrom vs. Pop+GDPpc", my.ftest(lm1, lm12),
+    "Book.PopFrom margin over Pop+GDPpc: Pop+GDPpc+Book.PopFrom vs. Pop+GDPpc", my.ftest(lm1, lm13),
+    "Pop+GDPpc margin over Twit.PopFrom: Pop+GDPpc+Twit.PopFrom vs. Twit.PopFrom", my.ftest(lm8, lm11),
+    "Pop+GDPpc margin over Wiki.PopFrom: Pop+GDPpc+Wiki.PopFrom vs. Wiki.PopFrom", my.ftest(lm9, lm12),
+    "Pop+GDPpc margin over Book.PopFrom: Pop+GDPpc+Book.PopFrom vs. Book.PopFrom", my.ftest(lm10, lm13),
+    "Twit.EV margin over Pop+GDPpc+Twit.PopFrom: Pop+GDPpc+Twit.EV+Twit.PopFrom vs. Pop+GDPpc+Twit.PopFrom", my.ftest(lm11, lm14),
+    "Wiki.EV margin over Pop+GDPpc+Wiki.PopFrom: Pop+GDPpc+Wiki.EV+Wiki.PopFrom vs. Pop+GDPpc+Wiki.PopFrom", my.ftest(lm12, lm15),
+    "Book.EV margin over Pop+GDPpc+Book.PopFrom: Pop+GDPpc+Book.EV+Book.PopFrom vs. Pop+GDPpc+Book.PopFrom", my.ftest(lm13, lm16),
+    "Twit.PopFrom margin over Pop+GDPpc+Twit.EV: Pop+GDPpc+Twit.EV+Twit.PopFrom vs. Pop+GDPpc+Twit.EV", my.ftest(lm5, lm14),
+    "Wiki.PopFrom margin over Pop+GDPpc+Wiki.EV: Pop+GDPpc+Wiki.EV+Wiki.PopFrom vs. Pop+GDPpc+Wiki.EV", my.ftest(lm6, lm15),
+    "Book.PopFrom margin over Pop+GDPpc+Book.EV: Pop+GDPpc+Book.EV+Book.PopFrom vs. Pop+GDPpc+Book.EV", my.ftest(lm7, lm16)
     )
   
   if (outfile!="") {
@@ -334,6 +340,7 @@ regression.table.multi.source <- function(reg.metrics,
 
 run.notability.regressions <- function(src.name, # "wiki" / "murray"
                                        date.range, # "all"/"1800_1950"
+                                       min.exports=0, # use only langs with at least this many exports
                                        langs.to.remove=NULL, # list of language codes to remove 
                                        add.note="" # a note to add to folder name
                                        ) {
@@ -357,7 +364,7 @@ run.notability.regressions <- function(src.name, # "wiki" / "murray"
   country.cultural.exports.file <- sprintf(filename.template, date.range, "country")
   
   # This will be used as the name of the folder and the regression table file.
-  scenario.settings <- sprintf("%s_%s_ppl%s", src.name, date.range, 0) # 0 is for the deprecated min.exports
+  scenario.settings <- sprintf("%s_%s_ppl%s", src.name, date.range, min.exports)
   
   if (add.note!="") {
     scenario.settings <- sprintf("%s_%s", scenario.settings, add.note)
@@ -408,8 +415,8 @@ run.notability.regressions <- function(src.name, # "wiki" / "murray"
                quote=F, sep="\t", row.names=F)
     
   ### REGRESSIONS ###
-  # Adjust all metrics by logging where necessary
-  all.metrics.adj <- with(all.metrics, 
+  # Adjust all metrics by logging where necessary  ### CHANGE
+  all.metrics.adj <- with(all.metrics,  
                           data.frame(row.names=rownames(all.metrics),
                             log10(twit.eig), log10(twit.popfrom),
                             log10(wiki.eig), log10(wiki.popfrom), 
@@ -417,22 +424,29 @@ run.notability.regressions <- function(src.name, # "wiki" / "murray"
                             log10(gdp.pc), log10(pop), log10(cultexp)))
   names(all.metrics.adj) <- names(all.metrics)
   
-  # remove infinite values (log of zero)
-  all.metrics.adj <- all.metrics.adj[is.finite(rowSums(all.metrics.adj)), ] 
-  
-  ## ALL METRICS TABLE -- this is before removing 0 values
-  all.metrics$language <- row.names(all.metrics) 
-  write.table(all.metrics, file="all_metrics.tsv", quote=F, row.names=F, sep="\t" )
-  
-  rm(all.metrics) # remove to avoid mistakes from now on
-  
-#   all.metrics.adj <- with(all.metrics, 
+  ### OR CHANGE
+#   all.metrics.adj <- with(all.metrics,  
 #                           data.frame(row.names=rownames(all.metrics),
 #                                      twit.eig, twit.popfrom,
 #                                      wiki.eig, wiki.popfrom, 
 #                                      book.eig, book.popfrom,
 #                                      gdp.pc, pop, cultexp))
-#     
+#   names(all.metrics.adj) <- names(all.metrics)
+  
+  # remove zero values ### CHANGE UNLOGGED
+  # all.metrics.adj <- subset(all.metrics.adj, twit.eig!=0 & wiki.eig!=0 & book.eig!=0)
+
+  # Or remove infinite values (log of zero) ## CHANGE LOGGED
+  all.metrics.adj <- all.metrics.adj[is.finite(rowSums(all.metrics.adj)), ] 
+  
+  ## ALL METRICS TABLE
+  all.metrics$language <- row.names(all.metrics) 
+  write.table(all.metrics, file="all_metrics.tsv", quote=F, row.names=F, sep="\t" )
+    
+  rm(all.metrics) # remove to avoid mistakes from now on
+
+  print(summary(all.metrics.adj))
+  
   # Draw the plots.
   #all.metrics.adj <<- all.metrics.adj
   plot.regressions(all.metrics.adj, outfile)
@@ -446,29 +460,39 @@ run.notability.regressions <- function(src.name, # "wiki" / "murray"
 
 #### MAIN ####
 
-
 #old.all.metrics <- read.table("../all_metrics.tsv", header=T, sep="\t")
 #new.all.metrics <- read.table("../all_metrics_new.tsv", header=T, sep="\t")
 #langs.added.in.may <- setdiff(new.all.metrics$language, old.all.metrics$language)
 
+MURRAY.ONE.OR.LESS <- c("afr", "bul", "eus", "guj", "isl", "kan", "mal", "ori", "pan", "sqi", "swa", "tam", "ukr", "urd", "vie")
+WIKI.ONE.OR.LESS <- c("div", "gle", "lao")
+
+
+
+
+
 #Three versions for each source (wiki/murray):
 #(1) 1800-1950 (2) all years (3) 1800-1950 w/o English,
 run.notability.regressions(src.name="wiki",
-                           date.range="1800_1950"#,
-                           #langs.to.remove=langs.added.in.may
+                           date.range="1800_1950",
+                           min.exports=0,
+                           langs.to.remove=WIKI.ONE.OR.LESS,
+                           add.note="ppl1_logged" # CHANGE
                            )
-# run.notability.regressions(src.name="wiki",
-#                            date.range="all") # For SM
-# run.notability.regressions(src.name="wiki", 
-#                            date.range="1800_1950",
-#                            langs.to.remove=c("eng"),
-#                            add.note="noeng") # For SM
+run.notability.regressions(src.name="wiki",
+                           date.range="all") # For SM
+run.notability.regressions(src.name="wiki", 
+                           date.range="1800_1950",
+                           langs.to.remove=c("eng"),
+                           add.note="noeng") # For SM
 
 run.notability.regressions(src.name="murray", 
-                           date.range="1800_1950")
-# run.notability.regressions(src.name="murray", 
-#                            date.range="all") # For SM
-# run.notability.regressions(src.name="murray", 
-#                            date.range="1800_1950",
-#                            langs.to.remove=c("eng"),
-#                            add.note="noeng") # For SM
+                           date.range="1800_1950",
+                           langs.to.remove=MURRAY.ONE.OR.LESS,
+                           add.note="ppl1_logged") # CHANGE
+run.notability.regressions(src.name="murray", 
+                           date.range="all") # For SM
+run.notability.regressions(src.name="murray", 
+                           date.range="1800_1950",
+                           langs.to.remove=c("eng"),
+                           add.note="noeng") # For SM

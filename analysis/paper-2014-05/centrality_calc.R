@@ -15,7 +15,7 @@ get.lgn.metrics <- function(file.in, file.out, file.out2, src.name) {
   # Table of LGN graph metrics for each language from given source
   # use default minimum values
   filtered.edgelist <- read.filtered.edgelist2(file.in,
-                                               weighted.graph=F, # use weighted graph
+                                               weighted.graph=T, # use weighted graph
                                                weight.column="occur")
   
   lgn.graph <- graph.data.frame(filtered.edgelist, directed=TRUE)
@@ -95,6 +95,6 @@ read.filtered.edgelist2 <- function(infile,
 
 # Find centrality measures for each network ---
 # Not needed for May '14 as were loading the pre-calc EV centrality values.
-twitter.metrics <- get.lgn.metrics(TWIT.STD.LANGLANG2, "CentTwitter_unweighted.tsv", "Shahar_EigTwitterNetwork_unweighted.tsv", "twit")
-wiki.metrics <- get.lgn.metrics(WIKI.STD.LANGLANG2, "CentWiki_unweighted.tsv", "Shahar_EigWikiNetwork_unweighted.tsv", "wiki")
-books.metrics <- get.lgn.metrics(BOOKS.STD.LANGLANG2, "CentBooks_unweighted.tsv", "Shahar_EigBookNetwork_unweighted.tsv", "book")
+twitter.metrics <- get.lgn.metrics(TWIT.STD.LANGLANG2, "CentTwitter.tsv", "Shahar_EigTwitterNetwork.tsv", "twit")
+wiki.metrics <- get.lgn.metrics(WIKI.STD.LANGLANG2, "CentWiki.tsv", "Shahar_EigWikiNetwork.tsv", "wiki")
+books.metrics <- get.lgn.metrics(BOOKS.STD.LANGLANG2, "CentBooks.tsv", "Shahar_EigBookNetwork.tsv", "book")

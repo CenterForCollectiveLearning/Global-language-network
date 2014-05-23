@@ -1,0 +1,72 @@
+Twit.EV margin over Pop+GDPpc: Pop+GDPpc+Twit.EV vs. Pop+GDPpc
+F(1,58) = 19.83, p=0
+ N=61 p1=2 p2=3 Rsq1=0.48 Rsq2=0.613 margin=0.132
+
+Wiki.EV margin over Pop+GDPpc: Pop+GDPpc+Wiki.EV vs. Pop+GDPpc
+F(1,58) = 170.99, p=0
+ N=61 p1=2 p2=3 Rsq1=0.48 Rsq2=0.868 margin=0.388
+
+Book.EV margin over Pop+GDPpc: Pop+GDPpc+Book.EV vs. Pop+GDPpc
+F(1,58) = 1743.55, p=0
+ N=61 p1=2 p2=3 Rsq1=0.48 Rsq2=0.983 margin=0.503
+
+Pop+GDPpc margin over Twit.EV: Pop+GDPpc+Twit.EV vs. Twit.EV
+F(2,58) = 10.61, p=0
+ N=61 p1=1 p2=3 Rsq1=0.471 Rsq2=0.613 margin=0.142
+
+Pop+GDPpc margin over Wiki.EV: Pop+GDPpc+Wiki.EV vs. Wiki.EV
+F(2,58) = 3.97, p=0.02
+ N=61 p1=1 p2=3 Rsq1=0.85 Rsq2=0.868 margin=0.018
+
+Pop+GDPpc margin over Book.EV: Pop+GDPpc+Book.EV vs. Book.EV
+F(2,58) = 3.2, p=0.05
+ N=61 p1=1 p2=3 Rsq1=0.981 Rsq2=0.983 margin=0.002
+
+Twit.PopFrom margin over Pop+GDPpc: Pop+GDPpc+Twit.PopFrom vs. Pop+GDPpc
+F(1,58) = 62.11, p=0
+ N=61 p1=2 p2=3 Rsq1=0.48 Rsq2=0.749 margin=0.269
+
+Wiki.PopFrom margin over Pop+GDPpc: Pop+GDPpc+Wiki.PopFrom vs. Pop+GDPpc
+F(1,58) = 2383.07, p=0
+ N=61 p1=2 p2=3 Rsq1=0.48 Rsq2=0.988 margin=0.507
+
+Book.PopFrom margin over Pop+GDPpc: Pop+GDPpc+Book.PopFrom vs. Pop+GDPpc
+F(1,58) = 535.05, p=0
+ N=61 p1=2 p2=3 Rsq1=0.48 Rsq2=0.949 margin=0.469
+
+Pop+GDPpc margin over Twit.PopFrom: Pop+GDPpc+Twit.PopFrom vs. Twit.PopFrom
+F(2,58) = 5.36, p=0.01
+ N=61 p1=1 p2=3 Rsq1=0.703 Rsq2=0.749 margin=0.046
+
+Pop+GDPpc margin over Wiki.PopFrom: Pop+GDPpc+Wiki.PopFrom vs. Wiki.PopFrom
+F(2,58) = 9.29, p=0
+ N=61 p1=1 p2=3 Rsq1=0.984 Rsq2=0.988 margin=0.004
+
+Pop+GDPpc margin over Book.PopFrom: Pop+GDPpc+Book.PopFrom vs. Book.PopFrom
+F(2,58) = 1.73, p=0.19
+ N=61 p1=1 p2=3 Rsq1=0.946 Rsq2=0.949 margin=0.003
+
+Twit.EV margin over Pop+GDPpc+Twit.PopFrom: Pop+GDPpc+Twit.EV+Twit.PopFrom vs. Pop+GDPpc+Twit.PopFrom
+F(1,57) = 28.66, p=0
+ N=61 p1=3 p2=4 Rsq1=0.749 Rsq2=0.833 margin=0.084
+
+Wiki.EV margin over Pop+GDPpc+Wiki.PopFrom: Pop+GDPpc+Wiki.EV+Wiki.PopFrom vs. Pop+GDPpc+Wiki.PopFrom
+F(1,57) = 4.73, p=0.03
+ N=61 p1=3 p2=4 Rsq1=0.988 Rsq2=0.989 margin=0.001
+
+Book.EV margin over Pop+GDPpc+Book.PopFrom: Pop+GDPpc+Book.EV+Book.PopFrom vs. Pop+GDPpc+Book.PopFrom
+F(1,57) = 116.8, p=0
+ N=61 p1=3 p2=4 Rsq1=0.949 Rsq2=0.983 margin=0.034
+
+Twit.PopFrom margin over Pop+GDPpc+Twit.EV: Pop+GDPpc+Twit.EV+Twit.PopFrom vs. Pop+GDPpc+Twit.EV
+F(1,57) = 75.19, p=0
+ N=61 p1=3 p2=4 Rsq1=0.613 Rsq2=0.833 margin=0.22
+
+Wiki.PopFrom margin over Pop+GDPpc+Wiki.EV: Pop+GDPpc+Wiki.EV+Wiki.PopFrom vs. Pop+GDPpc+Wiki.EV
+F(1,57) = 601.01, p=0
+ N=61 p1=3 p2=4 Rsq1=0.868 Rsq2=0.989 margin=0.12
+
+Book.PopFrom margin over Pop+GDPpc+Book.EV: Pop+GDPpc+Book.EV+Book.PopFrom vs. Pop+GDPpc+Book.EV
+F(1,57) = 0.21, p=0.65
+ N=61 p1=3 p2=4 Rsq1=0.983 Rsq2=0.983 margin=0
+
