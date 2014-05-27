@@ -84,11 +84,12 @@ prep.lgn.df <- function(twitter.ev.file, wiki.ev.file, books.ev.file,
   # Remove specific languages if defined
   all.metrics <- all.metrics[!(row.names(all.metrics) %in% langs.to.remove),]
   
+  #all.metrics <<- all.metrics
+  
   # Remove language with fewer than min.exports
   all.metrics <- all.metrics[all.metrics$cultexp > min.exports,]
   
-  all.metrics <<- all.metrics
-  stop("DFD")
+  #all.metrics2 <<- all.metrics
   return(all.metrics)
 }
 
@@ -275,30 +276,30 @@ regression.table.multi.source <- function(reg.metrics,
   lm5 <<- lm(cultexp ~ pop + gdp.pc + twit.eig, reg.metrics)
   lm6 <<- lm(cultexp ~ pop + gdp.pc + wiki.eig, reg.metrics)
   lm7 <<- lm(cultexp ~ pop + gdp.pc + book.eig, reg.metrics)
-  lm8 <<- lm(cultexp ~ twit.popfrom, reg.metrics)
-  lm9 <<- lm(cultexp ~ wiki.popfrom, reg.metrics)
-  lm10 <<- lm(cultexp ~ book.popfrom, reg.metrics)
-  lm11 <<- lm(cultexp ~ pop + gdp.pc + twit.popfrom, reg.metrics)
-  lm12 <<- lm(cultexp ~ pop + gdp.pc + wiki.popfrom, reg.metrics)
-  lm13 <<- lm(cultexp ~ pop + gdp.pc + book.popfrom, reg.metrics)
-  lm14 <<- lm(cultexp ~ pop + gdp.pc + twit.eig + twit.popfrom, reg.metrics)
-  lm15 <<- lm(cultexp ~ pop + gdp.pc + wiki.eig + wiki.popfrom, reg.metrics)
-  lm16 <<- lm(cultexp ~ pop + gdp.pc + book.eig + book.popfrom, reg.metrics)
+#   lm8 <<- lm(cultexp ~ twit.popfrom, reg.metrics)
+#   lm9 <<- lm(cultexp ~ wiki.popfrom, reg.metrics)
+#   lm10 <<- lm(cultexp ~ book.popfrom, reg.metrics)
+#   lm11 <<- lm(cultexp ~ pop + gdp.pc + twit.popfrom, reg.metrics)
+#   lm12 <<- lm(cultexp ~ pop + gdp.pc + wiki.popfrom, reg.metrics)
+#   lm13 <<- lm(cultexp ~ pop + gdp.pc + book.popfrom, reg.metrics)
+#   lm14 <<- lm(cultexp ~ pop + gdp.pc + twit.eig + twit.popfrom, reg.metrics)
+#   lm15 <<- lm(cultexp ~ pop + gdp.pc + wiki.eig + wiki.popfrom, reg.metrics)
+#   lm16 <<- lm(cultexp ~ pop + gdp.pc + book.eig + book.popfrom, reg.metrics)
   
   mtable123 <<- mtable("Pop+GDPpc"=lm1,
                       "Twit.EV"=lm2, "Wiki.EV"=lm3, "Book.EV"=lm4,
-                      "Twit.PopFrom"=lm8,
-                      "Wiki.PopFrom"=lm9,
-                      "Book.PopFrom"=lm10,
+#                       "Twit.PopFrom"=lm8,
+#                       "Wiki.PopFrom"=lm9,
+#                       "Book.PopFrom"=lm10,
                       "Pop+GDPpc+Twit.EV"=lm5,
                       "Pop+GDPpc+Wiki.EV"=lm6,
                       "Pop+GDPpc+Book.EV"=lm7,
-                      "Pop+GDPpc+Twit.PopFrom"=lm11,
-                      "Pop+GDPpc+Wiki.PopFrom"=lm12,
-                      "Pop+GDPpc+Book.PopFrom"=lm13,
-                      "Pop+GDPpc+Twit.PopFrom+Twit.EV"=lm14,
-                      "Pop+GDPpc+Wiki.PopFrom+Wiki.EV"=lm15,
-                      "Pop+GDPpc+Book.PopFrom+Book.EV"=lm16,
+#                       "Pop+GDPpc+Twit.PopFrom"=lm11,
+#                       "Pop+GDPpc+Wiki.PopFrom"=lm12,
+#                       "Pop+GDPpc+Book.PopFrom"=lm13,
+#                       "Pop+GDPpc+Twit.PopFrom+Twit.EV"=lm14,
+#                       "Pop+GDPpc+Wiki.PopFrom+Wiki.EV"=lm15,
+#                       "Pop+GDPpc+Book.PopFrom+Book.EV"=lm16,
                       summary.stats=c("sigma","R-squared", "adj. R-squared","F","p","N"))
 
   ### Report results of F-tests  
@@ -308,20 +309,20 @@ regression.table.multi.source <- function(reg.metrics,
     "Book.EV margin over Pop+GDPpc: Pop+GDPpc+Book.EV vs. Pop+GDPpc", my.ftest(lm1, lm7),
     "Pop+GDPpc margin over Twit.EV: Pop+GDPpc+Twit.EV vs. Twit.EV", my.ftest(lm2, lm5),
     "Pop+GDPpc margin over Wiki.EV: Pop+GDPpc+Wiki.EV vs. Wiki.EV", my.ftest(lm3, lm6), 
-    "Pop+GDPpc margin over Book.EV: Pop+GDPpc+Book.EV vs. Book.EV", my.ftest(lm4, lm7),
-    "Twit.PopFrom margin over Pop+GDPpc: Pop+GDPpc+Twit.PopFrom vs. Pop+GDPpc", my.ftest(lm1, lm11),
-    "Wiki.PopFrom margin over Pop+GDPpc: Pop+GDPpc+Wiki.PopFrom vs. Pop+GDPpc", my.ftest(lm1, lm12),
-    "Book.PopFrom margin over Pop+GDPpc: Pop+GDPpc+Book.PopFrom vs. Pop+GDPpc", my.ftest(lm1, lm13),
-    "Pop+GDPpc margin over Twit.PopFrom: Pop+GDPpc+Twit.PopFrom vs. Twit.PopFrom", my.ftest(lm8, lm11),
-    "Pop+GDPpc margin over Wiki.PopFrom: Pop+GDPpc+Wiki.PopFrom vs. Wiki.PopFrom", my.ftest(lm9, lm12),
-    "Pop+GDPpc margin over Book.PopFrom: Pop+GDPpc+Book.PopFrom vs. Book.PopFrom", my.ftest(lm10, lm13),
-    "Twit.EV margin over Pop+GDPpc+Twit.PopFrom: Pop+GDPpc+Twit.EV+Twit.PopFrom vs. Pop+GDPpc+Twit.PopFrom", my.ftest(lm11, lm14),
-    "Wiki.EV margin over Pop+GDPpc+Wiki.PopFrom: Pop+GDPpc+Wiki.EV+Wiki.PopFrom vs. Pop+GDPpc+Wiki.PopFrom", my.ftest(lm12, lm15),
-    "Book.EV margin over Pop+GDPpc+Book.PopFrom: Pop+GDPpc+Book.EV+Book.PopFrom vs. Pop+GDPpc+Book.PopFrom", my.ftest(lm13, lm16),
-    "Twit.PopFrom margin over Pop+GDPpc+Twit.EV: Pop+GDPpc+Twit.EV+Twit.PopFrom vs. Pop+GDPpc+Twit.EV", my.ftest(lm5, lm14),
-    "Wiki.PopFrom margin over Pop+GDPpc+Wiki.EV: Pop+GDPpc+Wiki.EV+Wiki.PopFrom vs. Pop+GDPpc+Wiki.EV", my.ftest(lm6, lm15),
-    "Book.PopFrom margin over Pop+GDPpc+Book.EV: Pop+GDPpc+Book.EV+Book.PopFrom vs. Pop+GDPpc+Book.EV", my.ftest(lm7, lm16)
-    )
+    "Pop+GDPpc margin over Book.EV: Pop+GDPpc+Book.EV vs. Book.EV", my.ftest(lm4, lm7)#,
+#     "Twit.PopFrom margin over Pop+GDPpc: Pop+GDPpc+Twit.PopFrom vs. Pop+GDPpc", my.ftest(lm1, lm11),
+#     "Wiki.PopFrom margin over Pop+GDPpc: Pop+GDPpc+Wiki.PopFrom vs. Pop+GDPpc", my.ftest(lm1, lm12),
+#     "Book.PopFrom margin over Pop+GDPpc: Pop+GDPpc+Book.PopFrom vs. Pop+GDPpc", my.ftest(lm1, lm13),
+#     "Pop+GDPpc margin over Twit.PopFrom: Pop+GDPpc+Twit.PopFrom vs. Twit.PopFrom", my.ftest(lm8, lm11),
+#     "Pop+GDPpc margin over Wiki.PopFrom: Pop+GDPpc+Wiki.PopFrom vs. Wiki.PopFrom", my.ftest(lm9, lm12),
+#     "Pop+GDPpc margin over Book.PopFrom: Pop+GDPpc+Book.PopFrom vs. Book.PopFrom", my.ftest(lm10, lm13),
+#     "Twit.EV margin over Pop+GDPpc+Twit.PopFrom: Pop+GDPpc+Twit.EV+Twit.PopFrom vs. Pop+GDPpc+Twit.PopFrom", my.ftest(lm11, lm14),
+#     "Wiki.EV margin over Pop+GDPpc+Wiki.PopFrom: Pop+GDPpc+Wiki.EV+Wiki.PopFrom vs. Pop+GDPpc+Wiki.PopFrom", my.ftest(lm12, lm15),
+#     "Book.EV margin over Pop+GDPpc+Book.PopFrom: Pop+GDPpc+Book.EV+Book.PopFrom vs. Pop+GDPpc+Book.PopFrom", my.ftest(lm13, lm16),
+#     "Twit.PopFrom margin over Pop+GDPpc+Twit.EV: Pop+GDPpc+Twit.EV+Twit.PopFrom vs. Pop+GDPpc+Twit.EV", my.ftest(lm5, lm14),
+#     "Wiki.PopFrom margin over Pop+GDPpc+Wiki.EV: Pop+GDPpc+Wiki.EV+Wiki.PopFrom vs. Pop+GDPpc+Wiki.EV", my.ftest(lm6, lm15),
+#     "Book.PopFrom margin over Pop+GDPpc+Book.EV: Pop+GDPpc+Book.EV+Book.PopFrom vs. Pop+GDPpc+Book.EV", my.ftest(lm7, lm16)
+)
   
   if (outfile!="") {
     # Write to files
@@ -374,6 +375,7 @@ run.notability.regressions <- function(src.name, # "wiki" / "murray"
                              WIKI.CENT.FILE, 
                              BOOKS.CENT.FILE,
                              LANG.STATS.FILE,
+                             min.exports=min.exports,
                              lang.cultural.exports.file,
                              langs.to.remove=langs.to.remove)
   
@@ -460,39 +462,44 @@ run.notability.regressions <- function(src.name, # "wiki" / "murray"
 
 #### MAIN ####
 
-#old.all.metrics <- read.table("../all_metrics.tsv", header=T, sep="\t")
-#new.all.metrics <- read.table("../all_metrics_new.tsv", header=T, sep="\t")
-#langs.added.in.may <- setdiff(new.all.metrics$language, old.all.metrics$language)
-
-MURRAY.ONE.OR.LESS <- c("afr", "bul", "eus", "guj", "isl", "kan", "mal", "ori", "pan", "sqi", "swa", "tam", "ukr", "urd", "vie")
-WIKI.ONE.OR.LESS <- c("div", "gle", "lao")
-
-
-
-
-
 #Three versions for each source (wiki/murray):
-#(1) 1800-1950 (2) all years (3) 1800-1950 w/o English,
+#(1) 1800-1950 (2) 1800-1950, min. 1 person (main text) 
+#(3) 1800-1950 min. 1 person w/o English
+
+## WIKI
+
 run.notability.regressions(src.name="wiki",
                            date.range="1800_1950",
                            min.exports=0,
-                           langs.to.remove=WIKI.ONE.OR.LESS,
-                           add.note="ppl1_logged" # CHANGE
+                           add.note="" # CHANGE
                            )
 run.notability.regressions(src.name="wiki",
-                           date.range="all") # For SM
-run.notability.regressions(src.name="wiki", 
                            date.range="1800_1950",
+                           min.exports=1,
+                           add.note="" # CHANGE
+                           )
+run.notability.regressions(src.name="wiki",
+                           date.range="1800_1950",
+                           min.exports=1,
                            langs.to.remove=c("eng"),
-                           add.note="noeng") # For SM
+                           add.note="noeng" # CHANGE
+)
 
-run.notability.regressions(src.name="murray", 
+
+## MURRAY
+run.notability.regressions(src.name="murray",
                            date.range="1800_1950",
-                           langs.to.remove=MURRAY.ONE.OR.LESS,
-                           add.note="ppl1_logged") # CHANGE
-run.notability.regressions(src.name="murray", 
-                           date.range="all") # For SM
-run.notability.regressions(src.name="murray", 
+                           min.exports=0,
+                           add.note="" # CHANGE
+)
+run.notability.regressions(src.name="murray",
                            date.range="1800_1950",
+                           min.exports=1,
+                           add.note="" # CHANGE
+)
+run.notability.regressions(src.name="murray",
+                           date.range="1800_1950",
+                           min.exports=1,
                            langs.to.remove=c("eng"),
-                           add.note="noeng") # For SM
+                           add.note="noeng" # CHANGE
+)

@@ -1,0 +1,24 @@
+Twit.EV margin over Pop+GDPpc: Pop+GDPpc+Twit.EV vs. Pop+GDPpc
+F(1,40) = 0.06, p=0.81
+ N=43 p1=2 p2=3 Rsq1=0.733 Rsq2=0.733 margin=0
+
+Wiki.EV margin over Pop+GDPpc: Pop+GDPpc+Wiki.EV vs. Pop+GDPpc
+F(1,40) = 0.42, p=0.52
+ N=43 p1=2 p2=3 Rsq1=0.733 Rsq2=0.735 margin=0.003
+
+Book.EV margin over Pop+GDPpc: Pop+GDPpc+Book.EV vs. Pop+GDPpc
+F(1,40) = 10.1, p=0
+ N=43 p1=2 p2=3 Rsq1=0.733 Rsq2=0.787 margin=0.054
+
+Pop+GDPpc margin over Twit.EV: Pop+GDPpc+Twit.EV vs. Twit.EV
+F(2,40) = 19.41, p=0
+ N=43 p1=1 p2=3 Rsq1=0.474 Rsq2=0.733 margin=0.259
+
+Pop+GDPpc margin over Wiki.EV: Pop+GDPpc+Wiki.EV vs. Wiki.EV
+F(2,40) = 6.53, p=0
+ N=43 p1=1 p2=3 Rsq1=0.649 Rsq2=0.735 margin=0.086
+
+Pop+GDPpc margin over Book.EV: Pop+GDPpc+Book.EV vs. Book.EV
+F(2,40) = 2.08, p=0.14
+ N=43 p1=1 p2=3 Rsq1=0.764 Rsq2=0.787 margin=0.022
+

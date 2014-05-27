@@ -11,19 +11,19 @@ MIN.TSTAT <- 2.59 #-Inf #2.59 # minimum t-statistic
 # http://stackoverflow.com/questions/7494848/standard-way-to-remove-multiple-elements-from-a-dataframe
 `%notin%` <- function(x,y) !(x %in% y)
 
-get.lgn.metrics <- function(file.in, file.out, file.out2, src.name) {
+get.lgn.metrics <- function(file.in, file.out, file.out2, src.name, is.directed=F) {
   # Table of LGN graph metrics for each language from given source
   # use default minimum values
   filtered.edgelist <- read.filtered.edgelist2(file.in,
                                                weighted.graph=T, # use weighted graph
                                                weight.column="occur")
   
-  lgn.graph <- graph.data.frame(filtered.edgelist, directed=TRUE)
+  lgn.graph <- graph.data.frame(filtered.edgelist, directed=is.directed)
   
   lgn.metrics <- data.frame(
-    total.deg=degree(lgn.graph),
-    bet=betweenness(lgn.graph),
-    eig=evcent(lgn.graph)$vector
+    total.deg=degree(lgn.graph, mode="in"), # arbitrarily chose "in"
+    bet=betweenness(lgn.graph, directed=is.directed),
+    eig=evcent(lgn.graph, directed=is.directed)$vector
   )
   
   # prefix column names. TODO: automate. Watch the order!
@@ -95,6 +95,8 @@ read.filtered.edgelist2 <- function(infile,
 
 # Find centrality measures for each network ---
 # Not needed for May '14 as were loading the pre-calc EV centrality values.
-twitter.metrics <- get.lgn.metrics(TWIT.STD.LANGLANG2, "CentTwitter.tsv", "Shahar_EigTwitterNetwork.tsv", "twit")
-wiki.metrics <- get.lgn.metrics(WIKI.STD.LANGLANG2, "CentWiki.tsv", "Shahar_EigWikiNetwork.tsv", "wiki")
-books.metrics <- get.lgn.metrics(BOOKS.STD.LANGLANG2, "CentBooks.tsv", "Shahar_EigBookNetwork.tsv", "book")
+twitter.metrics <- get.lgn.metrics(TWIT.STD.LANGLANG2, "CentTwitter.tsv", "Shahar_EigTwitterNetwork.tsv", "twit", is.directed=F)
+twitter.metrics <- get.lgn.metrics(TWIT.STD.LANGLANG2, "CentTwitter_direct.tsv", "Shahar_EigTwitterNetwork_direct.tsv", "twit", is.directed=T)
+wiki.metrics <- get.lgn.metrics(WIKI.STD.LANGLANG2, "CentWiki.tsv", "Shahar_EigWikiNetwork.tsv", "wiki", is.directed=F)
+books.metrics <- get.lgn.metrics(BOOKS.STD.LANGLANG2, "CentBooks.tsv", "Shahar_EigBookNetwork.tsv", "book", is.directed=F)
+books.metrics <- get.lgn.metrics(BOOKS.STD.LANGLANG2, "CentBooks_direct.tsv", "Shahar_EigBookNetwork_direct.tsv", "book", is.directed=T)
