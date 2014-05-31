@@ -95,8 +95,6 @@ read.filtered.edgelist2 <- function(infile,
 
 # Find centrality measures for each network ---
 # Not needed for May '14 as were loading the pre-calc EV centrality values.
-twitter.metrics <- get.lgn.metrics(TWIT.STD.LANGLANG2, "CentTwitter.tsv", "Shahar_EigTwitterNetwork.tsv", "twit", is.directed=F)
-twitter.metrics <- get.lgn.metrics(TWIT.STD.LANGLANG2, "CentTwitter_direct.tsv", "Shahar_EigTwitterNetwork_direct.tsv", "twit", is.directed=T)
-wiki.metrics <- get.lgn.metrics(WIKI.STD.LANGLANG2, "CentWiki.tsv", "Shahar_EigWikiNetwork.tsv", "wiki", is.directed=F)
-books.metrics <- get.lgn.metrics(BOOKS.STD.LANGLANG2, "CentBooks.tsv", "Shahar_EigBookNetwork.tsv", "book", is.directed=F)
-books.metrics <- get.lgn.metrics(BOOKS.STD.LANGLANG2, "CentBooks_direct.tsv", "Shahar_EigBookNetwork_direct.tsv", "book", is.directed=T)
+twitter.metrics <- get.lgn.metrics(TWIT.STD.LANGLANG2, "CentTwitter_EigBet_Directed.tsv", "Shahar_EigBetTwitterNetwork_direct.tsv", "twit", is.directed=T)
+wiki.metrics <- get.lgn.metrics(WIKI.STD.LANGLANG2, "CentWiki_EigBet_Directed.tsv", "Shahar_EigBetWikiNetwork.tsv", "wiki", is.directed=T)
+books.metrics <- get.lgn.metrics(BOOKS.STD.LANGLANG2, "CentBooks_EigBet_Directed.tsv", "Shahar_EigBetBookNetwork_direct.tsv", "book", is.directed=T)

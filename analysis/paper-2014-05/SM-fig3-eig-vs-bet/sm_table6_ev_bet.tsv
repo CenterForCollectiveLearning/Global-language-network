@@ -1,0 +1,286 @@
+Code	Language	Twitter EV	Wikipedia EV	Books EV	Twitter Bet	Wikipedia Bet	Books Bet
+abk	Abkhazian	NA	NA	6.923e-05	NA	NA	0
+abq	Abaza	NA	NA	5.22e-06	NA	NA	0
+ady	Adyghe	NA	NA	4.637e-05	NA	NA	0
+afr	Afrikaans	0.01171827	0.00223104	0.00086109	0	0	579
+akk	Akkadian	NA	NA	0.00021226	NA	NA	0
+alt	Southern Altai	NA	NA	3.135e-05	NA	NA	0
+amh	Amharic	5.1e-06	0.0002177	0	0	0	0
+ang	Old English (ca. 450-1100)	NA	0.00039652	0.00060256	NA	0	0
+ara	Arabic	0.05422551	0.03207688	0.01588606	0	0	1598
+arc	Official Aramaic (700-300 BCE)	NA	NA	0.00113664	NA	NA	0
+arg	Aragonese	NA	0.00021357	0	NA	0	0
+asm	Assamese	NA	0.00024102	0.00023965	NA	0	389
+ast	Asturian	NA	0.00036611	3.191e-05	NA	0	0
+ava	Avaric	NA	NA	8.817e-05	NA	NA	0
+aze	Azerbaijani	0.00026921	0.00301522	0.00028409	586	0	0
+bak	Bashkir	NA	NA	0.00018743	NA	NA	0
+bam	Bambara	NA	NA	5.66e-05	NA	NA	0
+bar	Bavarian	NA	0.00193201	NA	NA	0	NA
+bdm	Buduma	NA	NA	2.943e-05	NA	NA	0
+beh	Biali	NA	NA	0	NA	NA	0
+bel	Belarusian	2.02e-06	0.00127629	0.00046173	0	0	244
+ben	Bengali	5.05e-05	0.0039574	0.00334541	0	0	1280
+bik	Bikol	NA	0.00011662	NA	NA	0	NA
+bod	Tibetan	3.2e-07	NA	0.00356449	0	NA	62
+box	Buamu	NA	NA	0	NA	NA	0
+bre	Breton	NA	0.00103388	0.00033737	NA	1368	10475
+bua	Buriat	NA	NA	7.249e-05	NA	NA	0
+bul	Bulgarian	0.00028475	0.01627752	0.00371912	0	34	0
+cat	Catalan	0.010975	0.02784782	0.00949586	0	0	1538
+ceb	Cebuano	NA	0.00034209	NA	NA	0	NA
+ces	Czech	0.01293374	0.03311951	0.02775867	0	0	0
+che	Chechen	NA	NA	4.049e-05	NA	NA	0
+chm	Mari (Russia)	NA	NA	6.335e-05	NA	NA	0
+chp	Chipewyan	NA	NA	0.00012325	NA	NA	0
+chr	Cherokee	6.02e-06	NA	NA	0	NA	NA
+chu	Church Slavic	NA	NA	5.34e-06	NA	NA	0
+chv	Chuvash	NA	6.438e-05	0.00011037	NA	0	0
+ckt	Chukot	NA	NA	1.241e-05	NA	NA	0
+cme	Cerma	NA	NA	0	NA	NA	0
+cop	Coptic	NA	NA	0.00040399	NA	NA	0
+cor	Cornish	NA	0.00017882	5.478e-05	NA	0	0
+cos	Corsican	NA	8.366e-05	9.962e-05	NA	0	0
+cre	Cree	NA	NA	0.00046563	NA	NA	0
+crh	Crimean Tatar	NA	NA	1.176e-05	NA	NA	0
+csb	Kashubian	NA	3.54e-05	NA	NA	0	NA
+cym	Welsh	0.00038081	0.00212253	0.00334156	0	0	10390
+dak	Dakota	NA	NA	4.108e-05	NA	NA	172
+dan	Danish	0.00467135	0.03408103	0.03020216	268	0	1219
+dar	Dargwa	NA	NA	3.984e-05	NA	NA	0
+deu	German	0.01711333	0.4787209	0.26334749	32	4144	11331
+div	Dhivehi	1.564e-05	NA	NA	1858	NA	NA
+djj	Djeebbana	NA	NA	0.00012325	NA	NA	0
+djk	Eastern Maroon Creole	NA	NA	7.24e-06	NA	NA	0
+dlg	Dolgan	NA	NA	7.18e-06	NA	NA	0
+dos	Dogosé	NA	NA	0	NA	NA	0
+dum	Middle Dutch (ca. 1050-1350)	NA	NA	0.00011357	NA	NA	0
+dyo	Jola-Fonyi	NA	NA	0	NA	NA	0
+egy	Egyptian (Ancient)	NA	NA	0.00036975	NA	NA	0
+ell	Modern Greek (1453-)	0.0061217	0.01877043	0.01143029	0	0	205
+eml	Emiliano-Romagnolo	NA	0.00027622	NA	NA	1940	NA
+eng	English	0.69329476	0.65929841	0.89803531	3051	15782	17006
+enm	Middle English (1100-1500)	NA	NA	0.00102024	NA	NA	0
+epo	Esperanto	NA	0.00827705	0	NA	0	0
+est	Estonian	0.00044706	0.00663579	0.01322228	0	0	2879
+eus	Basque	0.00061809	0.0031492	0.00108321	0	0	1273
+eve	Even	NA	NA	0	NA	NA	0
+evn	Evenki	NA	NA	1.176e-05	NA	NA	0
+fao	Faroese	NA	0.00041207	9.67e-06	NA	0	970
+fas	Persian	0.00042093	0.02186386	0.0043465	242	526	90
+fil	Filipino (macrolanguage)	0.13316405	0.00375525	0.00045877	136	0	0
+fin	Finnish	0.00138618	0.04780708	0.01160693	0	0	2762
+flr	Fuliiru	NA	NA	0	NA	NA	0
+fra	French	0.03696668	0.33783444	0.29695532	76	1338	17924
+fri	Western Frisian	NA	NA	3.076e-05	NA	NA	0
+frm	Middle French (ca. 1400-1600)	NA	NA	0.00075791	NA	NA	0
+fro	Old French (842-ca. 1400)	NA	NA	0.00189681	NA	NA	142
+fry	Western Frisian	NA	0.00016223	NA	NA	0	NA
+ful	Fulah	NA	NA	3.849e-05	NA	NA	0
+fur	Friulian	NA	7.408e-05	NA	NA	0	NA
+gag	Gagauz	NA	NA	7.18e-06	NA	NA	0
+gcf	Guadeloupean Creole French	NA	NA	0.00024756	NA	NA	772
+gcr	Guianese Creole French	NA	NA	3.623e-05	NA	NA	0
+gez	Geez	NA	NA	5.478e-05	NA	NA	0
+gla	Scottish Gaelic	NA	0.00046649	0.0002602	NA	0	0
+gld	Nanai	NA	NA	1.11e-05	NA	NA	0
+gle	Irish	0.00015056	0.00195926	0.00082199	0	0	0
+glg	Galician	0.00486003	0.00433051	0.0014028	0	254	111
+glk	Gilaki	NA	1.16e-05	NA	NA	0	NA
+gmh	Middle High German (ca. 1050-1500)	NA	NA	0.00120464	NA	NA	0
+gng	Ngangam	NA	NA	0	NA	NA	0
+goh	Old High German (ca. 750-1050)	NA	NA	3.012e-05	NA	NA	0
+grc	Ancient Greek (to 1453)	NA	NA	0.02250273	NA	NA	0
+grn	Guarani	NA	9.153e-05	NA	NA	0	NA
+gsc	Gascon	NA	NA	2.491e-05	NA	NA	0
+gsw	Swiss German	NA	NA	3.414e-05	NA	NA	0
+guj	Gujarati	1.929e-05	0.00090966	0.00048148	0	0	801
+hat	Haitian	0.00095278	NA	7.532e-05	58	NA	0
+hau	Hausa	NA	NA	4.108e-05	NA	NA	2070
+haw	Hawaiian	NA	NA	0.0001164	NA	NA	0
+hbs	Serbo-Croatian	0.003212	0.03030069	0.02696108	950	64	1482
+heb	Hebrew	0.00072731	0.03049572	0.02361634	440	10	403
+hif	Fiji Hindi	NA	0.00024102	NA	NA	0	NA
+hin	Hindi	0.00043965	0.00575338	0.00247332	0	0	641
+hit	Hittite	NA	NA	4.108e-05	NA	NA	0
+hmn	Hmong	NA	NA	3.424e-05	NA	NA	0
+hni	Hani	NA	NA	0	NA	NA	0
+hns	Caribbean Hindustani	NA	NA	6.64e-06	NA	NA	0
+hop	Hopi	NA	NA	0.00010271	NA	NA	0
+hun	Hungarian	0.00121054	0.03845013	0.02802628	0	158	370
+hye	Armenian	4.319e-05	0.00172884	0.00149675	1656	0	0
+ido	Ido	NA	0.00032654	NA	NA	0	NA
+ife	Ifè	NA	NA	0	NA	NA	0
+iii	Sichuan Yi	NA	NA	0	NA	NA	0
+iku	Inuktitut	NA	NA	0.00013131	NA	NA	0
+ina	Interlingua (International Auxiliary Language Association)	NA	0.00044317	NA	NA	0	NA
+inh	Ingush	NA	NA	2.939e-05	NA	NA	0
+isl	Icelandic	0.00015844	0.00390985	0.00208855	0	0	1778
+ita	Italian	0.02517954	0.15703838	0.09374308	0	1828	637
+jav	Javanese	NA	0.00061884	NA	NA	0	NA
+jpn	Japanese	0.04418507	0.12399229	0.04398496	2465	802	3369
+jvn	Caribbean Javanese	NA	NA	2.71e-06	NA	NA	0
+kaa	Kara-Kalpak	NA	NA	6.204e-05	NA	NA	0
+kab	Kabyle	NA	0.00011155	8.604e-05	NA	0	0
+kac	Kachin	NA	NA	0	NA	NA	0
+kal	Kalaallisut	NA	0.00010885	1.451e-05	NA	0	0
+kan	Kannada	3.62e-05	0.00195926	0.00066418	0	0	0
+kas	Kashmiri	NA	4.665e-05	4.108e-05	NA	0	0
+kat	Georgian	0.00010531	0.00239351	0.00043495	0	0	0
+kaz	Kazakh	NA	0.000961	0.00043691	NA	1624	0
+kbd	Kabardian	NA	NA	6.661e-05	NA	NA	0
+kca	Khanty	NA	NA	1.045e-05	NA	NA	0
+khm	Central Khmer	1.112e-05	0.00043539	8.217e-05	0	0	0
+kik	Kikuyu	NA	NA	6.847e-05	NA	NA	0
+kin	Kinyarwanda	NA	5.442e-05	NA	NA	0	NA
+kir	Kirghiz	NA	4.829e-05	0.00023903	NA	0	0
+kjh	Khakas	NA	NA	1.698e-05	NA	NA	0
+kom	Komi	NA	NA	5.747e-05	NA	NA	0
+kor	Korean	0.02250541	0.02475757	0.00309892	136	0	0
+krc	Karachay-Balkar	NA	NA	7.706e-05	NA	NA	0
+krl	Karelian	NA	NA	1.11e-05	NA	NA	0
+ksh	Kölsch	NA	0.0003105	NA	NA	0	NA
+kum	Kumyk	NA	NA	2.416e-05	NA	NA	0
+kur	Kurdish	NA	0.00105145	0	NA	440	0
+kzr	Karang	NA	NA	0	NA	NA	0
+lad	Ladino	NA	NA	8.217e-05	NA	NA	0
+lao	Lao	2.586e-05	0.00016327	6.847e-05	0	0	0
+las	Lama (Togo)	NA	NA	0	NA	NA	0
+lat	Latin	NA	0.00785178	0.03404642	NA	0	72
+lav	Latvian	0.00234029	0.00346512	0.00035201	0	0	9378
+lbe	Lak	NA	NA	2.22e-05	NA	NA	0
+lez	Lezghian	NA	NA	2.09e-05	NA	NA	0
+lhu	Lahu	NA	NA	0	NA	NA	0
+lij	Ligurian	NA	5.37e-05	NA	NA	0	NA
+lim	Limburgan	NA	0.0004847	NA	NA	0	NA
+lin	Lingala	NA	NA	2.943e-05	NA	NA	0
+lis	Lisu	NA	NA	0	NA	NA	0
+lit	Lithuanian	0.0002094	0.0075504	0.00322933	0	0	491
+lmo	Lombard	NA	0.00047653	NA	NA	0	NA
+ltz	Luxembourgish	NA	0.00235924	NA	NA	0	NA
+mal	Malayalam	6.717e-05	0.0051936	0.00071301	0	0	273
+mar	Marathi	NA	0.00204478	0.00086517	NA	0	0
+mdf	Moksha	NA	NA	5.747e-05	NA	NA	0
+mga	Middle Irish (900-1200)	NA	NA	6.163e-05	NA	NA	0
+mif	Mofu-Gudur	NA	NA	0	NA	NA	0
+mkd	Macedonian	0.00017164	0.0031274	0.00171642	136	188	4
+mlg	Malagasy	NA	NA	5.208e-05	NA	NA	3039
+mlt	Maltese	0.00060428	0.00060644	7.532e-05	0	0	0
+mol	Moldavian	NA	0.00011662	0.00570555	NA	0	0
+mon	Mongolian	NA	0.00069974	4.245e-05	NA	0	0
+mri	Maori	NA	NA	0.00034236	NA	NA	0
+msa	Malay (macrolanguage)	0.48559568	0.02524643	0.00131467	122	864	1183
+muy	Muyang	NA	NA	0	NA	NA	0
+mya	Burmese	1.297e-05	0.00041984	9.06e-06	0	0	3379
+myv	Erzya	NA	NA	3.788e-05	NA	NA	0
+mzn	Mazanderani	NA	0.00012852	NA	NA	780	NA
+nap	Neapolitan	NA	0.00039139	NA	NA	0	NA
+nav	Navajo	NA	0.00010107	5.478e-05	NA	0	0
+nbf	Naxi	NA	NA	0	NA	NA	0
+nci	Classical Nahuatl	NA	NA	0.00019172	NA	NA	0
+nds	Low German	NA	0.0013855	NA	NA	0	NA
+nep	Nepali (macrolanguage)	NA	0.00060644	8.217e-05	NA	0	307
+nep	Nepali macrolanguage	NA	0.00060644	8.217e-05	NA	0	307
+new	Newari	NA	NA	0	NA	NA	0
+nld	Dutch	0.10582998	0.13486947	0.03955701	268	530	1414
+nnh	Ngiemboon	NA	NA	0	NA	NA	0
+nog	Nogai	NA	NA	1.176e-05	NA	NA	0
+non	Old Norse	NA	NA	0.00028642	NA	NA	0
+nor	Norwegian	0.00436981	0.06036022	0.0106394	136	28	2755
+nrm	Narom	NA	3.984e-05	NA	NA	0	NA
+oci	Occitan (post 1500)	NA	0.00029083	0.00095096	NA	0	0
+oji	Ojibwa	NA	NA	6.163e-05	NA	NA	0
+ojp	Old Japanese	NA	NA	8.49e-06	NA	NA	0
+ori	Oriya (macrolanguage)	NA	0.00025657	0.00047401	NA	0	323
+ori	Oriya macrolanguage	NA	0.00025657	0.00047401	NA	0	323
+orv	Old Russian	NA	NA	6.727e-05	NA	NA	0
+oss	Ossetian	NA	NA	8.882e-05	NA	NA	0
+ota	Ottoman Turkish (1500-1928)	NA	NA	4.793e-05	NA	NA	0
+pal	Pahlavi	NA	NA	4.108e-05	NA	NA	0
+pam	Pampanga	NA	9.33e-05	NA	NA	0	NA
+pan	Panjabi	7.664e-05	0.00031099	0.00085128	0	0	0
+pap	Papiamento	NA	0.00019437	NA	NA	0	NA
+pcd	Picard	NA	NA	4.076e-05	NA	NA	0
+pdc	Pennsylvania German	NA	0.00024018	NA	NA	3960	NA
+pli	Pali	NA	NA	0.00080113	NA	NA	0
+pol	Polish	0.00234695	0.0938191	0.02271051	0	796	546
+por	Portuguese	0.35208674	0.10986822	0.02105229	628	0	0
+pro	Old Provençal (to 1500)	NA	NA	0.00018114	NA	NA	0
+pus	Pushto	NA	0.00013217	0	NA	0	0
+que	Quechua	NA	0.00034272	0	NA	1218	0
+raj	Rajasthani	NA	NA	5.478e-05	NA	NA	0
+rcf	Réunion Creole French	NA	NA	7.245e-05	NA	NA	0
+rmu	Tavringer Romani	NA	NA	0	NA	NA	0
+roh	Romansh	NA	0.00030441	0.00010843	NA	0	0
+rom	Romany	NA	NA	0	NA	NA	0
+ron	Romanian	0.00157288	0.02808689	0.01328133	0	0	1241
+rop	Kriol	NA	NA	4.108e-05	NA	NA	0
+rup	Macedo-Romanian	NA	0.00014772	NA	NA	0	NA
+rus	Russian	0.01401232	0.1516584	0.08565274	1902	1864	21213
+sah	Yakut	NA	3.935e-05	8.882e-05	NA	0	0
+san	Sanskrit	NA	0.00062976	0.00815953	NA	0	610
+scn	Sicilian	NA	0.00071389	NA	NA	0	NA
+sco	Scots	NA	0.00107293	8.901e-05	NA	0	0
+sga	Old Irish (to 900)	NA	NA	6.163e-05	NA	NA	0
+sin	Sinhala	6.856e-05	0.00155497	0.00015749	0	0	0
+slk	Slovak	0.00134281	0.01036716	0.00325322	120	1004	424
+slv	Slovenian	0.0004879	0.00987944	0.00428489	0	20	1302
+sma	Southern Sami	NA	NA	0	NA	NA	0
+sme	Northern Sami	NA	NA	3.41e-06	NA	NA	2680
+smj	Lule Sami	NA	NA	0	NA	NA	0
+smn	Inari Sami	NA	NA	0	NA	NA	0
+snd	Sindhi	NA	NA	9.586e-05	NA	NA	0
+som	Somali	NA	0.00046649	7.532e-05	NA	0	377
+spa	Spanish	0.34811446	0.28746349	0.08539987	594	982	1531
+sqi	Albanian	0.00259932	0.00688492	0.00260489	0	0	559
+srd	Sardinian	NA	7.963e-05	NA	NA	0	NA
+srm	Saramaccan	NA	NA	7.54e-06	NA	NA	0
+srn	Sranan Tongo	NA	NA	1.025e-05	NA	NA	0
+ssw	Swati	NA	NA	0	NA	NA	0
+sun	Sundanese	NA	0.00037938	NA	NA	1088	NA
+sux	Sumerian	NA	NA	0.00016433	NA	NA	0
+swa	Swahili (macrolanguage)	0.00285522	0.00069974	8.901e-05	28	0	0
+swe	Swedish	0.00728292	0.0927484	0.03363697	0	56	640
+syr	Syriac	NA	NA	0.00047246	NA	NA	0
+szl	Silesian	NA	4.315e-05	NA	NA	0	NA
+tab	Tabassaran	NA	NA	8.49e-06	NA	NA	0
+tam	Tamil	0.00043373	0.00445498	0.00165045	0	0	1
+tat	Tatar	NA	6.081e-05	0.00022792	NA	0	0
+tbt	Tembo (Kitembo)	NA	NA	2.717e-05	NA	NA	0
+ted	Tepo Krumen	NA	NA	0	NA	NA	0
+tel	Telugu	3.36e-05	0.00285337	0.00050067	0	0	91
+tgk	Tajik	NA	NA	0.00018351	NA	NA	0
+tha	Thai	0.0183352	0.01166767	0.00030757	0	0	0
+thd	Thayore	NA	NA	0	NA	NA	0
+tiz	Tai Hongjin	NA	NA	0	NA	NA	0
+tkl	Tokelau	NA	NA	0.00010271	NA	NA	0
+tmh	Tamashek	NA	NA	4.755e-05	NA	NA	0
+tpi	Tok Pisin	NA	0.00016327	NA	NA	0	NA
+tuk	Turkmen	NA	NA	0.00016915	NA	NA	0
+tur	Turkish	0.02408795	0.0451629	0.00340584	504	222	9669
+tyv	Tuvinian	NA	NA	3.004e-05	NA	NA	0
+tzm	Central Atlas Tamazight	NA	NA	9.736e-05	NA	NA	0
+udm	Udmurt	NA	NA	5.747e-05	NA	NA	0
+uig	Uighur	NA	NA	2.155e-05	NA	NA	185
+ukr	Ukrainian	1.951e-05	0.01974593	0.00352934	0	0	105
+urd	Urdu	0.00022531	0.00157829	0.00212528	226	0	1203
+uzb	Uzbek	NA	NA	0.00033829	NA	NA	0
+vec	Venetian	NA	0.00018149	NA	NA	0	NA
+vie	Vietnamese	0.00204518	0.01183458	0.00142575	0	268	0
+vls	Vlaams	NA	0.00043929	NA	NA	762	NA
+wbm	Wa	NA	NA	0	NA	NA	0
+wbp	Warlpiri	NA	NA	0.00010271	NA	NA	0
+wln	Walloon	NA	NA	0	NA	NA	0
+wol	Wolof	NA	NA	0	NA	NA	0
+xal	Kalmyk	NA	NA	8.882e-05	NA	NA	0
+xho	Xhosa	NA	NA	0	NA	NA	0
+xno	Anglo-Norman	NA	NA	5.478e-05	NA	NA	0
+xsm	Kasem	NA	NA	0	NA	NA	0
+yid	Yiddish	1.112e-05	0.00049499	0.00334887	0	252	169
+yiz	Azhe	NA	NA	0	NA	NA	0
+ykg	Northern Yukaghir	NA	NA	1.045e-05	NA	NA	0
+yor	Yoruba	NA	NA	9.586e-05	NA	NA	0
+yrk	Nenets	NA	NA	2.155e-05	NA	NA	0
+zha	Zhuang	NA	NA	0	NA	NA	0
+zho	Chinese	0.00453649	0.09375027	0.01396375	264	8	2793
+zul	Zulu	NA	6.997e-05	7.532e-05	NA	0	0
