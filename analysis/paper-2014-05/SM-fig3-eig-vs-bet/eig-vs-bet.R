@@ -13,7 +13,7 @@ prep.source.table <- function(eig.infile, bet.infile, src.name) {
   print("*****")
   print(src.name)
   print("*****")
-  print(summary(lm(log10(eig) ~ log10(bet), data=src.metrics)))
+  print(summary(lm(eig ~ bet, data=src.metrics)))
   
   return(src.metrics)
 }
