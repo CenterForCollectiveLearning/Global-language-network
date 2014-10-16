@@ -324,16 +324,25 @@ regression.table.multi.source <- function(reg.metrics,
 #     "Book.PopFrom margin over Pop+GDPpc+Book.EV: Pop+GDPpc+Book.EV+Book.PopFrom vs. Pop+GDPpc+Book.EV", my.ftest(lm7, lm16)
 )
   
+  ### Report results of Clarke tests for non-nested models
+  clarke.results <- c(
+    "GDP+Pop vs. Twit.EV:", clarke(lm1, lm2, level=0.01, digits=2),
+    "GDP+Pop vs. Wiki.EV:", clarke(lm1, lm3, level=0.01, digits=2),
+    "GDP+Pop vs. Book.EV:", clarke(lm1, lm4, level=0.01, digits=2)
+  )
+
   if (outfile!="") {
     # Write to files
     write.mtable( mtable123, paste(outfile, "all", "EV",
                                    ".txt", sep="_") )
     write(ftests.results, "ftests_results.txt", sep="\n")
+    write(clarke.results, "clarke_results.txt", sep="\n")
   }
   else {
     # Print to screen
     print(mtable123)
     print(ftests.results)
+    print(clarke.results)
   }
   
   return(reg.metrics)
