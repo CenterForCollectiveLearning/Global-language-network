@@ -1,0 +1,33 @@
+GDP+Pop vs. Twit.EV:
+
+Clarke test for non-nested models
+
+Model 1 log-likelihood: -13
+Model 2 log-likelihood: -23
+Observations: 28
+Test statistic: 22 (79%)
+
+Model 1 is preferred (p = 0.0037)
+
+GDP+Pop vs. Wiki.EV:
+
+Clarke test for non-nested models
+
+Model 1 log-likelihood: -13
+Model 2 log-likelihood: -10
+Observations: 28
+Test statistic: 6 (21%)
+
+Model 2 is preferred (p = 0.0037)
+
+GDP+Pop vs. Book.EV:
+
+Clarke test for non-nested models
+
+Model 1 log-likelihood: -13
+Model 2 log-likelihood: -3
+Observations: 28
+Test statistic: 7 (25%)
+
+Neither model is significantly preferred (p = 0.013)
+

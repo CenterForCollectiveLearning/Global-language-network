@@ -47,6 +47,7 @@ COUNTRY.CODE.CONV.FILE <- file.path(DATA.ROOT.DIR, "lang_demog/country_codes.tsv
 CULT.PRODUCTION.DIR <- file.path(DATA.ROOT.DIR, "cultural_production")
 MURRAY.PRODUCTION.DIR <- file.path(CULT.PRODUCTION.DIR, "murray/2013-10")
 WIKI.PRODUCTION.DIR <- file.path(CULT.PRODUCTION.DIR, "wikipedia/2013-10")
+NOBEL.PRODUCTION.DIR <- file.path(CULT.PRODUCTION.DIR, "nobel")
 
 # Replace with {1} date range ("all"/"1800_1950") {2} "country"/"language"
 MURRAY.FILE.NAME <- file.path(MURRAY.PRODUCTION.DIR,
@@ -58,6 +59,10 @@ MURRAY.FILE.NAME <- file.path(MURRAY.PRODUCTION.DIR,
 WIKI.FILE.NAME <- file.path(WIKI.PRODUCTION.DIR,
                             "wiki_observ_langs26_%s_%s_exports.tsv") # L>=26
                             # "wiki_4crit_langs20_%s_%s_exports.tsv") # L>=20
+
+# Replace with {1} date range ("all"/"1800_1950") {3} "country"/"language"
+NOBEL.FILE.NAME <- file.path(NOBEL.PRODUCTION.DIR,
+                            "nobel_observ_%s_%s_exports.tsv")
 
 # GENERAL SETTINGS
 LOG.SMOOTH.ADD <- 1e-32 # Value to add to number for preventing log(0)

@@ -33,6 +33,9 @@ WIKI_LANG_OUTPUT_PATH = "wikipedia/2013-10/wiki_observ_langs26_{0}_language_expo
 MURRAY_COUNTRY_INPUT_PATH = "murray/2013-10/HA_unique_countries_resolved_{0}_country_exports.tsv"
 MURRAY_LANG_OUTPUT_PATH = "murray/2013-10/HA_unique_countries_resolved_{0}_language_exports.tsv"
 
+NOBEL_COUNTRY_INPUT_PATH = "nobel/nobel_observ_{0}_country_exports.tsv"
+NOBEL_LANG_OUTPUT_PATH = "nobel/nobel_observ_{0}_language_exports.tsv"
+
 
 def convert_country_data(country_data):
     'Converting country data to language data'
@@ -88,12 +91,17 @@ def write_lang_exports_table(infile, outfile):
 if __name__ == '__main__':
     # Convert countries to languages:
     for year in ["all", "1800_1950"]:
-        write_lang_exports_table(
-            WIKI_COUNTRY_INPUT_PATH.format(year), 
-            WIKI_LANG_OUTPUT_PATH.format(year)
+         write_lang_exports_table(
+            NOBEL_COUNTRY_INPUT_PATH.format(year), 
+            NOBEL_LANG_OUTPUT_PATH.format(year)
             )
 
-        write_lang_exports_table(
-            MURRAY_COUNTRY_INPUT_PATH.format(year),
-            MURRAY_LANG_OUTPUT_PATH.format(year)
-            )
+        # write_lang_exports_table(
+        #     WIKI_COUNTRY_INPUT_PATH.format(year), 
+        #     WIKI_LANG_OUTPUT_PATH.format(year)
+        #     )
+
+        # write_lang_exports_table(
+        #     MURRAY_COUNTRY_INPUT_PATH.format(year),
+        #     MURRAY_LANG_OUTPUT_PATH.format(year)
+        #     )
