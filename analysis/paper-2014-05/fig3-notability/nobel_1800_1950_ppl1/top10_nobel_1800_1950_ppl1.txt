@@ -1,14 +1,14 @@
 cultexp
-eng	466.258
-deu	329.912
-fra	255.743
-rus	118
-spa	63.012
-ita	60.144
-jpn	57
-nld	47.2
-ces	26.712
-zho	22.163
+eng	323.955
+deu	105.294
+fra	65.509
+spa	45.701
+rus	31.401
+swe	28.165
+pol	24.618
+nld	22.4
+ita	20.2
+jpn	18
 twit.eig
 eng	0.69329476
 por	0.35208674
@@ -19,7 +19,7 @@ jpn	0.04418507
 fra	0.03696668
 ita	0.02517954
 tur	0.02408795
-deu	0.01711333
+kor	0.02250541
 wiki.eig
 eng	0.65929841
 deu	0.4787209
@@ -43,14 +43,14 @@ nld	0.03955701
 swe	0.03363697
 dan	0.03020216
 country_code	total_exports
-US	272
-DE	267
-FR	236
-GB	230
-RU	118
-IT	58
-JP	57
-AT	48
-CH	32
-NL	31
-CZ	28
+US	247
+GB	92
+DE	80
+FR	53
+SE	28
+RU	27
+PL	25
+IT	19
+JP	18
+AT	17
+NL	17

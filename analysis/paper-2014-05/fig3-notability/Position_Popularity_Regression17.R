@@ -365,9 +365,14 @@ run.notability.regressions <- function(src.name, # "wiki" / "murray"
   if (src.name=="wiki") {
     filename.template <- WIKI.FILE.NAME
   }
-  else {
-    # src.name="murray"
+  else if (src.name=="nobel") {
+    filename.template <- NOBEL.FILE.NAME
+    }
+  else if (src.name=="murray") {
     filename.template <- MURRAY.FILE.NAME
+  }
+  else {
+    stop(sprintf("ERROR - unknown source: %s", src.name))
   }
   
   # Find the appropriate files
@@ -515,17 +520,17 @@ run.notability.regressions <- function(src.name, # "wiki" / "murray"
 # )
                            
 run.notability.regressions(src.name="nobel",
-                          date.range="all",
+                          date.range="1800_1950",
                           min.exports=0,
                           add.note="" # CHANGE
   )
 run.notability.regressions(src.name="nobel",
-                          date.range="all",
+                          date.range="1800_1950",
                           min.exports=1,
                           add.note="" # CHANGE
   )
 run.notability.regressions(src.name="nobel",
-                          date.range="all",
+                          date.range="1800_1950",
                           min.exports=1,
                           langs.to.remove=c("eng"),
                           add.note="noeng" # CHANGE
