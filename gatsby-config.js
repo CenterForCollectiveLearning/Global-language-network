@@ -9,6 +9,7 @@ module.exports = {
     //     trackingId: "",
     //   },
     // },
+    "gatsby-plugin-sass",
     "gatsby-plugin-react-helmet",
   ],
 };

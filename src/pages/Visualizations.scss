@@ -1,0 +1,16 @@
+button {
+  font-size: 16px;
+  border: none;
+  padding: 5px 10px;
+  box-shadow: none;
+  background-color: #DBDBDB;
+  &.selected {
+    background-color: blue;
+    color: #FFFFFF;
+  }
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
